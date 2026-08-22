@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-22T09:00:20.078278Z",
-  "generatedAtDisplay": "2026-08-22 05:00 AM EDT",
+  "generatedAt": "2026-08-22T14:00:04.026092Z",
+  "generatedAtDisplay": "2026-08-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, Games / criticism. The strongest items in this run are Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial, What are we all playing this weekend?, and ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent, Man leaves young son on Mount Fuji before ascending Japan’s highest peak, and Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last.",
   "mainItems": [
+    {
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "published": "2026-08-22T13:48:23+00:00",
+      "summary": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
+      "published": "2026-08-22T12:25:16+00:00",
+      "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window",
+      "published": "2026-08-22T11:52:17+00:00",
+      "summary": "A new Silent Hill: Townfall gameplay trailer has offered up over 18 minutes of first-look footage while also quietly confirming exactly how long the game's PlayStation 5 exclusivity will last. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "published": "2026-08-22T11:22:32+00:00",
+      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/",
+      "published": "2026-08-22T10:30:00+00:00",
+      "summary": "Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "ICE agent jailed on allegations of breaking into ex-girlfriend’s apartment",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/ice-agent-jailed-louisiana",
+      "published": "2026-08-22T10:00:02+00:00",
+      "summary": "Thomas Bailey, 58, faces charge of unauthorized entry of an inhabited dwelling near Covington, Louisiana A US Immigration and Customs Enforcement ( ICE ) officer was jailed on Friday on allegations of breaking into a woman’s apartment.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "source": "The Guardian US",
@@ -15,66 +75,6 @@
       "summary": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
-    },
-    {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-396",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "For the past ten days or so I've been whinging my way through a chest infection. My partner's been sent out for lemsips, tissues, the blood of a vital youth filled with hopes of a bright future, and chicken soup.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
-      "published": "2026-08-22T05:00:57+00:00",
-      "summary": "As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘My ability to cope was unravelling’: how I navigated ADHD and childbirth – and seven things I learned",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned",
-      "published": "2026-08-22T04:00:53+00:00",
-      "summary": "Neurodivergence can make an already challenging process far trickier — and in the UK support isn’t automatically available. A new book aims to help mothers prepare It’s 7am in a postnatal ward.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump threatens $5bn lawsuit over liberal national guard policy report",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report",
-      "published": "2026-08-21T23:49:39+00:00",
-      "summary": "A report released by thinktank Cap argues the deployment of the national guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "published": "2026-08-21T22:13:34+00:00",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA).",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-      "published": "2026-08-22T05:00:54+00:00",
-      "summary": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
     },
     {
       "title": "For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back",
@@ -87,14 +87,34 @@
       "score": 9
     },
     {
-      "title": "Hawaiʻi Freshmen Failing: Ninth Grade Repeater Rate Among Nation’s Highest",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/hawai%ca%bbi-freshmen-failing-ninth-grade-repeater-rate-among-nations-highest/",
-      "published": "2026-08-21T15:30:00+00:00",
-      "summary": "High school came with more responsibility and less accountability for Josiah Ulukita.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "published": "2026-08-22T11:08:53+00:00",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "Trump’s new attorney general poses a huge threat to abortion rights | Moira Donegan",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights",
+      "published": "2026-08-22T11:00:02+00:00",
+      "summary": "A call revealing Todd Blanche’s plans to crack down on mifepristone lays bare the danger The abortion pill is a miracle.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
+      "published": "2026-08-22T10:00:35+00:00",
+      "summary": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "A battle over 'Italian brainrot' could shape who owns AI art",
@@ -107,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-      "published": "2026-08-21T21:02:04+00:00",
-      "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
       "title": "Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -124,16 +134,6 @@
       "published": "2026-08-21T15:44:24+00:00",
       "summary": "Sometimes, puppets just want to have fun The post Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "Behind the Blog: Early Birthday Reflections",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
-      "published": "2026-08-21T14:54:35+00:00",
-      "summary": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -157,8 +157,8 @@
       "published": "2026-08-21T21:00:24+00:00",
       "summary": "The Supreme Court is allowing President Trump to keep building his White House ballroom.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "IndyCar's Freedom 250 Grand Prix comes to the streets of Washington, D.C",
@@ -804,6 +804,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 29,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }

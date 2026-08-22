@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-22T09:00:20.078278Z
+Generated: 2026-08-22T14:00:04.026092Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, Games / criticism. The strongest items in this run are Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial, What are we all playing this weekend?, and ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent, Man leaves young son on Mount Fuji before ascending Japan’s highest peak, and Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial [10/10]
+### 1. Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Citing "significant increases in memory and storage component costs," in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent.
+
+Link: https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv
+
+### 2. Man leaves young son on Mount Fuji before ascending Japan’s highest peak [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a…
+
+Link: https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan
+
+### 3. Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A new Silent Hill: Townfall gameplay trailer has offered up over 18 minutes of first-look footage while also quietly confirming exactly how long the game's PlayStation 5 exclusivity will last. Read more
+
+Link: https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window
+
+### 4. Putting mice into hibernation causes a major loss of synapses [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Hibernation cuts down on synapses, but mice seem to retain memories anyway.
+
+Link: https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/
+
+### 5. JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.
+
+Link: https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/
+
+### 6. ICE agent jailed on allegations of breaking into ex-girlfriend’s apartment [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Thomas Bailey, 58, faces charge of unauthorized entry of an inhabited dwelling near Covington, Louisiana A US Immigration and Customs Enforcement ( ICE ) officer was jailed on Friday on allegations of breaking into a woman’s apartment.
+
+Link: https://www.theguardian.com/us-news/2026/aug/22/ice-agent-jailed-louisiana
+
+### 7. Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -41,60 +95,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…
 
 Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
-
-### 2. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For the past ten days or so I've been whinging my way through a chest infection. My partner's been sent out for lemsips, tissues, the blood of a vital youth filled with hopes of a bright future, and chicken soup.
-
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-396
-
-### 3. ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs.
-
-Link: https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs
-
-### 4. ‘My ability to cope was unravelling’: how I navigated ADHD and childbirth – and seven things I learned [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Neurodivergence can make an already challenging process far trickier — and in the UK support isn’t automatically available. A new book aims to help mothers prepare It’s 7am in a postnatal ward.
-
-Link: https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned
-
-### 5. Trump threatens $5bn lawsuit over liberal national guard policy report [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-A report released by thinktank Cap argues the deployment of the national guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer…
-
-Link: https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report
-
-### 6. TikTok will pay $400 million to settle DOJ child privacy lawsuit [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA).
-
-Link: https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa
-
-### 7. Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it.
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology
 
 ### 8. For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back [9/10]
 **Source:** The 74  
@@ -105,16 +105,34 @@ When Mississippi overhauled its literacy education in 2013, one of the most cont
 
 Link: https://www.the74million.org/article/for-early-grade-reading-gains-states-look-to-mississippi-and-consider-holding-students-back/
 
-### 9. Hawaiʻi Freshmen Failing: Ninth Grade Repeater Rate Among Nation’s Highest [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Dismantling the Roadless Rule threatens to disrupt wildlife and water in US [8/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-High school came with more responsibility and less accountability for Josiah Ulukita.
+Lands free of roads are under threat from the Trump administration’s proposed rollback.
 
-Link: https://www.the74million.org/article/hawai%ca%bbi-freshmen-failing-ninth-grade-repeater-rate-among-nations-highest/
+Link: https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/
 
-### 10. A battle over 'Italian brainrot' could shape who owns AI art [8/10]
+### 10. Trump’s new attorney general poses a huge threat to abortion rights | Moira Donegan [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+A call revealing Todd Blanche’s plans to crack down on mifepristone lays bare the danger The abortion pill is a miracle.
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights
+
+### 11. Brand Hype Has Existed Since the Bronze Age, Scientists Discover [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.
+
+Link: https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/
+
+### 12. A battle over 'Italian brainrot' could shape who owns AI art [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -123,16 +141,7 @@ A legal battle over what looks like a cartoon stick could help set the rules ove
 
 Link: https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur
 
-### 11. Microsoft and Discord subpoenaed over GTA VI gameplay leaks [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that "infringes copyrights" held for the game, Kotaku reports.
-
-Link: https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed
-
-### 12. Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending [7/10]
+### 13. Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-micros
 Sometimes, puppets just want to have fun The post Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending appeared first on Reactor .
 
 Link: https://reactormag.com/star-trek-strange-new-worlds-puppet-episode-ending-explained/
-
-### 13. Behind the Blog: Early Birthday Reflections [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss our party and panel coming up, and do some light reminiscing.
-
-Link: https://www.404media.co/behind-the-blog-early-birthday-reflections/
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Link: https://www.404media.co/behind-the-blog-early-birthday-reflections/
 
 Link: https://www.youtube.com/watch?v=kyYepbhe1g8
 
-### Supreme Court allows Trump's ballroom construction to continue [8/10]
+### Supreme Court allows Trump's ballroom construction to continue [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Supreme Court is allowing President Trump to keep building his White House ballroom.
