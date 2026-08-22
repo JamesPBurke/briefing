@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-22T05:00:03.291413Z
+Generated: 2026-08-22T09:00:20.078278Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, CS education / AI policy. The strongest items in this run are ‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists, Trump threatens $5bn lawsuit over liberal national guard policy report, and TikTok will pay $400 million to settle DOJ child privacy lawsuit.
+Today's sweep leans toward AI / privacy, Democracy / press freedom, Games / criticism. The strongest items in this run are Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial, What are we all playing this weekend?, and ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists [10/10]
+### 1. Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written…
+In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…
 
-Link: https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong
+Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
 
-### 2. Trump threatens $5bn lawsuit over liberal national guard policy report [10/10]
+### 2. What are we all playing this weekend? [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+For the past ten days or so I've been whinging my way through a chest infection. My partner's been sent out for lemsips, tissues, the blood of a vital youth filled with hopes of a bright future, and chicken soup.
+
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-396
+
+### 3. ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs.
+
+Link: https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs
+
+### 4. ‘My ability to cope was unravelling’: how I navigated ADHD and childbirth – and seven things I learned [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Neurodivergence can make an already challenging process far trickier — and in the UK support isn’t automatically available. A new book aims to help mothers prepare It’s 7am in a postnatal ward.
+
+Link: https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned
+
+### 5. Trump threatens $5bn lawsuit over liberal national guard policy report [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -51,7 +78,7 @@ A report released by thinktank Cap argues the deployment of the national guard f
 
 Link: https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report
 
-### 3. TikTok will pay $400 million to settle DOJ child privacy lawsuit [10/10]
+### 6. TikTok will pay $400 million to settle DOJ child privacy lawsuit [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,16 +87,16 @@ The US Department of Justice announced on Friday that TikTok will pay $400 milli
 
 Link: https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa
 
-### 4. DHS confirms just 185 non-citizens on Nevada voter rolls after claiming there were thousands more [10/10]
+### 7. Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The department told Nevada officials that the 15,903 figure registered was ‘preliminary’ and more than 14,000 names still needed review About a month after alleging Nevada had as many as 16,000 non-citizens on its voter rolls, Department…
+It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it.
 
-Link: https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers
+Link: https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology
 
-### 5. For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back [10/10]
+### 8. For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,43 +105,7 @@ When Mississippi overhauled its literacy education in 2013, one of the most cont
 
 Link: https://www.the74million.org/article/for-early-grade-reading-gains-states-look-to-mississippi-and-consider-holding-students-back/
 
-### 6. It’s Harry and Meghan in Finding Freedom 2: Back in Blighty | Marina Hyde [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hard to fathom exactly why Megxit is over and the self-exiled wonder generators are leaving California.
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california
-
-### 7. When AI designs a drug, who gets the credit? [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform.
-
-Link: https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
-
-### 8. Tesla recalls nearly 3m vehicles in China over door handle safety risks [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to…
-
-Link: https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall
-
-### 9. Indecently cool FPS platformer Cicadamata" is out now - please get yourself down that rabbit hole [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I've already humiliated myself attempting to describe the sensory enormity that is Cicadamata", the new movement shooter from flowergarden with the tricksy title punctuation, so instead of writing additional sentences such as "this game is…
-
-Link: https://www.rockpapershotgun.com/indecently-cool-fps-platformer-cicadamata-is-out-now-please-get-yourself-down-that-rabbit-hole
-
-### 10. Hawaiʻi Freshmen Failing: Ninth Grade Repeater Rate Among Nation’s Highest [9/10]
+### 9. Hawaiʻi Freshmen Failing: Ninth Grade Repeater Rate Among Nation’s Highest [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,14 +114,23 @@ High school came with more responsibility and less accountability for Josiah Ulu
 
 Link: https://www.the74million.org/article/hawai%ca%bbi-freshmen-failing-ninth-grade-repeater-rate-among-nations-highest/
 
-### 11. As USS Lincoln heads home, mental health experts tally the stressors of life at sea [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 10. A battle over 'Italian brainrot' could shape who owns AI art [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.
+A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-Link: https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea
+Link: https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur
+
+### 11. Microsoft and Discord subpoenaed over GTA VI gameplay leaks [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that "infringes copyrights" held for the game, Kotaku reports.
+
+Link: https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed
 
 ### 12. Strange New Worlds Writer Explains Why They Went With the Puppet Episode’s Strange Ending [7/10]
 **Source:** Reactor  
@@ -160,6 +160,60 @@ Link: https://www.404media.co/behind-the-blog-early-birthday-reflections/
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.
 
 Link: https://www.youtube.com/watch?v=kyYepbhe1g8
+
+### Supreme Court allows Trump's ballroom construction to continue [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Supreme Court is allowing President Trump to keep building his White House ballroom.
+
+Link: https://www.youtube.com/watch?v=TPTPSfpjDd4
+
+### IndyCar's Freedom 250 Grand Prix comes to the streets of Washington, D.C [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The National Mall in Washington, D.C., looks a lot different this weekend, as IndyCar prepares to hold a race in the nation's capital as part of the nation’s 250th birthday celebrations.
+
+Link: https://www.youtube.com/watch?v=OUmWYqfHGY8
+
+### South Korea military drills / Pivot to Asia? / USS Lincoln | Sources & Methods [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+This week, President Trump ordered that annual military drills between the U.S. and South Korea be scaled back. He also said he’d like to meet with North Korea’s Kim Jong Un. As Trump closes one door with a key U.S.
+
+Link: https://www.youtube.com/watch?v=1XkaoIzc7sY
+
+### Trump shrugs off voters concerns about AI data centers [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump hosted tech leaders at the White House to discuss U.S. efforts on cryptocurrency and artificial intelligence — technology he says is crucial to creating more jobs and beating China.
+
+Link: https://www.youtube.com/watch?v=JLejXitdCR4
+
+### Border construction paused at Big Bend National Park [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Trump administration is temporarily suspending construction of border-protection measures in Big Bend National Park in Texas. The head of U.S.
+
+Link: https://www.youtube.com/watch?v=kpubIbfbd0Y
+
+### Trump expects Supreme Court to greenlight his ballroom construction project [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump says he doesn’t think the Supreme Court will rule to stop construction of his new White House ballroom.
+
+Link: https://www.youtube.com/watch?v=pLzquQ2m5ek
 
 ### Could Epic Make Its Own "Unreal" Console? [7/10]
 **Creator:** Digital Foundry  
@@ -215,6 +269,78 @@ Link: https://www.youtube.com/watch?v=X0-DFt0Rw7s
 
 Link: https://www.youtube.com/watch?v=Rt8_VcrZn6Q
 
+### Every Game Is an Outrage | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week it's Wolverine that's the target of the outrage machine. It's a repeatable and predictable pattern. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=kcAXba_Uwmc
+
+### Crafting Exciting Adventures w/ Tiger Wizard from Exalted Funeral | RPG Help Desk [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=a4P-eCMYw_A
+
+### We Finally Know What The Duskbloods Is | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=CRIqdv942yg
+
+### Row Row Rho | Adventure Is Nigh! - The Slow Walk Home | Ep. 8 [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=J4UTdHc0O48
+
+### Dark Souls 1 Randomizer: It's Dark Souls, But Different w/ Jack and Jess -- Part 3 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=JSzjpzPMyFM
+
+### The Sinking City 2 Review | Bytesized [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this episode of Bytesized, Jesse Galena reviews The Sinking City 2, developed and published by Frogwares. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=x2MP_--S27o
+
+### Mortal Shell 2 Is the Exact Kind of Sequel I Love to See [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=_lU6MoB0okI
+
+### Alright, Let's See How Palworld Is Doing in 2026 w/ KC and Marty [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
+
+Link: https://www.youtube.com/watch?v=Cw8Hjq3g7cs
+
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -243,6 +369,249 @@ Link: https://www.youtube.com/watch?v=Rt8_VcrZn6Q
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### 𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=lb-haH8xTwE
+
+### GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.
+
+Link: https://www.youtube.com/watch?v=l0pTZqZWs-c
+
+### RAMAYANA - Official Trailer (English) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.
+
+Link: https://www.youtube.com/watch?v=74nF-FWAS6M
+
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+
+Link: https://www.youtube.com/watch?v=gXjurDkYnEM
+
+### literally how you'll feel on the inside watching the full trailer [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+literally how you'll feel on the inside watching the full trailer
+
+Link: https://www.youtube.com/watch?v=MYD6xJOz4B4
+
+### Whalefall | Official Trailer | In Theaters October 16 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.
+
+Link: https://www.youtube.com/watch?v=rN9F6-tbySY
+
+### Club Kid | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=guKEdb_iRXw
+
+### Primetime | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=5fHXyqQOKL8
+
+### Paper Tiger - Official Teaser Trailer - In Theaters November [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
+
+Link: https://www.youtube.com/watch?v=ldCb77jXIsM
+
+### Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
+
+Link: https://www.youtube.com/watch?v=brkTgfdmztk
+
+### The Creep Tapes Season 3 | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
+
+Link: https://www.youtube.com/watch?v=WhKF0fyQreM
+
+### PENNY LANE IS DEAD | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.
+
+Link: https://www.youtube.com/watch?v=R4oEHjWY_CU
+
+### PARASOMNIA | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.
+
+Link: https://www.youtube.com/watch?v=-tYE5KY0dk4
+
+### Insidious: Out Of The Further | Lin Shaye on Insidious [6/10]
+**Source:** Blumhouse  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series
+
+Link: https://www.youtube.com/watch?v=eBQSMnL__Es
+
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
+
+Link: https://www.youtube.com/watch?v=bHehvziDKBI
+
+### Netflix icons 🤝 a new class of talent [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Netflix icons 🤝 a new class of talent Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Zxu4v1qjssg
+
+### SAKAMOTO DAYS: Season 2 | Character Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.
+
+Link: https://www.youtube.com/watch?v=Ld4PMbghy78
+
+### Bass X Machina | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=CWbZBIrEfqI
+
+### LEGO ONE PIECE | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.
+
+Link: https://www.youtube.com/watch?v=5Z8oBbmkgXo
+
+### Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A washed up edgerunner & a killer netrunner in Night City... what could go wrong? A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=SyeHKMfswHk
+
+### Blue Eye Samurai: Season 2 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The second season of the Emmy winning series Blue Eye Samurai returns in January 2027, only on Netflix. Blue Eye Samurai season 1 is now playing, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=3oCx6HcYz9k
+
+### Tyler Perry’s Beauty in Black | Season 2 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Time to catch up and relive all the drama and unforgettable moments from Tyler Perry’s Beauty in Black Season 2 now before Season 3 premieres August 27 only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_NUMnS65nho
+
+### MONSTER: The Lizzie Borden Story | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Hell hath no fury like Lizzie 🪓 Monster: The Lizzie Borden Story coming September 17. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=gYTzF1vna40
+
+### “we just wanted to have a good time, all the time” The final season of OBX is now playing [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+“we just wanted to have a good time, all the time” Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=72qMf7c-shg
+
+### that sounds more like it #outerbanks [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+that sounds more like it #outerbanks Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=ODGZBLW3Qow
+
+### Untold Mr. T: I Pity The Fool | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A retrospective feature documentary about Laurence Tureaud… better known as Mr. T. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Txk5C-452ak
+
+### Jo Koy: Blue in the Face | Sneak Peek | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Filmed in front of a sold out crowd in Stockton, California, Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt special.
+
+Link: https://www.youtube.com/watch?v=UIUITdkLMXs
 
 ### Shrinking — Gaby's Speech to Louis | Season 3 Scene | Apple TV [10/10]
 **Source:** Apple TV  
