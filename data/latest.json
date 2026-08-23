@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-22T18:00:56.237617Z",
-  "generatedAtDisplay": "2026-08-22 02:00 PM EDT",
+  "generatedAt": "2026-08-23T05:00:03.555647Z",
+  "generatedAtDisplay": "2026-08-23 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent, Nebraska school district asks police to stop using shock gloves on students, and Putting mice into hibernation causes a major loss of synapses.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’, Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala, and Nebraska school district asks police to stop using shock gloves on students.",
   "mainItems": [
     {
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "source": "The Verge",
+      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "published": "2026-08-23T03:34:27+00:00",
+      "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against joining new US…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "published": "2026-08-22T17:41:45+00:00",
-      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+      "published": "2026-08-23T01:49:47+00:00",
+      "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,26 +37,6 @@
       "score": 10
     },
     {
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-      "published": "2026-08-22T11:22:32+00:00",
-      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/",
-      "published": "2026-08-22T10:30:00+00:00",
-      "summary": "Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
       "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -57,54 +47,64 @@
       "score": 10
     },
     {
-      "title": "Trump threatens $5bn lawsuit over liberal national guard policy report",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report",
-      "published": "2026-08-21T23:49:39+00:00",
-      "summary": "A report released by thinktank Cap argues the deployment of the national guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "published": "2026-08-21T22:13:34+00:00",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA).",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Degrees of financial distress: How visa cuts; high tuition crush colleges",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5891708/degrees-of-financial-distress-how-visa-cuts-high-tuition-crush-colleges",
-      "published": "2026-08-22T11:43:26+00:00",
-      "summary": "We take a look at how a range of concerns, from the cost of a college degree to visas for foreign students, affecting colleges and universities at the start of this academic year.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator",
+      "published": "2026-08-22T21:52:12+00:00",
+      "summary": "Raising sims aren't a genre I've partaken in, partially because so many of them are geared towards a sort of father, daughter vibe that doesn't quite fit me.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "ICE agent jailed on allegations of breaking into ex-girlfriend’s apartment",
-      "source": "The Guardian US",
+      "title": "Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
+      "published": "2026-08-22T20:34:41+00:00",
+      "summary": "Look, I love a PS1 horror throwback as much as the next whatever Gonzo is , but they don't all have to look like Silent Hill or Resident Evil, do they? There have been some aesthetic divergences in the renewed interest in the pseudo-genre,…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/ice-agent-jailed-louisiana",
-      "published": "2026-08-22T10:00:02+00:00",
-      "summary": "Thomas Bailey, 58, faces charge of unauthorized entry of an inhabited dwelling near Covington, Louisiana A US Immigration and Customs Enforcement ( ICE ) officer was jailed on Friday on allegations of breaking into a woman’s apartment.",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "published": "2026-08-22T17:41:45+00:00",
+      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Indiana residents endure 11th day without power after storms topple power lines",
+      "title": "\"Buying any of our games helps support the studio\": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the-studio-psychonauts-studio-double-fine-are-the-latest-former-xbox-owned-studio-to-get-the-rights-to-their-games-back",
+      "published": "2026-08-22T16:18:43+00:00",
+      "summary": "Earlier this week, South of Midnight developer Compulsion Games shared word that they now own all of the publishing rights to their games , a welcome update in light of the ongoing BDS boycott against Microsoft and Xbox .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/",
+      "published": "2026-08-22T10:30:00+00:00",
+      "summary": "Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
-      "published": "2026-08-22T15:08:38+00:00",
-      "summary": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "published": "2026-08-22T08:00:58+00:00",
+      "summary": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
@@ -117,28 +117,547 @@
       "score": 8
     },
     {
-      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+      "title": "Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-      "published": "2026-08-21T22:16:46+00:00",
-      "summary": "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5940003/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point",
+      "published": "2026-08-22T11:43:30+00:00",
+      "summary": "Robots that resemble human beings – known as humanoids – are on the rise. NPR's Scott Simon talks to Naomi Fitter from Oregon State University about what's driving the advances in the technology.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "source": "The Verge",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-      "published": "2026-08-21T19:44:55+00:00",
-      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg.",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "published": "2026-08-22T11:08:53+00:00",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Feds announce 20% cut in Colorado River water for Arizona, California, Nevada",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FTWyuIG0mQg",
+      "published": "2026-08-22T18:10:39+00:00",
+      "summary": "The federal government is out with a new plan that calls for significant cuts to the amount of Colorado River water flowing to Arizona, California and Nevada. The principal lower basin states will rein in demand by about 20%.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Supreme Court allows Trump's ballroom construction to continue",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=TPTPSfpjDd4",
+      "published": "2026-08-21T21:00:24+00:00",
+      "summary": "The Supreme Court is allowing President Trump to keep building his White House ballroom.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "IndyCar's Freedom 250 Grand Prix comes to the streets of Washington, D.C",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=OUmWYqfHGY8",
+      "published": "2026-08-21T14:30:19+00:00",
+      "summary": "The National Mall in Washington, D.C., looks a lot different this weekend, as IndyCar prepares to hold a race in the nation's capital as part of the nation’s 250th birthday celebrations.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "South Korea military drills / Pivot to Asia? / USS Lincoln | Sources & Methods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1XkaoIzc7sY",
+      "published": "2026-08-20T22:54:39+00:00",
+      "summary": "This week, President Trump ordered that annual military drills between the U.S. and South Korea be scaled back. He also said he’d like to meet with North Korea’s Kim Jong Un. As Trump closes one door with a key U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Trump shrugs off voters concerns about AI data centers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=JLejXitdCR4",
+      "published": "2026-08-20T21:00:30+00:00",
+      "summary": "President Trump hosted tech leaders at the White House to discuss U.S. efforts on cryptocurrency and artificial intelligence — technology he says is crucial to creating more jobs and beating China.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How Did Nintendo Manage To Avoid Switch 1/2 Cross-Gen Game Releases?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=yzm7RB695-U",
+      "published": "2026-08-22T16:00:28+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Latest VR Showcase Showed Incredible Games - Gunman Contracts Standalone + More",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=R9LcPcSE5rU",
+      "published": "2026-08-22T15:00:22+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Could Epic Make Its Own \"Unreal\" Console?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=p41DhQw9Hw8",
+      "published": "2026-08-21T17:00:35+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Project Xodus - Xbox/Game Pass on Linux - Good or Bad News For Microsoft + Windows?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=55nx1s2yayc",
+      "published": "2026-08-21T16:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Can Switch 2 Optimisations Really Fix Oblivion Remastered On PS5/Xbox/PC?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sqfa4e-LLys",
+      "published": "2026-08-20T17:00:07+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Pearl Abyss Confirms Crimson Desert Switch 2 Port - But How Will They Do It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=WUbPIMwFP4E",
+      "published": "2026-08-20T16:00:08+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Row Row Rho | Adventure Is Nigh! - The Slow Walk Home | Ep. 8",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=J4UTdHc0O48",
+      "published": "2026-08-22T16:00:06+00:00",
+      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Every Game Is an Outrage | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kcAXba_Uwmc",
+      "published": "2026-08-21T15:29:20+00:00",
+      "summary": "This week it's Wolverine that's the target of the outrage machine. It's a repeatable and predictable pattern. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Crafting Exciting Adventures w/ Tiger Wizard from Exalted Funeral | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=a4P-eCMYw_A",
+      "published": "2026-08-21T11:16:56+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "We Finally Know What The Duskbloods Is | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=CRIqdv942yg",
+      "published": "2026-08-21T00:55:29+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Dark Souls 1 Randomizer: It's Dark Souls, But Different w/ Jack and Jess -- Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JSzjpzPMyFM",
+      "published": "2026-08-20T19:13:16+00:00",
+      "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Sinking City 2 Review | Bytesized",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=x2MP_--S27o",
+      "published": "2026-08-20T18:00:19+00:00",
+      "summary": "In this episode of Bytesized, Jesse Galena reviews The Sinking City 2, developed and published by Frogwares. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Mortal Shell 2 Is the Exact Kind of Sequel I Love to See",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=_lU6MoB0okI",
+      "published": "2026-08-20T15:00:30+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
+      "published": "2026-08-21T19:12:23+00:00",
+      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | Official Trailer | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=rN9F6-tbySY",
+      "published": "2026-08-19T16:00:24+00:00",
+      "summary": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=brkTgfdmztk",
+      "published": "2026-08-03T21:00:20+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
+      "published": "2026-08-18T15:01:18+00:00",
+      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PENNY LANE IS DEAD | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=R4oEHjWY_CU",
+      "published": "2026-08-14T16:32:20+00:00",
+      "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PARASOMNIA | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-tYE5KY0dk4",
+      "published": "2026-08-10T21:00:59+00:00",
+      "summary": "After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
+      "published": "2026-08-17T21:00:24+00:00",
+      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Netflix icons 🤝 a new class of talent",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Zxu4v1qjssg",
+      "published": "2026-08-21T21:00:00+00:00",
+      "summary": "Netflix icons 🤝 a new class of talent Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SAKAMOTO DAYS: Season 2 | Character Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Ld4PMbghy78",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": "Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bass X Machina | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CWbZBIrEfqI",
+      "published": "2026-08-20T23:30:00+00:00",
+      "summary": "From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LEGO ONE PIECE | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5Z8oBbmkgXo",
+      "published": "2026-08-20T23:20:00+00:00",
+      "summary": "HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SyeHKMfswHk",
+      "published": "2026-08-20T23:15:00+00:00",
+      "summary": "A washed up edgerunner & a killer netrunner in Night City... what could go wrong? A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blue Eye Samurai: Season 2 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3oCx6HcYz9k",
+      "published": "2026-08-20T23:00:00+00:00",
+      "summary": "The second season of the Emmy winning series Blue Eye Samurai returns in January 2027, only on Netflix. Blue Eye Samurai season 1 is now playing, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s Beauty in Black | Season 2 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_NUMnS65nho",
+      "published": "2026-08-20T14:00:00+00:00",
+      "summary": "Time to catch up and relive all the drama and unforgettable moments from Tyler Perry’s Beauty in Black Season 2 now before Season 3 premieres August 27 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MONSTER: The Lizzie Borden Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gYTzF1vna40",
+      "published": "2026-08-20T13:00:01+00:00",
+      "summary": "Hell hath no fury like Lizzie 🪓 Monster: The Lizzie Borden Story coming September 17. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "“we just wanted to have a good time, all the time” The final season of OBX is now playing",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=72qMf7c-shg",
+      "published": "2026-08-20T07:00:00+00:00",
+      "summary": "“we just wanted to have a good time, all the time” Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "that sounds more like it #outerbanks",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ODGZBLW3Qow",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "that sounds more like it #outerbanks Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Mr. T: I Pity The Fool | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Txk5C-452ak",
+      "published": "2026-08-19T15:30:00+00:00",
+      "summary": "A retrospective feature documentary about Laurence Tureaud… better known as Mr. T. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Jo Koy: Blue in the Face | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=UIUITdkLMXs",
+      "published": "2026-08-19T13:30:00+00:00",
+      "summary": "Filmed in front of a sold out crowd in Stockton, California, Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt special.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Shrinking — Gaby's Speech to Louis | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Wdn4zoAagsU",
+      "published": "2026-08-21T17:29:47+00:00",
+      "summary": "Season 3 of the hit comedy is now streaming on Apple TV. Stars Jason Segel, Harrison Ford, Christa Miller, Jessica Williams, Luke Tennie, Michael Urie, Lukita Maxwell, and Ted McGinley. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — 5 Story Time Lessons for Kids | Full Scenes | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xPtQZBvq2d4",
+      "published": "2026-08-21T14:59:46+00:00",
+      "summary": "Gather 'round, it's story time with everyone's favorite panda. Brand new episodes of Stillwater are now streaming on Apple TV. Stillwater Season 5 is now streaming on Apple TV #Stillwater #Scenes #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 18,
+    "trailerCount": 29,
+    "sourceCount": 18
   }
 }
