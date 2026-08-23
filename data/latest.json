@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-23T05:00:03.555647Z",
-  "generatedAtDisplay": "2026-08-23 01:00 AM EDT",
+  "generatedAt": "2026-08-23T09:00:25.887220Z",
+  "generatedAtDisplay": "2026-08-23 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’, Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala, and Nebraska school district asks police to stop using shock gloves on students.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks, The Sunday Papers, and British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition.",
   "mainItems": [
+    {
+      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "published": "2026-08-23T08:00:27+00:00",
+      "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-824",
+      "published": "2026-08-23T08:00:00+00:00",
+      "summary": "Sometimes, Sundays are only for rounding up videogame criticism and journalism.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter",
+      "published": "2026-08-23T05:00:24+00:00",
+      "summary": "Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "published": "2026-08-23T05:00:23+00:00",
+      "summary": "North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
       "source": "The Guardian US",
@@ -17,6 +57,26 @@
       "score": 10
     },
     {
+      "title": "‘The country of my birth has lost its heart’: Miriam Margolyes on how to fix broken Britain",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain",
+      "published": "2026-08-23T05:00:24+00:00",
+      "summary": "At 85, the actor has lived through much political upheaval. But, she writes, today’s hostile times feel like ‘the worst yet’.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "published": "2026-08-23T02:14:52+00:00",
+      "summary": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
       "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -24,27 +84,7 @@
       "published": "2026-08-23T01:49:47+00:00",
       "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nebraska school district asks police to stop using shock gloves on students",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
-      "published": "2026-08-22T14:00:55+00:00",
-      "summary": "Omaha police agreed to stop carrying electric shock gloves in the halls of state’s largest public school district Omaha police recently agreed to stop carrying gloves that can deliver electric shocks to students in the halls of Nebraska ’s…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "published": "2026-08-22T09:00:04+00:00",
-      "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
@@ -57,36 +97,6 @@
       "score": 9
     },
     {
-      "title": "Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
-      "published": "2026-08-22T20:34:41+00:00",
-      "summary": "Look, I love a PS1 horror throwback as much as the next whatever Gonzo is , but they don't all have to look like Silent Hill or Resident Evil, do they? There have been some aesthetic divergences in the renewed interest in the pseudo-genre,…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "published": "2026-08-22T17:41:45+00:00",
-      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "\"Buying any of our games helps support the studio\": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the-studio-psychonauts-studio-double-fine-are-the-latest-former-xbox-owned-studio-to-get-the-rights-to-their-games-back",
-      "published": "2026-08-22T16:18:43+00:00",
-      "summary": "Earlier this week, South of Midnight developer Compulsion Games shared word that they now own all of the publishing rights to their games , a welcome update in light of the ongoing BDS boycott against Microsoft and Xbox .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -94,16 +104,6 @@
       "published": "2026-08-22T10:30:00+00:00",
       "summary": "Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "published": "2026-08-22T08:00:58+00:00",
-      "summary": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -146,8 +146,8 @@
       "published": "2026-08-22T18:10:39+00:00",
       "summary": "The federal government is out with a new plan that calls for significant cuts to the amount of Colorado River water flowing to Arizona, California and Nevada. The principal lower basin states will rein in demand by about 20%.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Supreme Court allows Trump's ballroom construction to continue",
@@ -771,6 +771,6 @@
     "mainCount": 13,
     "youtubeCount": 18,
     "trailerCount": 29,
-    "sourceCount": 18
+    "sourceCount": 17
   }
 }

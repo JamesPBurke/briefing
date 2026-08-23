@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-23T05:00:03.555647Z
+Generated: 2026-08-23T09:00:25.887220Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’, Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala, and Nebraska school district asks police to stop using shock gloves on students.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks, The Sunday Papers, and British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’ [10/10]
+### 1. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as…
+
+Link: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane
+
+### 2. The Sunday Papers [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sometimes, Sundays are only for rounding up videogame criticism and journalism.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-824
+
+### 3. British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families…
+
+Link: https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter
+
+### 4. Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969,…
+
+Link: https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain
+
+### 5. Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,7 +78,25 @@ Hardliner Mohsen Rezaei also threatens American economic interests in first inte
 
 Link: https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei
 
-### 2. Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala [10/10]
+### 6. ‘The country of my birth has lost its heart’: Miriam Margolyes on how to fix broken Britain [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+At 85, the actor has lived through much political upheaval. But, she writes, today’s hostile times feel like ‘the worst yet’.
+
+Link: https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain
+
+### 7. Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s…
+
+Link: https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error
+
+### 8. Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,25 +105,7 @@ Weather service warns of flooding and mudslides, particularly in areas strongly 
 
 Link: https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke
 
-### 3. Nebraska school district asks police to stop using shock gloves on students [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Omaha police agreed to stop carrying electric shock gloves in the halls of state’s largest public school district Omaha police recently agreed to stop carrying gloves that can deliver electric shocks to students in the halls of Nebraska ’s…
-
-Link: https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police
-
-### 4. Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the…
-
-Link: https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine
-
-### 5. Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator [9/10]
+### 9. Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -78,34 +114,7 @@ Raising sims aren't a genre I've partaken in, partially because so many of them 
 
 Link: https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator
 
-### 6. Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Look, I love a PS1 horror throwback as much as the next whatever Gonzo is , but they don't all have to look like Silent Hill or Resident Evil, do they? There have been some aesthetic divergences in the renewed interest in the pseudo-genre,…
-
-Link: https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories
-
-### 7. Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Citing "significant increases in memory and storage component costs," Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune.
-
-Link: https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv
-
-### 8. "Buying any of our games helps support the studio": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Earlier this week, South of Midnight developer Compulsion Games shared word that they now own all of the publishing rights to their games , a welcome update in light of the ongoing BDS boycott against Microsoft and Xbox .
-
-Link: https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the-studio-psychonauts-studio-double-fine-are-the-latest-former-xbox-owned-studio-to-get-the-rights-to-their-games-back
-
-### 9. JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union [9/10]
+### 10. JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -113,15 +122,6 @@ Link: https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the
 Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.
 
 Link: https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/
-
-### 10. Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter…
-
-Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
 
 ### 11. Brand Hype Has Existed Since the Bronze Age, Scientists Discover [8/10]
 **Source:** 404 Media  
@@ -152,9 +152,9 @@ Link: https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-thre
 
 ## YouTube
 
-### Feds announce 20% cut in Colorado River water for Arizona, California, Nevada [7/10]
+### Feds announce 20% cut in Colorado River water for Arizona, California, Nevada [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The federal government is out with a new plan that calls for significant cuts to the amount of Colorado River water flowing to Arizona, California and Nevada. The principal lower basin states will rein in demand by about 20%.
