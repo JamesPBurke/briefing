@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-23T09:00:25.887220Z",
-  "generatedAtDisplay": "2026-08-23 05:00 AM EDT",
+  "generatedAt": "2026-08-23T14:00:02.127230Z",
+  "generatedAtDisplay": "2026-08-23 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks, The Sunday Papers, and British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Arrest warrant issued for wife of Massachusetts officer found dead at home, Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say, and Iran’s president says country faces ‘many problems’ as US ramps up sanctions.",
   "mainItems": [
+    {
+      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
+      "published": "2026-08-23T13:25:20+00:00",
+      "summary": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
+      "published": "2026-08-23T12:00:32+00:00",
+      "summary": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Iran’s president says country faces ‘many problems’ as US ramps up sanctions",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "published": "2026-08-23T11:50:36+00:00",
+      "summary": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
       "source": "The Guardian US",
@@ -17,6 +47,46 @@
       "score": 10
     },
     {
+      "title": "Sony sends PlayStation users a reminder they don't own their digital games just as a fan boycott over ending discs kicks off",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest",
+      "published": "2026-08-23T11:14:16+00:00",
+      "summary": "PlayStation users have received an unprompted reminder of exactly what they do and don't own on the platform, days before a planned boycott over Sony's decision to end new PlayStation discs from 2028. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+      "published": "2026-08-23T11:00:32+00:00",
+      "summary": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires that overran parts of France this summer have burned more land…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Personal care products are awash in unlabeled toxic chemicals, study finds",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals",
+      "published": "2026-08-23T11:00:31+00:00",
+      "summary": "Even products labeled ‘eco’, ‘green’ or ‘natural’ can contain dangerous compounds including Pfas Common personal care products widely contain unlabeled toxic chemicals, results from a new peer-reviewed study suggest.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "‘So many people say things about my appearance – it’s not normal’: Jorja Smith on burnout, body-shaming and finding freedom",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview",
+      "published": "2026-08-23T09:00:28+00:00",
+      "summary": "Being recognised by the Brits, Grammys and Drake made the singer one of British music’s most famous names – and also left her exhausted.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
       "title": "The Sunday Papers",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
@@ -24,116 +94,46 @@
       "published": "2026-08-23T08:00:00+00:00",
       "summary": "Sometimes, Sundays are only for rounding up videogame criticism and journalism.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter",
-      "published": "2026-08-23T05:00:24+00:00",
-      "summary": "Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
-      "published": "2026-08-23T05:00:23+00:00",
-      "summary": "North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "published": "2026-08-23T03:34:27+00:00",
-      "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against joining new US…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘The country of my birth has lost its heart’: Miriam Margolyes on how to fix broken Britain",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain",
-      "published": "2026-08-23T05:00:24+00:00",
-      "summary": "At 85, the actor has lived through much political upheaval. But, she writes, today’s hostile times feel like ‘the worst yet’.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-      "published": "2026-08-23T02:14:52+00:00",
-      "summary": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
-      "published": "2026-08-23T01:49:47+00:00",
-      "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator",
-      "published": "2026-08-22T21:52:12+00:00",
-      "summary": "Raising sims aren't a genre I've partaken in, partially because so many of them are geared towards a sort of father, daughter vibe that doesn't quite fit me.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/",
-      "published": "2026-08-22T10:30:00+00:00",
-      "summary": "Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
-      "published": "2026-08-22T10:00:35+00:00",
-      "summary": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Volcanoes that made history",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+      "published": "2026-08-23T11:02:54+00:00",
+      "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
-      "title": "Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5940003/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point",
-      "published": "2026-08-22T11:43:30+00:00",
-      "summary": "Robots that resemble human beings – known as humanoids – are on the rise. NPR's Scott Simon talks to Naomi Fitter from Oregon State University about what's driving the advances in the technology.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "How to Talk to Your Kids About Body Image — Without Toxicity",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-to-talk-to-your-kids-about-body-image-without-toxicity/",
+      "published": "2026-08-23T10:30:00+00:00",
+      "summary": "We’re once again in a cycle of headlines that feels acutely focused on celebrity and weight and eating disorders. And unfortunately there will likely be more tomorrow and the next day and on and on.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
+    },
+    {
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+      "published": "2026-08-23T12:50:09+00:00",
+      "summary": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
     {
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-      "published": "2026-08-22T11:08:53+00:00",
-      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Have dating apps lost their luster? Data shows a decline in users",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5938103/have-dating-apps-lost-their-luster-data-shows-a-decline-in-users",
+      "published": "2026-08-23T12:35:26+00:00",
+      "summary": "NPR's Ayesha Rascoe speaks to social scientist Kathryn Coduto of Boston University about a decline in the use of dating apps.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     }
   ],
@@ -190,6 +190,17 @@
       "published": "2026-08-20T21:00:30+00:00",
       "summary": "President Trump hosted tech leaders at the White House to discuss U.S. efforts on cryptocurrency and artificial intelligence — technology he says is crucial to creating more jobs and beating China.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How Much VRAM Will PCs Need To Match Next-Gen Consoles?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=G9b6zf3U19E",
+      "published": "2026-08-23T13:00:11+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -258,6 +269,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Fighting Anime-Style in Guilty Gear Strive | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=T7jV3OMIiR0",
+      "published": "2026-08-23T13:38:09+00:00",
+      "summary": "KC, Jesse G, and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Row Row Rho | Adventure Is Nigh! - The Slow Walk Home | Ep. 8",
@@ -769,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 20,
     "trailerCount": 29,
-    "sourceCount": 17
+    "sourceCount": 18
   }
 }

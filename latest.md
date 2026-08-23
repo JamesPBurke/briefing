@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-23T09:00:25.887220Z
+Generated: 2026-08-23T14:00:02.127230Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks, The Sunday Papers, and British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Arrest warrant issued for wife of Massachusetts officer found dead at home, Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say, and Iran’s president says country faces ‘many problems’ as US ramps up sanctions.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks [10/10]
+### 1. Arrest warrant issued for wife of Massachusetts officer found dead at home [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police…
+
+Link: https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant
+
+### 2. Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most…
+
+Link: https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson
+
+### 3. Iran’s president says country faces ‘many problems’ as US ramps up sanctions [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to…
+
+Link: https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei
+
+### 4. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +69,43 @@ Chris Lehane tells Guardian of need to implement new safety standards as critics
 
 Link: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane
 
-### 2. The Sunday Papers [10/10]
+### 5. Sony sends PlayStation users a reminder they don't own their digital games just as a fan boycott over ending discs kicks off [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+PlayStation users have received an unprompted reminder of exactly what they do and don't own on the platform, days before a planned boycott over Sony's decision to end new PlayStation discs from 2028. Read more
+
+Link: https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest
+
+### 6. Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires that overran parts of France this summer have burned more land…
+
+Link: https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide
+
+### 7. Personal care products are awash in unlabeled toxic chemicals, study finds [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Even products labeled ‘eco’, ‘green’ or ‘natural’ can contain dangerous compounds including Pfas Common personal care products widely contain unlabeled toxic chemicals, results from a new peer-reviewed study suggest.
+
+Link: https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals
+
+### 8. ‘So many people say things about my appearance – it’s not normal’: Jorja Smith on burnout, body-shaming and finding freedom [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Being recognised by the Brits, Grammys and Drake made the singer one of British music’s most famous names – and also left her exhausted.
+
+Link: https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview
+
+### 9. The Sunday Papers [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,104 +114,41 @@ Sometimes, Sundays are only for rounding up videogame criticism and journalism.
 
 Link: https://www.rockpapershotgun.com/the-sunday-papers-824
 
-### 3. British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families…
-
-Link: https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter
-
-### 4. Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969,…
-
-Link: https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain
-
-### 5. Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against joining new US…
-
-Link: https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei
-
-### 6. ‘The country of my birth has lost its heart’: Miriam Margolyes on how to fix broken Britain [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-At 85, the actor has lived through much political upheaval. But, she writes, today’s hostile times feel like ‘the worst yet’.
-
-Link: https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain
-
-### 7. Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s…
-
-Link: https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error
-
-### 8. Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds…
-
-Link: https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke
-
-### 9. Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Raising sims aren't a genre I've partaken in, partially because so many of them are geared towards a sort of father, daughter vibe that doesn't quite fit me.
-
-Link: https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator
-
-### 10. JB Pritzker’s Education Record Earns Key Endorsement from Illinois Teachers Union [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Gov. J.B. Pritzker, who is seeking reelection this November, received a key endorsement on his education policies from the state’s largest union this week.
-
-Link: https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/
-
-### 11. Brand Hype Has Existed Since the Bronze Age, Scientists Discover [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.
-
-Link: https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/
-
-### 12. Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Robots that resemble human beings – known as humanoids – are on the rise. NPR's Scott Simon talks to Naomi Fitter from Oregon State University about what's driving the advances in the technology.
-
-Link: https://www.npr.org/2026/08/22/nx-s1-5940003/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point
-
-### 13. Dismantling the Roadless Rule threatens to disrupt wildlife and water in US [7/10]
+### 10. Volcanoes that made history [8/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Lands free of roads are under threat from the Trump administration’s proposed rollback.
+Enormous eruptions altered Earth’s climate and societies all over the globe.
 
-Link: https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/
+Link: https://arstechnica.com/science/2026/08/volcanoes-that-made-history/
+
+### 11. How to Talk to Your Kids About Body Image — Without Toxicity [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+We’re once again in a cycle of headlines that feels acutely focused on celebrity and weight and eating disorders. And unfortunately there will likely be more tomorrow and the next day and on and on.
+
+Link: https://www.the74million.org/article/how-to-talk-to-your-kids-about-body-image-without-toxicity/
+
+### 12. Becerra, running for governor of California, faces a health insurance problem [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.
+
+Link: https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance
+
+### 13. Have dating apps lost their luster? Data shows a decline in users [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+NPR's Ayesha Rascoe speaks to social scientist Kathryn Coduto of Boston University about a decline in the use of dating apps.
+
+Link: https://www.npr.org/2026/08/23/nx-s1-5938103/have-dating-apps-lost-their-luster-data-shows-a-decline-in-users
 
 ## YouTube
 
@@ -196,6 +196,15 @@ Link: https://www.youtube.com/watch?v=1XkaoIzc7sY
 President Trump hosted tech leaders at the White House to discuss U.S. efforts on cryptocurrency and artificial intelligence — technology he says is crucial to creating more jobs and beating China.
 
 Link: https://www.youtube.com/watch?v=JLejXitdCR4
+
+### How Much VRAM Will PCs Need To Match Next-Gen Consoles? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=G9b6zf3U19E
 
 ### How Did Nintendo Manage To Avoid Switch 1/2 Cross-Gen Game Releases? [7/10]
 **Creator:** Digital Foundry  
@@ -250,6 +259,15 @@ Link: https://www.youtube.com/watch?v=sqfa4e-LLys
 ► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=WUbPIMwFP4E
+
+### Fighting Anime-Style in Guilty Gear Strive | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC, Jesse G, and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=T7jV3OMIiR0
 
 ### Row Row Rho | Adventure Is Nigh! - The Slow Walk Home | Ep. 8 [6/10]
 **Creator:** Second Wind  
