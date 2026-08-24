@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-24T05:00:04.114671Z",
-  "generatedAtDisplay": "2026-08-24 01:00 AM EDT",
+  "generatedAt": "2026-08-24T09:01:15.180389Z",
+  "generatedAtDisplay": "2026-08-24 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows, GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series, and Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East, Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows, and GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series.",
   "mainItems": [
+    {
+      "title": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice",
+      "published": "2026-08-24T05:42:44+00:00",
+      "summary": "Joshua Aviles says he is on a nine-month Middle East deployment and learned his has father has been arrested while he was waiting for green card approval The father of a US sailor on board the USS Abraham Lincoln ⁠aircraft carrier deployed…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
       "source": "The Guardian US",
@@ -67,32 +77,22 @@
       "score": 9
     },
     {
-      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
-      "published": "2026-08-23T13:25:20+00:00",
-      "summary": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-824",
-      "published": "2026-08-23T08:00:00+00:00",
-      "summary": "Sometimes, Sundays are only for rounding up videogame criticism and journalism.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "‘I didn’t miss a thing’: How Nick Haymes photographed his sons’ entire lives from verrucas to homemade hamster coffin",
+      "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/24/nick-haymes-sons-entire-lives-chronograph",
-      "published": "2026-08-24T04:00:51+00:00",
-      "summary": "Bloody noses, ear cleanings, the first sproutings of armpit hair … the photographer reveals how he captured his two babies growing into boys and then men Not many family photo albums open with images of the twin towers on fire.",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "published": "2026-08-24T08:39:08+00:00",
+      "summary": "UK PM to announce support for France in setting up missile assembly lines during his Kyiv visit, as coalition of willing meets later today Burnham visits Ukraine with promise of boost for Kyiv’s long-range missiles Later today, Burnham…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "New Zealand to consider banning children under 16 from social media",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+      "published": "2026-08-24T05:22:19+00:00",
+      "summary": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -107,12 +107,12 @@
       "score": 8
     },
     {
-      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-      "published": "2026-08-23T16:15:30+00:00",
-      "summary": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939943/high-intensity-sprints-can-trigger-molecular-changes-in-the-bloodstream",
+      "published": "2026-08-24T08:45:44+00:00",
+      "summary": "Scientists are increasingly interested in how different exercise intensities can trigger different responses, all the way down to the proteins and tiny molecules in our bloodstream.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
@@ -242,11 +242,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=T7jV3OMIiR0",
-      "published": "2026-08-23T13:38:09+00:00",
+      "published": "2026-08-24T06:51:40+00:00",
       "summary": "KC, Jesse G, and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Message from Deep Space, Rubinite, Duskfade, and Tidy Up Together | Yahtzee Tries",
@@ -716,6 +716,6 @@
     "mainCount": 13,
     "youtubeCount": 14,
     "trailerCount": 28,
-    "sourceCount": 19
+    "sourceCount": 18
   }
 }

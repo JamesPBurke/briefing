@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-24T05:00:04.114671Z
+Generated: 2026-08-24T09:01:15.180389Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows, GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series, and Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East, Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows, and GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows [10/10]
+### 1. Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Joshua Aviles says he is on a nine-month Middle East deployment and learned his has father has been arrested while he was waiting for green card approval The father of a US sailor on board the USS Abraham Lincoln ⁠aircraft carrier deployed…
+
+Link: https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice
+
+### 2. Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +51,7 @@ Rightwing voices seize on plans to offer Black children an exclusive afternoon a
 
 Link: https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows
 
-### 2. GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series [10/10]
+### 3. GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +60,7 @@ It’s been over a decade and two console generations since GTA V came out, and 
 
 Link: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games
 
-### 3. Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race [9/10]
+### 4. Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +69,7 @@ US president, pushing on with Freedom 250 festivities, makes over nation’s cap
 
 Link: https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc
 
-### 4. I tested 15 pairs of women's running shoes over five months. These are my favorites for every type of surface and runner [9/10]
+### 5. I tested 15 pairs of women's running shoes over five months. These are my favorites for every type of surface and runner [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ Over five months, I evaluated shoes from On, Nike, Adidas, Hoka and more to find
 
 Link: https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes
 
-### 5. Nearly 53,000 Apply for Michigan’s Free Pre-K Program As Enrollment Grows [9/10]
+### 6. Nearly 53,000 Apply for Michigan’s Free Pre-K Program As Enrollment Grows [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,7 +87,7 @@ Michigan’s initiative to offer free pre-kindergarten for all is paying off, st
 
 Link: https://www.the74million.org/zero2eight/nearly-53000-apply-for-michigans-free-pre-k-program-as-enrollment-grows/
 
-### 6. Epic Games Store overhaul might be "too little, too late", says Newzoo analyst [9/10]
+### 7. Epic Games Store overhaul might be "too little, too late", says Newzoo analyst [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,32 +96,23 @@ While Epic has spent much of this year promising a launcher overhaul, including 
 
 Link: https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite
 
-### 7. Arrest warrant issued for wife of Massachusetts officer found dead at home [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police…
-
-Link: https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant
-
-### 8. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sometimes, Sundays are only for rounding up videogame criticism and journalism.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-824
-
-### 9. ‘I didn’t miss a thing’: How Nick Haymes photographed his sons’ entire lives from verrucas to homemade hamster coffin [8/10]
+### 8. Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Bloody noses, ear cleanings, the first sproutings of armpit hair … the photographer reveals how he captured his two babies growing into boys and then men Not many family photo albums open with images of the twin towers on fire.
+UK PM to announce support for France in setting up missile assembly lines during his Kyiv visit, as coalition of willing meets later today Burnham visits Ukraine with promise of boost for Kyiv’s long-range missiles Later today, Burnham…
 
-Link: https://www.theguardian.com/artanddesign/2026/aug/24/nick-haymes-sons-entire-lives-chronograph
+Link: https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates
+
+### 9. New Zealand to consider banning children under 16 from social media [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban…
+
+Link: https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok
 
 ### 10. Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI [8/10]
 **Source:** Eurogamer  
@@ -123,14 +123,14 @@ A Twitch streamer has filed a proposed class action against the platform and its
 
 Link: https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers
 
-### 11. Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond [7/10]
+### 11. High-intensity sprints can trigger molecular changes in the bloodstream [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.
+Scientists are increasingly interested in how different exercise intensities can trigger different responses, all the way down to the proteins and tiny molecules in our bloodstream.
 
-Link: https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured
+Link: https://www.npr.org/2026/08/24/nx-s1-5939943/high-intensity-sprints-can-trigger-molecular-changes-in-the-bloodstream
 
 ### 12. Due to need for 'absolute success,' China delays critical Moon launch to 2027 [7/10]
 **Source:** Ars Technica  
@@ -233,9 +233,9 @@ Link: https://www.youtube.com/watch?v=p41DhQw9Hw8
 
 Link: https://www.youtube.com/watch?v=55nx1s2yayc
 
-### Fighting Anime-Style in Guilty Gear Strive | Super Smash Sunday [6/10]
+### Fighting Anime-Style in Guilty Gear Strive | Super Smash Sunday [7/10]
 **Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC, Jesse G, and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
