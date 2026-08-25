@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-24T18:00:25.098165Z
+Generated: 2026-08-25T05:00:03.172702Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Netflix reportedly considers opening its app to other streamers, Robotaxis are real now — so is the pushback, and California Maintains School Vaccine Rules Despite Trump Order.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Trump administration plans to revoke 200,000 visas of asylum seekers, Lenovo confirms Legion Go issues after gamers report bricked devices, and Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating.
 
 ## Briefing
 
@@ -33,43 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Netflix reportedly considers opening its app to other streamers [10/10]
+### 1. Trump administration plans to revoke 200,000 visas of asylum seekers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who…
+
+Link: https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas
+
+### 2. Lenovo confirms Legion Go issues after gamers report bricked devices [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times.
+When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.
 
-Link: https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one
+Link: https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked
 
-### 2. Robotaxis are real now — so is the pushback [10/10]
-**Source:** The Verge  
+### 3. Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov.
+Dr Kirk Heilbrun says he believes Clancy took children’s lives so they wouldn’t ‘suffer’ after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution…
 
-Link: https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa
+Link: https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony
 
-### 3. California Maintains School Vaccine Rules Despite Trump Order [10/10]
-**Source:** The 74  
+### 4. US supreme court rules Trump can proceed with crackdown on mail-in voting [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Justices’ ruling comes after lower courts had blocked president’s election order ahead of November midterms The US supreme court sided with Donald Trump on Monday in his effort to crack down on mail-in voting, though it remains unclear if…
+
+Link: https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting
+
+### 5. OpenAI says it will slow its AI model development to shore up safety [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+OpenAI is slowing down development of its cutting edge AI models to shore up safety protections as concerns rise about artificial intelligence agents going rogue.
+
+Link: https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety
+
+### 6. Penn State bust put focus on cocaine but on most campuses the big risk is alcohol [10/10]
+**Source:** NPR Health  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-As schools reopen amid a national surge in measles cases, California students will continue to follow the state’s existing vaccination requirements, despite President Donald Trump’s latest effort to change the country’s childhood vaccine…
+A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.
 
-Link: https://www.the74million.org/article/california-maintains-school-vaccine-rules-despite-trump-order/
+Link: https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults
 
-### 4. School Starts With New Funds for Teacher Hiring, New Standardized Tests, More [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.
-
-Link: https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/
-
-### 5. How to encourage smarter AI use in the classroom [10/10]
+### 7. How to encourage smarter AI use in the classroom [10/10]
 **Source:** MIT Technology Review  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,61 +96,52 @@ This article is from Making AI Work, MIT Technology Review’s limited-run newsl
 
 Link: https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/
 
-### 6. Apple’s four-pack of second-gen AirTags is $20 off [10/10]
+### 8. The cat-and-mouse game over 3D-printed guns has begun [9/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet.
-
-Link: https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale
-
-### 7. The Download: kids outlearning AI, and space travel agents [10/10]
-**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms.
 
-Link: https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/
+Link: https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul
 
-### 8. De-Googled GrapheneOS is coming to Motorola’s foldables next year [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. "We ended up kind of cornered there": Mortal Shell 2 devs say they didn't intend to "lock everybody out" by disabling achievements for Slayer Seal "easy mode" users [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones.
+Formidable fantasy soulslike Mortal Shell 2 has been getting it in the shins from certain players over the decision to 'lock them out' of Steam achievements, when they equip the notorious Slayer Seal.
 
-Link: https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11
+Link: https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users
 
-### 9. School Choice Is Expanding. Will Public Support Follow? [10/10]
+### 10. School Starts With New Funds for Teacher Hiring, New Standardized Tests, More [9/10]
 **Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-With new state-level programs quickly redrawing the map of school choice over the last few years, a central question may determine the movement’s continued success: Does greater familiarity with charter schools, vouchers, or education…
+Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.
 
-Link: https://www.the74million.org/article/school-choice-is-expanding-will-public-support-follow/
+Link: https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/
 
-### 10. Alarm over $20m plan to supply ICE officers with electric-shock gloves [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 11. A look at the future of brain research funding, from a kids' camp for TBI survivors [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Civil liberties groups decry plan to use gloves linked to death of Kentucky man allegedly shocked 27 times in county jail Plans to supply Immigration and Customs Enforcement (ICE) officers with special gloves that can deliver electric…
+A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, and grants to states to help such patients, is in limbo.
 
-Link: https://www.theguardian.com/us-news/2026/aug/24/ice-officers-electric-shock-gloves
+Link: https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors
 
-### 11. US treasury secretary announces ‘unprecedented campaign’ of sanctions against Iran – live [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. Lanterns Isn’t Sure It’s Ready for a “Trust Fall” [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Scott Bessent says Treasury is launching ‘economic onslaught against Iran’s financial connections’ as Tehran vows to retaliate against any cooperating countries Iran vows to retaliate against countries that cooperate with fresh US…
+Hal continues to annoy the locals, while John is waylaid by aliens... The post Lanterns Isn’t Sure It’s Ready for a “Trust Fall” appeared first on Reactor .
 
-Link: https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates
+Link: https://reactormag.com/tv-review-lanterns-isnt-sure-its-ready-for-a-trust-fall/
 
-### 12. How a Network of Volunteers Is Liberating Critical Court Records for Everyone [8/10]
+### 13. How a Network of Volunteers Is Liberating Critical Court Records for Everyone [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +150,44 @@ Habeas Dockets are publishing immigration court records that normally aren't ava
 
 Link: https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/
 
-### 13. High-intensity sprints can trigger molecular changes in the bloodstream [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+## YouTube
 
-A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream.
+_No YouTube picks in this briefing._
 
-Link: https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### literally how you'll feel on the inside watching the full trailer [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+literally how you'll feel on the inside watching the full trailer
+
+Link: https://www.youtube.com/watch?v=MYD6xJOz4B4

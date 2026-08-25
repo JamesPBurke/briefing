@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-24T18:00:25.098165Z",
-  "generatedAtDisplay": "2026-08-24 02:00 PM EDT",
+  "generatedAt": "2026-08-25T05:00:03.172702Z",
+  "generatedAtDisplay": "2026-08-25 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Netflix reportedly considers opening its app to other streamers, Robotaxis are real now — so is the pushback, and California Maintains School Vaccine Rules Despite Trump Order.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Trump administration plans to revoke 200,000 visas of asylum seekers, Lenovo confirms Legion Go issues after gamers report bricked devices, and Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating.",
   "mainItems": [
     {
-      "title": "Netflix reportedly considers opening its app to other streamers",
+      "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+      "published": "2026-08-25T01:45:35+00:00",
+      "summary": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-      "published": "2026-08-24T17:09:26+00:00",
-      "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times.",
+      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "published": "2026-08-24T23:42:32+00:00",
+      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Robotaxis are real now — so is the pushback",
-      "source": "The Verge",
+      "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "published": "2026-08-24T16:42:37+00:00",
-      "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
+      "published": "2026-08-24T23:00:53+00:00",
+      "summary": "Dr Kirk Heilbrun says he believes Clancy took children’s lives so they wouldn’t ‘suffer’ after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "California Maintains School Vaccine Rules Despite Trump Order",
-      "source": "The 74",
+      "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
+      "published": "2026-08-24T21:53:38+00:00",
+      "summary": "Justices’ ruling comes after lower courts had blocked president’s election order ahead of November midterms The US supreme court sided with Donald Trump on Monday in his effort to crack down on mail-in voting, though it remains unclear if…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI says it will slow its AI model development to shore up safety",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety",
+      "published": "2026-08-24T21:17:36+00:00",
+      "summary": "OpenAI is slowing down development of its cutting edge AI models to shore up safety protections as concerns rise about artificial intelligence agents going rogue.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "source": "NPR Health",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/california-maintains-school-vaccine-rules-despite-trump-order/",
-      "published": "2026-08-24T16:30:00+00:00",
-      "summary": "As schools reopen amid a national surge in measles cases, California students will continue to follow the state’s existing vaccination requirements, despite President Donald Trump’s latest effort to change the country’s childhood vaccine…",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "published": "2026-08-24T21:17:31+00:00",
+      "summary": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "School Starts With New Funds for Teacher Hiring, New Standardized Tests, More",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/",
-      "published": "2026-08-24T14:30:00+00:00",
-      "summary": "Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -57,63 +77,53 @@
       "score": 10
     },
     {
-      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+      "title": "The cat-and-mouse game over 3D-printed guns has begun",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-      "published": "2026-08-24T14:08:03+00:00",
-      "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "published": "2026-08-24T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "published": "2026-08-24T19:46:47+00:00",
+      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-      "published": "2026-08-24T11:37:53+00:00",
-      "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "\"We ended up kind of cornered there\": Mortal Shell 2 devs say they didn't intend to \"lock everybody out\" by disabling achievements for Slayer Seal \"easy mode\" users",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users",
+      "published": "2026-08-24T15:57:22+00:00",
+      "summary": "Formidable fantasy soulslike Mortal Shell 2 has been getting it in the shins from certain players over the decision to 'lock them out' of Steam achievements, when they equip the notorious Slayer Seal.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "School Choice Is Expanding. Will Public Support Follow?",
+      "title": "School Starts With New Funds for Teacher Hiring, New Standardized Tests, More",
       "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/school-choice-is-expanding-will-public-support-follow/",
-      "published": "2026-08-24T10:30:00+00:00",
-      "summary": "With new state-level programs quickly redrawing the map of school choice over the last few years, a central question may determine the movement’s continued success: Does greater familiarity with charter schools, vouchers, or education…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/",
+      "published": "2026-08-24T14:30:00+00:00",
+      "summary": "Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
-      "title": "Alarm over $20m plan to supply ICE officers with electric-shock gloves",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/ice-officers-electric-shock-gloves",
-      "published": "2026-08-24T10:00:32+00:00",
-      "summary": "Civil liberties groups decry plan to use gloves linked to death of Kentucky man allegedly shocked 27 times in county jail Plans to supply Immigration and Customs Enforcement (ICE) officers with special gloves that can deliver electric…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "A look at the future of brain research funding, from a kids' camp for TBI survivors",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors",
+      "published": "2026-08-24T22:09:37+00:00",
+      "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, and grants to states to help such patients, is in limbo.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "US treasury secretary announces ‘unprecedented campaign’ of sanctions against Iran – live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "published": "2026-08-24T17:53:51+00:00",
-      "summary": "Scott Bessent says Treasury is launching ‘economic onslaught against Iran’s financial connections’ as Tehran vows to retaliate against any cooperating countries Iran vows to retaliate against countries that cooperate with fresh US…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Lanterns Isn’t Sure It’s Ready for a “Trust Fall”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/tv-review-lanterns-isnt-sure-its-ready-for-a-trust-fall/",
+      "published": "2026-08-24T17:30:00+00:00",
+      "summary": "Hal continues to annoy the locals, while John is waylaid by aliens... The post Lanterns Isn’t Sure It’s Ready for a “Trust Fall” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -125,20 +135,22 @@
       "summary": "Habeas Dockets are publishing immigration court records that normally aren't available online.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-      "published": "2026-08-24T08:45:44+00:00",
-      "summary": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +263,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "trailerCount": 1,
+    "sourceCount": 10
   }
 }
