@@ -1,40 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-25T09:00:28.209572Z",
-  "generatedAtDisplay": "2026-08-25 05:00 AM EDT",
+  "generatedAt": "2026-08-25T14:00:03.056958Z",
+  "generatedAtDisplay": "2026-08-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Trump administration plans to revoke 200,000 visas of asylum seekers, Lenovo confirms Legion Go issues after gamers report bricked devices, and US supreme court rules Trump can proceed with crackdown on mail-in voting.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices, In South Dakota, a School’s Design Enhances Learning for Younger Kids, and The Download: smarter AI in schools, and a robot “carnival” in Shanghai.",
   "mainItems": [
     {
-      "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
-      "published": "2026-08-25T01:45:35+00:00",
-      "summary": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-      "published": "2026-08-24T23:42:32+00:00",
-      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.",
+      "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+      "published": "2026-08-25T13:43:03+00:00",
+      "summary": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
-      "source": "The Guardian US",
+      "title": "In South Dakota, a School’s Design Enhances Learning for Younger Kids",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/in-south-dakota-a-schools-design-enhances-learning-for-younger-kids/",
+      "published": "2026-08-25T12:30:00+00:00",
+      "summary": "Rural schools are asked to solve national problems with local resources.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "source": "MIT Technology Review",
+      "category": "CS education / AI policy",
+      "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "published": "2026-08-25T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Synths, impossible physics, and an \"erotic experience with a PS5 controller\" - the side projects of game devs are a reminder creativity is undimmable",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
-      "published": "2026-08-24T21:53:38+00:00",
-      "summary": "Justices’ ruling comes after lower courts had blocked president’s election order ahead of November midterms The US supreme court sided with Donald Trump on Monday in his effort to crack down on mail-in voting, though it remains unclear if…",
+      "url": "https://www.eurogamer.net/optimism-week-games-industry-side-projects-creativity",
+      "published": "2026-08-25T12:01:41+00:00",
+      "summary": "If there's been one theme I'd pick out from the many of these past few years of gaming discontent, it's the sense of all-out assault on creativity.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Meta goes on trial as Silicon Valley faces a growing backlash",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley",
+      "published": "2026-08-25T11:21:56+00:00",
+      "summary": "Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest",
+      "published": "2026-08-25T10:37:23+00:00",
+      "summary": "Clear River Games Development and Limited Run are working on a PC re-release of Terranigma, Quintet's Super Nintendo Entertainment System action-RPG from 1995.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "This Superintendent Couldn’t Read as a Kid. Now He Wants to Ensure Every Kid Can",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/this-superintendent-couldnt-read-as-a-kid-now-he-wants-to-ensure-every-kid-can/",
+      "published": "2026-08-25T10:30:00+00:00",
+      "summary": "In late July, soon-to-be kindergarteners spent the morning getting their wiggles out at a summer learning program at Robert Bailey Elementary School in Providence.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Apple’s new M6 chip gets more cores and more AI compute",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "published": "2026-08-25T13:39:18+00:00",
+      "summary": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+      "published": "2026-08-25T09:59:16+00:00",
+      "summary": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "OpenAI says it will slow its AI model development to shore up safety",
@@ -44,97 +104,37 @@
       "published": "2026-08-24T21:17:36+00:00",
       "summary": "OpenAI is slowing down development of its cutting edge AI models to shore up safety protections as concerns rise about artificial intelligence agents going rogue.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-      "source": "NPR Health",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-      "published": "2026-08-24T21:17:31+00:00",
-      "summary": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "source": "MIT Technology Review",
-      "category": "CS education / AI policy",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "published": "2026-08-24T14:20:19+00:00",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "published": "2026-08-25T07:14:06+00:00",
-      "summary": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "published": "2026-08-24T16:41:45+00:00",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "\"We ended up kind of cornered there\": Mortal Shell 2 devs say they didn't intend to \"lock everybody out\" by disabling achievements for Slayer Seal \"easy mode\" users",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users",
-      "published": "2026-08-24T15:57:22+00:00",
-      "summary": "Formidable fantasy soulslike Mortal Shell 2 has been getting it in the shins from certain players over the decision to 'lock them out' of Steam achievements, when they equip the notorious Slayer Seal.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "School Starts With New Funds for Teacher Hiring, New Standardized Tests, More",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/",
-      "published": "2026-08-24T14:30:00+00:00",
-      "summary": "Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "A look at the future of brain research funding, from a kids' camp for TBI survivors",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors",
-      "published": "2026-08-24T22:09:37+00:00",
-      "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, and grants to states to help such patients, is in limbo.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "How a Network of Volunteers Is Liberating Critical Court Records for Everyone",
+      "title": "The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?'",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/",
-      "published": "2026-08-24T14:48:33+00:00",
-      "summary": "Habeas Dockets are publishing immigration court records that normally aren't available online.",
+      "url": "https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/",
+      "published": "2026-08-25T13:52:35+00:00",
+      "summary": "Anthony Ralphs has been speaking against Flock at San Diego City Council meetings for almost a year straight. When he showed up as Darth Vader, the world started watching.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Lanterns Isn’t Sure It’s Ready for a “Trust Fall”",
+      "title": "Revealing A Gorgon’s Guide to Getting a Life by Ellen Meny",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/tv-review-lanterns-isnt-sure-its-ready-for-a-trust-fall/",
-      "published": "2026-08-24T17:30:00+00:00",
-      "summary": "Hal continues to annoy the locals, while John is waylaid by aliens... The post Lanterns Isn’t Sure It’s Ready for a “Trust Fall” appeared first on Reactor .",
+      "url": "https://reactormag.com/cover-reveal-a-gorgons-guide-to-getting-a-life-by-ellen-meny/",
+      "published": "2026-08-25T13:30:00+00:00",
+      "summary": "Sometimes your sisters won’t talk to you. And sometimes a goddess gives you snakes for hair and a lethal stare… We’re thrilled to share the cover of Ellen Meny’s A Gorgon’s Guide to Getting a Life—available May 11, 2027 from Ace Books.",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "published": "2026-08-25T09:00:00+00:00",
+      "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -157,8 +157,8 @@
       "published": "2026-08-24T23:00:33+00:00",
       "summary": "Thousands of armed National Guard troops have been patrolling the streets of Washington, D.C., for more than a year — and NPR has some rare insight into how some of the guard members are feeling about it.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Border Patrol arrests the father of a sailor aboard the long-deployed USS Abraham Lincoln",
@@ -231,11 +231,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=1o7yFw5zUoQ",
-      "published": "2026-08-24T16:46:18+00:00",
+      "published": "2026-08-25T13:31:28+00:00",
       "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Gamescom Opening Night Live 2026 w/ Second Wind",

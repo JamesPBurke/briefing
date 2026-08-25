@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-25T09:00:28.209572Z
+Generated: 2026-08-25T14:00:03.056958Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Trump administration plans to revoke 200,000 visas of asylum seekers, Lenovo confirms Legion Go issues after gamers report bricked devices, and US supreme court rules Trump can proceed with crackdown on mail-in voting.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices, In South Dakota, a School’s Design Enhances Learning for Younger Kids, and The Download: smarter AI in schools, and a robot “carnival” in Shanghai.
 
 ## Briefing
 
@@ -33,61 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump administration plans to revoke 200,000 visas of asylum seekers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who…
-
-Link: https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas
-
-### 2. Lenovo confirms Legion Go issues after gamers report bricked devices [10/10]
+### 1. Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.
+Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro.
 
-Link: https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked
+Link: https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs
 
-### 3. US supreme court rules Trump can proceed with crackdown on mail-in voting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 2. In South Dakota, a School’s Design Enhances Learning for Younger Kids [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Justices’ ruling comes after lower courts had blocked president’s election order ahead of November midterms The US supreme court sided with Donald Trump on Monday in his effort to crack down on mail-in voting, though it remains unclear if…
+Rural schools are asked to solve national problems with local resources.
 
-Link: https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting
+Link: https://www.the74million.org/article/in-south-dakota-a-schools-design-enhances-learning-for-younger-kids/
 
-### 4. OpenAI says it will slow its AI model development to shore up safety [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-OpenAI is slowing down development of its cutting edge AI models to shore up safety protections as concerns rise about artificial intelligence agents going rogue.
-
-Link: https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety
-
-### 5. Penn State bust put focus on cocaine but on most campuses the big risk is alcohol [10/10]
-**Source:** NPR Health  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.
-
-Link: https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults
-
-### 6. How to encourage smarter AI use in the classroom [10/10]
+### 3. The Download: smarter AI in schools, and a robot “carnival” in Shanghai [10/10]
 **Source:** MIT Technology Review  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise.
 
-Link: https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/
+Link: https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/
 
-### 7. US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns [9/10]
+### 4. Synths, impossible physics, and an "erotic experience with a PS5 controller" - the side projects of game devs are a reminder creativity is undimmable [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+If there's been one theme I'd pick out from the many of these past few years of gaming discontent, it's the sense of all-out assault on creativity.
+
+Link: https://www.eurogamer.net/optimism-week-games-industry-side-projects-creativity
+
+### 5. Meta goes on trial as Silicon Valley faces a growing backlash [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape.
+
+Link: https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley
+
+### 6. 31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Clear River Games Development and Limited Run are working on a PC re-release of Terranigma, Quintet's Super Nintendo Entertainment System action-RPG from 1995.
+
+Link: https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest
+
+### 7. This Superintendent Couldn’t Read as a Kid. Now He Wants to Ensure Every Kid Can [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In late July, soon-to-be kindergarteners spent the morning getting their wiggles out at a summer learning program at Robert Bailey Elementary School in Providence.
+
+Link: https://www.the74million.org/article/this-superintendent-couldnt-read-as-a-kid-now-he-wants-to-ensure-every-kid-can/
+
+### 8. Apple’s new M6 chip gets more cores and more AI compute [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its "most powerful chip ever," designed for tasks like 3D rendering and running frontier AI models.
+
+Link: https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio
+
+### 9. US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,59 +114,41 @@ Trump ally should cut budget deficit rather than try to suppress bond yields, sa
 
 Link: https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller
 
-### 8. Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. OpenAI says it will slow its AI model development to shore up safety [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.
+OpenAI is slowing down development of its cutting edge AI models to shore up safety protections as concerns rise about artificial intelligence agents going rogue.
 
-Link: https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/
+Link: https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety
 
-### 9. "We ended up kind of cornered there": Mortal Shell 2 devs say they didn't intend to "lock everybody out" by disabling achievements for Slayer Seal "easy mode" users [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Formidable fantasy soulslike Mortal Shell 2 has been getting it in the shins from certain players over the decision to 'lock them out' of Steam achievements, when they equip the notorious Slayer Seal.
-
-Link: https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users
-
-### 10. School Starts With New Funds for Teacher Hiring, New Standardized Tests, More [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Remember when Labor Day was the unofficial end of summer and schools started up again after that? Your kids probably don’t either.
-
-Link: https://www.the74million.org/article/school-starts-with-new-funds-for-teacher-hiring-new-standardized-tests-more/
-
-### 11. A look at the future of brain research funding, from a kids' camp for TBI survivors [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, and grants to states to help such patients, is in limbo.
-
-Link: https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors
-
-### 12. How a Network of Volunteers Is Liberating Critical Court Records for Everyone [8/10]
+### 11. The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?' [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Habeas Dockets are publishing immigration court records that normally aren't available online.
+Anthony Ralphs has been speaking against Flock at San Diego City Council meetings for almost a year straight. When he showed up as Darth Vader, the world started watching.
 
-Link: https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/
+Link: https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/
 
-### 13. Lanterns Isn’t Sure It’s Ready for a “Trust Fall” [7/10]
+### 12. Revealing A Gorgon’s Guide to Getting a Life by Ellen Meny [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Hal continues to annoy the locals, while John is waylaid by aliens... The post Lanterns Isn’t Sure It’s Ready for a “Trust Fall” appeared first on Reactor .
+Sometimes your sisters won’t talk to you. And sometimes a goddess gives you snakes for hair and a lethal stare… We’re thrilled to share the cover of Ellen Meny’s A Gorgon’s Guide to Getting a Life—available May 11, 2027 from Ace Books.
 
-Link: https://reactormag.com/tv-review-lanterns-isnt-sure-its-ready-for-a-trust-fall/
+Link: https://reactormag.com/cover-reveal-a-gorgons-guide-to-getting-a-life-by-ellen-meny/
+
+### 13. Kids with brain injuries thrive at this camp. But federal research funding is in flux [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.
+
+Link: https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Link: https://reactormag.com/tv-review-lanterns-isnt-sure-its-ready-for-a-trust-
 
 Link: https://www.youtube.com/watch?v=wMl6c_r0ubw
 
-### National Guard members tell NPR they're 'embarrassed' about time spent patrolling D.C. [8/10]
+### National Guard members tell NPR they're 'embarrassed' about time spent patrolling D.C. [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Thousands of armed National Guard troops have been patrolling the streets of Washington, D.C., for more than a year — and NPR has some rare insight into how some of the guard members are feeling about it.
@@ -224,9 +224,9 @@ Link: https://www.youtube.com/watch?v=yzm7RB695-U
 
 Link: https://www.youtube.com/watch?v=R9LcPcSE5rU
 
-### Ruling Our Kingdom With an Iron Fist in Sovereign Tower | Hot Monday Energy [6/10]
+### Ruling Our Kingdom With an Iron Fist in Sovereign Tower | Hot Monday Energy [7/10]
 **Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
