@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-26T05:00:02.927986Z",
-  "generatedAtDisplay": "2026-08-26 01:00 AM EDT",
+  "generatedAt": "2026-08-26T09:00:37.323347Z",
+  "generatedAtDisplay": "2026-08-26 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Two Dan Sullivans to appear on Alaska’s US Senate ballot in November’s midterm elections, Man on trial for Daphne Caruana Galizia murder claims he was framed, and Billionaire investor says he used AI to write critique of former mentee Scott Bessent.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look, Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track, and Metro 2039 is a game about war that actually has something to say.",
   "mainItems": [
+    {
+      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
+      "published": "2026-08-26T08:51:30+00:00",
+      "summary": "One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track",
+      "published": "2026-08-26T07:01:26+00:00",
+      "summary": "Since I’m apparently now RPS’ Radioactive Eastern Europe correspondent , I recently spent a couple of hours in Metro 2039 , the gloom ‘n’ grit FPS sequel that Ukrainian developers 4A Games have explicitly styled as a return to the series’…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Metro 2039 is a game about war that actually has something to say",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer",
+      "published": "2026-08-26T07:01:00+00:00",
+      "summary": "Earlier this year, publisher Deep Silver and developer 4A Studios published a blog post outlining its vision for Metro 2039.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Iran seeks to criminalise all contact with foreign media in latest ‘chilling’ crackdown",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
+      "published": "2026-08-26T05:00:35+00:00",
+      "summary": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crime Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Two Dan Sullivans to appear on Alaska’s US Senate ballot in November’s midterm elections",
       "source": "The Guardian US",
@@ -27,32 +67,22 @@
       "score": 10
     },
     {
-      "title": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent",
+      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai",
-      "published": "2026-08-26T00:38:49+00:00",
-      "summary": "Stanley Druckenmiller said he was ‘proud of using it’ as wider media grapples with parameters around AI use Stanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his viral Wall Street Journal op-ed in…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "published": "2026-08-26T04:00:33+00:00",
+      "summary": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s new security…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump is upping the price of Big Tech’s favorite visa",
-      "source": "The Verge",
+      "title": "US halts all immigrant visa applications amid tightening restrictions",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "published": "2026-08-25T21:43:53+00:00",
-      "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "A new stamp on cyberfraud prevention",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
+      "published": "2026-08-26T01:16:18+00:00",
+      "summary": "Move by state department to limit access is part of Trump’s crackdown on both lawful and undocumented immigration All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,26 +97,6 @@
       "score": 10
     },
     {
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "published": "2026-08-25T20:34:22+00:00",
-      "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Dungeons & Dragons game Warlock gets a first proper trailer, showing single-player action gameplay",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/dungeons-dragons-game-warlock-gets-a-first-proper-trailer-showing-single-player-action-gameplay",
-      "published": "2026-08-25T19:00:54+00:00",
-      "summary": "Dungeons & Dragons game Warlock has had a first proper trailer featured at Gamescom Opening Night Live this evening. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
       "title": "After a Nearly Six Year Saga, Burlington’s New High School Opens Its Doors",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -94,7 +104,7 @@
       "published": "2026-08-25T18:30:00+00:00",
       "summary": "Batula Kassim sat in front of a wall of floor-to-ceiling windows in her school’s new library, the sunlight a welcome contrast to the refurbished Macy’s department store where she spent her freshman year.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Here Are All the Genre TV Premieres Airing in September!",
@@ -117,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
-      "published": "2026-08-25T09:00:00+00:00",
-      "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -138,6 +138,116 @@
     }
   ],
   "youtube": [
+    {
+      "title": "This Small AI Will Change Everything",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "published": "2026-08-24T16:48:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Qwen3.8-27b is available here: https://huggingface.co/Qwen/Qwen3.8-27B Sources: https://www.reddit.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Expert Answers How Schools Work Around The World",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=vnGQIQlBja4",
+      "published": "2026-08-25T16:00:07+00:00",
+      "summary": "Author and global education expert Dr. Rebecca Winthrop joins WIRED to answer the internet’s burning questions about the future of global education.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Secret Service says it's aware of Iranian state media video threatening Barron Trump",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Bb65x0O2K0g",
+      "published": "2026-08-25T23:05:34+00:00",
+      "summary": "The U.S. Secret Service says it’s aware of Iranian state media video threatening the president’s son, Barron Trump, and offering a reward of $10 million.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Dolly Parton, country music star and cultural icon, dead at 80",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=q56e7Gt2lSA",
+      "published": "2026-08-25T21:00:23+00:00",
+      "summary": "Dolly Parton died Tuesday in Nashville, Tenn., at the age of 80. The entertainer, businesswoman and philanthropist was a singularly beloved figure in popular culture far beyond country music, where she started her career in the late 1960s.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "National Guard members tell NPR they're 'embarrassed' about time spent patrolling D.C.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=dv1i5ysSi9w",
+      "published": "2026-08-24T23:00:33+00:00",
+      "summary": "Thousands of armed National Guard troops have been patrolling the streets of Washington, D.C., for more than a year — and NPR has some rare insight into how some of the guard members are feeling about it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Border Patrol arrests the father of a sailor aboard the long-deployed USS Abraham Lincoln",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=s7AspzFYAqs",
+      "published": "2026-08-24T21:00:25+00:00",
+      "summary": "Immigration authorities arrested the father of a man serving on the USS Abraham Lincoln. DHS confirmed that Border Patrol agents arrested Luis Aviles during a vehicle stop in Key West, Fla., over the weekend. Aviles is from Nicaragua.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Americans are vandalizing Flock surveillance cameras across the country",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=siQltiFkZkw",
+      "published": "2026-08-23T17:15:46+00:00",
+      "summary": "Flock cameras, the automated license plate readers police use to track vehicles, are facing growing resistance, with some people so fed up with the cameras that they’re resorting to vandalism.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Alan Wake 2 PC: Big FSR Upgrades For AMD... But One Issue Needs Addressing",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=adzfCh9j4qk",
+      "published": "2026-08-25T17:00:25+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Mcg_av0xtOs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "PlayStation 6: Sony Still Hasn't Made Up Its Mind On Release Date + Price",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=1H73Nh2esOA",
+      "published": "2026-08-25T15:00:11+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Mcg_av0xtOs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How Much VRAM Will PCs Need To Match Next-Gen Consoles?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=G9b6zf3U19E",
+      "published": "2026-08-23T13:00:11+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
     {
       "title": "Gamescom Opening Night Live 2026 w/ Second Wind",
       "source": "Second Wind",
@@ -205,7 +315,327 @@
       "verdict": "Probably worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
+      "published": "2026-08-21T19:12:23+00:00",
+      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
+      "published": "2026-08-18T15:01:18+00:00",
+      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PENNY LANE IS DEAD | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=R4oEHjWY_CU",
+      "published": "2026-08-14T16:32:20+00:00",
+      "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PARASOMNIA | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-tYE5KY0dk4",
+      "published": "2026-08-10T21:00:59+00:00",
+      "summary": "After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
+      "published": "2026-08-17T21:00:24+00:00",
+      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Kevin Langue Show and Kevin Langue 2 come to Netflix on September 5th",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8KKx_f_V3Z4",
+      "published": "2026-08-25T18:30:00+00:00",
+      "summary": "Starting September 5th, you can watch The Kevin Langue Show and Kevin Langue 2 on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stranger Things: Tales From ‘85 | Season 2 Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VNW5dSRPg0Q",
+      "published": "2026-08-25T15:00:02+00:00",
+      "summary": "Something is haunting these woods… STRANGER THINGS: TALES FROM ’85 Season 2 premieres September 17, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Raygun: Breaking Badly | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OCZg5l9BfRg",
+      "published": "2026-08-24T16:30:00+00:00",
+      "summary": "When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an avalanche of memes, misinformation, and conspiracy theories followed, all questioning how she reached the Olympic stage. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Gentlemen: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=01IeKpHvgvM",
+      "published": "2026-08-24T14:00:00+00:00",
+      "summary": "Ambition can’t be tamed... With Bobby standing in the way of expanding the criminal empire, Eddie and Susie must decide whether to fall in line or make their own moves.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Call My Agent! The Movie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=01PX2jZNW5A",
+      "published": "2026-08-24T10:00:00+00:00",
+      "summary": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunites her old team — for better or worse. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Netflix icons 🤝 a new class of talent",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Zxu4v1qjssg",
+      "published": "2026-08-21T21:00:00+00:00",
+      "summary": "Netflix icons 🤝 a new class of talent Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SAKAMOTO DAYS: Season 2 | Character Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Ld4PMbghy78",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": "Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bass X Machina | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CWbZBIrEfqI",
+      "published": "2026-08-20T23:30:00+00:00",
+      "summary": "From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LEGO ONE PIECE | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5Z8oBbmkgXo",
+      "published": "2026-08-20T23:20:00+00:00",
+      "summary": "HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SyeHKMfswHk",
+      "published": "2026-08-20T23:15:00+00:00",
+      "summary": "A washed up edgerunner & a killer netrunner in Night City... what could go wrong? A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blue Eye Samurai: Season 2 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3oCx6HcYz9k",
+      "published": "2026-08-20T23:00:00+00:00",
+      "summary": "The second season of the Emmy winning series Blue Eye Samurai returns in January 2027, only on Netflix. Blue Eye Samurai season 1 is now playing, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Premium quality moves. Happy birthday, Alexander Skarsgård. #Murderbot Season 2 — In Production",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ARzkTtED6_s",
+      "published": "2026-08-25T19:59:54+00:00",
+      "summary": "Murderbot — All episodes now streaming on Apple TV https://apple.co/_murderbot In a high-tech future, a rogue security robot (Alexander Skarsgård) secretly gains free will.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Brothers — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fIKFnzIcfcA",
+      "published": "2026-08-25T13:59:50+00:00",
+      "summary": "Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, premiering September 23 on Apple TV. https://apple.co/_Brothers Based on a \"true\" rumor.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Shrinking — Gaby's Speech to Louis | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Wdn4zoAagsU",
+      "published": "2026-08-21T17:29:47+00:00",
+      "summary": "Season 3 of the hit comedy is now streaming on Apple TV. Stars Jason Segel, Harrison Ford, Christa Miller, Jessica Williams, Luke Tennie, Michael Urie, Lukita Maxwell, and Ted McGinley. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — 5 Story Time Lessons for Kids | Full Scenes | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xPtQZBvq2d4",
+      "published": "2026-08-21T14:59:46+00:00",
+      "summary": "Gather 'round, it's story time with everyone's favorite panda. Brand new episodes of Stillwater are now streaming on Apple TV. Stillwater Season 5 is now streaming on Apple TV #Stillwater #Scenes #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -317,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 6,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 16,
+    "trailerCount": 29,
+    "sourceCount": 21
   }
 }
