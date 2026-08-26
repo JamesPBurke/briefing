@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-26T09:00:37.323347Z
+Generated: 2026-08-26T14:00:01.295777Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look, Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track, and Metro 2039 is a game about war that actually has something to say.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are At least 22 people dead and hundreds of tourists and locals missing in flash flood on Nepal-Tibet border – latest updates, Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks, and Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What.
 
 ## Briefing
 
@@ -33,97 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 .
-
-Link: https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response
-
-### 2. Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Since I’m apparently now RPS’ Radioactive Eastern Europe correspondent , I recently spent a couple of hours in Metro 2039 , the gloom ‘n’ grit FPS sequel that Ukrainian developers 4A Games have explicitly styled as a return to the series’…
-
-Link: https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track
-
-### 3. Metro 2039 is a game about war that actually has something to say [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Earlier this year, publisher Deep Silver and developer 4A Studios published a blog post outlining its vision for Metro 2039.
-
-Link: https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer
-
-### 4. Iran seeks to criminalise all contact with foreign media in latest ‘chilling’ crackdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crime Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said…
-
-Link: https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown
-
-### 5. Two Dan Sullivans to appear on Alaska’s US Senate ballot in November’s midterm elections [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The incumbent senator Dan S Sullivan has condemned ex-school teacher Dan J Sullivan, claiming he is running at the behest of Democrats to confuse supporters Republican senator Dan S Sullivan will be joined on the November ballot in Alaska…
-
-Link: https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate
-
-### 6. Man on trial for Daphne Caruana Galizia murder claims he was framed [10/10]
+### 1. At least 22 people dead and hundreds of tourists and locals missing in flash flood on Nepal-Tibet border – latest updates [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Malta’s then PM was instigator A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the charges for the first…
+‘Major casualties’ feared after powerful floods in Himalayan border area sweep away houses, roads and bridges and leave hundreds missing ‘Major casualties’ feared after flash floods along Nepal-Tibet border Tell us: have you been affected…
 
-Link: https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed
+Link: https://www.theguardian.com/world/live/2026/aug/26/nepal-tibet-himalayas-flash-floods-missing-foreign-tourists-latest-news-updates
 
-### 7. Iran faces strait of Hormuz paradox as strategic value of chokehold erodes [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s new security…
-
-Link: https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes
-
-### 8. US halts all immigrant visa applications amid tightening restrictions [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Move by state department to limit access is part of Trump’s crackdown on both lawful and undocumented immigration All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten…
-
-Link: https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon
-
-### 9. At just $8, you owe it to yourself to grab Inscryption [10/10]
+### 2. Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins.
+Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period "heartbreaking for our team.
 
-Link: https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale
+Link: https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking
 
-### 10. After a Nearly Six Year Saga, Burlington’s New High School Opens Its Doors [9/10]
+### 3. Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Artificial intelligence-based tutoring programs promise something schools have long struggled to provide: personalized instruction for every student at a fraction of the cost of traditional 1-on-1 tutoring.
+
+Link: https://www.the74million.org/article/even-with-human-help-kids-need-motivation-to-use-ai-tutors-the-question-is-what/
+
+### 4. D&D, LEGO, and mounting ennui: Our biggest games from Gamescom 2026 [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week, RPS took the downright heroic step of declining to live report on the latest Geoff Keighley trailer bonanza at Gamescom 2026 's Opening Night Live.
+
+Link: https://www.rockpapershotgun.com/dd-lego-and-mounting-ennui-our-biggest-games-from-gamescom-2026
+
+### 5. Crimson Desert Enhanced is a free upgrade that's out now and revamps the story, adds new skills and comes with all previously-released updates [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Crimson Desert Enhanced was among the more surprising reveals of Gamescom Opening Night Live .
+
+Link: https://www.eurogamer.net/crimson-desert-enhanced-patch-2-00-details
+
+### 6. Path of Exile 2 finally has its 1.0 release date and it's coming this year [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Grinding Gear Games made a surprise Path of Exile 2 announcement at Gamescom Opening Night Live yesterday. The developer confirmed when the game's long-awaited 1.0 release will be. Read more
+
+Link: https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date
+
+### 7. Fake US thinktank set up and funded by Israel sought to game AI for propaganda [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name of a thinktank that does not exist has…
+
+Link: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda
+
+### 8. Fewer Teachers, Even Fewer Students: See What’s Happening in 9,500 Districts [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Batula Kassim sat in front of a wall of floor-to-ceiling windows in her school’s new library, the sunlight a welcome contrast to the refurbished Macy’s department store where she spent her freshman year.
+Earlier this month, the Bureau of Labor Statistics reported that public education lost 50,000 jobs between June and July. The numbers are preliminary and don’t show which types of jobs were lost.
 
-Link: https://www.the74million.org/article/after-a-nearly-six-year-saga-burlingtons-new-high-school-opens-its-doors/
+Link: https://www.the74million.org/article/fewer-teachers-even-fewer-students-see-whats-happening-in-9500-districts/
 
-### 11. Here Are All the Genre TV Premieres Airing in September! [8/10]
+### 9. Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Reproductive Freedom for All – one of the country’s oldest pro-choice groups – backs Jackson in his fight against Republican Susan Collins One of the oldest abortion rights groups in the US is endorsing Troy Jackson, the Democratic nominee…
+
+Link: https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race
+
+### 10. Meta agrees to heavy restrictions on teen users in major lawsuit settlement [9/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars.
+
+Link: https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement
+
+### 11. Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+An interview with one of the Amazon employees at Amazon’s AI training facility VGT3.
+
+Link: https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/
+
+### 12. Here Are All the Genre TV Premieres Airing in September! [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,25 +141,25 @@ Mark your calendars for time-travel romance, superstitious horror, and not one b
 
 Link: https://reactormag.com/new-genre-tv-september-2026/
 
-### 12. The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?' [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Anthony Ralphs has been speaking against Flock at San Diego City Council meetings for almost a year straight. When he showed up as Darth Vader, the world started watching.
-
-Link: https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/
-
-### 13. Instagram head Adam Mosseri testifies in defense of Meta in child safety trial [7/10]
+### 13. California says states, Meta agree to $17 billion settlement in child safety trial [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.
+The social media giant also agreed to make sweeping changes to Instagram and Facebook.
 
-Link: https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial
+Link: https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit
 
 ## YouTube
+
+### DeepSeek’s AI Just Learned To Upgrade Itself [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.
+
+Link: https://www.youtube.com/watch?v=L9mMfAFwbl4
 
 ### This Small AI Will Change Everything [8/10]
 **Creator:** Two Minute Papers  
@@ -170,9 +179,9 @@ Author and global education expert Dr. Rebecca Winthrop joins WIRED to answer th
 
 Link: https://www.youtube.com/watch?v=vnGQIQlBja4
 
-### Secret Service says it's aware of Iranian state media video threatening Barron Trump [8/10]
+### Secret Service says it's aware of Iranian state media video threatening Barron Trump [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The U.S. Secret Service says it’s aware of Iranian state media video threatening the president’s son, Barron Trump, and offering a reward of $10 million.
@@ -232,15 +241,6 @@ Link: https://www.youtube.com/watch?v=adzfCh9j4qk
 ► Watch the Full Video Here: https://youtu.be/Mcg_av0xtOs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=1H73Nh2esOA
-
-### How Much VRAM Will PCs Need To Match Next-Gen Consoles? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=G9b6zf3U19E
 
 ### Gamescom Opening Night Live 2026 w/ Second Wind [9/10]
 **Creator:** Second Wind  
@@ -351,15 +351,6 @@ Link: https://www.youtube.com/watch?v=l0pTZqZWs-c
 An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.
 
 Link: https://www.youtube.com/watch?v=74nF-FWAS6M
-
-### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
-
-Link: https://www.youtube.com/watch?v=gXjurDkYnEM
 
 ### literally how you'll feel on the inside watching the full trailer [8/10]
 **Source:** 20th Century Studios  

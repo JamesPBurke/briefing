@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-26T09:00:37.323347Z",
-  "generatedAtDisplay": "2026-08-26 05:00 AM EDT",
+  "generatedAt": "2026-08-26T14:00:01.295777Z",
+  "generatedAtDisplay": "2026-08-26 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look, Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track, and Metro 2039 is a game about war that actually has something to say.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are At least 22 people dead and hundreds of tourists and locals missing in flash flood on Nepal-Tibet border – latest updates, Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks, and Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What.",
   "mainItems": [
     {
-      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-      "published": "2026-08-26T08:51:30+00:00",
-      "summary": "One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Metro 2039's return to the underground plays like the sneaky FPS you'd expect, but there are still good reasons to leave the beaten track",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track",
-      "published": "2026-08-26T07:01:26+00:00",
-      "summary": "Since I’m apparently now RPS’ Radioactive Eastern Europe correspondent , I recently spent a couple of hours in Metro 2039 , the gloom ‘n’ grit FPS sequel that Ukrainian developers 4A Games have explicitly styled as a return to the series’…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Metro 2039 is a game about war that actually has something to say",
-      "source": "Eurogamer",
+      "title": "At least 22 people dead and hundreds of tourists and locals missing in flash flood on Nepal-Tibet border – latest updates",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer",
-      "published": "2026-08-26T07:01:00+00:00",
-      "summary": "Earlier this year, publisher Deep Silver and developer 4A Studios published a blog post outlining its vision for Metro 2039.",
+      "url": "https://www.theguardian.com/world/live/2026/aug/26/nepal-tibet-himalayas-flash-floods-missing-foreign-tourists-latest-news-updates",
+      "published": "2026-08-26T13:32:15+00:00",
+      "summary": "‘Major casualties’ feared after powerful floods in Himalayan border area sweep away houses, roads and bridges and leave hundreds missing ‘Major casualties’ feared after flash floods along Nepal-Tibet border Tell us: have you been affected…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Iran seeks to criminalise all contact with foreign media in latest ‘chilling’ crackdown",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
-      "published": "2026-08-26T05:00:35+00:00",
-      "summary": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crime Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Two Dan Sullivans to appear on Alaska’s US Senate ballot in November’s midterm elections",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate",
-      "published": "2026-08-26T04:48:55+00:00",
-      "summary": "The incumbent senator Dan S Sullivan has condemned ex-school teacher Dan J Sullivan, claiming he is running at the behest of Democrats to confuse supporters Republican senator Dan S Sullivan will be joined on the November ballot in Alaska…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
-      "published": "2026-08-26T04:00:34+00:00",
-      "summary": "Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Malta’s then PM was instigator A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the charges for the first…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
-      "published": "2026-08-26T04:00:33+00:00",
-      "summary": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s new security…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US halts all immigrant visa applications amid tightening restrictions",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
-      "published": "2026-08-26T01:16:18+00:00",
-      "summary": "Move by state department to limit access is part of Trump’s crackdown on both lawful and undocumented immigration All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "title": "Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "published": "2026-08-25T20:38:37+00:00",
-      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins.",
+      "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+      "published": "2026-08-26T12:59:08+00:00",
+      "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "After a Nearly Six Year Saga, Burlington’s New High School Opens Its Doors",
+      "title": "Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/even-with-human-help-kids-need-motivation-to-use-ai-tutors-the-question-is-what/",
+      "published": "2026-08-26T12:30:00+00:00",
+      "summary": "Artificial intelligence-based tutoring programs promise something schools have long struggled to provide: personalized instruction for every student at a fraction of the cost of traditional 1-on-1 tutoring.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "D&D, LEGO, and mounting ennui: Our biggest games from Gamescom 2026",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/dd-lego-and-mounting-ennui-our-biggest-games-from-gamescom-2026",
+      "published": "2026-08-26T11:23:51+00:00",
+      "summary": "This week, RPS took the downright heroic step of declining to live report on the latest Geoff Keighley trailer bonanza at Gamescom 2026 's Opening Night Live.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Crimson Desert Enhanced is a free upgrade that's out now and revamps the story, adds new skills and comes with all previously-released updates",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/crimson-desert-enhanced-patch-2-00-details",
+      "published": "2026-08-26T11:19:44+00:00",
+      "summary": "Crimson Desert Enhanced was among the more surprising reveals of Gamescom Opening Night Live .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Path of Exile 2 finally has its 1.0 release date and it's coming this year",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date",
+      "published": "2026-08-26T11:03:14+00:00",
+      "summary": "Grinding Gear Games made a surprise Path of Exile 2 announcement at Gamescom Opening Night Live yesterday. The developer confirmed when the game's long-awaited 1.0 release will be. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "published": "2026-08-26T11:00:11+00:00",
+      "summary": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name of a thinktank that does not exist has…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Fewer Teachers, Even Fewer Students: See What’s Happening in 9,500 Districts",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/after-a-nearly-six-year-saga-burlingtons-new-high-school-opens-its-doors/",
-      "published": "2026-08-25T18:30:00+00:00",
-      "summary": "Batula Kassim sat in front of a wall of floor-to-ceiling windows in her school’s new library, the sunlight a welcome contrast to the refurbished Macy’s department store where she spent her freshman year.",
+      "url": "https://www.the74million.org/article/fewer-teachers-even-fewer-students-see-whats-happening-in-9500-districts/",
+      "published": "2026-08-26T10:30:00+00:00",
+      "summary": "Earlier this month, the Bureau of Labor Statistics reported that public education lost 50,000 jobs between June and July. The numbers are preliminary and don’t show which types of jobs were lost.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race",
+      "published": "2026-08-26T09:30:39+00:00",
+      "summary": "Reproductive Freedom for All – one of the country’s oldest pro-choice groups – backs Jackson in his fight against Republican Susan Collins One of the oldest abortion rights groups in the US is endorsing Troy Jackson, the Democratic nominee…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+      "published": "2026-08-26T13:36:50+00:00",
+      "summary": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
+    },
+    {
+      "title": "Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
+      "published": "2026-08-26T13:21:51+00:00",
+      "summary": "An interview with one of the Amazon employees at Amazon’s AI training facility VGT3.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Here Are All the Genre TV Premieres Airing in September!",
@@ -117,27 +127,28 @@
       "score": 8
     },
     {
-      "title": "The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?'",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/",
-      "published": "2026-08-25T13:52:35+00:00",
-      "summary": "Anthony Ralphs has been speaking against Flock at San Diego City Council meetings for almost a year straight. When he showed up as Darth Vader, the world started watching.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+      "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-      "published": "2026-08-25T22:50:57+00:00",
-      "summary": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "published": "2026-08-26T13:33:39+00:00",
+      "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "DeepSeek’s AI Just Learned To Upgrade Itself",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "This Small AI Will Change Everything",
       "source": "Two Minute Papers",
@@ -168,8 +179,8 @@
       "published": "2026-08-25T23:05:34+00:00",
       "summary": "The U.S. Secret Service says it’s aware of Iranian state media video threatening the president’s son, Barron Trump, and offering a reward of $10 million.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Dolly Parton, country music star and cultural icon, dead at 80",
@@ -236,17 +247,6 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "How Much VRAM Will PCs Need To Match Next-Gen Consoles?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=G9b6zf3U19E",
-      "published": "2026-08-23T13:00:11+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Gamescom Opening Night Live 2026 w/ Second Wind",
@@ -345,17 +345,6 @@
       "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
       "published": "2026-08-05T16:00:16+00:00",
       "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
-      "published": "2026-08-05T13:00:08+00:00",
-      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
       "verdict": "Looks promising"
@@ -748,7 +737,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 16,
-    "trailerCount": 29,
+    "trailerCount": 28,
     "sourceCount": 21
   }
 }
