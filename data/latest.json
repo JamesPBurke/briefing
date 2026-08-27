@@ -1,40 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-26T18:00:31.332583Z",
-  "generatedAtDisplay": "2026-08-26 02:00 PM EDT",
+  "generatedAt": "2026-08-27T05:00:03.422190Z",
+  "generatedAtDisplay": "2026-08-27 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Google’s new AI transcription edits out your ‘ums’ and ‘ahs’, Police say more than 100 bodies recovered after flash flood on Nepal-Tibet border with hundreds still missing – latest, and Did School Vaccines Just Become a Campaign Issue?.",
+  "summary": "Today's sweep leans toward AI / computing, AI / privacy, CS education / AI policy. The strongest items in this run are OpenAI’s rogue AI model incident was worse than we thought, The inside story on why OpenAI agents hacked Hugging Face, and Google’s new AI transcription edits out your ‘ums’ and ‘ahs’.",
   "mainItems": [
+    {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "published": "2026-08-26T21:36:06+00:00",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "published": "2026-08-26T17:57:46+00:00",
+      "published": "2026-08-26T18:28:40+00:00",
       "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Police say more than 100 bodies recovered after flash flood on Nepal-Tibet border with hundreds still missing – latest",
+      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/aug/26/nepal-tibet-himalayas-flash-floods-missing-foreign-tourists-latest-news-updates",
-      "published": "2026-08-26T17:39:58+00:00",
-      "summary": "Latest Nepal police update says 157 bodies have been found after powerful floods in Himalayan border area sweep away houses, roads and bridges ‘Major casualties’ feared after flash floods along Nepal-Tibet border Tell us: have you been…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+      "published": "2026-08-26T20:30:49+00:00",
+      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
-      "title": "Did School Vaccines Just Become a Campaign Issue?",
-      "source": "The 74",
+      "title": "A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government",
+      "source": "404 Media",
+      "category": "CS education / AI policy",
+      "url": "https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/",
+      "published": "2026-08-26T19:46:56+00:00",
+      "summary": "Weiheng Zeng originally said he took photos of planes for an aviation fan website. Later he admitted a suspected Chinese government official had given him specific locations in the U.S. to go photograph.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/did-school-vaccines-just-become-a-campaign-issue/",
-      "published": "2026-08-26T16:30:00+00:00",
-      "summary": "Mandated vaccines for school attendance—and a parent’s ability to reject those vaccines— may have been injected into the race for Florida governor. With five months left before he’s term limited out of office, the administration of Gov.",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "published": "2026-08-26T19:18:23+00:00",
+      "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Dark Souls meets Weird West in Guns of Eschaton, and it's a refreshing FPS shake-up for the well-worn formula - even if it's a bit bloody hard",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/guns-of-eschaton-preview",
+      "published": "2026-08-26T18:30:00+00:00",
+      "summary": "Look, I'll level with you: I was rubbish at Guns of Eschaton during my recent hands-on time. There are some very obvious reasons for that - it's a hard game that doesn't currently especially explain itself very well, for one.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Ohio Won’t Approve Weak Credentials That Students Use as ‘Shortcut’ to Graduate",
@@ -44,77 +84,37 @@
       "published": "2026-08-26T14:30:00+00:00",
       "summary": "Hoping to make sure high school students don’t waste time earning career credentials that won’t help them find jobs, Ohio is slashing the credentials counted towards graduation, axing easy ones that thousands of students earn, but don’t…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "You can now buy music on SoundCloud",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
-      "published": "2026-08-26T14:09:35+00:00",
-      "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/even-with-human-help-kids-need-motivation-to-use-ai-tutors-the-question-is-what/",
-      "published": "2026-08-26T12:30:00+00:00",
-      "summary": "Artificial intelligence-based tutoring programs promise something schools have long struggled to provide: personalized instruction for every student at a fraction of the cost of traditional 1-on-1 tutoring.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "title": "Nepal flash flood live updates: more than 1,000 people missing after glacial collapse at Tibet border",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "published": "2026-08-26T11:00:11+00:00",
-      "summary": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name of a thinktank that does not exist has…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+      "published": "2026-08-27T04:42:14+00:00",
+      "summary": "At least 165 people have died, while officials say hundreds of foreign nationals from India, the US, UK, Australia, Malaysia and Ukraine among those missing.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 8
     },
     {
-      "title": "Fewer Teachers, Even Fewer Students: See What’s Happening in 9,500 Districts",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/fewer-teachers-even-fewer-students-see-whats-happening-in-9500-districts/",
-      "published": "2026-08-26T10:30:00+00:00",
-      "summary": "Earlier this month, the Bureau of Labor Statistics reported that public education lost 50,000 jobs between June and July. The numbers are preliminary and don’t show which types of jobs were lost.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "Recalls paint only part of the food safety picture",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5943195/recalls-paint-only-part-of-the-food-safety-picture",
+      "published": "2026-08-26T19:38:22+00:00",
+      "summary": "Recalls of lettuce, jalapeno peppers and eggs because of foodborne illness outbreaks have put a spotlight on the safety of the U.S. food supply. How much do the recalls tell us?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "A new stamp on cyberfraud prevention",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "published": "2026-08-26T13:37:15+00:00",
-      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "Read an Excerpt From The Lost Spectacular by Zoé Duhaime",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/excerpts-the-lost-spectacular-by-zoe-duhaime/",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Noon Bonaventure and Munro Forrest weren’t always rivals chasing each other through the pages of books… The post Read an Excerpt From The Lost Spectacular by Zoé Duhaime appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }
