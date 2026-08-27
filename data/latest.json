@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-27T09:00:15.276164Z",
-  "generatedAtDisplay": "2026-08-27 05:00 AM EDT",
+  "generatedAt": "2026-08-27T14:00:02.623629Z",
+  "generatedAtDisplay": "2026-08-27 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us, OpenAI’s rogue AI model incident was worse than we thought, and How the deadly Nepal and Tibet flash flood unfolded – a visual guide.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow – US politics live, Hiker reunited with backpack 60 years after he fell into a glacier in Austria, and Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale.",
   "mainItems": [
+    {
+      "title": "CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
+      "published": "2026-08-27T13:39:44+00:00",
+      "summary": "Kremlin dismisses US media reports after meeting as ‘scare stories’, as Pentagon policy chief prepares to meet Nato secretary general Sign up for the Breaking News US email On Wednesday, Trump officially signed a proclamation on Wednesday…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Hiker reunited with backpack 60 years after he fell into a glacier in Austria",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/27/hiker-backpack-reunited-austria-melting-glacier",
+      "published": "2026-08-27T13:27:23+00:00",
+      "summary": "Bag, camera and pipe belonging to 86-year-old are latest relics uncovered as glaciers melt due to global heating An 86-year-old mountaineer has been reunited with his backpack and climbing equipment after the kit emerged from a melting…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/what-districts-actually-need-to-implement-college-career-pathways-at-scale/",
+      "published": "2026-08-27T12:30:00+00:00",
+      "summary": "In the past five years, there has been a surge in states playing a prominent role in improving outcomes for K-12 students.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "How the deadly Nepal and Tibet flash flood unfolded – a visual guide",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
+      "published": "2026-08-27T12:27:19+00:00",
+      "summary": "US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? At 8.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "published": "2026-08-27T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details",
+      "published": "2026-08-27T10:03:57+00:00",
+      "summary": "UPDATE 11.25AM BST : Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance",
+      "published": "2026-08-27T09:51:21+00:00",
+      "summary": "Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us",
       "source": "Rock Paper Shotgun",
@@ -17,112 +87,32 @@
       "score": 10
     },
     {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "published": "2026-08-27T07:46:20+00:00",
-      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "How the deadly Nepal and Tibet flash flood unfolded – a visual guide",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
-      "published": "2026-08-27T05:19:04+00:00",
-      "summary": "US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? The massive glacial…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The Nazis drove Bauhaus out of town. Now the far right is waging another war against the movement",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/27/the-nazis-drove-bauhaus-out-of-town-now-the-far-right-is-waging-another-war-against-the-movement",
-      "published": "2026-08-27T04:00:07+00:00",
-      "summary": "Poll to take place in Saxony-Anhalt, Germany, where Bauhaus blossomed a century ago – and where AfD is promising ‘patriotic culture policy’ if it wins The city of Dessau, where the Bauhaus design school flourished a century ago, catapulted…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "published": "2026-08-26T20:30:49+00:00",
-      "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government",
-      "source": "404 Media",
-      "category": "CS education / AI policy",
-      "url": "https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/",
-      "published": "2026-08-26T19:46:56+00:00",
-      "summary": "Weiheng Zeng originally said he took photos of planes for an aviation fan website. Later he admitted a suspected Chinese government official had given him specific locations in the U.S. to go photograph.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Resonance: A Plague Tale Legacy review – a competent action game spinoff that loses what made its predecessors unique",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
-      "published": "2026-08-26T16:00:00+00:00",
-      "summary": "For a series about light and dark, it's appropriate that Resonance: A Plague Tale Legacy is a spinoff that's trying to escape the main entries' shadow.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Ohio Won’t Approve Weak Credentials That Students Use as ‘Shortcut’ to Graduate",
+      "title": "Veteran Educator Robert Franklin Wins GOP Runoff for Oklahoma Ed Chief",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/ohio-wont-approve-weak-credentials-that-students-use-as-shortcut-to-graduate/",
-      "published": "2026-08-26T14:30:00+00:00",
-      "summary": "Hoping to make sure high school students don’t waste time earning career credentials that won’t help them find jobs, Ohio is slashing the credentials counted towards graduation, axing easy ones that thousands of students earn, but don’t…",
+      "url": "https://www.the74million.org/article/veteran-educator-robert-franklin-wins-gop-runoff-for-oklahoma-ed-chief/",
+      "published": "2026-08-27T10:30:00+00:00",
+      "summary": "Robert Franklin, a retired Oklahoma educator, was enjoying life as a grandfather and giving lectures on the politics of education when he decided to become a candidate himself.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Recalls paint only part of the food safety picture",
+      "title": "Record cyclosporiasis outbreak and new food recalls raise concerns about food safety",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5943195/recalls-paint-only-part-of-the-food-safety-picture",
-      "published": "2026-08-26T19:38:22+00:00",
-      "summary": "Recalls of lettuce, jalapeno peppers and eggs because of foodborne illness outbreaks have put a spotlight on the safety of the U.S. food supply. How much do the recalls tell us?",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety",
+      "published": "2026-08-27T10:45:27+00:00",
+      "summary": "Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
-      "published": "2026-08-26T13:21:51+00:00",
-      "summary": "An interview with one of the Amazon employees at Amazon’s AI training facility VGT3.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
+      "title": "Nuclear regulator prepares to abandon a decades-old radiation safety rule",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5920368/nuclear-regulator-prepares-to-abandon-decades-old-radiation-safety-rule",
-      "published": "2026-08-27T08:46:59+00:00",
-      "summary": "The Nuclear Regulatory Commission is overhauling its rules for radiation exposure. Some say the changes were long overdue but others worry it could erode safety at nuclear facilities nationwide.",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
+      "published": "2026-08-27T09:00:00+00:00",
+      "summary": "A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     },
@@ -135,6 +125,16 @@
       "summary": "Noon Bonaventure and Munro Forrest weren’t always rivals chasing each other through the pages of books… The post Read an Excerpt From The Lost Spectacular by Zoé Duhaime appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
+    },
+    {
+      "title": "Scientists Discover Vast Underground 'Anomaly' on Mars",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/",
+      "published": "2026-08-26T18:19:46+00:00",
+      "summary": "Scientists have used a novel technique to detect a major temperature asymmetry under the surface of Mars that could shed light on the evolution and past habitability of the red planet.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-08-26T13:10:13+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "This Small AI Will Change Everything",
@@ -161,6 +161,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Why CPU Time ≠ Wall Clock Time! - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=xs5iOwkX9fU",
+      "published": "2026-08-27T13:00:19+00:00",
+      "summary": "The CPU can take time to find out the time, so how does it know the time? Matt Godbolt is the genius behind Compiler Explorer and the Godbolt BBC Micro Emulator, find more from him at godbolt.org Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Expert Answers How Schools Work Around The World",
       "source": "WIRED",
       "category": "Tech / media",
@@ -170,6 +181,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "President Trump wants to control how elections in the U.S. are run, and local officials are worried",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=qTXXWzFkwyQ",
+      "published": "2026-08-27T12:30:30+00:00",
+      "summary": "President Trump has made it clear he wants to control how elections in the U.S. are run. That has the local officials who actually run them worried this midterm year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Tim Curry, known for 'Clue,' 'Annie' and 'The Rocky Horror Picture Show,' dead at 80",
@@ -225,17 +247,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Border Patrol arrests the father of a sailor aboard the long-deployed USS Abraham Lincoln",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=s7AspzFYAqs",
-      "published": "2026-08-24T21:00:25+00:00",
-      "summary": "Immigration authorities arrested the father of a man serving on the USS Abraham Lincoln. DHS confirmed that Border Patrol agents arrested Luis Aviles during a vehicle stop in Key West, Fla., over the weekend. Aviles is from Nicaragua.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
     },
     {
       "title": "Doom Ported To 16-Year-Old Canon DSLR And It's Very Cool!",
@@ -300,8 +311,8 @@
       "published": "2026-08-26T22:08:40+00:00",
       "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.com/app/1971470/Crystals_Of_Irm/ This week on Yahtzee Tries...",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Sinking City 2 | Fully Ramblomatic",
@@ -416,17 +427,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Primetime | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
-      "published": "2026-08-06T13:00:36+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
       "source": "NEON",
       "category": "Film / trailer",
@@ -493,6 +493,28 @@
       "verdict": "Optional"
     },
     {
+      "title": "Go Team! | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VSN8YM6urHo",
+      "published": "2026-08-27T13:00:00+00:00",
+      "summary": "Human Resources is pleased to announce the destination for this year's team building. A retreat in the heart of nature, activities, and a unique opportunity to show what you're capable of.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Real Men 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MZIOsmTKlzg",
+      "published": "2026-08-27T10:00:00+00:00",
+      "summary": "Boys are born. Men are made. Real Men 2 from October 7 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Possible Love | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -500,7 +522,7 @@
       "published": "2026-08-26T23:00:01+00:00",
       "summary": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires. By Lee Chang-dong (\"Burning\").",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -600,28 +622,6 @@
       "summary": "Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Bass X Machina | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CWbZBIrEfqI",
-      "published": "2026-08-20T23:30:00+00:00",
-      "summary": "From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LEGO ONE PIECE | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5Z8oBbmkgXo",
-      "published": "2026-08-20T23:20:00+00:00",
-      "summary": "HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -769,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
-    "trailerCount": 27,
-    "sourceCount": 22
+    "youtubeCount": 21,
+    "trailerCount": 26,
+    "sourceCount": 23
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-27T09:00:15.276164Z
+Generated: 2026-08-27T14:00:02.623629Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us, OpenAI’s rogue AI model incident was worse than we thought, and How the deadly Nepal and Tibet flash flood unfolded – a visual guide.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow – US politics live, Hiker reunited with backpack 60 years after he fell into a glacier in Austria, and Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale.
 
 ## Briefing
 
@@ -33,7 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us [10/10]
+### 1. CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Kremlin dismisses US media reports after meeting as ‘scare stories’, as Pentagon policy chief prepares to meet Nato secretary general Sign up for the Breaking News US email On Wednesday, Trump officially signed a proclamation on Wednesday…
+
+Link: https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates
+
+### 2. Hiker reunited with backpack 60 years after he fell into a glacier in Austria [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bag, camera and pipe belonging to 86-year-old are latest relics uncovered as glaciers melt due to global heating An 86-year-old mountaineer has been reunited with his backpack and climbing equipment after the kit emerged from a melting…
+
+Link: https://www.theguardian.com/world/2026/aug/27/hiker-backpack-reunited-austria-melting-glacier
+
+### 3. Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+In the past five years, there has been a surge in states playing a prominent role in improving outcomes for K-12 students.
+
+Link: https://www.the74million.org/article/what-districts-actually-need-to-implement-college-career-pathways-at-scale/
+
+### 4. How the deadly Nepal and Tibet flash flood unfolded – a visual guide [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? At 8.
+
+Link: https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained
+
+### 5. The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/
+
+### 6. Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+UPDATE 11.25AM BST : Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X.
+
+Link: https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details
+
+### 7. GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more
+
+Link: https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance
+
+### 8. GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,106 +105,34 @@ If you think the protagonists of Grand Theft Auto 6 look dull as piping hot ditc
 
 Link: https://www.rockpapershotgun.com/gta-6-life-simulation-elements-confirmed-thank-god-we-can-turn-the-offensively-hot-jason-and-lucia-into-exhausted-slobs-like-the-rest-of-us
 
-### 2. OpenAI’s rogue AI model incident was worse than we thought [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret "message board," and hacked into the internal systems of a…
-
-Link: https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr
-
-### 3. How the deadly Nepal and Tibet flash flood unfolded – a visual guide [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? The massive glacial…
-
-Link: https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained
-
-### 4. The inside story on why OpenAI agents hacked Hugging Face [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.
-
-Link: https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
-
-### 5. The Nazis drove Bauhaus out of town. Now the far right is waging another war against the movement [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Poll to take place in Saxony-Anhalt, Germany, where Bauhaus blossomed a century ago – and where AfD is promising ‘patriotic culture policy’ if it wins The city of Dessau, where the Bauhaus design school flourished a century ago, catapulted…
-
-Link: https://www.theguardian.com/world/2026/aug/27/the-nazis-drove-bauhaus-out-of-town-now-the-far-right-is-waging-another-war-against-the-movement
-
-### 6. Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on…
-
-Link: https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement
-
-### 7. A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government [9/10]
-**Source:** 404 Media  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Weiheng Zeng originally said he took photos of planes for an aviation fan website. Later he admitted a suspected Chinese government official had given him specific locations in the U.S. to go photograph.
-
-Link: https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/
-
-### 8. Resonance: A Plague Tale Legacy review – a competent action game spinoff that loses what made its predecessors unique [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For a series about light and dark, it's appropriate that Resonance: A Plague Tale Legacy is a spinoff that's trying to escape the main entries' shadow.
-
-Link: https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique
-
-### 9. Ohio Won’t Approve Weak Credentials That Students Use as ‘Shortcut’ to Graduate [9/10]
+### 9. Veteran Educator Robert Franklin Wins GOP Runoff for Oklahoma Ed Chief [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Hoping to make sure high school students don’t waste time earning career credentials that won’t help them find jobs, Ohio is slashing the credentials counted towards graduation, axing easy ones that thousands of students earn, but don’t…
+Robert Franklin, a retired Oklahoma educator, was enjoying life as a grandfather and giving lectures on the politics of education when he decided to become a candidate himself.
 
-Link: https://www.the74million.org/article/ohio-wont-approve-weak-credentials-that-students-use-as-shortcut-to-graduate/
+Link: https://www.the74million.org/article/veteran-educator-robert-franklin-wins-gop-runoff-for-oklahoma-ed-chief/
 
-### 10. Recalls paint only part of the food safety picture [8/10]
+### 10. Record cyclosporiasis outbreak and new food recalls raise concerns about food safety [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Recalls of lettuce, jalapeno peppers and eggs because of foodborne illness outbreaks have put a spotlight on the safety of the U.S. food supply. How much do the recalls tell us?
+Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.
 
-Link: https://www.npr.org/2026/08/26/nx-s1-5943195/recalls-paint-only-part-of-the-food-safety-picture
+Link: https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety
 
-### 11. Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-An interview with one of the Amazon employees at Amazon’s AI training facility VGT3.
-
-Link: https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/
-
-### 12. Nuclear regulator prepares to abandon decades-old radiation safety rule [7/10]
+### 11. Nuclear regulator prepares to abandon a decades-old radiation safety rule [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The Nuclear Regulatory Commission is overhauling its rules for radiation exposure. Some say the changes were long overdue but others worry it could erode safety at nuclear facilities nationwide.
+A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.
 
-Link: https://www.npr.org/2026/08/27/nx-s1-5920368/nuclear-regulator-prepares-to-abandon-decades-old-radiation-safety-rule
+Link: https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update
 
-### 13. Read an Excerpt From The Lost Spectacular by Zoé Duhaime [7/10]
+### 12. Read an Excerpt From The Lost Spectacular by Zoé Duhaime [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -150,11 +141,20 @@ Noon Bonaventure and Munro Forrest weren’t always rivals chasing each other th
 
 Link: https://reactormag.com/excerpts-the-lost-spectacular-by-zoe-duhaime/
 
+### 13. Scientists Discover Vast Underground 'Anomaly' on Mars [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Scientists have used a novel technique to detect a major temperature asymmetry under the surface of Mars that could shed light on the evolution and past habitability of the red planet.
+
+Link: https://www.404media.co/scientists-discover-vast-underground-anomaly-on-mars/
+
 ## YouTube
 
-### DeepSeek’s New AI System Shouldn’t Be Possible [8/10]
+### DeepSeek’s New AI System Shouldn’t Be Possible [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.
@@ -170,6 +170,15 @@ Link: https://www.youtube.com/watch?v=L9mMfAFwbl4
 
 Link: https://www.youtube.com/watch?v=wMl6c_r0ubw
 
+### Why CPU Time ≠ Wall Clock Time! - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The CPU can take time to find out the time, so how does it know the time? Matt Godbolt is the genius behind Compiler Explorer and the Godbolt BBC Micro Emulator, find more from him at godbolt.org Computerphile is supported by Jane Street.
+
+Link: https://www.youtube.com/watch?v=xs5iOwkX9fU
+
 ### Expert Answers How Schools Work Around The World [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -178,6 +187,15 @@ Link: https://www.youtube.com/watch?v=wMl6c_r0ubw
 Author and global education expert Dr. Rebecca Winthrop joins WIRED to answer the internet’s burning questions about the future of global education.
 
 Link: https://www.youtube.com/watch?v=vnGQIQlBja4
+
+### President Trump wants to control how elections in the U.S. are run, and local officials are worried [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump has made it clear he wants to control how elections in the U.S. are run. That has the local officials who actually run them worried this midterm year.
+
+Link: https://www.youtube.com/watch?v=qTXXWzFkwyQ
 
 ### Tim Curry, known for 'Clue,' 'Annie' and 'The Rocky Horror Picture Show,' dead at 80 [9/10]
 **Creator:** NPR  
@@ -224,15 +242,6 @@ Thousands of armed National Guard troops have been patrolling the streets of Was
 
 Link: https://www.youtube.com/watch?v=dv1i5ysSi9w
 
-### Border Patrol arrests the father of a sailor aboard the long-deployed USS Abraham Lincoln [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Immigration authorities arrested the father of a man serving on the USS Abraham Lincoln. DHS confirmed that Border Patrol agents arrested Luis Aviles during a vehicle stop in Key West, Fla., over the weekend. Aviles is from Nicaragua.
-
-Link: https://www.youtube.com/watch?v=s7AspzFYAqs
-
 ### Doom Ported To 16-Year-Old Canon DSLR And It's Very Cool! [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -278,9 +287,9 @@ This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelate
 
 Link: https://www.youtube.com/watch?v=RBIPG_mdbD4
 
-### Yahtzee Tries... Vholume and Combolands [8/10]
+### Yahtzee Tries... Vholume and Combolands [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.com/app/1971470/Crystals_Of_Irm/ This week on Yahtzee Tries...
@@ -406,15 +415,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman 
 
 Link: https://www.youtube.com/watch?v=guKEdb_iRXw
 
-### Primetime | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
-
-Link: https://www.youtube.com/watch?v=5fHXyqQOKL8
-
 ### It Ends- Final Trailer - Now Playing Only in Theaters [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -469,7 +469,25 @@ When the red door opens, Elise will be ready. Lin Shaye breaks down her experien
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 
-### Possible Love | Official Trailer | Netflix [10/10]
+### Go Team! | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Human Resources is pleased to announce the destination for this year's team building. A retreat in the heart of nature, activities, and a unique opportunity to show what you're capable of.
+
+Link: https://www.youtube.com/watch?v=VSN8YM6urHo
+
+### Real Men 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Boys are born. Men are made. Real Men 2 from October 7 only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=MZIOsmTKlzg
+
+### Possible Love | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -558,24 +576,6 @@ Link: https://www.youtube.com/watch?v=Zxu4v1qjssg
 Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.
 
 Link: https://www.youtube.com/watch?v=Ld4PMbghy78
-
-### Bass X Machina | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=CWbZBIrEfqI
-
-### LEGO ONE PIECE | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.
-
-Link: https://www.youtube.com/watch?v=5Z8oBbmkgXo
 
 ### Silo — Planning the Future | Full Episode 8 Scenes | Apple TV [10/10]
 **Source:** Apple TV  
