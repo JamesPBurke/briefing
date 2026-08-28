@@ -1,29 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-28T09:00:20.201623Z",
-  "generatedAtDisplay": "2026-08-28 05:00 AM EDT",
+  "generatedAt": "2026-08-28T14:00:04.236741Z",
+  "generatedAtDisplay": "2026-08-28 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series, Pentagon’s blacklisting of Anthropic was unlawful, US judge rules, and Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Apple TV now costs $14.99 a month after its fourth price hike in four years, GTA VI looks just as great as we could hope for, and \"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail.",
   "mainItems": [
     {
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "published": "2026-08-28T07:50:40+00:00",
-      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.",
+      "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+      "published": "2026-08-28T13:51:04+00:00",
+      "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
-      "published": "2026-08-28T03:34:35+00:00",
-      "summary": "Anthropic ​argued designation as ‘supply chain risk’ could cost the company billions ‌of dollars in lost business ‌and reputational harm A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "GTA VI looks just as great as we could hope for",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+      "published": "2026-08-28T12:21:57+00:00",
+      "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "\"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
+      "published": "2026-08-28T11:23:35+00:00",
+      "summary": "Even as GTA 6 breaks the internet with its vistas of full frontal nudity, poledancers and endless, lustful twerking, another promising open world satire with \"mild nudity\" and some racey encounters has been rendered invisible to a whole…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "New York City Parents Think Their Kids Are on Track in Reading. But Are They?",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/new-york-city-parents-think-their-kids-are-on-track-in-reading-but-are-they/",
+      "published": "2026-08-28T10:30:00+00:00",
+      "summary": "Every year, New York City surveys families, teachers and students about their experience with the public schools.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -34,16 +54,6 @@
       "published": "2026-08-27T21:37:55+00:00",
       "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "GTA VI looks just as great as we could hope for",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
-      "published": "2026-08-27T21:00:45+00:00",
-      "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -67,13 +77,13 @@
       "score": 10
     },
     {
-      "title": "Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6",
-      "published": "2026-08-27T21:10:45+00:00",
-      "summary": "Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Trump’s midterm campaign theme is unrequited love | Sidney Blumenthal",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion",
+      "published": "2026-08-28T10:00:54+00:00",
+      "summary": "The president senses a crisis in his cult of personality. He believes the path to victory is through unwavering devotion Donald Trump has framed his theme for the midterm elections.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -84,16 +94,6 @@
       "published": "2026-08-27T16:30:00+00:00",
       "summary": "Chronic academic underperformance at two Austin public schools has the district in jeopardy of severe state sanctions.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/what-districts-actually-need-to-implement-college-career-pathways-at-scale/",
-      "published": "2026-08-27T12:30:00+00:00",
-      "summary": "In the past five years, there has been a surge in states playing a prominent role in improving outcomes for K-12 students.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -127,17 +127,28 @@
       "score": 8
     },
     {
-      "title": "Record cyclosporiasis outbreak and new food recalls raise concerns about food safety",
+      "title": "Can't stop fixating on the way you look? These 4 mental exercises may help",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety",
-      "published": "2026-08-27T10:45:27+00:00",
-      "summary": "Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
+      "published": "2026-08-28T09:01:00+00:00",
+      "summary": "Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you're struggling with uncomfortable thoughts about your body, ground yourself with these techniques.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "This Free AI Just Caught The Billion Dollar Giants",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "published": "2026-08-28T09:44:44+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
       "source": "Two Minute Papers",
@@ -190,8 +201,8 @@
       "published": "2026-08-27T23:30:46+00:00",
       "summary": "Authorities in Nepal and Tibet say hundreds of bodies have been retrieved after floods gushed through Himalayan river valleys Wednesday. More than 1,000 people are still missing.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump renames Lake Ontario to 'Lake America' amid escalating trade war with Canada",
@@ -201,8 +212,8 @@
       "published": "2026-08-27T21:01:42+00:00",
       "summary": "President Trump signed an executive order Thursday directing the federal government to rename Lake Ontario, which sits between New York and Canada and is the smallest of the great lakes, to “Lake America.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "President Trump wants to control how elections in the U.S. are run, and local officials are worried",
@@ -368,17 +379,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Ruling Our Kingdom With an Iron Fist in Sovereign Tower | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=1o7yFw5zUoQ",
-      "published": "2026-08-25T13:31:28+00:00",
-      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [

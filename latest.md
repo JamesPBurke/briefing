@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-28T09:00:20.201623Z
+Generated: 2026-08-28T14:00:04.236741Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series, Pentagon’s blacklisting of Anthropic was unlawful, US judge rules, and Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Apple TV now costs $14.99 a month after its fourth price hike in four years, GTA VI looks just as great as we could hope for, and "I'm desperately looking for anybody who knows anybody at Valve": open world satire Future? No Thanks! is still locked in Steam horny jail.
 
 ## Briefing
 
@@ -33,34 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series [10/10]
+### 1. Apple TV now costs $14.99 a month after its fourth price hike in four years [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.
+Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99.
 
-Link: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games
+Link: https://www.theverge.com/tech/986130/apple-tv-plus-price-hike
 
-### 2. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Anthropic ​argued designation as ‘supply chain risk’ could cost the company billions ‌of dollars in lost business ‌and reputational harm A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration…
-
-Link: https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai
-
-### 3. Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED.
-
-Link: https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign
-
-### 4. GTA VI looks just as great as we could hope for [10/10]
+### 2. GTA VI looks just as great as we could hope for [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +51,34 @@ Netflix and Rockstar Games finally debuted their "extended look" at Grand Theft 
 
 Link: https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look
 
-### 5. Report: Nvidia to acquire AI model repository Hugging Face for $13 billion [10/10]
+### 3. "I'm desperately looking for anybody who knows anybody at Valve": open world satire Future? No Thanks! is still locked in Steam horny jail [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Even as GTA 6 breaks the internet with its vistas of full frontal nudity, poledancers and endless, lustful twerking, another promising open world satire with "mild nudity" and some racey encounters has been rendered invisible to a whole…
+
+Link: https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail
+
+### 4. New York City Parents Think Their Kids Are on Track in Reading. But Are They? [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Every year, New York City surveys families, teachers and students about their experience with the public schools.
+
+Link: https://www.the74million.org/article/new-york-city-parents-think-their-kids-are-on-track-in-reading-but-are-they/
+
+### 5. Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED.
+
+Link: https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign
+
+### 6. Report: Nvidia to acquire AI model repository Hugging Face for $13 billion [10/10]
 **Source:** Ars Technica  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -78,7 +87,7 @@ Nvidia is nabbing critical infrastructure for open models as interest grows.
 
 Link: https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/
 
-### 6. The Tragedy and Ecstasy of AI Companions (with Bridget Todd) [10/10]
+### 7. The Tragedy and Ecstasy of AI Companions (with Bridget Todd) [10/10]
 **Source:** 404 Media  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,16 +96,16 @@ In her new audiobook, Love at First Prompt: AI and the Future of Intimacy, Bridg
 
 Link: https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/
 
-### 7. Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 8. Trump’s midterm campaign theme is unrequited love | Sidney Blumenthal [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more
+The president senses a crisis in his cult of personality. He believes the path to victory is through unwavering devotion Donald Trump has framed his theme for the midterm elections.
 
-Link: https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6
+Link: https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion
 
-### 8. What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools [9/10]
+### 9. What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -104,15 +113,6 @@ Link: https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6
 Chronic academic underperformance at two Austin public schools has the district in jeopardy of severe state sanctions.
 
 Link: https://www.the74million.org/article/what-to-know-about-state-takeovers-as-texas-wrestles-with-the-future-of-austin-public-schools/
-
-### 9. Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In the past five years, there has been a surge in states playing a prominent role in improving outcomes for K-12 students.
-
-Link: https://www.the74million.org/article/what-districts-actually-need-to-implement-college-career-pathways-at-scale/
 
 ### 10. Judge says Pentagon's measures against Anthropic were 'illegal and baseless' [8/10]
 **Source:** NPR Tech  
@@ -141,16 +141,25 @@ Link: https://reactormag.com/joseph-gordon-levitt-pendulum-trailer/
 
 Link: https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/
 
-### 13. Record cyclosporiasis outbreak and new food recalls raise concerns about food safety [8/10]
+### 13. Can't stop fixating on the way you look? These 4 mental exercises may help [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.
+Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you're struggling with uncomfortable thoughts about your body, ground yourself with these techniques.
 
-Link: https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety
+Link: https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help
 
 ## YouTube
+
+### This Free AI Just Caught The Billion Dollar Giants [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.
+
+Link: https://www.youtube.com/watch?v=LBiNcdGNgrg
 
 ### DeepSeek’s New AI System Shouldn’t Be Possible [7/10]
 **Creator:** Two Minute Papers  
@@ -188,18 +197,18 @@ Author and global education expert Dr. Rebecca Winthrop joins WIRED to answer th
 
 Link: https://www.youtube.com/watch?v=vnGQIQlBja4
 
-### Rescue efforts continue after Wednesday's deadly flash flood along Nepal-Tibet border [8/10]
+### Rescue efforts continue after Wednesday's deadly flash flood along Nepal-Tibet border [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Authorities in Nepal and Tibet say hundreds of bodies have been retrieved after floods gushed through Himalayan river valleys Wednesday. More than 1,000 people are still missing.
 
 Link: https://www.youtube.com/watch?v=DU6RgA2gUU0
 
-### Trump renames Lake Ontario to 'Lake America' amid escalating trade war with Canada [7/10]
+### Trump renames Lake Ontario to 'Lake America' amid escalating trade war with Canada [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump signed an executive order Thursday directing the federal government to rename Lake Ontario, which sits between New York and Canada and is the smallest of the great lakes, to “Lake America.
@@ -340,15 +349,6 @@ Link: https://www.youtube.com/watch?v=pWtH6WrNtDA
 Gamescom is here once again, so join us in our watchalong of Geoff Keighley's big showcase.
 
 Link: https://www.youtube.com/watch?v=dDAmYPBEznM
-
-### Ruling Our Kingdom With an Iron Fist in Sovereign Tower | Hot Monday Energy [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=1o7yFw5zUoQ
 
 ## Entertainment Recommendations
 
