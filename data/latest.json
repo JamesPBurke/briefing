@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-27T18:00:49.493279Z",
-  "generatedAtDisplay": "2026-08-27 02:00 PM EDT",
+  "generatedAt": "2026-08-28T05:00:02.238168Z",
+  "generatedAtDisplay": "2026-08-28 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Trump signs order to rename Lake Ontario as Lake America amid Canada trade war – US politics live, Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal, and What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Pentagon’s blacklisting of Anthropic was unlawful, US judge rules, Ukraine war briefing: Missiles shot down during long Russian attack wave, and Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign.",
   "mainItems": [
     {
-      "title": "Trump signs order to rename Lake Ontario as Lake America amid Canada trade war – US politics live",
+      "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
-      "published": "2026-08-27T17:38:27+00:00",
-      "summary": "President hits out at Canada as he makes latest attempt to rename a landmark Exclusive: Trump’s war on Iran is rapidly draining US navy budget Exclusive: RFK Jr lied in Senate confirmation hearings, newly revealed documents indicate Sign…",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+      "published": "2026-08-28T03:34:35+00:00",
+      "summary": "Anthropic ​argued designation as ‘supply chain risk’ could cost the company billions ‌of dollars in lost business ‌and reputational harm A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget",
-      "published": "2026-08-27T17:00:34+00:00",
-      "summary": "Exclusive: Experts and former officials say accounts are running dry, and funding a war with no clear endgame is the main challenge Donald Trump’s war on Iran has driven the US military into a severe financial crisis, with the US navy…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-to-know-about-state-takeovers-as-texas-wrestles-with-the-future-of-austin-public-schools/",
-      "published": "2026-08-27T16:30:00+00:00",
-      "summary": "Chronic academic underperformance at two Austin public schools has the district in jeopardy of severe state sanctions.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "How the deadly Nepal and Tibet flash flood unfolded – a visual guide",
+      "title": "Ukraine war briefing: Missiles shot down during long Russian attack wave",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
-      "published": "2026-08-27T16:07:50+00:00",
-      "summary": "US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? At 8.",
+      "url": "https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave",
+      "published": "2026-08-28T01:12:08+00:00",
+      "summary": "Drones and missiles target civilian infrastructure of Kyiv and other cities; car bomb kills Russian serviceman in St Petersburg. What we know on day 1,647 Continue reading...",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "published": "2026-08-27T21:37:55+00:00",
+      "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "GTA VI looks just as great as we could hope for",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+      "published": "2026-08-27T21:00:45+00:00",
+      "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "source": "Ars Technica",
+      "category": "AI / open models",
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "published": "2026-08-27T19:55:22+00:00",
+      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
+      "score": 10
+    },
+    {
+      "title": "Every activity we've spotted in GTA 6's extended look trailer and previews so far",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far",
+      "published": "2026-08-27T19:46:00+00:00",
+      "summary": "Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -57,34 +77,14 @@
       "score": 10
     },
     {
-      "title": "US Postal Service says new mail ballot rules tied to Trump order are in effect",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/us-postal-service-mail-ballot-rules-trump-order",
-      "published": "2026-08-27T15:37:15+00:00",
-      "summary": "Move from USPS comes amid Trump administration’s efforts to restrict mail-in voting in November’s midterms The US Postal Service (USPS) said on ​Thursday ‌that ‌new ‌requirements for mail-in ‌voting are ​now ⁠in effect as Donald Trump…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
-      "published": "2026-08-27T14:58:33+00:00",
-      "summary": "The latest special-edition of Google's Fitbit Air is inspired by the Pokémon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "ICE agent charged with Minnesota shooting released from jail in Texas",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/ice-agent-released-texas-minnesota-shooting",
-      "published": "2026-08-27T14:20:49+00:00",
-      "summary": "Judge rules Christian Castro, accused of shooting man and lying about it, cannot be held pending extradition request An Immigration and Customs Enforcement ( ICE ) officer charged with shooting a man and lying about it during the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "56% of Michigan Teachers Are Thinking About Leaving in Five Years, Poll Says",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/56-of-michigan-teachers-are-thinking-about-leaving-in-five-years-poll-says/",
+      "published": "2026-08-27T18:30:00+00:00",
+      "summary": "Most Michigan teachers feel deeply dedicated to their profession, but a quarter of them are considering leaving the profession within a year, and 56% might leave within five years. Those are the results of a new poll released Tuesday.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale",
@@ -94,27 +94,37 @@
       "published": "2026-08-27T12:30:00+00:00",
       "summary": "In the past five years, there has been a surge in states playing a prominent role in improving outcomes for K-12 students.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Businesses Go Viral for Making Signs Without AI",
+      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+      "published": "2026-08-28T04:25:08+00:00",
+      "summary": "A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use. The government is expected to fight the ruling.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Joseph Gordon-Levitt Is On the Worst Retreat Ever in Pendulum Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/joseph-gordon-levitt-pendulum-trailer/",
+      "published": "2026-08-27T18:59:22+00:00",
+      "summary": "Writer-director Mark Heyman also wrote the script for Black Swan, so you can guess the vibes The post Joseph Gordon-Levitt Is On the Worst Retreat Ever in Pendulum Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "The AI ‘Ghosts’ Contaminating Academic Publishing",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/businesses-go-viral-for-making-signs-without-ai/",
-      "published": "2026-08-27T14:34:03+00:00",
-      "summary": "In the wake of the ChatGPT flyer pandemic, some businesses are differentiating themselves by making signs the old school way.",
+      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+      "published": "2026-08-27T18:14:29+00:00",
+      "summary": "“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/west-point-climate-scientist-fired",
-      "published": "2026-08-27T14:15:02+00:00",
-      "summary": "Adam Kalkstein compared administration’s order to ‘trying to teach the law’ without mentioning ‘the constitution’ The only climate scientist teaching at West Point, the US army’s military academy, was fired after he resisted an order to…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Record cyclosporiasis outbreak and new food recalls raise concerns about food safety",
@@ -125,20 +135,56 @@
       "summary": "Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Nuclear regulator prepares to abandon a decades-old radiation safety rule",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
-      "published": "2026-08-27T09:00:00+00:00",
-      "summary": "A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Fjord - Official Trailer - In Theaters October 9",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=frg59VOungA",
+      "published": "2026-08-27T16:00:28+00:00",
+      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +296,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "youtubeCount": 1,
+    "trailerCount": 3,
+    "sourceCount": 11
   }
 }

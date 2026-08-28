@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-27T18:00:49.493279Z
+Generated: 2026-08-28T05:00:02.238168Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Trump signs order to rename Lake Ontario as Lake America amid Canada trade war – US politics live, Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal, and What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Pentagon’s blacklisting of Anthropic was unlawful, US judge rules, Ukraine war briefing: Missiles shot down during long Russian attack wave, and Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign.
 
 ## Briefing
 
@@ -33,43 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump signs order to rename Lake Ontario as Lake America amid Canada trade war – US politics live [10/10]
+### 1. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-President hits out at Canada as he makes latest attempt to rename a landmark Exclusive: Trump’s war on Iran is rapidly draining US navy budget Exclusive: RFK Jr lied in Senate confirmation hearings, newly revealed documents indicate Sign…
+Anthropic ​argued designation as ‘supply chain risk’ could cost the company billions ‌of dollars in lost business ‌and reputational harm A US federal judge ruled Thursday that sanctions imposed in February by the Trump administration…
 
-Link: https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates
+Link: https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai
 
-### 2. Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Exclusive: Experts and former officials say accounts are running dry, and funding a war with no clear endgame is the main challenge Donald Trump’s war on Iran has driven the US military into a severe financial crisis, with the US navy…
-
-Link: https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget
-
-### 3. What to Know About State Takeovers as Texas Wrestles With the Future of Austin Public Schools [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Chronic academic underperformance at two Austin public schools has the district in jeopardy of severe state sanctions.
-
-Link: https://www.the74million.org/article/what-to-know-about-state-takeovers-as-texas-wrestles-with-the-future-of-austin-public-schools/
-
-### 4. How the deadly Nepal and Tibet flash flood unfolded – a visual guide [10/10]
+### 2. Ukraine war briefing: Missiles shot down during long Russian attack wave [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US Geological Survey says massive glacial collapse caused catastrophic flash floods in the Himalayan border region of Nepal ⁠and Tibet Follow latest updates live Tell us: have you been affected by the flash floods? At 8.
+Drones and missiles target civilian infrastructure of Kyiv and other cities; car bomb kills Russian serviceman in St Petersburg. What we know on day 1,647 Continue reading...
 
-Link: https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained
+Link: https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave
 
-### 5. The Tragedy and Ecstasy of AI Companions (with Bridget Todd) [10/10]
+### 3. Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED.
+
+Link: https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign
+
+### 4. GTA VI looks just as great as we could hope for [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Netflix and Rockstar Games finally debuted their "extended look" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes.
+
+Link: https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look
+
+### 5. Report: Nvidia to acquire AI model repository Hugging Face for $13 billion [10/10]
+**Source:** Ars Technica  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
+
+Nvidia is nabbing critical infrastructure for open models as interest grows.
+
+Link: https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/
+
+### 6. Every activity we've spotted in GTA 6's extended look trailer and previews so far [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences.
+
+Link: https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far
+
+### 7. The Tragedy and Ecstasy of AI Companions (with Bridget Todd) [10/10]
 **Source:** 404 Media  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -78,34 +96,16 @@ In her new audiobook, Love at First Prompt: AI and the Future of Intimacy, Bridg
 
 Link: https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/
 
-### 6. US Postal Service says new mail ballot rules tied to Trump order are in effect [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. 56% of Michigan Teachers Are Thinking About Leaving in Five Years, Poll Says [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Move from USPS comes amid Trump administration’s efforts to restrict mail-in voting in November’s midterms The US Postal Service (USPS) said on ​Thursday ‌that ‌new ‌requirements for mail-in ‌voting are ​now ⁠in effect as Donald Trump…
+Most Michigan teachers feel deeply dedicated to their profession, but a quarter of them are considering leaving the profession within a year, and 56% might leave within five years. Those are the results of a new poll released Tuesday.
 
-Link: https://www.theguardian.com/us-news/2026/aug/27/us-postal-service-mail-ballot-rules-trump-order
+Link: https://www.the74million.org/article/56-of-michigan-teachers-are-thinking-about-leaving-in-five-years-poll-says/
 
-### 7. Google launches Pokémon Sleep special-edition Fitbit Air [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The latest special-edition of Google's Fitbit Air is inspired by the Pokémon Sleep game, with a "Sleepy Blue" band emblazoned with a snoozing Pikachu.
-
-Link: https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep
-
-### 8. ICE agent charged with Minnesota shooting released from jail in Texas [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Judge rules Christian Castro, accused of shooting man and lying about it, cannot be held pending extradition request An Immigration and Customs Enforcement ( ICE ) officer charged with shooting a man and lying about it during the…
-
-Link: https://www.theguardian.com/us-news/2026/aug/27/ice-agent-released-texas-minnesota-shooting
-
-### 9. Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale [10/10]
+### 9. Opinion: What Districts Actually Need to Implement College & Career Pathways at Scale [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -114,25 +114,34 @@ In the past five years, there has been a surge in states playing a prominent rol
 
 Link: https://www.the74million.org/article/what-districts-actually-need-to-implement-college-career-pathways-at-scale/
 
-### 10. Businesses Go Viral for Making Signs Without AI [9/10]
+### 10. Judge says Pentagon's measures against Anthropic were 'illegal and baseless' [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use. The government is expected to fight the ruling.
+
+Link: https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal
+
+### 11. Joseph Gordon-Levitt Is On the Worst Retreat Ever in Pendulum Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Writer-director Mark Heyman also wrote the script for Black Swan, so you can guess the vibes The post Joseph Gordon-Levitt Is On the Worst Retreat Ever in Pendulum Trailer appeared first on Reactor .
+
+Link: https://reactormag.com/joseph-gordon-levitt-pendulum-trailer/
+
+### 12. The AI ‘Ghosts’ Contaminating Academic Publishing [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-In the wake of the ChatGPT flyer pandemic, some businesses are differentiating themselves by making signs the old school way.
+“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.
 
-Link: https://www.404media.co/businesses-go-viral-for-making-signs-without-ai/
+Link: https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/
 
-### 11. West Point’s only climate scientist fired after continuing to teach human causes of climate change [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Adam Kalkstein compared administration’s order to ‘trying to teach the law’ without mentioning ‘the constitution’ The only climate scientist teaching at West Point, the US army’s military academy, was fired after he resisted an order to…
-
-Link: https://www.theguardian.com/us-news/2026/aug/27/west-point-climate-scientist-fired
-
-### 12. Record cyclosporiasis outbreak and new food recalls raise concerns about food safety [8/10]
+### 13. Record cyclosporiasis outbreak and new food recalls raise concerns about food safety [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +150,69 @@ Amid a record-setting outbreak of the diarrhea-causing parasite, food safety adv
 
 Link: https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety
 
-### 13. Nuclear regulator prepares to abandon a decades-old radiation safety rule [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+## YouTube
 
-A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.
+### DeepSeek’s New AI System Shouldn’t Be Possible [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
 
-Link: https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.
+
+Link: https://www.youtube.com/watch?v=L9mMfAFwbl4
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### Fjord - Official Trailer - In Theaters October 9 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.
+
+Link: https://www.youtube.com/watch?v=frg59VOungA
+
+### It Ends- Final Trailer - Now Playing Only in Theaters [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.
+
+Link: https://www.youtube.com/watch?v=9k7jckaHeuA
+
+### Paper Tiger - Official Teaser Trailer - In Theaters November [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
+
+Link: https://www.youtube.com/watch?v=ldCb77jXIsM
