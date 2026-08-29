@@ -1,19 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-29T09:00:25.520153Z",
-  "generatedAtDisplay": "2026-08-29 05:00 AM EDT",
+  "generatedAt": "2026-08-29T14:00:03.073616Z",
+  "generatedAtDisplay": "2026-08-29 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham, What we've been playing - \"Forget the classics: remaster the duds\", and Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Security / computing. The strongest items in this run are ‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America, ‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess, and What we've been playing - \"Forget the classics: remaster the duds\".",
   "mainItems": [
     {
-      "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
+      "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "published": "2026-08-29T07:00:21+00:00",
-      "summary": "Country star came to South Yorkshire town in 2007 for UK launch of the Imagination Library, her book donation scheme Shane Jarman was up a ladder decorating a Christmas tree at the school where he was deputy headteacher when he got a call…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+      "published": "2026-08-29T12:02:55+00:00",
+      "summary": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it means…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+      "published": "2026-08-29T12:00:27+00:00",
+      "summary": "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt History remembers Gen Dwight Eisenhower , the supreme commander of the allied forces in Europe during the second…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -27,63 +37,53 @@
       "score": 10
     },
     {
-      "title": "Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/29/blind-date-mike-caterina",
-      "published": "2026-08-29T05:00:20+00:00",
-      "summary": "Mike, 37, a scientific editor, meets Caterina, 35, a teacher What were you hoping for? Good company, nice food and an interesting evening with someone new. I got everything I hoped for. Continue reading...",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Hilarity, unease and relief: games show China is not over the finish line in humanoid robot race",
+      "title": "Faster, higher, funnier: what we learned from China’s robot games",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
       "published": "2026-08-29T05:00:19+00:00",
-      "summary": "World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd…",
+      "summary": "Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rear With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Milo Yiannopoulos, a far-right political commentator, detained by ICE",
+      "title": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
+      "published": "2026-08-29T13:33:29+00:00",
+      "summary": "Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speeches A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "published": "2026-08-29T12:09:49+00:00",
+      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "US officials urge swimmers to be cautious amid surge in drowning deaths",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice",
-      "published": "2026-08-28T21:13:39+00:00",
-      "summary": "A former editor of Breitbart News, Yiannopoulos has also served as an intern for Marjorie Taylor Greene Milo Yiannopoulos, a far-right British political commentator, was detained by Immigration and Customs Enforcement in Louisiana,…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave",
+      "published": "2026-08-29T12:00:28+00:00",
+      "summary": "Recent deadly water-related incidents amid heatwave leads National Park Service to issue water-safety reminders As a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Google further buries search results under AI mode",
-      "source": "The Verge",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "published": "2026-08-28T22:48:11+00:00",
-      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "published": "2026-08-29T10:50:31+00:00",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Papercraft Action Horror Title ‘Cutout’ Unveiled at Gamescom [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3965661/papercraft-action-horror-title-cutout-unveiled-at-gamescom-trailer/",
-      "published": "2026-08-28T17:30:09+00:00",
-      "summary": "During the Find Your Next Game (FYNG) showcase at Gamescom 2026, Italian indie studio 906 Games and publisher Big Blue Sky Games revealed Cutout, their upcoming side-scrolling action-horror adventure set in a grim fairy tale world…",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Leaked footage of EA's long-silent Iron Man game comes blasting onto the helicarrier, showing off WIP combat, characters and customisation",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/leaked-footage-of-eas-long-silent-iron-man-game-comes-blasting-onto-the-helicarrier-showing-off-combat-characters-and-customisation",
-      "published": "2026-08-28T17:08:07+00:00",
-      "summary": "I am TONY STARK... and my brassy crimson pantaloons may have sprung a few leaks. A work-in-progress trailer for Marvel's Iron Man, an air-capable action game in development at EA Motive, has appeared online.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,43 +97,43 @@
       "score": 9
     },
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "published": "2026-08-28T11:18:29+00:00",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
+      "published": "2026-08-29T11:40:56+00:00",
+      "summary": "Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "New York City Parents Think Their Kids Are on Track in Reading. But Are They?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/new-york-city-parents-think-their-kids-are-on-track-in-reading-but-are-they/",
-      "published": "2026-08-28T10:30:00+00:00",
-      "summary": "Every year, New York City surveys families, teachers and students about their experience with the public schools.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
+      "title": "Meta's multi-billion settlement launches the next phase of national tech regulation",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
-      "published": "2026-08-28T11:00:00+00:00",
-      "summary": "Men in the tech industry are covering up their legs, even as their counterparts in finance are increasingly open to showing them off.",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5946792/metas-multi-billion-settlement-launches-the-next-phase-of-national-tech-regulation",
+      "published": "2026-08-29T11:40:54+00:00",
+      "summary": "Meta's settlement with states in a child safety case this week had a big payout, but the attorneys general have their eyes on a bigger prize: national regulation of social media companies.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     },
     {
-      "title": "4 ways to cope with constant thoughts about your body image",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
-      "published": "2026-08-28T09:01:00+00:00",
-      "summary": "Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you're struggling with uncomfortable thoughts about your body, ground yourself with these techniques.",
+      "title": "Thousands of Interstellar Objects May Be Lurking in Our Solar System",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
+      "published": "2026-08-29T10:00:27+00:00",
+      "summary": "The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Buddy Takes Barney’s Premise to a Hilariously Bloody Conclusion",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/movie-review-buddy/",
+      "published": "2026-08-28T16:30:07+00:00",
+      "summary": "The latest in a bumper crop of meta horror movies that are actually fun to watch. The post Buddy Takes Barney ’s Premise to a Hilariously Bloody Conclusion appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -146,19 +146,8 @@
       "published": "2026-08-28T09:44:44+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "published": "2026-08-26T13:10:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Why CPU Time ≠ Wall Clock Time! - Computerphile",
@@ -190,8 +179,8 @@
       "published": "2026-08-28T22:40:33+00:00",
       "summary": "Microsoft founder Bill Gates is calling for radical changes in the way the world manages artificial intelligence.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump wanted to destroy Iran's nuclear program. Where do things stand now?",
@@ -824,7 +813,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 21,
     "trailerCount": 30,
     "sourceCount": 22
   }

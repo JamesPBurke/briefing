@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-29T09:00:25.520153Z
+Generated: 2026-08-29T14:00:03.073616Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham, What we've been playing - "Forget the classics: remaster the duds", and Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Security / computing. The strongest items in this run are ‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America, ‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess, and What we've been playing - "Forget the classics: remaster the duds".
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham [10/10]
+### 1. ‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Country star came to South Yorkshire town in 2007 for UK launch of the Imagination Library, her book donation scheme Shane Jarman was up a ladder decorating a Christmas tree at the school where he was deputy headteacher when he got a call…
+Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it means…
 
-Link: https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch
+Link: https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america
 
-### 2. What we've been playing - "Forget the classics: remaster the duds" [10/10]
+### 2. ‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt History remembers Gen Dwight Eisenhower , the supreme commander of the allied forces in Europe during the second…
+
+Link: https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump
+
+### 3. What we've been playing - "Forget the classics: remaster the duds" [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,59 +60,50 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-forget-the-classics-remaster-the-duds
 
-### 3. Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Mike, 37, a scientific editor, meets Caterina, 35, a teacher What were you hoping for? Good company, nice food and an interesting evening with someone new. I got everything I hoped for. Continue reading...
-
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/29/blind-date-mike-caterina
-
-### 4. Hilarity, unease and relief: games show China is not over the finish line in humanoid robot race [10/10]
+### 4. Faster, higher, funnier: what we learned from China’s robot games [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd…
+Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rear With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless…
 
 Link: https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race
 
-### 5. Milo Yiannopoulos, a far-right political commentator, detained by ICE [10/10]
+### 5. Ex-White House teleprompter operator fined $172,000 for Trump speech bets [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speeches A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald…
+
+Link: https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi
+
+### 6. Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6 [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more
+
+Link: https://www.eurogamer.net/squadron-42-delayed-2027-gta-6
+
+### 7. US officials urge swimmers to be cautious amid surge in drowning deaths [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A former editor of Breitbart News, Yiannopoulos has also served as an intern for Marjorie Taylor Greene Milo Yiannopoulos, a far-right British political commentator, was detained by Immigration and Customs Enforcement in Louisiana,…
+Recent deadly water-related incidents amid heatwave leads National Park Service to issue water-safety reminders As a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite…
 
-Link: https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice
+Link: https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave
 
-### 6. Google further buries search results under AI mode [9/10]
-**Source:** The Verge  
+### 8. I asked 100 companies for my data. Some deleted it instead. [9/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable.
+Testing 100 companies found privacy requests often led to confusion and dead ends.
 
-Link: https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand
-
-### 7. Papercraft Action Horror Title ‘Cutout’ Unveiled at Gamescom [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-During the Find Your Next Game (FYNG) showcase at Gamescom 2026, Italian indie studio 906 Games and publisher Big Blue Sky Games revealed Cutout, their upcoming side-scrolling action-horror adventure set in a grim fairy tale world…
-
-Link: https://bloody-disgusting.com/video-games/3965661/papercraft-action-horror-title-cutout-unveiled-at-gamescom-trailer/
-
-### 8. Leaked footage of EA's long-silent Iron Man game comes blasting onto the helicarrier, showing off WIP combat, characters and customisation [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I am TONY STARK... and my brassy crimson pantaloons may have sprung a few leaks. A work-in-progress trailer for Marvel's Iron Man, an air-capable action game in development at EA Motive, has appeared online.
-
-Link: https://www.rockpapershotgun.com/leaked-footage-of-eas-long-silent-iron-man-game-comes-blasting-onto-the-helicarrier-showing-off-combat-characters-and-customisation
+Link: https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/
 
 ### 9. California Bill To Catch Math Struggles in Youngest Kids Heads to Governor’s Desk [9/10]
 **Source:** The 74  
@@ -114,61 +114,52 @@ In a step toward giving math the attention early literacy has gotten, the Legisl
 
 Link: https://www.the74million.org/article/california-bill-to-catch-math-struggles-in-youngest-kids-heads-to-governors-desk/
 
-### 10. Anthropic was illegally blacklisted by the Trump administration, court rules [9/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
-
-### 11. New York City Parents Think Their Kids Are on Track in Reading. But Are They? [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Every year, New York City surveys families, teachers and students about their experience with the public schools.
-
-Link: https://www.the74million.org/article/new-york-city-parents-think-their-kids-are-on-track-in-reading-but-are-they/
-
-### 12. So long to shorts? In Silicon Valley, tech workers are showing less leg [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Men in the tech industry are covering up their legs, even as their counterparts in finance are increasingly open to showing them off.
-
-Link: https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg
-
-### 13. 4 ways to cope with constant thoughts about your body image [7/10]
+### 10. Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you're struggling with uncomfortable thoughts about your body, ground yourself with these techniques.
+Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.
 
-Link: https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help
+Link: https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims
+
+### 11. Meta's multi-billion settlement launches the next phase of national tech regulation [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Meta's settlement with states in a child safety case this week had a big payout, but the attorneys general have their eyes on a bigger prize: national regulation of social media companies.
+
+Link: https://www.npr.org/2026/08/29/nx-s1-5946792/metas-multi-billion-settlement-launches-the-next-phase-of-national-tech-regulation
+
+### 12. Thousands of Interstellar Objects May Be Lurking in Our Solar System [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.
+
+Link: https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/
+
+### 13. Buddy Takes Barney’s Premise to a Hilariously Bloody Conclusion [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The latest in a bumper crop of meta horror movies that are actually fun to watch. The post Buddy Takes Barney ’s Premise to a Hilariously Bloody Conclusion appeared first on Reactor .
+
+Link: https://reactormag.com/movie-review-buddy/
 
 ## YouTube
 
-### The Billion Dollar AI Gap Is Collapsing [9/10]
+### The Billion Dollar AI Gap Is Collapsing [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.
 
 Link: https://www.youtube.com/watch?v=LBiNcdGNgrg
-
-### DeepSeek’s New AI System Shouldn’t Be Possible [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.
-
-Link: https://www.youtube.com/watch?v=L9mMfAFwbl4
 
 ### Why CPU Time ≠ Wall Clock Time! - Computerphile [6/10]
 **Creator:** Computerphile  
@@ -188,9 +179,9 @@ Alex Warren visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=mPYMW0gR-20
 
-### Bill Gates calls for new taxes, regulations on AI [8/10]
+### Bill Gates calls for new taxes, regulations on AI [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Microsoft founder Bill Gates is calling for radical changes in the way the world manages artificial intelligence.
