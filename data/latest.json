@@ -1,38 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-30T09:00:24.935304Z",
-  "generatedAtDisplay": "2026-08-30 05:00 AM EDT",
+  "generatedAt": "2026-08-30T14:00:01.978878Z",
+  "generatedAtDisplay": "2026-08-30 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Iceland appears to have rejected EU accession talks in referendum, reports say, AI chatbots may be better than search engines in guarding against foreign propaganda, and One person killed and multiple wounded in shooting at rave party in Switzerland, police say.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Iceland rejects EU accession talks in referendum, reports say, How schools are handling AI, screen time and slashes to the Department of Education, and Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant.",
   "mainItems": [
     {
-      "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+      "title": "Iceland rejects EU accession talks in referendum, reports say",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "published": "2026-08-30T08:21:33+00:00",
-      "summary": "The no camp looks to have prevailed, holding 52.",
+      "published": "2026-08-30T13:31:53+00:00",
+      "summary": "The no camp has prevailed, holding 52.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-      "published": "2026-08-30T07:00:00+00:00",
-      "summary": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "How schools are handling AI, screen time and slashes to the Department of Education",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5938800/how-schools-are-handling-ai-screen-time-and-slashes-to-the-department-of-education",
+      "published": "2026-08-30T12:19:14+00:00",
+      "summary": "How will changes at the U.S. Department of Education affect schoolchildren this year, what's happening with screentime limits in classrooms, and how are schools adjusting to AI?",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "One person killed and multiple wounded in shooting at rave party in Switzerland, police say",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-      "published": "2026-08-30T06:42:05+00:00",
-      "summary": "Major police response after several people hit by gunfire in incident north of Zurich One person has been killed and five others wounded in a shooting at a rave party in northern Switzerland, local police said on Sunday.",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "published": "2026-08-30T09:37:29+00:00",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a difference It was always going to be a close contest.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,92 +47,92 @@
       "score": 10
     },
     {
-      "title": "Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation",
-      "source": "Rock Paper Shotgun",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/usual-june-mixes-hades-esque-action-crystal-crabs-and-ghosts-to-make-for-a-game-thatll-do-well-in-your-halloween-rotation",
-      "published": "2026-08-29T21:54:13+00:00",
-      "summary": "I've been hungry for an action adventure game recently.",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "published": "2026-08-29T19:49:59+00:00",
+      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet",
-      "source": "Rock Paper Shotgun",
+      "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+      "published": "2026-08-29T17:08:43+00:00",
+      "summary": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet",
-      "published": "2026-08-29T17:31:19+00:00",
-      "summary": "There is a big part of me that doesn't really believe any aspect of Star Citizen is real. It's never really a game I've given all that much of my attention to, the thing gives off pyramid scheme energy in a way I can't quite explain.",
+      "url": "https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr",
+      "published": "2026-08-30T13:47:47+00:00",
+      "summary": "Kinetic Games has released Phasmophobia 's second Quality of Life update, adding a raft of new Restricted maps, streamlined Evidence collection, VR fixes, and considerably more ways to die. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump",
+      "title": "The datacenter fight could permanently transform US politics. Which party will seize advantage?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
-      "published": "2026-08-30T05:00:46+00:00",
-      "summary": "The Canadian PM is one of the few world leaders to stand up to the US president.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
+      "published": "2026-08-30T13:00:57+00:00",
+      "summary": "The movement against datacenters are uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives Bryce Gustafson has been knocking on doors in Indiana for more…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
+      "score": 9
     },
     {
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-      "published": "2026-08-29T20:59:26+00:00",
-      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "title": "Multiple developers report equipment stolen from their Gamescom booths",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gamescom-2026-exhibitors-equipment-stolen-overnight",
+      "published": "2026-08-30T11:38:43+00:00",
+      "summary": "Multiple exhibitors at Gamescom have reported thefts of laptops and other equipment from their booths in Cologne, with one indie developer saying the loss has effectively ended his show early. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
-      "published": "2026-08-29T13:33:29+00:00",
-      "summary": "Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speeches A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
+      "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "published": "2026-08-30T07:00:00+00:00",
+      "summary": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
     },
     {
-      "title": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
-      "published": "2026-08-29T11:40:56+00:00",
-      "summary": "Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.",
+      "title": "Google's Calling Lake Ontario 'Lake America' Now",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/",
+      "published": "2026-08-30T13:20:40+00:00",
+      "summary": "Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Cursive Is Making a Comeback. But Does it Deserve One?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/cursive-is-making-a-comeback-but-does-it-deserve-one/",
-      "published": "2026-08-29T16:30:00+00:00",
-      "summary": "Learning to read and write cursive was once a rite of passage for practically every American schoolchild. Until the early 20th century, children in the U.S.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "published": "2026-08-30T13:00:30+00:00",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
-      "title": "Bloody Disgusting Community Update – Half Star Ratings Are Here!",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/",
-      "published": "2026-08-29T16:00:52+00:00",
-      "summary": "We only have a few updates for the Bloody Disgusting Horror Database and community this week, but we did deliver on one of the most requested features so far: Half star ratings! You can now rate films with a half star rating, and you can…",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "Thousands of Interstellar Objects May Be Lurking in Our Solar System",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
-      "published": "2026-08-29T10:00:27+00:00",
-      "summary": "The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.",
+      "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+      "published": "2026-08-30T09:00:00+00:00",
+      "summary": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -148,17 +148,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Why CPU Time ≠ Wall Clock Time! - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=xs5iOwkX9fU",
-      "published": "2026-08-27T13:00:19+00:00",
-      "summary": "The CPU can take time to find out the time, so how does it know the time? Matt Godbolt is the genius behind Compiler Explorer and the Godbolt BBC Micro Emulator, find more from him at godbolt.org Computerphile is supported by Jane Street.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Alex Warren Answers The Web's Most Searched Questions",
@@ -179,8 +168,8 @@
       "published": "2026-08-29T21:10:29+00:00",
       "summary": "Scientists say people who participate in high intensity interval training, or HIIT, may reap benefits that aren’t seen with other forms of aerobic exercise, according to research published this month by a team of researchers at Rockefeller…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Bill Gates calls for new taxes, regulations on AI",
@@ -289,8 +278,8 @@
       "published": "2026-08-30T01:43:54+00:00",
       "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Five Games I'm Really Excited About From Gamescom | Unpacked",
@@ -769,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 17,
     "trailerCount": 29,
-    "sourceCount": 22
+    "sourceCount": 20
   }
 }

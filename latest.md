@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-30T09:00:24.935304Z
+Generated: 2026-08-30T14:00:01.978878Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Iceland appears to have rejected EU accession talks in referendum, reports say, AI chatbots may be better than search engines in guarding against foreign propaganda, and One person killed and multiple wounded in shooting at rave party in Switzerland, police say.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Iceland rejects EU accession talks in referendum, reports say, How schools are handling AI, screen time and slashes to the Department of Education, and Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant.
 
 ## Briefing
 
@@ -33,32 +33,32 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Iceland appears to have rejected EU accession talks in referendum, reports say [10/10]
+### 1. Iceland rejects EU accession talks in referendum, reports say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The no camp looks to have prevailed, holding 52.
+The no camp has prevailed, holding 52.
 
 Link: https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result
 
-### 2. AI chatbots may be better than search engines in guarding against foreign propaganda [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 2. How schools are handling AI, screen time and slashes to the Department of Education [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
+How will changes at the U.S. Department of Education affect schoolchildren this year, what's happening with screentime limits in classrooms, and how are schools adjusting to AI?
 
-Link: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda
+Link: https://www.npr.org/2026/08/30/nx-s1-5938800/how-schools-are-handling-ai-screen-time-and-slashes-to-the-department-of-education
 
-### 3. One person killed and multiple wounded in shooting at rave party in Switzerland, police say [10/10]
+### 3. Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Major police response after several people hit by gunfire in incident north of Zurich One person has been killed and five others wounded in a shooting at a rave party in northern Switzerland, local police said on Sunday.
+The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a difference It was always going to be a close contest.
 
-Link: https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland
+Link: https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum
 
 ### 4. The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’ [10/10]
 **Source:** The Guardian US  
@@ -69,86 +69,86 @@ Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz A
 
 Link: https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso
 
-### 5. Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation [10/10]
-**Source:** Rock Paper Shotgun  
+### 5. Alt-right troll Milo Yiannopoulos has been deported [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I've been hungry for an action adventure game recently.
+Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK.
 
-Link: https://www.rockpapershotgun.com/usual-june-mixes-hades-esque-action-crystal-crabs-and-ghosts-to-make-for-a-game-thatll-do-well-in-your-halloween-rotation
+Link: https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice
 
-### 6. Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet [9/10]
-**Source:** Rock Paper Shotgun  
+### 6. Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration…
+
+Link: https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk
+
+### 7. Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-There is a big part of me that doesn't really believe any aspect of Star Citizen is real. It's never really a game I've given all that much of my attention to, the thing gives off pyramid scheme energy in a way I can't quite explain.
+Kinetic Games has released Phasmophobia 's second Quality of Life update, adding a raft of new Restricted maps, streamlined Evidence collection, VR fixes, and considerably more ways to die. Read more
 
-Link: https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet
+Link: https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr
 
-### 7. ‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump [8/10]
+### 8. The datacenter fight could permanently transform US politics. Which party will seize advantage? [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The Canadian PM is one of the few world leaders to stand up to the US president.
+The movement against datacenters are uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives Bryce Gustafson has been knocking on doors in Indiana for more…
 
-Link: https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans
 
-### 8. Vicariously hike the Appalachian in the gorgeous A Trail Tale [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. Multiple developers report equipment stolen from their Gamescom booths [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way.
+Multiple exhibitors at Gamescom have reported thefts of laptops and other equipment from their booths in Cologne, with one indie developer saying the loss has effectively ended his show early. Read more
 
-Link: https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale
+Link: https://www.eurogamer.net/gamescom-2026-exhibitors-equipment-stolen-overnight
 
-### 9. Ex-White House teleprompter operator fined $172,000 for Trump speech bets [8/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 10. AI chatbots may be better than search engines in guarding against foreign propaganda [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speeches A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald…
+In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
 
-Link: https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi
+Link: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda
 
-### 10. Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.
-
-Link: https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims
-
-### 11. Cursive Is Making a Comeback. But Does it Deserve One? [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Learning to read and write cursive was once a rite of passage for practically every American schoolchild. Until the early 20th century, children in the U.S.
-
-Link: https://www.the74million.org/article/cursive-is-making-a-comeback-but-does-it-deserve-one/
-
-### 12. Bloody Disgusting Community Update – Half Star Ratings Are Here! [7/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-We only have a few updates for the Bloody Disgusting Horror Database and community this week, but we did deliver on one of the most requested features so far: Half star ratings! You can now rate films with a half star rating, and you can…
-
-Link: https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/
-
-### 13. Thousands of Interstellar Objects May Be Lurking in Our Solar System [7/10]
+### 11. Google's Calling Lake Ontario 'Lake America' Now [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.
+Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.
 
-Link: https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/
+Link: https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/
+
+### 12. Sony Music Publishing and Warner Chappell are suing Anthropic [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
+
+### 13. Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.
+
+Link: https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify
 
 ## YouTube
 
@@ -161,15 +161,6 @@ Link: https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-i
 
 Link: https://www.youtube.com/watch?v=LBiNcdGNgrg
 
-### Why CPU Time ≠ Wall Clock Time! - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The CPU can take time to find out the time, so how does it know the time? Matt Godbolt is the genius behind Compiler Explorer and the Godbolt BBC Micro Emulator, find more from him at godbolt.org Computerphile is supported by Jane Street.
-
-Link: https://www.youtube.com/watch?v=xs5iOwkX9fU
-
 ### Alex Warren Answers The Web's Most Searched Questions [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -179,9 +170,9 @@ Alex Warren visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=mPYMW0gR-20
 
-### Study: HIIT workouts may yield benefits other exercise won't [8/10]
+### Study: HIIT workouts may yield benefits other exercise won't [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Scientists say people who participate in high intensity interval training, or HIIT, may reap benefits that aren’t seen with other forms of aerobic exercise, according to research published this month by a team of researchers at Rockefeller…
@@ -269,9 +260,9 @@ Link: https://www.youtube.com/watch?v=Lt-prLO7Hwc
 
 Link: https://www.youtube.com/watch?v=LVw_oH1noZw
 
-### Forcing KC to Play Smash Ultimate w/ Items | Super Smash Sunday [7/10]
+### Forcing KC to Play Smash Ultimate w/ Items | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
