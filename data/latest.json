@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-30T05:00:03.057630Z",
-  "generatedAtDisplay": "2026-08-30 01:00 AM EDT",
+  "generatedAt": "2026-08-30T09:00:24.935304Z",
+  "generatedAtDisplay": "2026-08-30 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation, Alt-right troll Milo Yiannopoulos has been deported, and Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Iceland appears to have rejected EU accession talks in referendum, reports say, AI chatbots may be better than search engines in guarding against foreign propaganda, and One person killed and multiple wounded in shooting at rave party in Switzerland, police say.",
   "mainItems": [
+    {
+      "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+      "published": "2026-08-30T08:21:33+00:00",
+      "summary": "The no camp looks to have prevailed, holding 52.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "published": "2026-08-30T07:00:00+00:00",
+      "summary": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "One person killed and multiple wounded in shooting at rave party in Switzerland, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
+      "published": "2026-08-30T06:42:05+00:00",
+      "summary": "Major police response after several people hit by gunfire in incident north of Zurich One person has been killed and five others wounded in a shooting at a rave party in northern Switzerland, local police said on Sunday.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
+      "published": "2026-08-30T05:00:48+00:00",
+      "summary": "Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation",
       "source": "Rock Paper Shotgun",
@@ -15,46 +55,6 @@
       "summary": "I've been hungry for an action adventure game recently.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
-    },
-    {
-      "title": "Alt-right troll Milo Yiannopoulos has been deported",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "published": "2026-08-29T19:49:59+00:00",
-      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
-      "published": "2026-08-29T17:08:43+00:00",
-      "summary": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
-      "published": "2026-08-29T15:07:53+00:00",
-      "summary": "Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s body In a recent fundraising email, the Republican candidate for Michigan ’s open US Senate seat, former congressman Mike Rogers,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "LAPD releases footage of death of man whom police handcuffed and beat",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
-      "published": "2026-08-29T19:52:38+00:00",
-      "summary": "Jose Carlos Hoyoz-Munoz was arrested after a family altercation and restrained for ‘combative’ behavior A cadre of Los Angeles police officers beat and restrained a handcuffed man in July, minutes before he was found dead in a jail cell,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
     },
     {
       "title": "Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet",
@@ -67,23 +67,13 @@
       "score": 9
     },
     {
-      "title": "Faster, higher, funnier: what we learned from China’s robot games",
+      "title": "‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-      "published": "2026-08-29T05:00:19+00:00",
-      "summary": "Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rear With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless…",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
+      "published": "2026-08-30T05:00:46+00:00",
+      "summary": "The Canadian PM is one of the few world leaders to stand up to the US president.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Meta settlement could reshape how social media companies treat young users",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5945656/meta-settlement-could-reshape-how-social-media-companies-treat-young-users",
-      "published": "2026-08-29T21:14:05+00:00",
-      "summary": "Meta agreed to billions in payments and new protections for kids. Harvard Law's Leah Plunkett looks at what it could mean for Meta's competitors and for AI companies.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -124,6 +114,16 @@
       "published": "2026-08-29T16:30:00+00:00",
       "summary": "Learning to read and write cursive was once a rite of passage for practically every American schoolchild. Until the early 20th century, children in the U.S.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
+    },
+    {
+      "title": "Bloody Disgusting Community Update – Half Star Ratings Are Here!",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/",
+      "published": "2026-08-29T16:00:52+00:00",
+      "summary": "We only have a few updates for the Bloody Disgusting Horror Database and community this week, but we did deliver on one of the most requested features so far: Half star ratings! You can now rate films with a half star rating, and you can…",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     },
     {
@@ -771,6 +771,6 @@
     "mainCount": 13,
     "youtubeCount": 18,
     "trailerCount": 29,
-    "sourceCount": 21
+    "sourceCount": 22
   }
 }

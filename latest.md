@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-30T05:00:03.057630Z
+Generated: 2026-08-30T09:00:24.935304Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation, Alt-right troll Milo Yiannopoulos has been deported, and Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Iceland appears to have rejected EU accession talks in referendum, reports say, AI chatbots may be better than search engines in guarding against foreign propaganda, and One person killed and multiple wounded in shooting at rave party in Switzerland, police say.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation [10/10]
+### 1. Iceland appears to have rejected EU accession talks in referendum, reports say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The no camp looks to have prevailed, holding 52.
+
+Link: https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result
+
+### 2. AI chatbots may be better than search engines in guarding against foreign propaganda [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
+
+Link: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda
+
+### 3. One person killed and multiple wounded in shooting at rave party in Switzerland, police say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Major police response after several people hit by gunfire in incident north of Zurich One person has been killed and five others wounded in a shooting at a rave party in northern Switzerland, local police said on Sunday.
+
+Link: https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland
+
+### 4. The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.
+
+Link: https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso
+
+### 5. Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -41,42 +77,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 I've been hungry for an action adventure game recently.
 
 Link: https://www.rockpapershotgun.com/usual-june-mixes-hades-esque-action-crystal-crabs-and-ghosts-to-make-for-a-game-thatll-do-well-in-your-halloween-rotation
-
-### 2. Alt-right troll Milo Yiannopoulos has been deported [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK.
-
-Link: https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice
-
-### 3. Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration…
-
-Link: https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk
-
-### 4. Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s body In a recent fundraising email, the Republican candidate for Michigan ’s open US Senate seat, former congressman Mike Rogers,…
-
-Link: https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden
-
-### 5. LAPD releases footage of death of man whom police handcuffed and beat [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Jose Carlos Hoyoz-Munoz was arrested after a family altercation and restrained for ‘combative’ behavior A cadre of Los Angeles police officers beat and restrained a handcuffed man in July, minutes before he was found dead in a jail cell,…
-
-Link: https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death
 
 ### 6. Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet [9/10]
 **Source:** Rock Paper Shotgun  
@@ -87,25 +87,16 @@ There is a big part of me that doesn't really believe any aspect of Star Citizen
 
 Link: https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet
 
-### 7. Faster, higher, funnier: what we learned from China’s robot games [9/10]
+### 7. ‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rear With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless…
+The Canadian PM is one of the few world leaders to stand up to the US president.
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race
+Link: https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump
 
-### 8. Meta settlement could reshape how social media companies treat young users [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Meta agreed to billions in payments and new protections for kids. Harvard Law's Leah Plunkett looks at what it could mean for Meta's competitors and for AI companies.
-
-Link: https://www.npr.org/2026/08/29/nx-s1-5945656/meta-settlement-could-reshape-how-social-media-companies-treat-young-users
-
-### 9. Vicariously hike the Appalachian in the gorgeous A Trail Tale [8/10]
+### 8. Vicariously hike the Appalachian in the gorgeous A Trail Tale [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -114,7 +105,7 @@ I used to be an avid hiker and would try to go backpacking a few times a year. I
 
 Link: https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale
 
-### 10. Ex-White House teleprompter operator fined $172,000 for Trump speech bets [8/10]
+### 9. Ex-White House teleprompter operator fined $172,000 for Trump speech bets [8/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -123,7 +114,7 @@ Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about 
 
 Link: https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi
 
-### 11. Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims [8/10]
+### 10. Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +123,7 @@ Two deaths associated with the measles outbreak in Pennsylvania prompted messagi
 
 Link: https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims
 
-### 12. Cursive Is Making a Comeback. But Does it Deserve One? [7/10]
+### 11. Cursive Is Making a Comeback. But Does it Deserve One? [7/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -140,6 +131,15 @@ Link: https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-i
 Learning to read and write cursive was once a rite of passage for practically every American schoolchild. Until the early 20th century, children in the U.S.
 
 Link: https://www.the74million.org/article/cursive-is-making-a-comeback-but-does-it-deserve-one/
+
+### 12. Bloody Disgusting Community Update – Half Star Ratings Are Here! [7/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+We only have a few updates for the Bloody Disgusting Horror Database and community this week, but we did deliver on one of the most requested features so far: Half star ratings! You can now rate films with a half star rating, and you can…
+
+Link: https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/
 
 ### 13. Thousands of Interstellar Objects May Be Lurking in Our Solar System [7/10]
 **Source:** 404 Media  
