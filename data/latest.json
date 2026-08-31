@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-30T18:00:37.602864Z",
-  "generatedAtDisplay": "2026-08-30 02:00 PM EDT",
+  "generatedAt": "2026-08-31T05:00:02.793231Z",
+  "generatedAtDisplay": "2026-08-31 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Weeks After School’s Closure, Private Student Records Remain in Empty Building, Iceland rejects EU accession talks after divisive referendum campaign, and How schools are handling AI, screen time and slashes to the Department of Education.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages, At least 15 people may be missing after flash flood in Arizona’s Grand Canyon, and Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat.",
   "mainItems": [
+    {
+      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+      "published": "2026-08-31T04:00:17+00:00",
+      "summary": "As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla , a village 15 miles outside…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
+      "published": "2026-08-31T00:01:41+00:00",
+      "summary": "Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say At least 15 people may be missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+      "published": "2026-08-30T20:45:54+00:00",
+      "summary": "Great Park, Irvine, California Performances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwave Shortly after singing the closing notes of her indie pop gem LES…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "published": "2026-08-30T19:36:57+00:00",
+      "summary": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Woodsy cabins, solar-powered hotels and a lux winery: 11 fall getaways for every type of traveler",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/thefilter-us/2026/aug/30/fall-travel-getaway-hotels-cabins-inns",
+      "published": "2026-08-30T19:15:04+00:00",
+      "summary": "Filter contributors share their favorite stays they would book again in a heartbeat, including a Colorado inn and, yes, the Hard Rock hotel in Atlantic City Weekend getaways are not just reserved for the languid months of summer.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "published": "2026-08-30T19:14:08+00:00",
+      "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
     {
       "title": "Weeks After School’s Closure, Private Student Records Remain in Empty Building",
       "source": "The 74",
@@ -14,17 +74,7 @@
       "published": "2026-08-30T16:30:00+00:00",
       "summary": "OKLAHOMA CITY — Confidential student records are sitting in a vacated building nearly eight weeks after a charter school permanently closed its doors, officials from the state and the school said, though both sides disagree on who is at…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Iceland rejects EU accession talks after divisive referendum campaign",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "published": "2026-08-30T14:57:49+00:00",
-      "summary": "Well-funded no camp prevails, winning 52.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "How schools are handling AI, screen time and slashes to the Department of Education",
@@ -34,56 +84,6 @@
       "published": "2026-08-30T12:19:14+00:00",
       "summary": "How will changes at the U.S. Department of Education affect schoolchildren this year, what's happening with screentime limits in classrooms, and how are schools adjusting to AI?",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "The president and the penthouse: how Madrid’s government spent €6.3m on a temporary ‘office’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
-      "published": "2026-08-30T05:00:48+00:00",
-      "summary": "Saga surrounding purchase for outspoken rightwing regional leader Isabel Díaz Ayuso refuses to go away The outspoken rightwing leader of the Madrid region is under growing pressure to explain why her government spent €6.3m (£5.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Alt-right troll Milo Yiannopoulos has been deported",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "published": "2026-08-29T19:49:59+00:00",
-      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-      "published": "2026-08-30T17:16:52+00:00",
-      "summary": "Trump’s threat comes after host described success record of candidates whom president had endorsed as ‘mixed’ Donald Trump ⁠on Sunday said NBC ’s Kristen ‌Welker – host of Meet the Press – should face “rebuke or punishment” from the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
-      "published": "2026-08-30T16:08:17+00:00",
-      "summary": "The movement against datacenters is uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives Bryce Gustafson has been knocking on doors in Indiana for more than…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
-      "published": "2026-08-30T09:37:29+00:00",
-      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a difference It was always going to be a close contest.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -97,24 +97,24 @@
       "score": 9
     },
     {
-      "title": "‘The river has taken everything’: people return to remains of their homes in Nepal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river",
-      "published": "2026-08-30T16:39:38+00:00",
-      "summary": "Precariousness of living in Devighat by the Trishuli River underlined as waters swell again and residents flee to higher ground Nepal-Tibet flash flood – latest updates The bodies continue to wash up.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr",
+      "published": "2026-08-30T13:47:47+00:00",
+      "summary": "Kinetic Games has released Phasmophobia 's second Quality of Life update, adding a raft of new Restricted maps, streamlined Evidence collection, VR fixes, and considerably more ways to die. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "published": "2026-08-30T16:14:46+00:00",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "title": "The sadistic online groomers targeting victims around the world – and a mother’s struggle to keep her daughter safe",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/aug/31/online-extortion-grooming-764-social-media-apps-ntwnfb",
+      "published": "2026-08-30T15:00:02+00:00",
+      "summary": "This month a predator with ties to the online extortion group known as 764 was sentenced to decades in prison.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 7
     },
     {
       "title": "Google's Calling Lake Ontario 'Lake America' Now",
@@ -124,7 +124,7 @@
       "published": "2026-08-30T13:20:40+00:00",
       "summary": "Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
@@ -137,8 +137,461 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "The Billion Dollar AI Gap Is Collapsing",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "published": "2026-08-28T09:44:44+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Study: HIIT workouts may yield benefits other exercise won't",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=KNL4XsJxddA",
+      "published": "2026-08-29T21:10:29+00:00",
+      "summary": "Scientists say people who participate in high intensity interval training, or HIIT, may reap benefits that aren’t seen with other forms of aerobic exercise, according to research published this month by a team of researchers at Rockefeller…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Bill Gates calls for new taxes, regulations on AI",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=G0SwusCj39g",
+      "published": "2026-08-28T22:40:33+00:00",
+      "summary": "Microsoft founder Bill Gates is calling for radical changes in the way the world manages artificial intelligence.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump wanted to destroy Iran's nuclear program. Where do things stand now?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=x6B7z18oWMg",
+      "published": "2026-08-28T21:00:08+00:00",
+      "summary": "The U.S. has been at war with Iran for six months. When the U.S. and Israel began dropping bombs on Iran, President Trump said Iran presented an imminent threat to the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Canadian officials say it will always be known as Lake Ontario in Canada",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=CVwk3Y-pcCA",
+      "published": "2026-08-28T20:05:27+00:00",
+      "summary": "Canadian Prime Minister Mark Carney says no matter what the U.S. calls it, Canadians will know it as Lake Ontario.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Some Americans are being denied entry into Israel. We look into why",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=noDUn_95Xjc",
+      "published": "2026-08-28T18:00:13+00:00",
+      "summary": "Israeli lawyers report that some Americans are being denied entry into Israel. NPR International Correspondent Daniel Estrin is looking into it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "\"Plasma TVs Are The New CRTs\" - Do We Agree?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=VrQVVd2Knqg",
+      "published": "2026-08-30T16:00:01+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/NHTMBTW8lyI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6 Confirmed as 30FPS - But Is That Set In Stone?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=D-e7Nt-rpO8",
+      "published": "2026-08-30T15:00:16+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6 Netflix \"Exclusivity\" - Not A Great Idea + A Missed Opportunity",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=wSxFJO_poqM",
+      "published": "2026-08-29T18:00:18+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Grand Theft Auto 6: The Hype is Real - An Incredible Visual Achievement",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=afHWrCFPhWI",
+      "published": "2026-08-29T15:00:15+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Report: Horizon Hunters Gathering To Lose Live Service Features - And We're Relieved",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Lt-prLO7Hwc",
+      "published": "2026-08-28T16:00:22+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Mcg_av0xtOs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Forcing KC to Play Smash Ultimate w/ Items | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jgN1UU9SQoA",
+      "published": "2026-08-30T18:44:46+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Five Games I'm Really Excited About From Gamescom | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=pJG5qriniuQ",
+      "published": "2026-08-28T15:00:22+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
+      "published": "2026-08-26T21:00:09+00:00",
+      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
+      "published": "2026-08-21T19:12:23+00:00",
+      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fjord - Official Trailer - In Theaters October 9",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=frg59VOungA",
+      "published": "2026-08-27T16:00:28+00:00",
+      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "GOODY GOODY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
+      "published": "2026-08-27T18:00:17+00:00",
+      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
+      "published": "2026-08-18T15:01:18+00:00",
+      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PENNY LANE IS DEAD | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=R4oEHjWY_CU",
+      "published": "2026-08-14T16:32:20+00:00",
+      "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PARASOMNIA | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-tYE5KY0dk4",
+      "published": "2026-08-10T21:00:59+00:00",
+      "summary": "After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
+      "published": "2026-08-17T21:00:24+00:00",
+      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Outside | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9HFLEy-nSro",
+      "published": "2026-08-30T18:00:00+00:00",
+      "summary": "Outside is the Sidemen's latest spin-off, moving the action from Inside's four walls into the forest. A new group of creators battles for a share of £1 million, but every comfort they take eats into the prize pot.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Grand Theft Auto VI: An Extended Look | Now Playing | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=uphThaa97ig",
+      "published": "2026-08-27T19:08:02+00:00",
+      "summary": "See the next evolution in the groundbreaking Grand Theft Auto series. Watch Grand Theft Auto VI: An Extended Look. Now on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stavros Halkias: Uncle Stav | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6mGcxHF7b6k",
+      "published": "2026-08-27T15:30:00+00:00",
+      "summary": "Fresh off becoming an uncle this year, Stavros Halkias is back for his second Netflix special, Uncle Stav.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "UNABOMBER | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
+      "published": "2026-08-27T14:00:00+00:00",
+      "summary": "Inspired by true events, UNABOMBER follows Ted Kaczynski’s (Jacob Tremblay) transformation from Harvard prodigy into the infamous Unabomber.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Go Team! | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VSN8YM6urHo",
+      "published": "2026-08-27T13:00:00+00:00",
+      "summary": "Human Resources is pleased to announce the destination for this year's team building. A retreat in the heart of nature, activities, and a unique opportunity to show what you're capable of.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Real Men 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MZIOsmTKlzg",
+      "published": "2026-08-27T10:00:00+00:00",
+      "summary": "Boys are born. Men are made. Real Men 2 from October 7 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Possible Love | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zd3qXH9qN70",
+      "published": "2026-08-26T23:00:01+00:00",
+      "summary": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires. By Lee Chang-dong (\"Burning\").",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | TITLE ANNOUNCEMENT | NETFLIX",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=hbU1zLAwj3w",
+      "published": "2026-08-26T20:55:34+00:00",
+      "summary": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. Starring Brad Pitt. Written by Quentin Tarantino. Directed by David Fincher. See it first only in IMAX November 25. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wonka's The Golden Ticket | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=kGVuOT6h11c",
+      "published": "2026-08-26T15:00:00+00:00",
+      "summary": "A lifetime supply of money is up for grabs in Wonka’s The Golden Ticket, a new reality competition series, set inside the iconic Chocolate Factory! Who will survive the twists and turns Wonka throws their way? Find out September 23 — and…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Kevin Langue Show and Kevin Langue 2 come to Netflix on September 5th",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8KKx_f_V3Z4",
+      "published": "2026-08-25T18:30:00+00:00",
+      "summary": "Starting September 5th, you can watch The Kevin Langue Show and Kevin Langue 2 on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stranger Things: Tales From ‘85 | Season 2 Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VNW5dSRPg0Q",
+      "published": "2026-08-25T15:00:02+00:00",
+      "summary": "Something is haunting these woods… STRANGER THINGS: TALES FROM ’85 Season 2 premieres September 17, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Raygun: Breaking Badly | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OCZg5l9BfRg",
+      "published": "2026-08-24T16:30:00+00:00",
+      "summary": "When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an avalanche of memes, misinformation, and conspiracy theories followed, all questioning how she reached the Olympic stage. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Gentlemen: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=01IeKpHvgvM",
+      "published": "2026-08-24T14:00:00+00:00",
+      "summary": "Ambition can’t be tamed... With Bobby standing in the way of expanding the criminal empire, Eddie and Susie must decide whether to fall in line or make their own moves.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — The Beginning of the End [SPOILER WARNING] | Season 3 Episode 9 Ending Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xJrnnUsHrZ8",
+      "published": "2026-08-29T16:59:46+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Season 2 Opening Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7D3_67Ds2uE",
+      "published": "2026-08-28T16:59:47+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.co/_DarkMatter One Jason was able to reunite with his family.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 13,
+    "trailerCount": 28,
+    "sourceCount": 20
   }
 }
