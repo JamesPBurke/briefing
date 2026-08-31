@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-31T05:00:02.793231Z
+Generated: 2026-08-31T14:00:02.391810Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages, At least 15 people may be missing after flash flood in Arizona’s Grand Canyon, and Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Nepal rescuers race to reach hundreds feared trapped in hydropower tunnels, ChatGPT to face tougher regulation in the EU, and Georgia police officer put on leave after family’s pet donkey killed during search.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages [10/10]
+### 1. Nepal rescuers race to reach hundreds feared trapped in hydropower tunnels [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As Russia hits another ammunition warehouse, killing at least 38, locals put blame on poorly placed depots It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla , a village 15 miles outside…
+Workers thought to be stuck in underground areas of 11 plants after last week’s devastating flash floods Rescue teams are working to reach more than 900 missing hydropower workers, hundreds of whom are feared trapped in the tunnels and…
 
-Link: https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla
+Link: https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower
 
-### 2. At least 15 people may be missing after flash flood in Arizona’s Grand Canyon [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say At least 15 people may be missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on…
-
-Link: https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated
-
-### 3. Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Great Park, Irvine, California Performances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwave Shortly after singing the closing notes of her indie pop gem LES…
-
-Link: https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo
-
-### 4. Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator Milo Yiannopoulos…
-
-Link: https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation
-
-### 5. Woodsy cabins, solar-powered hotels and a lux winery: 11 fall getaways for every type of traveler [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Filter contributors share their favorite stays they would book again in a heartbeat, including a Colorado inn and, yes, the Hard Rock hotel in Atlantic City Weekend getaways are not just reserved for the languid months of summer.
-
-Link: https://www.theguardian.com/thefilter-us/2026/aug/30/fall-travel-getaway-hotels-cabins-inns
-
-### 6. Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets [9/10]
+### 2. ChatGPT to face tougher regulation in the EU [10/10]
 **Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
+
+### 3. Georgia police officer put on leave after family’s pet donkey killed during search [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Donkey named HeeHaw was shot and killed as authorities reportedly looked on property in search of a missing person A police officer in the US state of Georgia was placed on leave after a family’s pet baby donkey was shot and killed during…
+
+Link: https://www.theguardian.com/us-news/2026/aug/31/georgia-police-officer-on-leave-donkey-killed
+
+### 4. Anthropic sued over alleged theft of ‘tens of thousands’ of songs [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion dollar lawsuit against the…
+
+Link: https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude
+
+### 5. Fable's main story will take around 15 to 20 hours to complete [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox and Playground Games have given a rough idea of how long Fable will take to finish: 15-20 hours. Read more
+
+Link: https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox
+
+### 6. ‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’ As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at Starbucks stores in…
+
+Link: https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires
+
+### 7. Understanding the Benefits and Harms of Elementary AI Usage with Responsible AI Fellow Angela Chavez [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Angela Chavez teaches fifth grade at Computer Science Virtual Academy, where she also serves as a CS for Good Champion....
+
+Link: https://csteachers.org/understanding-the-benefits-and-harms-of-elementary-ai-usage-with-responsible-ai-fellow-angela-chavez/
+
+### 8. Pocket's AI made my game ideas real. Now Meta controls the results. [10/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size.
+Interactive mobile "gizmos" are easy to make, hard to share outside Meta's platform.
 
-Link: https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3
+Link: https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/
 
-### 7. Weeks After School’s Closure, Private Student Records Remain in Empty Building [9/10]
+### 9. The pet I’ll never forget: Jerry, the king of dogs, who taught me how to live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+After a burglary, my parents decided we needed extra security. Jerry was the answer – and this hungry, handsome hound helped us all in countless ways Jerry came into our lives because a burglar had broken in.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/aug/31/the-pet-ill-never-forget-jerry-the-king-of-dogs-who-taught-me-how-to-live
+
+### 10. Weeks After School’s Closure, Private Student Records Remain in Empty Building [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,70 +123,34 @@ OKLAHOMA CITY — Confidential student records are sitting in a vacated building
 
 Link: https://www.the74million.org/article/weeks-after-schools-closure-private-student-records-remain-in-empty-building/
 
-### 8. How schools are handling AI, screen time and slashes to the Department of Education [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Here Are the Winners of the 2026 Hugo Awards [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-How will changes at the U.S. Department of Education affect schoolchildren this year, what's happening with screentime limits in classrooms, and how are schools adjusting to AI?
+On Sunday, the 2026 Hugo Awards were presented at LAcon V, the 84th World Science Fiction Convention.
 
-Link: https://www.npr.org/2026/08/30/nx-s1-5938800/how-schools-are-handling-ai-screen-time-and-slashes-to-the-department-of-education
+Link: https://reactormag.com/2026-hugo-awards-winners/
 
-### 9. We tested how AI chatbots would handle foreign propaganda. They did surprisingly well [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
-
-Link: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda
-
-### 10. Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Kinetic Games has released Phasmophobia 's second Quality of Life update, adding a raft of new Restricted maps, streamlined Evidence collection, VR fixes, and considerably more ways to die. Read more
-
-Link: https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr
-
-### 11. The sadistic online groomers targeting victims around the world – and a mother’s struggle to keep her daughter safe [7/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-This month a predator with ties to the online extortion group known as 764 was sentenced to decades in prison.
-
-Link: https://www.theguardian.com/society/ng-interactive/2026/aug/31/online-extortion-grooming-764-social-media-apps-ntwnfb
-
-### 12. Google's Calling Lake Ontario 'Lake America' Now [7/10]
+### 12. How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.
+Erin West and Paul Raffile went to Nigeria to track down a scammer. They found much more than just his identity.
 
-Link: https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/
+Link: https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/
 
-### 13. Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify [7/10]
+### 13. Dry eyes are common among women. Here's why you shouldn't ignore it [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.
+Dry eyes are a very common chronic eye condition among women in perimenopause and beyond. Here's why you shouldn't ignore it.
 
-Link: https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify
+Link: https://www.npr.org/2026/08/31/nx-s1-5943165/dry-eyes-are-common-among-women-heres-why-you-shouldnt-ignore-it
 
 ## YouTube
-
-### The Billion Dollar AI Gap Is Collapsing [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.
-
-Link: https://www.youtube.com/watch?v=LBiNcdGNgrg
 
 ### Study: HIIT workouts may yield benefits other exercise won't [7/10]
 **Creator:** NPR  
@@ -251,9 +242,18 @@ Link: https://www.youtube.com/watch?v=afHWrCFPhWI
 
 Link: https://www.youtube.com/watch?v=Lt-prLO7Hwc
 
-### Forcing KC to Play Smash Ultimate w/ Items | Super Smash Sunday [7/10]
+### Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=tLlZ0zvbd-o
+
+### Forcing KC to Play Smash Ultimate w/ Items | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
@@ -415,7 +415,7 @@ When the red door opens, Elise will be ready. Lin Shaye breaks down her experien
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 
-### Outside | Official Trailer | Netflix [10/10]
+### Outside | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
