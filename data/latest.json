@@ -1,69 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-01T09:01:00.474099Z",
-  "generatedAtDisplay": "2026-09-01 05:01 AM EDT",
+  "generatedAt": "2026-09-01T14:00:02.105174Z",
+  "generatedAtDisplay": "2026-09-01 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police fatally shoot woman who stabbed two people in Times Square, FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads, and The Google TV Streamer now costs $50 more.",
+  "summary": "Today's sweep leans toward AI / computing, Games / criticism, CS education / AI policy. The strongest items in this run are Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding \"transformation initiative\", Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower, and Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission.",
   "mainItems": [
     {
-      "title": "Police fatally shoot woman who stabbed two people in Times Square",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/new-york-city-stabbing-times-square",
-      "published": "2026-09-01T00:41:45+00:00",
-      "summary": "Pamela Cisneros, 49, was wielding two knives when she stabbed a woman, who died in the hospital, and a man New York City police shot and killed a woman Monday after she stabbed two people in Times Square, city authorities said during a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding \"transformation initiative\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion",
+      "published": "2026-09-01T13:51:29+00:00",
+      "summary": "French game developer and publisher Don't Nod - creator of the Life is Strange series and games like Remember Me , Vampyr , Banishers , Jusant and most recently Aphelion - seems as though it's about to enter another round of layoffs.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-      "published": "2026-08-31T22:45:57+00:00",
-      "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "The Google TV Streamer now costs $50 more",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-      "published": "2026-08-31T22:32:51+00:00",
-      "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US supreme court allows Trump to keep building $400m White House ballroom",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump",
-      "published": "2026-08-31T22:13:12+00:00",
-      "summary": "Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "published": "2026-09-01T13:21:12+00:00",
+      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "‘The Kids Simply Cannot Handle It’: Why New York Students Are Reading Fewer Books",
+      "title": "Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/the-kids-simply-cannot-handle-it-why-new-york-students-are-reading-fewer-books/",
-      "published": "2026-08-31T18:30:00+00:00",
-      "summary": "More than a decade ago, Queens teacher Nicole Radosti Pipia’s fifth- and sixth-grade students seemed to love reading novels in school. “The Giver” by Lois Lowry was prized for its mystery. “Wonder” by R.J.",
+      "url": "https://www.the74million.org/article/helping-students-navigate-college-career-must-become-central-to-k-12s-mission/",
+      "published": "2026-09-01T12:30:00+00:00",
+      "summary": "Policymakers have invested heavily in recent years to create new career pathways for high school students. Career and technical education has expanded dramatically, as have the credentials high schoolers can earn.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "published": "2026-09-01T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+      "published": "2026-09-01T10:04:26+00:00",
+      "summary": "Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workers Nepal-Tibet floods – latest updates Visual guide: How the Nepal-Tibet flash flood unfolded Nepali rescuers have…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
+      "published": "2026-09-01T08:30:51+00:00",
+      "summary": "Security stepped up in Pattaya before arrival of thousands of sailors and marines whose deployment was extended due to US war in Iran Authorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "published": "2026-08-31T18:10:45+00:00",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -77,67 +87,68 @@
       "score": 9
     },
     {
-      "title": "Fable's main story will take around 15 to 20 hours to complete",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox",
-      "published": "2026-08-31T11:05:50+00:00",
-      "summary": "Xbox and Playground Games have given a rough idea of how long Fable will take to finish: 15-20 hours. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Trump’s plan to sell off a part of Yosemite is what oligarchy looks like | Rebecca Solnit",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like",
-      "published": "2026-08-31T10:00:23+00:00",
-      "summary": "Public lands belong to all of us. No one should plunder those lands for profit Do people still say a car was “sold for parts”? Because the US is being sold for parts or just handed over to the oligarchy.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
-      "published": "2026-08-31T20:42:17+00:00",
-      "summary": "The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth?",
+      "title": "This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/",
+      "published": "2026-09-01T13:27:26+00:00",
+      "summary": "I watched Simon Weckert's 'digital camouflage' in action.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+      "title": "The 12 best recipes to bake in September: Time for apples!",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2025/09/02/best-september-recipes",
+      "published": "2026-09-01T13:00:00+00:00",
+      "summary": "It’s finally shoulder season, when summer begins to give way to fall. At the farmers markets there are the last tomatoes and the first apples, cool mornings turn into warm afternoons, and there’s an anticipatory energy in the air.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 8
+    },
+    {
+      "title": "They live by a shrine to a saint. Why are their homes being demolished?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
+      "published": "2026-09-01T11:21:41+00:00",
+      "summary": "The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "'It can outthink me': How a major manufacturer came to embrace AI",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
-      "published": "2026-08-31T20:21:47+00:00",
-      "summary": "Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+      "published": "2026-09-01T09:00:00+00:00",
+      "summary": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "score": 8
     },
     {
-      "title": "Babylon 5 Rewatch: A Call to Arms",
+      "title": "How Many Versions of the X-Men ’97 Theme Does It Take? The Newton Brothers Say Almost a Dozen",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/babylon-5-rewatch-a-call-to-arms/",
-      "published": "2026-08-31T17:00:00+00:00",
-      "summary": "A captain, a thief, and a president are brought together to head off an imminent threat... The post Babylon 5 Rewatch: A Call to Arms appeared first on Reactor .",
+      "url": "https://reactormag.com/how-many-versions-of-the-x-men-97-theme-does-it-take-the-newton-brothers-say-almost-a-dozen/",
+      "published": "2026-09-01T13:30:00+00:00",
+      "summary": "In an interview with Reactor, the Newton Brothers (aka John Andrew Grush and Taylor Newton Stewart) share the nuances that come with scoring an animated series.",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/",
-      "published": "2026-08-31T12:21:57+00:00",
-      "summary": "Erin West and Paul Raffile went to Nigeria to track down a scammer. They found much more than just his identity.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "published": "2026-09-01T09:04:56+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "At least 2 dead, 15 missing after Grand Canyon Flash Flood",
       "source": "NPR",
@@ -227,6 +238,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=2ymWOTwRMfs",
+      "published": "2026-09-01T13:11:24+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Coyote vs. Acme, remember the icon that was Tim Curry, and gab about everything else they've been watching.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Divinum? I Hardly Know'em! | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -234,8 +256,8 @@
       "published": "2026-09-01T01:16:06+00:00",
       "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast",
@@ -392,6 +414,17 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 6,
       "verdict": "Optional"
+    },
+    {
+      "title": "Instadocs: The Decoy Plane | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NKmm-eI3MIw",
+      "published": "2026-09-01T13:30:00+00:00",
+      "summary": "This July, while flying back from a NATO summit in Turkey, President Trump slipped off Air Force One in a catering truck and secretly boarded a different aircraft — leaving traveling reporters to fly on, unaware the president was no longer…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
     },
     {
       "title": "Untold Raygun: Breaking Badly | Sneak Peek | Netflix",
@@ -670,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 12,
-    "trailerCount": 26,
-    "sourceCount": 20
+    "youtubeCount": 14,
+    "trailerCount": 27,
+    "sourceCount": 23
   }
 }

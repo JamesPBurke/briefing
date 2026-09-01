@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-01T09:01:00.474099Z
+Generated: 2026-09-01T14:00:02.105174Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police fatally shoot woman who stabbed two people in Times Square, FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads, and The Google TV Streamer now costs $50 more.
+Today's sweep leans toward AI / computing, Games / criticism, CS education / AI policy. The strongest items in this run are Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding "transformation initiative", Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower, and Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Police fatally shoot woman who stabbed two people in Times Square [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding "transformation initiative" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Pamela Cisneros, 49, was wielding two knives when she stabbed a woman, who died in the hospital, and a man New York City police shot and killed a woman Monday after she stabbed two people in Times Square, city authorities said during a…
+French game developer and publisher Don't Nod - creator of the Life is Strange series and games like Remember Me , Vampyr , Banishers , Jusant and most recently Aphelion - seems as though it's about to enter another round of layoffs.
 
-Link: https://www.theguardian.com/us-news/2026/aug/31/new-york-city-stabbing-times-square
+Link: https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion
 
-### 2. FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads [10/10]
+### 2. Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower [10/10]
 **Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The FTC and 22 state attorneys general are suing Amazon for allegedly using a "secret ad surcharge" to drive up prices for ads on its website and app.
-
-Link: https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit
-
-### 3. The Google TV Streamer now costs $50 more [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price.
-
-Link: https://www.theverge.com/tech/987032/google-tv-streamer-price-increase
-
-### 4. US supreme court allows Trump to keep building $400m White House ballroom [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite…
-
-Link: https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump
-
-### 5. The Hugging Face hack could indicate cultural issues at OpenAI [10/10]
-**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a "real-time generative AI filter for video games" and "motion smoothing for video games, but worse.
 
-Link: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
+Link: https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27
 
-### 6. ‘The Kids Simply Cannot Handle It’: Why New York Students Are Reading Fewer Books [9/10]
+### 3. Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-More than a decade ago, Queens teacher Nicole Radosti Pipia’s fifth- and sixth-grade students seemed to love reading novels in school. “The Giver” by Lois Lowry was prized for its mystery. “Wonder” by R.J.
+Policymakers have invested heavily in recent years to create new career pathways for high school students. Career and technical education has expanded dramatically, as have the credentials high schoolers can earn.
 
-Link: https://www.the74million.org/article/the-kids-simply-cannot-handle-it-why-new-york-students-are-reading-fewer-books/
+Link: https://www.the74million.org/article/helping-students-navigate-college-career-must-become-central-to-k-12s-mission/
 
-### 7. Parents Demanding Tech Opt Outs Take Their Fight to Federal Court [9/10]
+### 4. The Download: engineered microbes for crops, and OpenAI’s culture problem [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/
+
+### 5. Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workers Nepal-Tibet floods – latest updates Visual guide: How the Nepal-Tibet flash flood unfolded Nepali rescuers have…
+
+Link: https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification
+
+### 6. Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Security stepped up in Pattaya before arrival of thousands of sailors and marines whose deployment was extended due to US war in Iran Authorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome…
+
+Link: https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines
+
+### 7. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.
+
+Link: https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/
+
+### 8. Parents Demanding Tech Opt Outs Take Their Fight to Federal Court [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,61 +105,61 @@ Parents pushing back against technology in the classroom have so far directed th
 
 Link: https://www.the74million.org/article/parents-demanding-tech-opt-outs-take-their-fight-to-federal-court/
 
-### 8. Fable's main story will take around 15 to 20 hours to complete [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Xbox and Playground Games have given a rough idea of how long Fable will take to finish: 15-20 hours. Read more
-
-Link: https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox
-
-### 9. Trump’s plan to sell off a part of Yosemite is what oligarchy looks like | Rebecca Solnit [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Public lands belong to all of us. No one should plunder those lands for profit Do people still say a car was “sold for parts”? Because the US is being sold for parts or just handed over to the oligarchy.
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like
-
-### 10. Whatever happened to the U.S. famine alert system that Trump shut down, then reopened [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth?
-
-Link: https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net
-
-### 11. Kalshi bans former congressman George Santos for life after State of the Union trades [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.
-
-Link: https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets
-
-### 12. Babylon 5 Rewatch: A Call to Arms [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-A captain, a thief, and a president are brought together to head off an imminent threat... The post Babylon 5 Rewatch: A Call to Arms appeared first on Reactor .
-
-Link: https://reactormag.com/babylon-5-rewatch-a-call-to-arms/
-
-### 13. How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep [7/10]
+### 9. This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Erin West and Paul Raffile went to Nigeria to track down a scammer. They found much more than just his identity.
+I watched Simon Weckert's 'digital camouflage' in action.
 
-Link: https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/
+Link: https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/
+
+### 10. The 12 best recipes to bake in September: Time for apples! [8/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+It’s finally shoulder season, when summer begins to give way to fall. At the farmers markets there are the last tomatoes and the first apples, cool mornings turn into warm afternoons, and there’s an anticipatory energy in the air.
+
+Link: https://www.kingarthurbaking.com/blog/2025/09/02/best-september-recipes
+
+### 11. They live by a shrine to a saint. Why are their homes being demolished? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.
+
+Link: https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction
+
+### 12. 'It can outthink me': How a major manufacturer came to embrace AI [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.
+
+Link: https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory
+
+### 13. How Many Versions of the X-Men ’97 Theme Does It Take? The Newton Brothers Say Almost a Dozen [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+In an interview with Reactor, the Newton Brothers (aka John Andrew Grush and Taylor Newton Stewart) share the nuances that come with scoring an animated series.
+
+Link: https://reactormag.com/how-many-versions-of-the-x-men-97-theme-does-it-take-the-newton-brothers-say-almost-a-dozen/
 
 ## YouTube
+
+### GLM 5.3: Powerful AI Is Becoming Almost Free [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.
+
+Link: https://www.youtube.com/watch?v=w9RDunJACkc
 
 ### At least 2 dead, 15 missing after Grand Canyon Flash Flood [7/10]
 **Creator:** NPR  
@@ -224,9 +233,18 @@ Link: https://www.youtube.com/watch?v=wSxFJO_poqM
 
 Link: https://www.youtube.com/watch?v=afHWrCFPhWI
 
-### Divinum? I Hardly Know'em! | Hot Monday Energy [7/10]
+### Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Coyote vs. Acme, remember the icon that was Tim Curry, and gab about everything else they've been watching.
+
+Link: https://www.youtube.com/watch?v=2ymWOTwRMfs
+
+### Divinum? I Hardly Know'em! | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
@@ -387,6 +405,15 @@ Link: https://www.youtube.com/watch?v=R4oEHjWY_CU
 When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
+
+### Instadocs: The Decoy Plane | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This July, while flying back from a NATO summit in Turkey, President Trump slipped off Air Force One in a catering truck and secretly boarded a different aircraft — leaving traveling reporters to fly on, unaware the president was no longer…
+
+Link: https://www.youtube.com/watch?v=NKmm-eI3MIw
 
 ### Untold Raygun: Breaking Badly | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
