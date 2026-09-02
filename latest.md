@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-01T18:02:10.475017Z
+Generated: 2026-09-02T05:00:03.593210Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims, ICE holds man with stage 4 cancer in detention despite permanent US residency, and John Deere launched an AI chatbot for farmers.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Google needs Hollywood more than the studios need AI, The rise of AI ‘civilizations’ and the fall of corporate responsibility, and "It's just such a huge galaxy to fill": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox.
 
 ## Briefing
 
@@ -33,52 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workers Nepal-Tibet floods – latest updates Visual guide: How the Nepal-Tibet flash flood unfolded Nepali rescuers have…
-
-Link: https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification
-
-### 2. ICE holds man with stage 4 cancer in detention despite permanent US residency [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-ICE spokesperson says Loreto Javar failed to disclose criminal conviction in Philippines when he applied for visa A 76-year-old man holding permanent US residency and grappling with stage four prostate cancer is reportedly being held in…
-
-Link: https://www.theguardian.com/us-news/2026/sep/01/ice-stage-4-cancer-filipino-national
-
-### 3. John Deere launched an AI chatbot for farmers [10/10]
+### 1. Google needs Hollywood more than the studios need AI [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-John Deere is testing a new "JD" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.
+Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot
+Link: https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai
 
-### 4. US lawmakers demand investigation into Trump administration’s secret surveillance of Americans [10/10]
-**Source:** The Guardian US  
+### 2. The rise of AI ‘civilizations’ and the fall of corporate responsibility [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Exclusive: Two congressmembers respond to revelations of government snooping on journalists, non-profits and unions Two congressional Democrats asked a government watchdog on Tuesday to investigate the Trump administration’s use of an…
+Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI "civilizations.
 
-Link: https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation
+Link: https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack
 
-### 5. Shelly’s new $50 security camera watches your home without a subscription [10/10]
+### 3. "It's just such a huge galaxy to fill": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Total War: Warhammer 40,000 feels like one of those games where you think to yourself, "wait, how doesn't this exist already?" There have been previous Total War: Warhammer games, three of them in fact, but all set in the original, fantasy…
+
+Link: https://www.rockpapershotgun.com/its-just-such-a-huge-galaxy-to-fill-dont-expect-any-total-war-warhammer-40000-sequels-but-do-expect-lots-of-updates-that-builds-upon-its-sandbox
+
+### 4. OpenAI delayed its new model’s development after the Hugging Face hack [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.
+After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog…
 
-Link: https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation
+Link: https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay
 
-### 6. Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission [10/10]
+### 5. Upgrade your at-home coffee game with these easy fixes [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Ditch the daily Starbucks and level up your coffee skill with these upgrades that promise a smoother sip Drip or instant? Our blind taste test and the best instant coffees Sign up for the Filter US newsletter, your weekly guide to buying…
+
+Link: https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades
+
+### 6. Superintendents Want Schools to Change. New Study Examines Why It Doesn’t Happen [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Walk into a public high school in New England, and it will likely look largely the same as it did 50 years ago: a bell schedule, class periods for each academic subject, students sorted into regular and honors tracks, teachers teaching a…
+
+Link: https://www.the74million.org/article/superintendents-want-schools-to-change-new-study-examines-why-it-doesnt-happen/
+
+### 7. Apple accuses OpenAI of destroying evidence [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Apple is pushing for "expedited discovery" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.
+
+Link: https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit
+
+### 8. Opinion: Helping Students Navigate College & Career Must Become Central to K-12’s Mission [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,34 +105,7 @@ Policymakers have invested heavily in recent years to create new career pathways
 
 Link: https://www.the74million.org/article/helping-students-navigate-college-career-must-become-central-to-k-12s-mission/
 
-### 7. US public libraries at ‘breaking point’ amid ideological attacks, report finds [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-PEN America study details verbal and physical threats to librarians, funding cuts and proliferation of book bans Public libraries in the US are “at breaking point” because of an onslaught of political interference, harassment and…
-
-Link: https://www.theguardian.com/us-news/2026/sep/01/us-public-libraries-report
-
-### 8. “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.
-
-Link: https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/
-
-### 9. 3-Year College Degrees Grow More Popular in the U.S., Saving Time and Cash. But Critics Aren’t Sold [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Giles Sims, 34, was sick of getting passed over for jobs because he didn’t have a college degree. But with a wife and a widowed mother to help support, he needed a quick solution.
-
-Link: https://www.the74million.org/article/3-year-college-degrees-grow-more-popular-in-the-us-saving-time-and-cash-but-critics-arent-sold/
-
-### 10. This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras [8/10]
+### 9. This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +114,7 @@ I watched Simon Weckert's 'digital camouflage' in action.
 
 Link: https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/
 
-### 11. The 12 best recipes to bake in September: Time for apples! [8/10]
+### 10. The 12 best recipes to bake in September: Time for apples! [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -132,7 +123,7 @@ It’s finally shoulder season, when summer begins to give way to fall. At the f
 
 Link: https://www.kingarthurbaking.com/blog/2025/09/02/best-september-recipes
 
-### 12. They live by a shrine to a saint. Why are their homes being demolished? [8/10]
+### 11. They live by a shrine to a saint. Why are their homes being demolished? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,7 +132,7 @@ The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as 
 
 Link: https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction
 
-### 13. 'It can outthink me': How a major manufacturer came to embrace AI [8/10]
+### 12. 'It can outthink me': How a major manufacturer came to embrace AI [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -149,3 +140,47 @@ Link: https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destructi
 GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.
 
 Link: https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory
+
+### 13. Horror of Dracula 4K Restoration Coming This October, With Footage Not Seen for 60 Years [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Hammer also recently released a teaser clip of the restored footage, so we can see the difference up close. The post Horror of Dracula 4K Restoration Coming This October, With Footage Not Seen for 60 Years appeared first on Reactor .
+
+Link: https://reactormag.com/horror-of-dracula-4k-restoration-with-newly-uncovered-footage/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

@@ -1,59 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-01T18:02:10.475017Z",
-  "generatedAtDisplay": "2026-09-01 02:02 PM EDT",
+  "generatedAt": "2026-09-02T05:00:03.593210Z",
+  "generatedAtDisplay": "2026-09-02 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims, ICE holds man with stage 4 cancer in detention despite permanent US residency, and John Deere launched an AI chatbot for farmers.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Google needs Hollywood more than the studios need AI, The rise of AI ‘civilizations’ and the fall of corporate responsibility, and \"It's just such a huge galaxy to fill\": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox.",
   "mainItems": [
     {
-      "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
-      "published": "2026-09-01T17:32:40+00:00",
-      "summary": "Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workers Nepal-Tibet floods – latest updates Visual guide: How the Nepal-Tibet flash flood unfolded Nepali rescuers have…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ICE holds man with stage 4 cancer in detention despite permanent US residency",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/ice-stage-4-cancer-filipino-national",
-      "published": "2026-09-01T17:03:39+00:00",
-      "summary": "ICE spokesperson says Loreto Javar failed to disclose criminal conviction in Philippines when he applied for visa A 76-year-old man holding permanent US residency and grappling with stage four prostate cancer is reportedly being held in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
+      "title": "Google needs Hollywood more than the studios need AI",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "published": "2026-09-01T16:30:23+00:00",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "published": "2026-09-01T22:50:29+00:00",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US lawmakers demand investigation into Trump administration’s secret surveillance of Americans",
-      "source": "The Guardian US",
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
-      "published": "2026-09-01T16:11:20+00:00",
-      "summary": "Exclusive: Two congressmembers respond to revelations of government snooping on journalists, non-profits and unions Two congressional Democrats asked a government watchdog on Tuesday to investigate the Trump administration’s use of an…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "published": "2026-09-01T22:20:00+00:00",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Shelly’s new $50 security camera watches your home without a subscription",
+      "title": "\"It's just such a huge galaxy to fill\": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/its-just-such-a-huge-galaxy-to-fill-dont-expect-any-total-war-warhammer-40000-sequels-but-do-expect-lots-of-updates-that-builds-upon-its-sandbox",
+      "published": "2026-09-01T21:54:40+00:00",
+      "summary": "Total War: Warhammer 40,000 feels like one of those games where you think to yourself, \"wait, how doesn't this exist already?\" There have been previous Total War: Warhammer games, three of them in fact, but all set in the original, fantasy…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-      "published": "2026-09-01T15:38:13+00:00",
-      "summary": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "published": "2026-09-01T20:45:49+00:00",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog…",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Upgrade your at-home coffee game with these easy fixes",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades",
+      "published": "2026-09-01T19:15:11+00:00",
+      "summary": "Ditch the daily Starbucks and level up your coffee skill with these upgrades that promise a smoother sip Drip or instant? Our blind taste test and the best instant coffees Sign up for the Filter US newsletter, your weekly guide to buying…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Superintendents Want Schools to Change. New Study Examines Why It Doesn’t Happen",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/superintendents-want-schools-to-change-new-study-examines-why-it-doesnt-happen/",
+      "published": "2026-09-01T18:30:00+00:00",
+      "summary": "Walk into a public high school in New England, and it will likely look largely the same as it did 50 years ago: a bell schedule, class periods for each academic subject, students sorted into regular and honors tracks, teachers teaching a…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "published": "2026-09-01T18:19:26+00:00",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -64,37 +84,7 @@
       "published": "2026-09-01T12:30:00+00:00",
       "summary": "Policymakers have invested heavily in recent years to create new career pathways for high school students. Career and technical education has expanded dramatically, as have the credentials high schoolers can earn.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "US public libraries at ‘breaking point’ amid ideological attacks, report finds",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/us-public-libraries-report",
-      "published": "2026-09-01T12:30:57+00:00",
-      "summary": "PEN America study details verbal and physical threats to librarians, funding cuts and proliferation of book bans Public libraries in the US are “at breaking point” because of an onslaught of political interference, harassment and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
-    },
-    {
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "published": "2026-08-31T18:10:45+00:00",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "3-Year College Degrees Grow More Popular in the U.S., Saving Time and Cash. But Critics Aren’t Sold",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/3-year-college-degrees-grow-more-popular-in-the-us-saving-time-and-cash-but-critics-arent-sold/",
-      "published": "2026-09-01T16:30:00+00:00",
-      "summary": "Giles Sims, 34, was sick of getting passed over for jobs because he didn’t have a college degree. But with a wife and a widowed mother to help support, he needed a quick solution.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
     },
     {
       "title": "This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
@@ -135,6 +125,16 @@
       "summary": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
+    },
+    {
+      "title": "Horror of Dracula 4K Restoration Coming This October, With Footage Not Seen for 60 Years",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/horror-of-dracula-4k-restoration-with-newly-uncovered-footage/",
+      "published": "2026-09-01T19:25:16+00:00",
+      "summary": "Hammer also recently released a teaser clip of the restored footage, so we can see the difference up close. The post Horror of Dracula 4K Restoration Coming This October, With Footage Not Seen for 60 Years appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 9
   }
 }
