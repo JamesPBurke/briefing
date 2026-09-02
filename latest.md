@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-02T09:01:39.280452Z
+Generated: 2026-09-02T14:00:02.421970Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Microsoft is enabling a Windows 11 security feature that can hurt gaming performance, The adult game crackdown is "ridiculous for our art form", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association, and The shadow of the AfD hangs over German democracy – but I still have faith in my adopted country | John Kampfner.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live, New York law requires hairdressers to learn how to work with all hair types, and Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI.
 
 ## Briefing
 
@@ -33,43 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Microsoft is enabling a Windows 11 security feature that can hurt gaming performance [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month.
-
-Link: https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026
-
-### 2. The adult game crackdown is "ridiculous for our art form", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Last year, Australian anti-porn group Collective Shout pressured payment processors , such as Mastercard, Paypal, Visa, and Paysafe Limited to withdraw their services from Steam and Itch.
-
-Link: https://www.rockpapershotgun.com/the-adult-game-crackdown-is-ridiculous-for-our-art-form-say-hellraiser-devs-but-they-think-theyll-survive-thanks-to-that-clive-barker-association
-
-### 3. The shadow of the AfD hangs over German democracy – but I still have faith in my adopted country | John Kampfner [10/10]
+### 1. Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As I celebrate five years of citizenship, the far right is poised to take control in Saxony-Anhalt. Courage is needed to defeat it Two events take place in coming days that will affect my relationship with Germany.
+House minority leader says decision by two Democrats to advance resolution condemning socialism ‘represents significant breach of trust’ Sign up for the US Breaking News email With many Americans facing soaring prices on essentials ranging…
 
-Link: https://www.theguardian.com/commentisfree/2026/sep/02/germany-afd-democracy-country-citizenship-far-right
+Link: https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran
 
-### 4. Google needs Hollywood more than the studios need AI [10/10]
-**Source:** The Verge  
+### 2. New York law requires hairdressers to learn how to work with all hair types [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.
+New law requires cosmetology classes to give instruction on all hair types from the kinkiest to the straightest As of 1 September, a new law in New York state requires hairdressers studying cosmetology to be trained to work with all hair…
 
-Link: https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai
+Link: https://www.theguardian.com/us-news/2026/sep/02/new-york-law-hairdressers-all-hair-types
 
-### 5. Dell’s newest laptop sounds a lot like a MacBook Neo [10/10]
+### 3. Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.
+
+Link: https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting
+
+### 4. Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary .
+
+Link: https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview
+
+### 5. Podcast: We Spoke to an Amazon Worker Destroying Books for AI [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.
+
+Link: https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/
+
+### 6. New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting [10/10]
+**Source:** NPR Tech  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The suits say that recommendations to alert police about the alleged shooter were nixed by the OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.
+
+Link: https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting
+
+### 7. The Download: AI puzzles and a path to our nearest star system [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.
+
+Link: https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
+
+### 8. USS Abraham Lincoln’s crew of 5,000 arrive at notorious Thai resort after 270 days at sea [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Shore leave in Pattaya, known for its red light district, comes after reports of deterioriating living conditions onboard the vessel during record stint Middle East crisis live – latest updates At Pattaya’s Hard Rock Cafe and hotel, the…
+
+Link: https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincolns-crew-arrive-thailand-after-record-stint-at-sea
+
+### 9. Dell’s newest laptop sounds a lot like a MacBook Neo [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,68 +114,32 @@ Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four col
 
 Link: https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs
 
-### 6. "It's just such a huge galaxy to fill": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Total War: Warhammer 40,000 feels like one of those games where you think to yourself, "wait, how doesn't this exist already?" There have been previous Total War: Warhammer games, three of them in fact, but all set in the original, fantasy…
-
-Link: https://www.rockpapershotgun.com/its-just-such-a-huge-galaxy-to-fill-dont-expect-any-total-war-warhammer-40000-sequels-but-do-expect-lots-of-updates-that-builds-upon-its-sandbox
-
-### 7. The Gentlemen season two review – these geezers in tweed are irritating, stupid and extremely funny [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Guy Ritchie’s crime caper is back with the usual hijinks, swearing and men shaking their fists.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/sep/02/the-gentlemen-season-two-review-guy-ritchie-theo-james-netflix
-
-### 8. More school districts are shrinking. New research asks whether closures work [9/10]
-**Source:** NPR Education  
+### 10. The Case for Prioritizing Play in Kindergarten [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-School districts across the country are closing campuses as enrollment falls. New research says the financial savings may be smaller than expected.
+Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.
 
-Link: https://www.npr.org/2026/09/01/nx-s1-5945658-e1/more-school-districts-are-shrinking-new-research-asks-whether-closures-work
+Link: https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/
 
-### 9. OpenAI delayed its new model’s development after the Hugging Face hack [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog…
-
-Link: https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay
-
-### 10. This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-I watched Simon Weckert's 'digital camouflage' in action.
-
-Link: https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/
-
-### 11. The 12 best recipes to bake in September: Time for apples! [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-It’s finally shoulder season, when summer begins to give way to fall. At the farmers markets there are the last tomatoes and the first apples, cool mornings turn into warm afternoons, and there’s an anticipatory energy in the air.
-
-Link: https://www.kingarthurbaking.com/blog/2025/09/02/best-september-recipes
-
-### 12. They live by a shrine to a saint. Why are their homes being demolished? [8/10]
+### 11. Whatever happened to ... children infected with HIV due to failures in healthcare? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.
+For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?
 
-Link: https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction
+Link: https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan
+
+### 12. ‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Sum of $500,000 has been increased as death toll passes 1,000 but specialists decry Trump dismantling of USAID Aid experts have denounced the US’s “embarrassing” and “pitiful” initial response to the Nepal flood disaster after the US state…
+
+Link: https://www.theguardian.com/us-news/2026/sep/02/nepal-flood-aid
 
 ### 13. Horror of Dracula 4K Restoration Coming This October, With Footage Not Seen for 60 Years [7/10]
 **Source:** Reactor  
@@ -152,9 +152,9 @@ Link: https://reactormag.com/horror-of-dracula-4k-restoration-with-newly-uncover
 
 ## YouTube
 
-### GLM 5.3: Powerful AI Is Becoming Almost Free [8/10]
+### GLM 5.3: Powerful AI Is Becoming Almost Free [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.
@@ -170,9 +170,9 @@ Reptile expert Frank Burbrink joins WIRED to answer the internet’s burning que
 
 Link: https://www.youtube.com/watch?v=CsFP6amUgA4
 
-### Whistleblower warns USPS plan for Trump's mail voting order could 'derail' midterms [9/10]
+### Whistleblower warns USPS plan for Trump's mail voting order could 'derail' midterms [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The U.S. Postal Service could "derail" the midterm election if it continues rushing out "untested" technology as part of President Trump's push to restrict mail-in voting, a newly released whistleblower report warns.
@@ -251,9 +251,9 @@ Link: https://www.youtube.com/watch?v=VrQVVd2Knqg
 
 Link: https://www.youtube.com/watch?v=D-e7Nt-rpO8
 
-### Just Kidding, It's Big Walk w/ Jack and Jenna [8/10]
+### Just Kidding, It's Big Walk w/ Jack and Jenna [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.
@@ -451,7 +451,16 @@ When the red door opens, Elise will be ready. Lin Shaye breaks down her experien
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 
-### Love is Blind: Netherlands | Official Teaser | Netflix [10/10]
+### INK | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Jack O’Connell, Guy Pearce, and Claire Foy star in INK, from Academy Award-winning director Danny Boyle.
+
+Link: https://www.youtube.com/watch?v=eokBqEFiVHs
+
+### Love is Blind: Netherlands | Official Teaser | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -567,24 +576,6 @@ Link: https://www.youtube.com/watch?v=MZIOsmTKlzg
 A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires. By Lee Chang-dong ("Burning").
 
 Link: https://www.youtube.com/watch?v=zd3qXH9qN70
-
-### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | TITLE ANNOUNCEMENT | NETFLIX [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. Starring Brad Pitt. Written by Quentin Tarantino. Directed by David Fincher. See it first only in IMAX November 25. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=hbU1zLAwj3w
-
-### Wonka's The Golden Ticket | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A lifetime supply of money is up for grabs in Wonka’s The Golden Ticket, a new reality competition series, set inside the iconic Chocolate Factory! Who will survive the twists and turns Wonka throws their way? Find out September 23 — and…
-
-Link: https://www.youtube.com/watch?v=kGVuOT6h11c
 
 ### Silo — Peter Gabriel's Sound Check | Season 2 Scene | Apple TV [10/10]
 **Source:** Apple TV  

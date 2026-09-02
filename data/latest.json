@@ -1,48 +1,88 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-02T09:01:39.280452Z",
-  "generatedAtDisplay": "2026-09-02 05:01 AM EDT",
+  "generatedAt": "2026-09-02T14:00:02.421970Z",
+  "generatedAtDisplay": "2026-09-02 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Microsoft is enabling a Windows 11 security feature that can hurt gaming performance, The adult game crackdown is \"ridiculous for our art form\", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association, and The shadow of the AfD hangs over German democracy – but I still have faith in my adopted country | John Kampfner.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live, New York law requires hairdressers to learn how to work with all hair types, and Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI.",
   "mainItems": [
     {
-      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-      "published": "2026-09-02T08:57:40+00:00",
-      "summary": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The adult game crackdown is \"ridiculous for our art form\", say Hellraiser devs, but they think they'll survive thanks to that Clive Barker association",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/the-adult-game-crackdown-is-ridiculous-for-our-art-form-say-hellraiser-devs-but-they-think-theyll-survive-thanks-to-that-clive-barker-association",
-      "published": "2026-09-02T08:15:00+00:00",
-      "summary": "Last year, Australian anti-porn group Collective Shout pressured payment processors , such as Mastercard, Paypal, Visa, and Paysafe Limited to withdraw their services from Steam and Itch.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The shadow of the AfD hangs over German democracy – but I still have faith in my adopted country | John Kampfner",
+      "title": "Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/02/germany-afd-democracy-country-citizenship-far-right",
-      "published": "2026-09-02T04:00:22+00:00",
-      "summary": "As I celebrate five years of citizenship, the far right is poised to take control in Saxony-Anhalt. Courage is needed to defeat it Two events take place in coming days that will affect my relationship with Germany.",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+      "published": "2026-09-02T13:48:26+00:00",
+      "summary": "House minority leader says decision by two Democrats to advance resolution condemning socialism ‘represents significant breach of trust’ Sign up for the US Breaking News email With many Americans facing soaring prices on essentials ranging…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "source": "The Verge",
+      "title": "New York law requires hairdressers to learn how to work with all hair types",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "published": "2026-09-01T22:50:29+00:00",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/new-york-law-hairdressers-all-hair-types",
+      "published": "2026-09-02T13:38:09+00:00",
+      "summary": "New law requires cosmetology classes to give instruction on all hair types from the kinkiest to the straightest As of 1 September, a new law in New York state requires hairdressers studying cosmetology to be trained to work with all hair…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting",
+      "published": "2026-09-02T13:22:57+00:00",
+      "summary": "The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview",
+      "published": "2026-09-02T13:00:00+00:00",
+      "summary": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
+      "published": "2026-09-02T12:47:45+00:00",
+      "summary": "A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
+      "source": "NPR Tech",
+      "category": "AI / privacy",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+      "published": "2026-09-02T12:22:42+00:00",
+      "summary": "The suits say that recommendations to alert police about the alleged shooter were nixed by the OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "published": "2026-09-02T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "USS Abraham Lincoln’s crew of 5,000 arrive at notorious Thai resort after 270 days at sea",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincolns-crew-arrive-thailand-after-record-stint-at-sea",
+      "published": "2026-09-02T11:48:48+00:00",
+      "summary": "Shore leave in Pattaya, known for its red light district, comes after reports of deterioriating living conditions onboard the vessel during record stint Middle East crisis live – latest updates At Pattaya’s Hard Rock Cafe and hotel, the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,73 +97,33 @@
       "score": 10
     },
     {
-      "title": "\"It's just such a huge galaxy to fill\": Don't expect any Total War: Warhammer 40,000 sequels, but do expect lots of updates that builds upon its sandbox",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/its-just-such-a-huge-galaxy-to-fill-dont-expect-any-total-war-warhammer-40000-sequels-but-do-expect-lots-of-updates-that-builds-upon-its-sandbox",
-      "published": "2026-09-01T21:54:40+00:00",
-      "summary": "Total War: Warhammer 40,000 feels like one of those games where you think to yourself, \"wait, how doesn't this exist already?\" There have been previous Total War: Warhammer games, three of them in fact, but all set in the original, fantasy…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "The Gentlemen season two review – these geezers in tweed are irritating, stupid and extremely funny",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/02/the-gentlemen-season-two-review-guy-ritchie-theo-james-netflix",
-      "published": "2026-09-02T04:00:22+00:00",
-      "summary": "Guy Ritchie’s crime caper is back with the usual hijinks, swearing and men shaking their fists.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "More school districts are shrinking. New research asks whether closures work",
-      "source": "NPR Education",
+      "title": "The Case for Prioritizing Play in Kindergarten",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5945658-e1/more-school-districts-are-shrinking-new-research-asks-whether-closures-work",
-      "published": "2026-09-01T21:36:24+00:00",
-      "summary": "School districts across the country are closing campuses as enrollment falls. New research says the financial savings may be smaller than expected.",
+      "url": "https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/",
+      "published": "2026-09-02T12:30:00+00:00",
+      "summary": "Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "published": "2026-09-01T20:45:49+00:00",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/",
-      "published": "2026-09-01T13:27:26+00:00",
-      "summary": "I watched Simon Weckert's 'digital camouflage' in action.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The 12 best recipes to bake in September: Time for apples!",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2025/09/02/best-september-recipes",
-      "published": "2026-09-01T13:00:00+00:00",
-      "summary": "It’s finally shoulder season, when summer begins to give way to fall. At the farmers markets there are the last tomatoes and the first apples, cool mornings turn into warm afternoons, and there’s an anticipatory energy in the air.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "They live by a shrine to a saint. Why are their homes being demolished?",
+      "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
-      "published": "2026-09-01T11:21:41+00:00",
-      "summary": "The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.",
+      "url": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
+      "published": "2026-09-02T11:58:51+00:00",
+      "summary": "For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/nepal-flood-aid",
+      "published": "2026-09-02T10:00:21+00:00",
+      "summary": "Sum of $500,000 has been increased as death toll passes 1,000 but specialists decry Trump dismantling of USAID Aid experts have denounced the US’s “embarrassing” and “pitiful” initial response to the Nepal flood disaster after the US state…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -146,8 +146,8 @@
       "published": "2026-09-01T09:04:56+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Herpetologist Answers Snake Questions",
@@ -168,8 +168,8 @@
       "published": "2026-09-01T21:30:49+00:00",
       "summary": "The U.S. Postal Service could \"derail\" the midterm election if it continues rushing out \"untested\" technology as part of President Trump's push to restrict mail-in voting, a newly released whistleblower report warns.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Jury finds Duane 'Keffe D' Davis guilty in Tupac Shakur's murder",
@@ -267,8 +267,8 @@
       "published": "2026-09-01T22:24:56+00:00",
       "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast",
@@ -471,6 +471,17 @@
       "verdict": "Optional"
     },
     {
+      "title": "INK | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=eokBqEFiVHs",
+      "published": "2026-09-02T13:30:00+00:00",
+      "summary": "Jack O’Connell, Guy Pearce, and Claire Foy star in INK, from Academy Award-winning director Danny Boyle.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Love is Blind: Netherlands | Official Teaser | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -478,7 +489,7 @@
       "published": "2026-09-02T08:00:00+00:00",
       "summary": "Love Is Blind has finally arrived in the Netherlands.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -609,28 +620,6 @@
       "url": "https://www.youtube.com/watch?v=zd3qXH9qN70",
       "published": "2026-08-26T23:00:01+00:00",
       "summary": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires. By Lee Chang-dong (\"Burning\").",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | TITLE ANNOUNCEMENT | NETFLIX",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=hbU1zLAwj3w",
-      "published": "2026-08-26T20:55:34+00:00",
-      "summary": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. Starring Brad Pitt. Written by Quentin Tarantino. Directed by David Fincher. See it first only in IMAX November 25. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Wonka's The Golden Ticket | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=kGVuOT6h11c",
-      "published": "2026-08-26T15:00:00+00:00",
-      "summary": "A lifetime supply of money is up for grabs in Wonka’s The Golden Ticket, a new reality competition series, set inside the iconic Chocolate Factory! Who will survive the twists and turns Wonka throws their way? Find out September 23 — and…",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -770,7 +759,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 19,
-    "trailerCount": 28,
-    "sourceCount": 21
+    "trailerCount": 27,
+    "sourceCount": 22
   }
 }
