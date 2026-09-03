@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-03T09:00:34.504785Z
+Generated: 2026-09-03T14:00:02.441781Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers, China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott, and New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage.
+Today's sweep leans toward Games / criticism, AI / privacy, AI / computing. The strongest items in this run are Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character, "I'm a massive fan of Aliens, but it is a very different beast": Why Creative Assembly are still ignoring every movie but the original in Alien Isolation 2, despite heading planetside, and DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy.
 
 ## Briefing
 
@@ -33,79 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers [10/10]
+### 1. Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character [10/10]
 **Source:** Eurogamer  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Lawyers representing Sony and Microsoft have argued, in two separate lawsuits, that the platform holders are not obligated to pass tariff refunds back to consumers.
+A new gameplay trailer for Monster Hunter Wilds : Ascendance was just shown at the Sony State of Play, showing off a variety of new features coming with the expansion next year. Read more
 
-Link: https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits
+Link: https://www.eurogamer.net/monster-hunter-ascendance-sony-state-of-play-trailer
 
-### 2. China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated.
-
-Link: https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution
-
-### 3. New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Misfits Together, by Bastille’s Dan Smith and To Kill a King’s Ralph Pelleymounter, is set amid the 1950s’ ‘red scare’ It was lampooned as the union of the “hourglass” and the “egghead” – the marriage, in the summer of 1956, between…
-
-Link: https://www.theguardian.com/stage/2026/sep/03/dan-smith-ralph-pelleymounter-marilyn-monroe-arthur-miller-misfits-together
-
-### 4. Anker’s new MindBase is an AI-powered brain for your smart home [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home.
-
-Link: https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter
-
-### 5. Patagonia sues Trump over slashing of protected areas in Utah [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to…
-
-Link: https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments
-
-### 6. The Download: AI puzzles and a path to our nearest star system [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.
-
-Link: https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
-
-### 7. DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D. [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In concert, state bodies governing public pre-K through Ph.D. students are implementing policies addressing safety and classroom use of artificial intelligence.
-
-Link: https://www.the74million.org/article/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d/
-
-### 8. You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom [9/10]
+### 2. "I'm a massive fan of Aliens, but it is a very different beast": Why Creative Assembly are still ignoring every movie but the original in Alien Isolation 2, despite heading planetside [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos , their philosophical horror game set in a mad science hotel on the moon, the internet's jimmies were rustled by the presence of an AI server made out of rats.
+Creative Assembly have themselves a particular constraint when making Alien: Isolation 2. The sequel to their 2014 horror title would only reference their first game and the original 1979 Ridley Scott Alien film.
 
-Link: https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom
+Link: https://www.rockpapershotgun.com/im-a-massive-fan-of-aliens-but-it-is-a-very-different-beast-why-creative-assembly-are-still-ignoring-every-movie-but-the-original-in-alien-isolation-2-despite-heading-planetside
 
-### 9. The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul [8/10]
+### 3. DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles.
+
+Link: https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa
+
+### 4. Nvidia is buying Hugging Face for almost $13 billion [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.
+
+Link: https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal
+
+### 5. PlayStation State of Play live report - all of today's news from Sony's September 2026 showcases [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Here we go again: Sony is showing off two State of Play showcases today, the first focusing on games coming to the PlayStation 5 over the coming weeks and months, and the second focusing on Japanese games specifically.
+
+Link: https://www.eurogamer.net/state-of-play-september-2026-live-blog
+
+### 6. NYC to Ban Student AI Tools in 2-K Through 8th Grade, Limit Classroom Screen Time [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+New York City is expected to release its school policy for artificial intelligence on Wednesday, with a ban on student-facing AI tools for 2-K through eighth grade, according to four people briefed on the plans and Education Department…
+
+Link: https://www.the74million.org/article/nyc-to-ban-student-ai-tools-in-2-k-through-8th-grade-and-limit-classroom-screen-time/
+
+### 7. The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As the Trump administration refuses to end its war in Iran, it is steering into the storm, not out of it Russia hasn’t yet killed large numbers of Europeans outside Ukraine, but it’s getting closer.
+
+Link: https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump
+
+### 8. Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk ’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal…
+
+Link: https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit
+
+### 9. Opinion: Survey: 1 in 4 Kids Who Needed Mental Health Help Didn’t Get It [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+When a middle schooler sits down in math class, she might be thinking about the argument she had on the way to school, the stress at home she can’t escape or whether she’s going to eat today. She is probably not thinking about algebra.
+
+Link: https://www.the74million.org/article/survey-1-in-4-kids-who-needed-mental-health-help-didnt-get-it/
+
+### 10. The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,7 +123,7 @@ The video makes Zohran Mamdani and Kathy Hochul look like they're hanging out in
 
 Link: https://www.404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul/
 
-### 10. The Japanese Horror Film Pulse Is Getting Remade (Again) [8/10]
+### 11. The Japanese Horror Film Pulse Is Getting Remade (Again) [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,25 +132,7 @@ The New York Times called it "fiercely original," so we gotta keep making it. Th
 
 Link: https://reactormag.com/pulse-remake-dave-boyle/
 
-### 11. The Case for Prioritizing Play in Kindergarten [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.
-
-Link: https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/
-
-### 12. Whatever happened to ... children infected with HIV due to failures in healthcare? [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?
-
-Link: https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan
-
-### 13. New Jersey asks Supreme Court to resolve fight over Kalshi's future [7/10]
+### 12. New Jersey asks Supreme Court to resolve fight over Kalshi's future [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -149,6 +140,15 @@ Link: https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan
 If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.
 
 Link: https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey
+
+### 13. Medical groups offer vaccine guidance to fill federal vacuum [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+In the unprecedented absence of federal guidance, leading medical groups are issuing their own recommendations for who should get the COVID-19, flu and RSV immunizations.
+
+Link: https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations
 
 ## YouTube
 
@@ -169,6 +169,15 @@ Link: https://www.youtube.com/watch?v=B3LXEW4Pc-w
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.
 
 Link: https://www.youtube.com/watch?v=w9RDunJACkc
+
+### How Watermarks Track AI Generated Content - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+This AI Watermarking Deep Dive by Dr Mike Pound includes an explanation of the idea behind the latest AI Watermarking plus a demo of Mike's own implementation of the system. Computerphile is supported by Jane Street.
+
+Link: https://www.youtube.com/watch?v=kVXp6UNVPTo
 
 ### Herpetologist Answers Snake Questions [7/10]
 **Creator:** WIRED  
@@ -278,15 +287,6 @@ Link: https://www.youtube.com/watch?v=RxeJ9pJifxk
 
 Link: https://www.youtube.com/watch?v=33k8xTxrn-Q
 
-### Yahtzee Tries... Besmirch and Cicadamata [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=-lHQMfHeWmk
-
 ### State of Play September 2026 Watchalong w/ Second Wind [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -295,6 +295,15 @@ Link: https://www.youtube.com/watch?v=-lHQMfHeWmk
 PlayStation is holding back-to-back State of Play showcases, so come watch them live along with Nick and Marty. If you dig watching us gab over showcases, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=UQrxXhQOyos
+
+### Yahtzee Tries... Besmirch and Cicadamata [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=-lHQMfHeWmk
 
 ### Mortal Shell II | Fully Ramblomatic [7/10]
 **Creator:** Second Wind  
@@ -478,6 +487,15 @@ When the red door opens, Elise will be ready. Lin Shaye breaks down her experien
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 
+### The Final Problem | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+An isolated hotel. A mysterious death. Thirteen guests under suspicion. And only one person capable of solving the enigma.
+
+Link: https://www.youtube.com/watch?v=yLeja7kWgmU
+
 ### Not a Stranger | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -585,15 +603,6 @@ Link: https://www.youtube.com/watch?v=9HFLEy-nSro
 See the next evolution in the groundbreaking Grand Theft Auto series. Watch Grand Theft Auto VI: An Extended Look. Now on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=uphThaa97ig
-
-### Stavros Halkias: Uncle Stav | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Fresh off becoming an uncle this year, Stavros Halkias is back for his second Netflix special, Uncle Stav.
-
-Link: https://www.youtube.com/watch?v=6mGcxHF7b6k
 
 ### Being Heumann — Official Teaser | Apple TV [10/10]
 **Source:** Apple TV  

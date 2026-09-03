@@ -1,90 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-03T09:00:34.504785Z",
-  "generatedAtDisplay": "2026-09-03 05:00 AM EDT",
+  "generatedAt": "2026-09-03T14:00:02.441781Z",
+  "generatedAtDisplay": "2026-09-03 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers, China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott, and New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage.",
+  "summary": "Today's sweep leans toward Games / criticism, AI / privacy, AI / computing. The strongest items in this run are Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character, \"I'm a massive fan of Aliens, but it is a very different beast\": Why Creative Assembly are still ignoring every movie but the original in Alien Isolation 2, despite heading planetside, and DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy.",
   "mainItems": [
     {
-      "title": "Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers",
+      "title": "Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character",
       "source": "Eurogamer",
-      "category": "AI / privacy",
-      "url": "https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits",
-      "published": "2026-09-03T08:16:40+00:00",
-      "summary": "Lawyers representing Sony and Microsoft have argued, in two separate lawsuits, that the platform holders are not obligated to pass tariff refunds back to consumers.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/monster-hunter-ascendance-sony-state-of-play-trailer",
+      "published": "2026-09-03T13:31:10+00:00",
+      "summary": "A new gameplay trailer for Monster Hunter Wilds : Ascendance was just shown at the Sony State of Play, showing off a variety of new features coming with the expansion next year. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
-      "published": "2026-09-03T07:00:47+00:00",
-      "summary": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "\"I'm a massive fan of Aliens, but it is a very different beast\": Why Creative Assembly are still ignoring every movie but the original in Alien Isolation 2, despite heading planetside",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/im-a-massive-fan-of-aliens-but-it-is-a-very-different-beast-why-creative-assembly-are-still-ignoring-every-movie-but-the-original-in-alien-isolation-2-despite-heading-planetside",
+      "published": "2026-09-03T13:28:55+00:00",
+      "summary": "Creative Assembly have themselves a particular constraint when making Alien: Isolation 2. The sequel to their 2014 horror title would only reference their first game and the original 1979 Ridley Scott Alien film.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/stage/2026/sep/03/dan-smith-ralph-pelleymounter-marilyn-monroe-arthur-miller-misfits-together",
-      "published": "2026-09-03T07:00:46+00:00",
-      "summary": "Misfits Together, by Bastille’s Dan Smith and To Kill a King’s Ralph Pelleymounter, is set amid the 1950s’ ‘red scare’ It was lampooned as the union of the “hourglass” and the “egghead” – the marriage, in the summer of 1956, between…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "title": "DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "published": "2026-09-03T06:18:09+00:00",
-      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Patagonia sues Trump over slashing of protected areas in Utah",
-      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
-      "published": "2026-09-02T20:51:54+00:00",
-      "summary": "President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to…",
+      "url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
+      "published": "2026-09-03T13:28:21+00:00",
+      "summary": "DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "source": "MIT Technology Review",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "published": "2026-09-02T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "published": "2026-09-03T13:16:18+00:00",
+      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D.",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d/",
-      "published": "2026-09-02T18:30:00+00:00",
-      "summary": "In concert, state bodies governing public pre-K through Ph.D. students are implementing policies addressing safety and classroom use of artificial intelligence.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "PlayStation State of Play live report - all of today's news from Sony's September 2026 showcases",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/state-of-play-september-2026-live-blog",
+      "published": "2026-09-03T12:47:06+00:00",
+      "summary": "Here we go again: Sony is showing off two State of Play showcases today, the first focusing on games coming to the PlayStation 5 over the coming weeks and months, and the second focusing on Japanese games specifically.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
     },
     {
-      "title": "You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom",
-      "published": "2026-09-02T16:30:30+00:00",
-      "summary": "When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos , their philosophical horror game set in a mad science hotel on the moon, the internet's jimmies were rustled by the presence of an AI server made out of rats.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "NYC to Ban Student AI Tools in 2-K Through 8th Grade, Limit Classroom Screen Time",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/nyc-to-ban-student-ai-tools-in-2-k-through-8th-grade-and-limit-classroom-screen-time/",
+      "published": "2026-09-03T12:30:00+00:00",
+      "summary": "New York City is expected to release its school policy for artificial intelligence on Wednesday, with a ban on student-facing AI tools for 2-K through eighth grade, according to four people briefed on the plans and Education Department…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
+      "published": "2026-09-03T10:00:50+00:00",
+      "summary": "As the Trump administration refuses to end its war in Iran, it is steering into the storm, not out of it Russia hasn’t yet killed large numbers of Europeans outside Ukraine, but it’s getting closer.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
+      "published": "2026-09-03T09:00:49+00:00",
+      "summary": "Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk ’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Survey: 1 in 4 Kids Who Needed Mental Health Help Didn’t Get It",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/survey-1-in-4-kids-who-needed-mental-health-help-didnt-get-it/",
+      "published": "2026-09-03T10:30:00+00:00",
+      "summary": "When a middle schooler sits down in math class, she might be thinking about the argument she had on the way to school, the stress at home she can’t escape or whether she’s going to eat today. She is probably not thinking about algebra.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul",
@@ -107,26 +117,6 @@
       "score": 8
     },
     {
-      "title": "The Case for Prioritizing Play in Kindergarten",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/",
-      "published": "2026-09-02T12:30:00+00:00",
-      "summary": "Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
-      "published": "2026-09-02T11:58:51+00:00",
-      "summary": "For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -134,6 +124,16 @@
       "published": "2026-09-02T18:17:19+00:00",
       "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
+    },
+    {
+      "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
+      "published": "2026-09-02T14:00:58+00:00",
+      "summary": "In the unprecedented absence of federal guidance, leading medical groups are issuing their own recommendations for who should get the COVID-19, flu and RSV immunizations.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -159,6 +159,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How Watermarks Track AI Generated Content - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
+      "published": "2026-09-03T13:30:04+00:00",
+      "summary": "This AI Watermarking Deep Dive by Dr Mike Pound includes an explanation of the idea behind the latest AI Watermarking plus a demo of Mike's own implementation of the system. Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Herpetologist Answers Snake Questions",
@@ -293,23 +304,23 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Yahtzee Tries... Besmirch and Cicadamata",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=-lHQMfHeWmk",
-      "published": "2026-09-02T22:15:07+00:00",
-      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "State of Play September 2026 Watchalong w/ Second Wind",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=UQrxXhQOyos",
       "published": "2026-09-02T17:14:57+00:00",
       "summary": "PlayStation is holding back-to-back State of Play showcases, so come watch them live along with Nick and Marty. If you dig watching us gab over showcases, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Besmirch and Cicadamata",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=-lHQMfHeWmk",
+      "published": "2026-09-02T22:15:07+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -504,6 +515,17 @@
       "verdict": "Optional"
     },
     {
+      "title": "The Final Problem | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=yLeja7kWgmU",
+      "published": "2026-09-03T13:00:00+00:00",
+      "summary": "An isolated hotel. A mysterious death. Thirteen guests under suspicion. And only one person capable of solving the enigma.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Not a Stranger | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -631,17 +653,6 @@
       "url": "https://www.youtube.com/watch?v=uphThaa97ig",
       "published": "2026-08-27T19:08:02+00:00",
       "summary": "See the next evolution in the groundbreaking Grand Theft Auto series. Watch Grand Theft Auto VI: An Extended Look. Now on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Stavros Halkias: Uncle Stav | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6mGcxHF7b6k",
-      "published": "2026-08-27T15:30:00+00:00",
-      "summary": "Fresh off becoming an uncle this year, Stavros Halkias is back for his second Netflix special, Uncle Stav.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -780,7 +791,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 23,
     "trailerCount": 26,
     "sourceCount": 23
   }
