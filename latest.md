@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-02T18:00:38.506439Z
+Generated: 2026-09-03T05:00:02.539393Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Google dodges another breakup attempt, The $1 Trump coin: legal tender, depending on what you mean by legal, and Researchers fear safety disaster ahead of OpenAI’s Astra release.
+Today's sweep leans toward AI / privacy, AI / computing, CS education / AI policy. The strongest items in this run are Patagonia sues Trump over slashing of protected areas in Utah, Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more, and DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D..
 
 ## Briefing
 
@@ -33,25 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Google dodges another breakup attempt [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.
-
-Link: https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision
-
-### 2. The $1 Trump coin: legal tender, depending on what you mean by legal [10/10]
+### 1. Patagonia sues Trump over slashing of protected areas in Utah [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Various laws and 250 years of tradition prevent the likeness of living people from appearing on currency. Donald Trump and Scott Bessent don’t want you to worry about that This was originally published in This Week in Trumpland.
+President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to…
 
-Link: https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin
+Link: https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments
 
-### 3. Researchers fear safety disaster ahead of OpenAI’s Astra release [10/10]
+### 2. Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model "works harder" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and "calling tools iteratively.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash
+
+### 3. DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D. [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+In concert, state bodies governing public pre-K through Ph.D. students are implementing policies addressing safety and classroom use of artificial intelligence.
+
+Link: https://www.the74million.org/article/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d/
+
+### 4. Trump may be forced to reveal secret rules feds use for AI safety testing [10/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.
+
+Link: https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/
+
+### 5. Researchers fear safety disaster ahead of OpenAI’s Astra release [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,79 +78,34 @@ OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, follow
 
 Link: https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety
 
-### 4. The Trump administration is supporting OpenAI in the NYT copyright lawsuit [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit
-
-### 5. Texas Police Used AI to Write Report About Using Flock to Search for Woman Who Had Abortion [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The incident shows how quickly police departments have come to use AI surveillance tools even in critically sensitive cases.
-
-Link: https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/
-
-### 6. Google is sending MrBeast into the wilderness, armed with AI [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.
-
-Link: https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit
-
-### 7. OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing "substantial assistance and encouragement" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting
-
-### 8. Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI [10/10]
+### 6. Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.
-
-Link: https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting
-
-### 9. Podcast: We Spoke to an Amazon Worker Destroying Books for AI [10/10]
-**Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.
+An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed…
 
-Link: https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/
+Link: https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance
 
-### 10. New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting [10/10]
-**Source:** NPR Tech  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 7. The $1 Trump coin: legal tender, depending on what you mean by legal [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The suits say that recommendations to alert police about the alleged shooter were nixed by OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.
+Various laws and 250 years of tradition prevent the likeness of living people from appearing on currency. Donald Trump and Scott Bessent don’t want you to worry about that This was originally published in This Week in Trumpland.
 
-Link: https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting
+Link: https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin
 
-### 11. The Case for Prioritizing Play in Kindergarten [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 8. You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.
+When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos , their philosophical horror game set in a mad science hotel on the moon, the internet's jimmies were rustled by the presence of an AI server made out of rats.
 
-Link: https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/
+Link: https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom
 
-### 12. The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul [8/10]
+### 9. The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,7 +114,25 @@ The video makes Zohran Mamdani and Kathy Hochul look like they're hanging out in
 
 Link: https://www.404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul/
 
-### 13. Whatever happened to ... children infected with HIV due to failures in healthcare? [8/10]
+### 10. The Japanese Horror Film Pulse Is Getting Remade (Again) [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The New York Times called it "fiercely original," so we gotta keep making it. The post The Japanese Horror Film Pulse Is Getting Remade (Again) appeared first on Reactor .
+
+Link: https://reactormag.com/pulse-remake-dave-boyle/
+
+### 11. The Case for Prioritizing Play in Kindergarten [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.
+
+Link: https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/
+
+### 12. Whatever happened to ... children infected with HIV due to failures in healthcare? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,3 +140,47 @@ Link: https://www.404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul/
 For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?
 
 Link: https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan
+
+### 13. New Jersey asks Supreme Court to resolve fight over Kalshi's future [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.
+
+Link: https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

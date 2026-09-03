@@ -1,29 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-02T18:00:38.506439Z",
-  "generatedAtDisplay": "2026-09-02 02:00 PM EDT",
+  "generatedAt": "2026-09-03T05:00:02.539393Z",
+  "generatedAtDisplay": "2026-09-03 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Google dodges another breakup attempt, The $1 Trump coin: legal tender, depending on what you mean by legal, and Researchers fear safety disaster ahead of OpenAI’s Astra release.",
+  "summary": "Today's sweep leans toward AI / privacy, AI / computing, CS education / AI policy. The strongest items in this run are Patagonia sues Trump over slashing of protected areas in Utah, Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more, and DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D..",
   "mainItems": [
     {
-      "title": "Google dodges another breakup attempt",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-      "published": "2026-09-02T16:51:00+00:00",
-      "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Patagonia sues Trump over slashing of protected areas in Utah",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
+      "published": "2026-09-02T20:51:54+00:00",
+      "summary": "President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The $1 Trump coin: legal tender, depending on what you mean by legal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin",
-      "published": "2026-09-02T16:50:56+00:00",
-      "summary": "Various laws and 250 years of tradition prevent the likeness of living people from appearing on currency. Donald Trump and Scott Bessent don’t want you to worry about that This was originally published in This Week in Trumpland.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "published": "2026-09-02T20:11:40+00:00",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D.",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d/",
+      "published": "2026-09-02T18:30:00+00:00",
+      "summary": "In concert, state bodies governing public pre-K through Ph.D. students are implementing policies addressing safety and classroom use of artificial intelligence.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "published": "2026-09-02T17:58:33+00:00",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -37,83 +57,33 @@
       "score": 10
     },
     {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "published": "2026-09-02T16:12:25+00:00",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Texas Police Used AI to Write Report About Using Flock to Search for Woman Who Had Abortion",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/",
-      "published": "2026-09-02T15:57:29+00:00",
-      "summary": "The incident shows how quickly police departments have come to use AI surveillance tools even in critically sensitive cases.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "published": "2026-09-02T15:47:03+00:00",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "published": "2026-09-02T14:36:42+00:00",
-      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+      "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting",
-      "published": "2026-09-02T13:22:57+00:00",
-      "summary": "The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "source": "404 Media",
       "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
-      "published": "2026-09-02T12:47:45+00:00",
-      "summary": "A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.",
+      "url": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
+      "published": "2026-09-02T16:00:28+00:00",
+      "summary": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-      "source": "NPR Tech",
-      "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-      "published": "2026-09-02T12:22:42+00:00",
-      "summary": "The suits say that recommendations to alert police about the alleged shooter were nixed by OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "The $1 Trump coin: legal tender, depending on what you mean by legal",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin",
+      "published": "2026-09-02T16:50:56+00:00",
+      "summary": "Various laws and 250 years of tradition prevent the likeness of living people from appearing on currency. Donald Trump and Scott Bessent don’t want you to worry about that This was originally published in This Week in Trumpland.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "The Case for Prioritizing Play in Kindergarten",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/",
-      "published": "2026-09-02T12:30:00+00:00",
-      "summary": "Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom",
+      "published": "2026-09-02T16:30:30+00:00",
+      "summary": "When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos , their philosophical horror game set in a mad science hotel on the moon, the internet's jimmies were rustled by the presence of an AI server made out of rats.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -127,6 +97,26 @@
       "score": 8
     },
     {
+      "title": "The Japanese Horror Film Pulse Is Getting Remade (Again)",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/pulse-remake-dave-boyle/",
+      "published": "2026-09-02T14:32:55+00:00",
+      "summary": "The New York Times called it \"fiercely original,\" so we gotta keep making it. The post The Japanese Horror Film Pulse Is Getting Remade (Again) appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "The Case for Prioritizing Play in Kindergarten",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/the-case-for-prioritizing-play-in-kindergarten/",
+      "published": "2026-09-02T12:30:00+00:00",
+      "summary": "Laura Bornfreund opens her new book, “Rediscovering Kindergarten: Embracing Play & Joy in Kindergarten” by bringing readers inside her daughter Ainsley’s experience entering kindergarten in August 2017.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
+    },
+    {
       "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
       "source": "NPR Health",
       "category": "Science / health",
@@ -135,6 +125,16 @@
       "summary": "For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "published": "2026-09-02T18:17:19+00:00",
+      "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }
