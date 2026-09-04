@@ -1,28 +1,108 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-04T09:04:47.784730Z",
-  "generatedAtDisplay": "2026-09-04 05:04 AM EDT",
+  "generatedAt": "2026-09-04T14:00:02.071213Z",
+  "generatedAtDisplay": "2026-09-04 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Federal civil rights data about students is finally out. It's different under Trump, Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\", and Wesleyan University president on administration's efforts to revoke tax-exempt status.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Oh good, looks like yet another swarm of rogue AI agents from OpenAI, Playing Mass Effect spiritual successor Exodus was the best kind of surprise, and Seeds of hope: how a local farming project is offering a lifeline to Gaza.",
   "mainItems": [
     {
-      "title": "Federal civil rights data about students is finally out. It's different under Trump",
-      "source": "NPR Health",
+      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "published": "2026-09-04T13:42:35+00:00",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Playing Mass Effect spiritual successor Exodus was the best kind of surprise",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/exodus-gamescom-preview",
+      "published": "2026-09-04T13:00:32+00:00",
+      "summary": "My relationship with Mass Effect begins and ends with the first game (let's just blame the M35 Mako and leave it at that), and so Exodus - which is making no bones about being something of a Mass Effect spiritual successor, born from some…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+      "published": "2026-09-04T12:37:57+00:00",
+      "summary": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "US military disables ad trackers on troops’ phones amid security fears",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+      "published": "2026-09-04T12:36:01+00:00",
+      "summary": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle East US military officials say they have disabled advertising trackers on a range of phones and computers, according to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Lego Skylines' devs want your city's problems to be visible without digging into a stats screen, which means finding a \"family friendly\" version of showing homelessness",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/lego-skylines-devs-want-your-citys-problems-to-be-visible-without-digging-into-a-stats-screen-which-means-finding-a-family-friendly-version-of-showing-homelessness",
+      "published": "2026-09-04T12:00:00+00:00",
+      "summary": "As pretty as Cities: Skylines is, getting a read on your city's problems can take some digging.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "published": "2026-09-04T11:33:40+00:00",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "ICE bans hugging inside California’s largest detention center. Families are fighting back",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
+      "published": "2026-09-04T11:00:06+00:00",
+      "summary": "In the California City facility, ‘contact visits’ are strictly forbidden – but detained residents aren’t staying quiet.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How to Help Your Kids Make Friends at a New School",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
-      "published": "2026-09-04T09:00:00+00:00",
-      "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
+      "url": "https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/",
+      "published": "2026-09-04T10:30:00+00:00",
+      "summary": "For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\"",
-      "source": "Rock Paper Shotgun",
+      "title": "‘It’s inhumane’: six ICE deportees held in one of world’s most repressive regimes",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/miami-dade-police-outraged-by-proposals-to-turn-parts-of-miami-into-gta-6-saying-that-rockstars-game-embodies-what-they-work-every-single-day-to-prevent",
-      "published": "2026-09-04T08:55:01+00:00",
-      "summary": "The mayor of Miami-Dade, Florida has been pitching Rockstar Games about transforming parts of the county into recreations of areas from Grand Theft Auto 6 , in the face of complaints from law enforcement and members of the judiciary.",
+      "url": "https://www.theguardian.com/world/2026/sep/04/us-deportation-equatorial-guinea-fourth-country-trump",
+      "published": "2026-09-04T10:00:04+00:00",
+      "summary": "Believed to be first US deportations to fourth country, six face ‘horrific conditions’ in Equatorial Guinea, say lawyers In late August, around 20 people were put on a flight in the US, shackled at the wrists, waist and ankles, and sent to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits",
+      "published": "2026-09-04T09:19:06+00:00",
+      "summary": "Xbox has announced hard monthly time limits will be added to its cloud gaming streaming service this November. Don't worry though, if you run into these limits, you can always buy more hours on the Xbox store. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,104 +117,24 @@
       "score": 10
     },
     {
-      "title": "Trump administration pushes to remove tax exemption for private colleges with DEI policies",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies",
-      "published": "2026-09-04T05:37:35+00:00",
-      "summary": "The Trump administration is proposing a rule that would strip private schools and colleges of their tax-exempt status if they provide targeted help to students based on their race.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Experience: I didn’t know I was pregnant until I gave birth",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/04/experience-i-didnt-know-i-was-pregnant-until-i-gave-birth",
-      "published": "2026-09-04T04:00:57+00:00",
-      "summary": "There’d been no morning sickness, cravings or tiredness. My mum didn’t believe I’d had a baby – even after seeing her on FaceTime When I was 19, I went to college in Texas, where I met my ­boyfriend Preston. It was 2023 and I had big plans.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-      "published": "2026-09-04T03:30:17+00:00",
-      "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Constantly reshape the world beneath your feet in the reality-bending \"puzzle-first\" Uncanyon, the next game from the devs behind the trippy Maquette",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/constantly-reshape-the-world-beneath-your-feet-in-the-reality-bending-puzzle-first-uncanyon-the-next-game-from-the-devs-behind-the-trippy-maquette",
-      "published": "2026-09-03T21:50:42+00:00",
-      "summary": "A problem that games have, I find, is that it's quite hard for them to inspire a sense of wonder.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "ICE officer who shot Venezuelan man in Minneapolis charged with lying to investigators",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis",
-      "published": "2026-09-03T19:40:53+00:00",
-      "summary": "Julio Sosa-Celis, who was shot in the leg by Christian Castro and survived, was one of three people shot by federal immigration agents during Trump’s ‘Operation Metro Surge’ A US Immigration and Customs Enforcement (ICE) officer has been…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-      "published": "2026-09-03T18:37:57+00:00",
-      "summary": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Leon Black fails to appear for US House deposition about Epstein ties",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition",
-      "published": "2026-09-03T14:08:26+00:00",
-      "summary": "Billionaire financier, who previously walked out of a deposition, instead launches lawsuit against the committee The billionaire financier Leon Black did not appear on Thursday in front of the House oversight committee for a scheduled…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "published": "2026-09-04T05:03:33+00:00",
-      "summary": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
-      "published": "2026-09-04T09:00:00+00:00",
-      "summary": "Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Obsession’s Inde Navarrette Will Star in The Waffle House Index",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/obsession-inde-navarrette-the-waffle-house-index/",
+      "published": "2026-09-04T13:51:43+00:00",
+      "summary": "It's not about storms. Really. The post Obsession ’s Inde Navarrette Will Star in The Waffle House Index appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     },
     {
-      "title": "Read an Excerpt From The Henchperson’s Guide to Unionizing by Marshall J. Moore",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/excerpts-the-henchpersons-guide-to-unionizing-by-marshall-j-moore/",
-      "published": "2026-09-03T19:00:00+00:00",
-      "summary": "As the laboratory assistant to the brilliant but demanding Doctor, Igor spends his nights robbing graves and stitching together body parts… The post Read an Excerpt From The Henchperson’s Guide to Unionizing by Marshall J.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 6
+      "title": "Scientists map key protein interactions linked with profound autism",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+      "published": "2026-09-04T10:00:00+00:00",
+      "summary": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -150,17 +150,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "published": "2026-09-01T09:04:56+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "How Watermarks Track AI Generated Content - Computerphile",
       "source": "Computerphile",
       "category": "Science / computing",
@@ -168,8 +157,8 @@
       "published": "2026-09-03T13:30:04+00:00",
       "summary": "This AI Watermarking Deep Dive by Dr Mike Pound includes an explanation of the idea behind the latest AI Watermarking plus a demo of Mike's own implementation of the system. SynthID Paper: https://www.nature.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Ms. Rachel Answers The Web's Most Searched Questions",
@@ -192,6 +181,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "When a N.Y. birthing center was set to close, this city fought back",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=X_1mH-vTrxc",
+      "published": "2026-09-04T13:00:12+00:00",
+      "summary": "Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Feminist icon and activist Gloria Steinem dies at 92",
@@ -315,6 +315,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Taking All TTRPG Questions Today! | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=etn0BkyjJSo",
+      "published": "2026-09-04T09:50:36+00:00",
+      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Fall Release Floodgates Have Opened | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -324,17 +335,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Taking All TTRPG Questions Today! | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=etn0BkyjJSo",
-      "published": "2026-09-03T16:21:35+00:00",
-      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "They're Calling It the Most Randomized Dark Souls Stream in History -- Part 5",
@@ -548,6 +548,17 @@
       "verdict": "Optional"
     },
     {
+      "title": "Gloria Steinem's Final Message To The World | Famous Last Words | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oIsysoq-u3A",
+      "published": "2026-09-04T13:00:00+00:00",
+      "summary": "“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "A Message From Gloria Steinem | Famous Last Words | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -647,45 +658,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Instadocs: The Decoy Plane | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NKmm-eI3MIw",
-      "published": "2026-09-01T13:30:00+00:00",
-      "summary": "This July, while flying back from a NATO summit in Turkey, President Trump slipped off Air Force One in a catering truck and secretly boarded a different aircraft — leaving traveling reporters to fly on, unaware the president was no longer…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Untold Raygun: Breaking Badly | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pOY-Q5DXfcI",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "Australian breakdancer “Raygun” recounts the first time entering the Olympic Village during the 2024 Paris Olympics. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Dark Matter — The Official Podcast: Episode 202 | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=NIyA6kdCv7c",
       "published": "2026-09-04T00:59:54+00:00",
       "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Tim Robbins' Last Day on Set | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3l0_y5FkIn0",
-      "published": "2026-09-03T18:59:47+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -825,7 +803,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 28,
-    "sourceCount": 20
+    "trailerCount": 26,
+    "sourceCount": 22
   }
 }

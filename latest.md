@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-04T09:04:47.784730Z
+Generated: 2026-09-04T14:00:02.071213Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Federal civil rights data about students is finally out. It's different under Trump, Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent", and Wesleyan University president on administration's efforts to revoke tax-exempt status.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Oh good, looks like yet another swarm of rogue AI agents from OpenAI, Playing Mass Effect spiritual successor Exodus was the best kind of surprise, and Seeds of hope: how a local farming project is offering a lifeline to Gaza.
 
 ## Briefing
 
@@ -33,25 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Federal civil rights data about students is finally out. It's different under Trump [10/10]
-**Source:** NPR Health  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 1. Oh good, looks like yet another swarm of rogue AI agents from OpenAI [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.
+A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its…
 
-Link: https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump
+Link: https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
 
-### 2. Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent" [10/10]
+### 2. Playing Mass Effect spiritual successor Exodus was the best kind of surprise [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+My relationship with Mass Effect begins and ends with the first game (let's just blame the M35 Mako and leave it at that), and so Exodus - which is making no bones about being something of a Mass Effect spiritual successor, born from some…
+
+Link: https://www.eurogamer.net/exodus-gamescom-preview
+
+### 3. Seeds of hope: how a local farming project is offering a lifeline to Gaza [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza.
+
+Link: https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara
+
+### 4. US military disables ad trackers on troops’ phones amid security fears [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Senator releases letters from armed forces after reports of location data being used to track US troops in Middle East US military officials say they have disabled advertising trackers on a range of phones and computers, according to…
+
+Link: https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers
+
+### 5. Lego Skylines' devs want your city's problems to be visible without digging into a stats screen, which means finding a "family friendly" version of showing homelessness [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The mayor of Miami-Dade, Florida has been pitching Rockstar Games about transforming parts of the county into recreations of areas from Grand Theft Auto 6 , in the face of complaints from law enforcement and members of the judiciary.
+As pretty as Cities: Skylines is, getting a read on your city's problems can take some digging.
 
-Link: https://www.rockpapershotgun.com/miami-dade-police-outraged-by-proposals-to-turn-parts-of-miami-into-gta-6-saying-that-rockstars-game-embodies-what-they-work-every-single-day-to-prevent
+Link: https://www.rockpapershotgun.com/lego-skylines-devs-want-your-citys-problems-to-be-visible-without-digging-into-a-stats-screen-which-means-finding-a-family-friendly-version-of-showing-homelessness
 
-### 3. Wesleyan University president on administration's efforts to revoke tax-exempt status [10/10]
+### 6. Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a "messy rollout" after paying users expecting access to the new frontier model were left waiting.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout
+
+### 7. ICE bans hugging inside California’s largest detention center. Families are fighting back [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In the California City facility, ‘contact visits’ are strictly forbidden – but detained residents aren’t staying quiet.
+
+Link: https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits
+
+### 8. How to Help Your Kids Make Friends at a New School [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…
+
+Link: https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/
+
+### 9. ‘It’s inhumane’: six ICE deportees held in one of world’s most repressive regimes [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Believed to be first US deportations to fourth country, six face ‘horrific conditions’ in Equatorial Guinea, say lawyers In late August, around 20 people were put on a flight in the US, shackled at the wrists, waist and ankles, and sent to…
+
+Link: https://www.theguardian.com/world/2026/sep/04/us-deportation-equatorial-guinea-fourth-country-trump
+
+### 10. Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Xbox has announced hard monthly time limits will be added to its cloud gaming streaming service this November. Don't worry though, if you run into these limits, you can always buy more hours on the Xbox store. Read more
+
+Link: https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits
+
+### 11. Wesleyan University president on administration's efforts to revoke tax-exempt status [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -60,95 +132,23 @@ NPR's Steve Inskeep asks Wesleyan University president Michael Roth about U.S. T
 
 Link: https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-university-president-on-administrations-efforts-to-revoke-tax-exempt-status
 
-### 4. Trump administration pushes to remove tax exemption for private colleges with DEI policies [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Trump administration is proposing a rule that would strip private schools and colleges of their tax-exempt status if they provide targeted help to students based on their race.
-
-Link: https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies
-
-### 5. Experience: I didn’t know I was pregnant until I gave birth [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-There’d been no morning sickness, cravings or tiredness. My mum didn’t believe I’d had a baby – even after seeing her on FaceTime When I was 19, I went to college in Texas, where I met my ­boyfriend Preston. It was 2023 and I had big plans.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/04/experience-i-didnt-know-i-was-pregnant-until-i-gave-birth
-
-### 6. Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.
-
-Link: https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40
-
-### 7. Constantly reshape the world beneath your feet in the reality-bending "puzzle-first" Uncanyon, the next game from the devs behind the trippy Maquette [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A problem that games have, I find, is that it's quite hard for them to inspire a sense of wonder.
-
-Link: https://www.rockpapershotgun.com/constantly-reshape-the-world-beneath-your-feet-in-the-reality-bending-puzzle-first-uncanyon-the-next-game-from-the-devs-behind-the-trippy-maquette
-
-### 8. ICE officer who shot Venezuelan man in Minneapolis charged with lying to investigators [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Julio Sosa-Celis, who was shot in the leg by Christian Castro and survived, was one of three people shot by federal immigration agents during Trump’s ‘Operation Metro Surge’ A US Immigration and Customs Enforcement (ICE) officer has been…
-
-Link: https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis
-
-### 9. Congressman says TikTok backed out of a meeting to avoid child safety questions [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-TikTok backed out of a congressional committee's "public roundtable" set for this month over concerns it would be asked about child safety practices, the chair of the committee said.
-
-Link: https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety
-
-### 10. Leon Black fails to appear for US House deposition about Epstein ties [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Billionaire financier, who previously walked out of a deposition, instead launches lawsuit against the committee The billionaire financier Leon Black did not appear on Thursday in front of the House oversight committee for a scheduled…
-
-Link: https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition
-
-### 11. President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s…
-
-Link: https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands
-
-### 12. Dry eyes are common in women. Here's why you shouldn't ignore them [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.
-
-Link: https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause
-
-### 13. Read an Excerpt From The Henchperson’s Guide to Unionizing by Marshall J. Moore [6/10]
+### 12. Obsession’s Inde Navarrette Will Star in The Waffle House Index [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-As the laboratory assistant to the brilliant but demanding Doctor, Igor spends his nights robbing graves and stitching together body parts… The post Read an Excerpt From The Henchperson’s Guide to Unionizing by Marshall J.
+It's not about storms. Really. The post Obsession ’s Inde Navarrette Will Star in The Waffle House Index appeared first on Reactor .
 
-Link: https://reactormag.com/excerpts-the-henchpersons-guide-to-unionizing-by-marshall-j-moore/
+Link: https://reactormag.com/obsession-inde-navarrette-the-waffle-house-index/
+
+### 13. Scientists map key protein interactions linked with profound autism [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Research published in the journal Science illuminates a "missing piece" in the biological understanding of profound autism and offers new targets for drug development.
+
+Link: https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments
 
 ## YouTube
 
@@ -161,18 +161,9 @@ Link: https://reactormag.com/excerpts-the-henchpersons-guide-to-unionizing-by-ma
 
 Link: https://www.youtube.com/watch?v=B3LXEW4Pc-w
 
-### GLM 5.3: Powerful AI Is Becoming Almost Free [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.
-
-Link: https://www.youtube.com/watch?v=w9RDunJACkc
-
-### How Watermarks Track AI Generated Content - Computerphile [8/10]
+### How Watermarks Track AI Generated Content - Computerphile [7/10]
 **Creator:** Computerphile  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 This AI Watermarking Deep Dive by Dr Mike Pound includes an explanation of the idea behind the latest AI Watermarking plus a demo of Mike's own implementation of the system. SynthID Paper: https://www.nature.
@@ -196,6 +187,15 @@ Link: https://www.youtube.com/watch?v=fA8HCW9dQ8o
 Reptile expert Frank Burbrink joins WIRED to answer the internet’s burning questions about snakes.
 
 Link: https://www.youtube.com/watch?v=CsFP6amUgA4
+
+### When a N.Y. birthing center was set to close, this city fought back [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.
+
+Link: https://www.youtube.com/watch?v=X_1mH-vTrxc
 
 ### Feminist icon and activist Gloria Steinem dies at 92 [8/10]
 **Creator:** NPR  
@@ -296,6 +296,15 @@ Link: https://www.youtube.com/watch?v=K55bL31GbxU
 
 Link: https://www.youtube.com/watch?v=dmHbKmwwn5g
 
+### Taking All TTRPG Questions Today! | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=etn0BkyjJSo
+
 ### The Fall Release Floodgates Have Opened | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -304,15 +313,6 @@ Link: https://www.youtube.com/watch?v=dmHbKmwwn5g
 This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=4KR_xVRRPcs
-
-### Taking All TTRPG Questions Today! | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=etn0BkyjJSo
 
 ### They're Calling It the Most Randomized Dark Souls Stream in History -- Part 5 [8/10]
 **Creator:** Second Wind  
@@ -514,6 +514,15 @@ When the red door opens, Elise will be ready. Lin Shaye breaks down her experien
 
 Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 
+### Gloria Steinem's Final Message To The World | Famous Last Words | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.
+
+Link: https://www.youtube.com/watch?v=oIsysoq-u3A
+
 ### A Message From Gloria Steinem | Famous Last Words | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -595,24 +604,6 @@ LA BOLA NEGRA tells the story of three generations of men whose lives are intima
 
 Link: https://www.youtube.com/watch?v=K00sww73abM
 
-### Instadocs: The Decoy Plane | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This July, while flying back from a NATO summit in Turkey, President Trump slipped off Air Force One in a catering truck and secretly boarded a different aircraft — leaving traveling reporters to fly on, unaware the president was no longer…
-
-Link: https://www.youtube.com/watch?v=NKmm-eI3MIw
-
-### Untold Raygun: Breaking Badly | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Australian breakdancer “Raygun” recounts the first time entering the Olympic Village during the 2024 Paris Olympics. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=pOY-Q5DXfcI
-
 ### Dark Matter — The Official Podcast: Episode 202 | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -621,15 +612,6 @@ Link: https://www.youtube.com/watch?v=pOY-Q5DXfcI
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
 
 Link: https://www.youtube.com/watch?v=NIyA6kdCv7c
-
-### Silo — Tim Robbins' Last Day on Set | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=3l0_y5FkIn0
 
 ### Being Heumann — Official Teaser | Apple TV [9/10]
 **Source:** Apple TV  
