@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-04T09:00:29.110742Z",
-  "generatedAtDisplay": "2026-09-04 05:00 AM EDT",
+  "generatedAt": "2026-09-04T09:04:47.784730Z",
+  "generatedAtDisplay": "2026-09-04 05:04 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\", Wesleyan University president on administration's efforts to revoke tax-exempt status, and Trump administration pushes to remove tax exemption for private colleges with DEI policies.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Federal civil rights data about students is finally out. It's different under Trump, Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\", and Wesleyan University president on administration's efforts to revoke tax-exempt status.",
   "mainItems": [
+    {
+      "title": "Federal civil rights data about students is finally out. It's different under Trump",
+      "source": "NPR Health",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
+      "published": "2026-09-04T09:00:00+00:00",
+      "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\"",
       "source": "Rock Paper Shotgun",
@@ -87,16 +97,6 @@
       "score": 10
     },
     {
-      "title": "Opinion: In Tennessee, My Immigrant Students and Families Give More Than They Take",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/in-tennessee-my-immigrant-students-and-families-give-more-than-they-take/",
-      "published": "2026-09-03T18:30:00+00:00",
-      "summary": "By all appearances, she is a typical fourth-grade girl. She has long, dark brown hair and an infectious smile, and she dreams of becoming a police officer when she grows up.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
       "title": "Leon Black fails to appear for US House deposition about Epstein ties",
       "source": "The Guardian US",
       "category": "AI / privacy",
@@ -117,12 +117,12 @@
       "score": 8
     },
     {
-      "title": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
+      "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
-      "published": "2026-09-03T17:00:00+00:00",
-      "summary": "The Ig Nobel Prizes were awarded this week for humorous yet thought-provoking research. This year, the ceremony came with a twist.",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
+      "published": "2026-09-04T09:00:00+00:00",
+      "summary": "Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 24,
     "trailerCount": 28,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }

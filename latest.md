@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-04T09:00:29.110742Z
+Generated: 2026-09-04T09:04:47.784730Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent", Wesleyan University president on administration's efforts to revoke tax-exempt status, and Trump administration pushes to remove tax exemption for private colleges with DEI policies.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Federal civil rights data about students is finally out. It's different under Trump, Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent", and Wesleyan University president on administration's efforts to revoke tax-exempt status.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent" [10/10]
+### 1. Federal civil rights data about students is finally out. It's different under Trump [10/10]
+**Source:** NPR Health  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.
+
+Link: https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump
+
+### 2. Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they "work every single day to prevent" [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +51,7 @@ The mayor of Miami-Dade, Florida has been pitching Rockstar Games about transfor
 
 Link: https://www.rockpapershotgun.com/miami-dade-police-outraged-by-proposals-to-turn-parts-of-miami-into-gta-6-saying-that-rockstars-game-embodies-what-they-work-every-single-day-to-prevent
 
-### 2. Wesleyan University president on administration's efforts to revoke tax-exempt status [10/10]
+### 3. Wesleyan University president on administration's efforts to revoke tax-exempt status [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -51,7 +60,7 @@ NPR's Steve Inskeep asks Wesleyan University president Michael Roth about U.S. T
 
 Link: https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-university-president-on-administrations-efforts-to-revoke-tax-exempt-status
 
-### 3. Trump administration pushes to remove tax exemption for private colleges with DEI policies [10/10]
+### 4. Trump administration pushes to remove tax exemption for private colleges with DEI policies [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -60,7 +69,7 @@ The Trump administration is proposing a rule that would strip private schools an
 
 Link: https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies
 
-### 4. Experience: I didn’t know I was pregnant until I gave birth [10/10]
+### 5. Experience: I didn’t know I was pregnant until I gave birth [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ There’d been no morning sickness, cravings or tiredness. My mum didn’t belie
 
 Link: https://www.theguardian.com/lifeandstyle/2026/sep/04/experience-i-didnt-know-i-was-pregnant-until-i-gave-birth
 
-### 5. Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control [10/10]
+### 6. Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -78,7 +87,7 @@ Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch th
 
 Link: https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40
 
-### 6. Constantly reshape the world beneath your feet in the reality-bending "puzzle-first" Uncanyon, the next game from the devs behind the trippy Maquette [10/10]
+### 7. Constantly reshape the world beneath your feet in the reality-bending "puzzle-first" Uncanyon, the next game from the devs behind the trippy Maquette [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,7 +96,7 @@ A problem that games have, I find, is that it's quite hard for them to inspire a
 
 Link: https://www.rockpapershotgun.com/constantly-reshape-the-world-beneath-your-feet-in-the-reality-bending-puzzle-first-uncanyon-the-next-game-from-the-devs-behind-the-trippy-maquette
 
-### 7. ICE officer who shot Venezuelan man in Minneapolis charged with lying to investigators [10/10]
+### 8. ICE officer who shot Venezuelan man in Minneapolis charged with lying to investigators [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,7 +105,7 @@ Julio Sosa-Celis, who was shot in the leg by Christian Castro and survived, was 
 
 Link: https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis
 
-### 8. Congressman says TikTok backed out of a meeting to avoid child safety questions [10/10]
+### 9. Congressman says TikTok backed out of a meeting to avoid child safety questions [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -104,15 +113,6 @@ Link: https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzue
 TikTok backed out of a congressional committee's "public roundtable" set for this month over concerns it would be asked about child safety practices, the chair of the committee said.
 
 Link: https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety
-
-### 9. Opinion: In Tennessee, My Immigrant Students and Families Give More Than They Take [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-By all appearances, she is a typical fourth-grade girl. She has long, dark brown hair and an infectious smile, and she dreams of becoming a police officer when she grows up.
-
-Link: https://www.the74million.org/article/in-tennessee-my-immigrant-students-and-families-give-more-than-they-take/
 
 ### 10. Leon Black fails to appear for US House deposition about Epstein ties [9/10]
 **Source:** The Guardian US  
@@ -132,14 +132,14 @@ President cites Donald Trump’s suggestion that he might reconsider US support 
 
 Link: https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands
 
-### 12. Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science [7/10]
+### 12. Dry eyes are common in women. Here's why you shouldn't ignore them [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The Ig Nobel Prizes were awarded this week for humorous yet thought-provoking research. This year, the ceremony came with a twist.
+Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.
 
-Link: https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland
+Link: https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause
 
 ### 13. Read an Excerpt From The Henchperson’s Guide to Unionizing by Marshall J. Moore [6/10]
 **Source:** Reactor  
