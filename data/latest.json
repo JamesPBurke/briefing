@@ -1,49 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-05T05:00:02.013387Z",
-  "generatedAtDisplay": "2026-09-05 01:00 AM EDT",
+  "generatedAt": "2026-09-05T09:00:12.843131Z",
+  "generatedAtDisplay": "2026-09-05 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike, After AI slop accusations, Humankind 2 studio says its new trailer was definitely \"made by humankind\" and at least five chickens, and Architecting memory and storage in the AI era.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What are we all playing this weekend?, Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff, and The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’.",
   "mainItems": [
     {
-      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-      "published": "2026-09-05T00:00:20+00:00",
-      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic • Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers Seven aid workers…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "After AI slop accusations, Humankind 2 studio says its new trailer was definitely \"made by humankind\" and at least five chickens",
-      "source": "Eurogamer",
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens",
-      "published": "2026-09-04T19:19:34+00:00",
-      "summary": "A large portion of the internet pointed their virtual fingers at Humankind 2's new trailer and shouted 'AI slop!' Developer Amplitude Studios is now denying those claims and has even released a behind-the-scenes clip to prove a whole human…",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398",
+      "published": "2026-09-05T07:00:00+00:00",
+      "summary": "This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Architecting memory and storage in the AI era",
-      "source": "MIT Technology Review",
+      "title": "Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "published": "2026-09-04T18:39:19+00:00",
-      "summary": "The era of AI inference has arrived.",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience",
+      "published": "2026-09-05T05:00:30+00:00",
+      "summary": "There’ll be exhaustion, love tinged with occasional rage, even moments of black humour. But my mum would want me to tell you: don’t be afraid My mother’s house looks exactly as she left it.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/texas-should-establish-three-year-bachelors-degree-options-gov-greg-abbott-says/",
-      "published": "2026-09-04T18:30:00+00:00",
-      "summary": "Gov. Greg Abbott directed the Texas Higher Education Coordinating Board on Wednesday to work on pathways for students to earn bachelor’s degrees in three years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/05/the-unsettling-rise-of-the-cat-seducers",
+      "published": "2026-09-05T04:00:26+00:00",
+      "summary": "Has your cat been gaining weight and staying out at night, only to arrive home reeking of marijuana? These are just some of the signs that a neighbour is trying to entice them away ...",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Nazi-looted painting must be returned to Jewish art dealer’s heir, Argentina court rules",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules",
+      "published": "2026-09-05T03:13:46+00:00",
+      "summary": "Portrait of a Lady had been missing since 1940 before being photographed in 2025 in Argentinian home of Nazi officer’s daughter Argentina must return to the rightful owner’s heir an 18th-century painting stolen by Nazis from a Dutch Jewish…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,24 +67,14 @@
       "score": 10
     },
     {
-      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
-      "published": "2026-09-04T16:15:50+00:00",
-      "summary": "A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday released a horrible little propaganda arcade via its…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "published": "2026-09-05T00:00:20+00:00",
+      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic • Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers Seven aid workers…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Federal civil rights data about students is finally out. It's different under Trump",
-      "source": "NPR Health",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
-      "published": "2026-09-04T09:00:00+00:00",
-      "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -97,16 +87,6 @@
       "score": 9
     },
     {
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "published": "2026-09-04T20:22:41+00:00",
-      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "Trump to take gifted Qatar jet to Ireland despite questions about its security",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -114,6 +94,26 @@
       "published": "2026-09-04T19:16:20+00:00",
       "summary": "The president was moved to a separate aircraft during a July trip after officials learned of a possible Iranian threat, leaving questions about the plane’s defenses unanswered Donald Trump intends to use the Boeing jet gifted by Qatar for…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/texas-should-establish-three-year-bachelors-degree-options-gov-greg-abbott-says/",
+      "published": "2026-09-04T18:30:00+00:00",
+      "summary": "Gov. Greg Abbott directed the Texas Higher Education Coordinating Board on Wednesday to work on pathways for students to earn bachelor’s degrees in three years.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "How to Help Your Kids Make Friends at a New School",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/",
+      "published": "2026-09-04T10:30:00+00:00",
+      "summary": "For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -139,6 +139,17 @@
   ],
   "youtube": [
     {
+      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "published": "2026-09-03T08:23:37+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "How Watermarks Track AI Generated Content - Computerphile",
       "source": "Computerphile",
       "category": "Science / computing",
@@ -148,6 +159,171 @@
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ms. Rachel's Emotional Best Moment",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=vsi8DMuAqq4",
+      "published": "2026-09-04T17:00:02+00:00",
+      "summary": "Ms. Rachel visits WIRED to answer her most searched questions on Google. Was Ms. Rachel nominated for an Emmy? Why did Ms. Rachel start making videos? What is Ms.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Anthropologist Fact Checks Stone Age Slop",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=HMJmhik-pok",
+      "published": "2026-09-04T16:00:09+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Anthropologist Agustín Fuentes as we fact check the internet, anthropology edition. WIRED recommends: https://youtu.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Ms. Rachel Answers The Web's Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=fA8HCW9dQ8o",
+      "published": "2026-09-03T16:00:09+00:00",
+      "summary": "Ms. Rachel visits WIRED to answer her most searched questions on Google. Was Ms. Rachel nominated for an Emmy? Why did Ms. Rachel start making videos? What is Ms.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "LA joins NYC in limiting AI use in schools",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FBzMx_td58s",
+      "published": "2026-09-04T23:10:40+00:00",
+      "summary": "The nation’s first and second-largest school districts announced they are implementing restrictions on students' use of artificial intelligence.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Two workers rescued from hydropower tunnels after Nepal floods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=a6tNfqV50kk",
+      "published": "2026-09-04T20:30:26+00:00",
+      "summary": "Rescuers have pulled two workers alive from a hydropower tunnel nine days after torrential flooding triggered landslides and wiped out whole villages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Hundreds of homes of the working poor were razed in a neighborhood in Pakistan",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=q-zAk7DJp9o",
+      "published": "2026-09-04T19:30:05+00:00",
+      "summary": "This neighborhood in Islambad, Pakistan, is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "When a N.Y. birthing center was set to close, this city fought back",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=X_1mH-vTrxc",
+      "published": "2026-09-04T13:00:12+00:00",
+      "summary": "Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Feminist icon and activist Gloria Steinem dies at 92",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=hSUiCkpjYfg",
+      "published": "2026-09-03T20:08:06+00:00",
+      "summary": "Feminist icon Gloria Steinem has died. The trailblazing journalist and activist was 92. Steinem was a pivotal voice and long-standing presence in the modern women’s rights movement.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Haitian community asks to stop the use of ankle monitors after college student death",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=D7IQe5k_KNc",
+      "published": "2026-09-02T23:20:28+00:00",
+      "summary": "A growing coalition of Haitian leaders and pastors in Ohio are calling on the U.S. Department of Homeland Security (DHS) to stop requiring Haitian immigrants to wear GPS ankle monitors.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Silent Hill Townfall: Hands-On Gameplay Impressions",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=nvJs2VJD5T8",
+      "published": "2026-09-04T17:00:25+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6: What Improvements Can PC and Next-Gen Consoles Deliver?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Q_Nc9y2spTs",
+      "published": "2026-09-04T16:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Fable: Everything You Need To Know About The Gamescom Demo",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=zEnYZHCPuIg",
+      "published": "2026-09-03T17:00:00+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6 on PS5 Pro: What Should We Realistically Expect?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=SSwiWIdy6qs",
+      "published": "2026-09-03T16:00:25+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Xbox Disc To Digital Confirmed - And A Game-Changer For Series S?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Au7tBeuoMIY",
+      "published": "2026-09-02T17:00:18+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6 Looks Stunning - But Image Quality Could Be Better",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Vduk2eWhQa8",
+      "published": "2026-09-02T16:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Fallacy of “Audience Aligned” Reviews | Unpacked",
@@ -240,6 +416,50 @@
   ],
   "trailers": [
     {
+      "title": "Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=2znSbIEyfic",
+      "published": "2026-09-04T16:20:52+00:00",
+      "summary": "Zach Cregger hosted the first ever live in-person Reddit AMA featuring a screening of the first 30 minutes of the movie in Los Angeles - simulcast in New York and Dallas. 700+ fans. 150+ creators. Three cities.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
+      "published": "2026-08-26T21:00:09+00:00",
+      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
+      "published": "2026-08-21T19:12:23+00:00",
+      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "literally how you'll feel on the inside watching the full trailer",
       "source": "20th Century Studios",
       "category": "Film / trailer",
@@ -249,6 +469,105 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Unknown - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=vJ3vIzWzFno",
+      "published": "2026-09-04T16:12:27+00:00",
+      "summary": "David is a Parisian photographer. Something of a loner, he becomes curious about a young woman he encounters on an assignment. That night, at a drug-fueled party, David locks eyes with her across the room and follows her.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Once Upon a Time in Harlem - Official Trailer - In Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
+      "published": "2026-09-03T16:00:17+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fjord - Official Trailer - In Theaters October 9",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=frg59VOungA",
+      "published": "2026-08-27T16:00:28+00:00",
+      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MARAMA | Official Trailer | SHUDDER",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=KOlD0A1mlmE",
+      "published": "2026-09-03T16:47:07+00:00",
+      "summary": "A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GOODY GOODY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
+      "published": "2026-08-27T18:00:17+00:00",
+      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
+      "published": "2026-08-18T15:01:18+00:00",
+      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
+      "published": "2026-08-17T21:00:24+00:00",
+      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
     },
     {
       "title": "Gloria Steinem's Final Message To The World | Famous Last Words | Netflix",
@@ -336,6 +655,39 @@
       "summary": "Love Is Blind has finally arrived in the Netherlands.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Bring Them Home | Season 2 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NgWVjIhwqL0",
+      "published": "2026-09-04T18:59:56+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.co/_DarkMatter How it all began.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 4 Sneak Peek & Date Reveal [SPOILER WARNING] | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8Yq7dvVINpY",
+      "published": "2026-09-04T16:59:53+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The future is waiting. July 9, 2027.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Episode 202 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NIyA6kdCv7c",
+      "published": "2026-09-04T00:59:54+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -450,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 9,
-    "trailerCount": 9,
-    "sourceCount": 12
+    "youtubeCount": 25,
+    "trailerCount": 25,
+    "sourceCount": 21
   }
 }
