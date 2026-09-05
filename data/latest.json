@@ -1,154 +1,143 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-04T14:00:02.071213Z",
-  "generatedAtDisplay": "2026-09-04 10:00 AM EDT",
+  "generatedAt": "2026-09-05T05:00:02.013387Z",
+  "generatedAtDisplay": "2026-09-05 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Oh good, looks like yet another swarm of rogue AI agents from OpenAI, Playing Mass Effect spiritual successor Exodus was the best kind of surprise, and Seeds of hope: how a local farming project is offering a lifeline to Gaza.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike, After AI slop accusations, Humankind 2 studio says its new trailer was definitely \"made by humankind\" and at least five chickens, and Architecting memory and storage in the AI era.",
   "mainItems": [
     {
-      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "published": "2026-09-04T13:42:35+00:00",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "published": "2026-09-05T00:00:20+00:00",
+      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic • Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers Seven aid workers…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Playing Mass Effect spiritual successor Exodus was the best kind of surprise",
+      "title": "After AI slop accusations, Humankind 2 studio says its new trailer was definitely \"made by humankind\" and at least five chickens",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/exodus-gamescom-preview",
-      "published": "2026-09-04T13:00:32+00:00",
-      "summary": "My relationship with Mass Effect begins and ends with the first game (let's just blame the M35 Mako and leave it at that), and so Exodus - which is making no bones about being something of a Mass Effect spiritual successor, born from some…",
+      "url": "https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens",
+      "published": "2026-09-04T19:19:34+00:00",
+      "summary": "A large portion of the internet pointed their virtual fingers at Humankind 2's new trailer and shouted 'AI slop!' Developer Amplitude Studios is now denying those claims and has even released a behind-the-scenes clip to prove a whole human…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
-      "published": "2026-09-04T12:37:57+00:00",
-      "summary": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "US military disables ad trackers on troops’ phones amid security fears",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-      "published": "2026-09-04T12:36:01+00:00",
-      "summary": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle East US military officials say they have disabled advertising trackers on a range of phones and computers, according to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Lego Skylines' devs want your city's problems to be visible without digging into a stats screen, which means finding a \"family friendly\" version of showing homelessness",
-      "source": "Rock Paper Shotgun",
+      "title": "Architecting memory and storage in the AI era",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/lego-skylines-devs-want-your-citys-problems-to-be-visible-without-digging-into-a-stats-screen-which-means-finding-a-family-friendly-version-of-showing-homelessness",
-      "published": "2026-09-04T12:00:00+00:00",
-      "summary": "As pretty as Cities: Skylines is, getting a read on your city's problems can take some digging.",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "published": "2026-09-04T18:39:19+00:00",
+      "summary": "The era of AI inference has arrived.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "published": "2026-09-04T11:33:40+00:00",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "ICE bans hugging inside California’s largest detention center. Families are fighting back",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
-      "published": "2026-09-04T11:00:06+00:00",
-      "summary": "In the California City facility, ‘contact visits’ are strictly forbidden – but detained residents aren’t staying quiet.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How to Help Your Kids Make Friends at a New School",
+      "title": "Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says",
       "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/",
-      "published": "2026-09-04T10:30:00+00:00",
-      "summary": "For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘It’s inhumane’: six ICE deportees held in one of world’s most repressive regimes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/04/us-deportation-equatorial-guinea-fourth-country-trump",
-      "published": "2026-09-04T10:00:04+00:00",
-      "summary": "Believed to be first US deportations to fourth country, six face ‘horrific conditions’ in Equatorial Guinea, say lawyers In late August, around 20 people were put on a flight in the US, shackled at the wrists, waist and ankles, and sent to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits",
-      "published": "2026-09-04T09:19:06+00:00",
-      "summary": "Xbox has announced hard monthly time limits will be added to its cloud gaming streaming service this November. Don't worry though, if you run into these limits, you can always buy more hours on the Xbox store. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Wesleyan University president on administration's efforts to revoke tax-exempt status",
-      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-university-president-on-administrations-efforts-to-revoke-tax-exempt-status",
-      "published": "2026-09-04T08:03:21+00:00",
-      "summary": "NPR's Steve Inskeep asks Wesleyan University president Michael Roth about U.S. Treasury and IRS efforts to revoke tax-exempt status from private schools that help students based on race.",
+      "url": "https://www.the74million.org/article/texas-should-establish-three-year-bachelors-degree-options-gov-greg-abbott-says/",
+      "published": "2026-09-04T18:30:00+00:00",
+      "summary": "Gov. Greg Abbott directed the Texas Higher Education Coordinating Board on Wednesday to work on pathways for students to earn bachelor’s degrees in three years.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Obsession’s Inde Navarrette Will Star in The Waffle House Index",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/obsession-inde-navarrette-the-waffle-house-index/",
-      "published": "2026-09-04T13:51:43+00:00",
-      "summary": "It's not about storms. Really. The post Obsession ’s Inde Navarrette Will Star in The Waffle House Index appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "AGI is whatever you want it to be",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "published": "2026-09-04T17:16:49+00:00",
+      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "published": "2026-09-04T17:10:35+00:00",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
+      "published": "2026-09-04T16:15:50+00:00",
+      "summary": "A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday released a horrible little propaganda arcade via its…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Federal civil rights data about students is finally out. It's different under Trump",
+      "source": "NPR Health",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
+      "published": "2026-09-04T09:00:00+00:00",
+      "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "published": "2026-09-04T22:17:36+00:00",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "published": "2026-09-04T20:22:41+00:00",
+      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Trump to take gifted Qatar jet to Ireland despite questions about its security",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland",
+      "published": "2026-09-04T19:16:20+00:00",
+      "summary": "The president was moved to a separate aircraft during a July trip after officials learned of a possible Iranian threat, leaving questions about the plane’s defenses unanswered Donald Trump intends to use the Boeing jet gifted by Qatar for…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "'The health system in Nepal is not prepared for this'",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
+      "published": "2026-09-04T20:41:08+00:00",
+      "summary": "That's the grim assessment from the ground in the wake of the catastrophic flooding, which damaged or destroyed 7 health facilities, interrupted routine care and is affecting mental health.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
     {
-      "title": "Scientists map key protein interactions linked with profound autism",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-      "published": "2026-09-04T10:00:00+00:00",
-      "summary": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Netflix’s New Dungeons & Dragons Project is Ravenloft",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/netflix-dungeons-dragons-ravenloft/",
+      "published": "2026-09-04T15:20:40+00:00",
+      "summary": "Get in, loser, we're going to the Domains of Dread. The post Netflix’s New Dungeons & Dragons Project is Ravenloft appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "published": "2026-09-03T08:23:37+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "How Watermarks Track AI Generated Content - Computerphile",
       "source": "Computerphile",
@@ -161,158 +150,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Ms. Rachel Answers The Web's Most Searched Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=fA8HCW9dQ8o",
-      "published": "2026-09-03T16:00:09+00:00",
-      "summary": "Ms. Rachel visits WIRED to answer her most searched questions on Google. Was Ms. Rachel nominated for an Emmy? Why did Ms. Rachel start making videos? What is Ms.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "The Fallacy of “Audience Aligned” Reviews | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=WhzWTEtTwxI",
+      "published": "2026-09-04T15:00:14+00:00",
+      "summary": "This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Herpetologist Answers Snake Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=CsFP6amUgA4",
-      "published": "2026-09-01T16:02:01+00:00",
-      "summary": "Reptile expert Frank Burbrink joins WIRED to answer the internet’s burning questions about snakes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "When a N.Y. birthing center was set to close, this city fought back",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=X_1mH-vTrxc",
-      "published": "2026-09-04T13:00:12+00:00",
-      "summary": "Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Feminist icon and activist Gloria Steinem dies at 92",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=hSUiCkpjYfg",
-      "published": "2026-09-03T20:08:06+00:00",
-      "summary": "Feminist icon Gloria Steinem has died. The trailblazing journalist and activist was 92. Steinem was a pivotal voice and long-standing presence in the modern women’s rights movement.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Haitian community asks to stop the use of ankle monitors after college student death",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=D7IQe5k_KNc",
-      "published": "2026-09-02T23:20:28+00:00",
-      "summary": "A growing coalition of Haitian leaders and pastors in Ohio are calling on the U.S. Department of Homeland Security (DHS) to stop requiring Haitian immigrants to wear GPS ankle monitors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Chevron to expand operations in Venezuela as Trump tries tap's into the country's oil industry",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Q257i9WlytY",
-      "published": "2026-09-02T21:00:33+00:00",
-      "summary": "Chevron is expanding its existing operations in Venezuela, the Houston-based company said Wednesday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Whistleblower warns USPS plan for Trump's mail voting order could 'derail' midterms",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=n3lnTepmZyY",
-      "published": "2026-09-01T21:30:49+00:00",
-      "summary": "The U.S. Postal Service could \"derail\" the midterm election if it continues rushing out \"untested\" technology as part of President Trump's push to restrict mail-in voting, a newly released whistleblower report warns.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Jury finds Duane 'Keffe D' Davis guilty in Tupac Shakur's murder",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=eggLyJGN61k",
-      "published": "2026-09-01T16:50:15+00:00",
-      "summary": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans and lingered in the public imagination for decades.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Fable: Everything You Need To Know About The Gamescom Demo",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=zEnYZHCPuIg",
-      "published": "2026-09-03T17:00:00+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Grand Theft Auto 6 on PS5 Pro: What Should We Realistically Expect?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=SSwiWIdy6qs",
-      "published": "2026-09-03T16:00:25+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Xbox Disc To Digital Confirmed - And A Game-Changer For Series S?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Au7tBeuoMIY",
-      "published": "2026-09-02T17:00:18+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Grand Theft Auto 6 Looks Stunning - But Image Quality Could Be Better",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Vduk2eWhQa8",
-      "published": "2026-09-02T16:00:20+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Grand Theft Auto 6: Next Level Open World + Simulation?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=K55bL31GbxU",
-      "published": "2026-09-01T17:00:00+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Witcher 3 Remastered Reaction + Switch 2 Res/FPS Details",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=dmHbKmwwn5g",
-      "published": "2026-09-01T16:00:08+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Taking All TTRPG Questions Today! | RPG Help Desk",
@@ -322,8 +168,8 @@
       "published": "2026-09-04T09:50:36+00:00",
       "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Fall Release Floodgates Have Opened | Firelink Podcast",
@@ -333,8 +179,8 @@
       "published": "2026-09-04T00:40:21+00:00",
       "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "They're Calling It the Most Randomized Dark Souls Stream in History -- Part 5",
@@ -344,19 +190,8 @@
       "published": "2026-09-03T19:19:25+00:00",
       "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "State of Play September 2026 Watchalong w/ Second Wind",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=UQrxXhQOyos",
-      "published": "2026-09-03T15:39:38+00:00",
-      "summary": "PlayStation is holding back-to-back State of Play showcases, so come watch them live along with Nick and Marty. If you dig watching us gab over showcases, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Zero Company Is Reigniting My Love For Star Wars",
@@ -392,51 +227,18 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Just Kidding, It's Big Walk w/ Jack and Jenna",
+      "title": "Are You the Hero? | Adventure Is Nigh! - The Slow Walk Home | Ep. 9",
       "source": "Second Wind",
       "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ut7NefJpQh0",
-      "published": "2026-09-01T22:24:56+00:00",
-      "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
+      "url": "https://www.youtube.com/watch?v=1mWVwzg2tk0",
+      "published": "2026-09-02T15:12:28+00:00",
+      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.com/ What do we say in the face of death? Not today.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
-    {
-      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
-      "published": "2026-08-26T21:00:09+00:00",
-      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
-      "published": "2026-08-21T19:12:23+00:00",
-      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
-      "published": "2026-08-20T14:03:57+00:00",
-      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
     {
       "title": "literally how you'll feel on the inside watching the full trailer",
       "source": "20th Century Studios",
@@ -449,105 +251,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Club Kid | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
-      "published": "2026-08-19T12:07:41+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Once Upon a Time in Harlem - Official Trailer - In Theaters October 16",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
-      "published": "2026-09-03T16:00:17+00:00",
-      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Fjord - Official Trailer - In Theaters October 9",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=frg59VOungA",
-      "published": "2026-08-27T16:00:28+00:00",
-      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
-      "published": "2026-08-25T16:00:37+00:00",
-      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "MARAMA | Official Trailer | SHUDDER",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=KOlD0A1mlmE",
-      "published": "2026-09-03T16:47:07+00:00",
-      "summary": "A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GOODY GOODY | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
-      "published": "2026-08-27T18:00:17+00:00",
-      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
-      "published": "2026-08-18T15:01:18+00:00",
-      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "PENNY LANE IS DEAD | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=R4oEHjWY_CU",
-      "published": "2026-08-14T16:32:20+00:00",
-      "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
-      "published": "2026-08-17T21:00:24+00:00",
-      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
       "title": "Gloria Steinem's Final Message To The World | Famous Last Words | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -555,7 +258,7 @@
       "published": "2026-09-04T13:00:00+00:00",
       "summary": "“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -633,61 +336,6 @@
       "summary": "Love Is Blind has finally arrived in the Netherlands.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LA BOLA NEGRA | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IRHtqjHYPew",
-      "published": "2026-09-01T14:00:00+00:00",
-      "summary": "LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LA BOLA NEGRA | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=K00sww73abM",
-      "published": "2026-09-01T14:00:00+00:00",
-      "summary": "LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 202 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NIyA6kdCv7c",
-      "published": "2026-09-04T00:59:54+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Being Heumann — Official Teaser | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=9INUY8uKRyU",
-      "published": "2026-09-02T15:59:57+00:00",
-      "summary": "Judy didn't wait for change. She fought to make it happen. Being Heumann is in select theaters November 6. Streaming November 13 on Apple TV. https://apple.co/_BeingHuemann Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Peter Gabriel's Sound Check | Season 3 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=N7i_j2voO0s",
-      "published": "2026-09-01T23:59:58+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo It's a big day for the Silo project.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -802,8 +450,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 26,
-    "sourceCount": 22
+    "youtubeCount": 9,
+    "trailerCount": 9,
+    "sourceCount": 12
   }
 }
