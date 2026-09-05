@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-05T09:00:12.843131Z
+Generated: 2026-09-05T14:00:01.421272Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What are we all playing this weekend?, Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff, and The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’, White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security, and The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi.
 
 ## Briefing
 
@@ -33,61 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
+### 1. After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The coastal community in California had already been devastated by landslides and wildfires before a fatal crash California’s rugged Big Sur coastline is often called a slice of heaven, 120 miles (195km) of unspoiled rocky promontories,…
+
+Link: https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism
+
+### 2. White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough.
+The White House has launched Arcade.Gov, a website of browser minigames built around Donald Trump's immigration and border policies. Read more
 
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398
+Link: https://www.eurogamer.net/white-house-arcade-gov-minigames-immigration-border-wall
 
-### 2. Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff [10/10]
+### 3. The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-There’ll be exhaustion, love tinged with occasional rage, even moments of black humour. But my mum would want me to tell you: don’t be afraid My mother’s house looks exactly as she left it.
+Todd Blanche’s remarks are part of a totally-not-invented moral panic that stretches the limits of the imagination Being a public school teacher in the US these days is tough.
 
-Link: https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience
+Link: https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools
 
-### 3. The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Has your cat been gaining weight and staying out at night, only to arrive home reeking of marijuana? These are just some of the signs that a neighbour is trying to entice them away ...
-
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/05/the-unsettling-rise-of-the-cat-seducers
-
-### 4. Nazi-looted painting must be returned to Jewish art dealer’s heir, Argentina court rules [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Portrait of a Lady had been missing since 1940 before being photographed in 2025 in Argentinian home of Nazi officer’s daughter Argentina must return to the rightful owner’s heir an 18th-century painting stolen by Nazis from a Dutch Jewish…
-
-Link: https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules
-
-### 5. AGI is whatever you want it to be [10/10]
+### 4. OpenAI admits to German wiki ‘incident’ [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week.
+OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.
 
-Link: https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be
+Link: https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
 
-### 6. Microsoft says virtually nobody was grabbing NYT articles through its chatbot [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from…
-
-Link: https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
-
-### 7. ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike [9/10]
+### 5. ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,25 +78,52 @@ Exclusive: Guardian investigation reveals targeting of World Central Kitchen con
 
 Link: https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation
 
-### 8. OpenAI agents discussed ways to escape their sandbox on public wiki [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 6. Virtual School Enrollment Has Doubled in Recent Years, Following Pandemic-Era Surge [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+Remote learning during the pandemic was a nightmare for some students, but others have stuck with it, new data shows.
 
-Link: https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+Link: https://www.the74million.org/article/virtual-school-enrollment-has-doubled-in-recent-years-following-pandemic-era-surge/
 
-### 9. Trump to take gifted Qatar jet to Ireland despite questions about its security [9/10]
+### 7. ICE given permission to force-feed Cuban hunger striker with gastric tube [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The president was moved to a separate aircraft during a July trip after officials learned of a possible Iranian threat, leaving questions about the plane’s defenses unanswered Donald Trump intends to use the Boeing jet gifted by Qatar for…
+Exclusive: court orders seen by Guardian show agency given approval to fit Texas detainee with tube without his consent Federal immigration officials quietly received permission from a judge in recent weeks to force-feed a detained Cuban…
 
-Link: https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland
+Link: https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding
 
-### 10. Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says [9/10]
+### 8. ‘Please find daddy’: the haunting missing posters of September 11 [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A collection of previously stored away posters will be displayed at a new exhibition to mark 25 years since the deadliest terrorist attack in US history He saw the first one on September 11 itself.
+
+Link: https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition
+
+### 9. Microsoft says virtually nobody was grabbing NYT articles through its chatbot [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from…
+
+Link: https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
+
+### 10. Whatever happened to the floating schools of Bangladesh? [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?
+
+Link: https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh
+
+### 11. Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,23 +132,14 @@ Gov. Greg Abbott directed the Texas Higher Education Coordinating Board on Wedne
 
 Link: https://www.the74million.org/article/texas-should-establish-three-year-bachelors-degree-options-gov-greg-abbott-says/
 
-### 11. How to Help Your Kids Make Friends at a New School [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 12. Voters are fed up with data centers. Both parties are trying to cash in for midterms [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…
+Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.
 
-Link: https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/
-
-### 12. 'The health system in Nepal is not prepared for this' [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-That's the grim assessment from the ground in the wake of the catastrophic flooding, which damaged or destroyed 7 health facilities, interrupted routine care and is affecting mental health.
-
-Link: https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health
+Link: https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending
 
 ### 13. Netflix’s New Dungeons & Dragons Project is Ravenloft [7/10]
 **Source:** Reactor  

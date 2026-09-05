@@ -1,59 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-05T09:00:12.843131Z",
-  "generatedAtDisplay": "2026-09-05 05:00 AM EDT",
+  "generatedAt": "2026-09-05T14:00:01.421272Z",
+  "generatedAtDisplay": "2026-09-05 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What are we all playing this weekend?, Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff, and The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’, White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security, and The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi.",
   "mainItems": [
     {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
+      "title": "After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
+      "published": "2026-09-05T13:00:36+00:00",
+      "summary": "The coastal community in California had already been devastated by landslides and wildfires before a fatal crash California’s rugged Big Sur coastline is often called a slice of heaven, 120 miles (195km) of unspoiled rocky promontories,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398",
-      "published": "2026-09-05T07:00:00+00:00",
-      "summary": "This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough.",
+      "url": "https://www.eurogamer.net/white-house-arcade-gov-minigames-immigration-border-wall",
+      "published": "2026-09-05T12:03:15+00:00",
+      "summary": "The White House has launched Arcade.Gov, a website of browser minigames built around Donald Trump's immigration and border policies. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Losing a parent is a bewildering, lonely experience. Here are the things I wish I had known before | Gaby Hinsliff",
+      "title": "The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience",
-      "published": "2026-09-05T05:00:30+00:00",
-      "summary": "There’ll be exhaustion, love tinged with occasional rage, even moments of black humour. But my mum would want me to tell you: don’t be afraid My mother’s house looks exactly as she left it.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools",
+      "published": "2026-09-05T12:00:37+00:00",
+      "summary": "Todd Blanche’s remarks are part of a totally-not-invented moral panic that stretches the limits of the imagination Being a public school teacher in the US these days is tough.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "The unsettling rise of cat seducers: ‘My little companion was missing – and I was consumed with anger’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/05/the-unsettling-rise-of-the-cat-seducers",
-      "published": "2026-09-05T04:00:26+00:00",
-      "summary": "Has your cat been gaining weight and staying out at night, only to arrive home reeking of marijuana? These are just some of the signs that a neighbour is trying to entice them away ...",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nazi-looted painting must be returned to Jewish art dealer’s heir, Argentina court rules",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules",
-      "published": "2026-09-05T03:13:46+00:00",
-      "summary": "Portrait of a Lady had been missing since 1940 before being photographed in 2025 in Argentinian home of Nazi officer’s daughter Argentina must return to the rightful owner’s heir an 18th-century painting stolen by Nazis from a Dutch Jewish…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AGI is whatever you want it to be",
+      "title": "OpenAI admits to German wiki ‘incident’",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "published": "2026-09-04T17:16:49+00:00",
-      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "published": "2026-09-05T11:28:05+00:00",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "published": "2026-09-05T11:08:31+00:00",
+      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic • Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers Seven aid workers…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Virtual School Enrollment Has Doubled in Recent Years, Following Pandemic-Era Surge",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/virtual-school-enrollment-has-doubled-in-recent-years-following-pandemic-era-surge/",
+      "published": "2026-09-05T10:30:00+00:00",
+      "summary": "Remote learning during the pandemic was a nightmare for some students, but others have stuck with it, new data shows.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "ICE given permission to force-feed Cuban hunger striker with gastric tube",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding",
+      "published": "2026-09-05T10:00:34+00:00",
+      "summary": "Exclusive: court orders seen by Guardian show agency given approval to fit Texas detainee with tube without his consent Federal immigration officials quietly received permission from a judge in recent weeks to force-feed a detained Cuban…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Please find daddy’: the haunting missing posters of September 11",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition",
+      "published": "2026-09-05T09:00:31+00:00",
+      "summary": "A collection of previously stored away posters will be displayed at a new exhibition to mark 25 years since the deadliest terrorist attack in US history He saw the first one on September 11 itself.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,33 +97,13 @@
       "score": 10
     },
     {
-      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-      "published": "2026-09-05T00:00:20+00:00",
-      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic • Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers Seven aid workers…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "published": "2026-09-04T22:17:36+00:00",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Trump to take gifted Qatar jet to Ireland despite questions about its security",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland",
-      "published": "2026-09-04T19:16:20+00:00",
-      "summary": "The president was moved to a separate aircraft during a July trip after officials learned of a possible Iranian threat, leaving questions about the plane’s defenses unanswered Donald Trump intends to use the Boeing jet gifted by Qatar for…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Whatever happened to the floating schools of Bangladesh?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+      "published": "2026-09-05T11:26:09+00:00",
+      "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -107,24 +117,14 @@
       "score": 9
     },
     {
-      "title": "How to Help Your Kids Make Friends at a New School",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-to-help-your-kids-make-friends-at-a-new-school/",
-      "published": "2026-09-04T10:30:00+00:00",
-      "summary": "For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess? “I’m this much nervous,” said Iman Fair-Seldon, 5, holding her…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "'The health system in Nepal is not prepared for this'",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
-      "published": "2026-09-04T20:41:08+00:00",
-      "summary": "That's the grim assessment from the ground in the wake of the catastrophic flooding, which damaged or destroyed 7 health facilities, interrupted routine care and is affecting mental health.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+      "published": "2026-09-05T09:00:00+00:00",
+      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Netflix’s New Dungeons & Dragons Project is Ravenloft",
