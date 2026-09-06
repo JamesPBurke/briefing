@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-05T18:00:35.352444Z",
-  "generatedAtDisplay": "2026-09-05 02:00 PM EDT",
+  "generatedAt": "2026-09-06T05:00:03.987143Z",
+  "generatedAtDisplay": "2026-09-06 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Delaware District to Replace Police Officers With Constables in Middle Schools, Judge orders Trump administration to reveal who set up $1.8bn ‘anti-weaponization fund’, and After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / privacy. The strongest items in this run are The ESRB wouldn't let Valve release the cinematic trailer for Left 4 Dead 2, so what did they do? They \"leaked\" it, obviously, Judge orders Trump administration to reveal who set up $1.8bn ‘anti-weaponization fund’, and The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi.",
   "mainItems": [
     {
-      "title": "Delaware District to Replace Police Officers With Constables in Middle Schools",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/christina-to-replace-police-officers-with-constables-in-middle-schools/",
-      "published": "2026-09-05T16:30:00+00:00",
-      "summary": "The Christina School District will phase out its use of school resource officers at middle schools, and replace them with constables.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The ESRB wouldn't let Valve release the cinematic trailer for Left 4 Dead 2, so what did they do? They \"leaked\" it, obviously",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-esrb-wouldnt-let-valve-release-the-cinematic-trailer-for-left-4-dead-2-so-what-did-they-do-they-leaked-it-obviously",
+      "published": "2026-09-05T18:08:03+00:00",
+      "summary": "My only experience of Left 4 Dead 2 is a handful of sessions in my youth where a friend handed me a controller (me, a person whose shooter experience extended to Ratchet and Clank at the time), told me nothing, and let the chaos unfold.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -22,18 +22,8 @@
       "category": "AI / privacy",
       "url": "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund",
       "published": "2026-09-05T15:14:37+00:00",
-      "summary": "Judge issued order as part of discovery process in lawsuit brought by non-profit into now defunct compensation fund A federal judge has ordered the Trump administration to reveal who set up the structure of a controversial $1.",
+      "summary": "Judge issues order as part of discovery process in lawsuit brought by non-profit into now defunct compensation fund A federal judge has ordered the Trump administration to reveal who set up the structure of a controversial $1.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
-      "published": "2026-09-05T13:00:36+00:00",
-      "summary": "The coastal community in California had already been devastated by landslides and wildfires before a fatal crash California’s rugged Big Sur coastline is often called a slice of heaven, 120 miles (195km) of unspoiled rocky promontories,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,6 +37,56 @@
       "score": 10
     },
     {
+      "title": "Laser Guy is a twin-stick \"anti-shooter\" about a stressed out game developer who can't stop shooting laser beams from his eye",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/laser-guy-is-a-twin-stick-anti-shooter-about-a-stressed-out-game-developer-who-cant-stop-shooting-laser-beams-from-his-eyes",
+      "published": "2026-09-05T20:33:25+00:00",
+      "summary": "Do I need to explain how Cyclops from the X-Men's powers work? I'm going to anyway just in case.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Double Fine's first game post-Xbox split is a goofy bus driving sim all about slapping passengers who don't follow the rules and doing a good job",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/double-fines-first-game-post-xbox-split-is-a-goofy-bus-driving-sim-all-about-slapping-passengers-who-dont-follow-the-rules-and-doing-a-good-job",
+      "published": "2026-09-05T17:01:43+00:00",
+      "summary": "It's been a couple of months since Double Fine parted ways from Xbox, and they've been busy getting to work since that split.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Delaware District to Replace Police Officers With Constables in Middle Schools",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/christina-to-replace-police-officers-with-constables-in-middle-schools/",
+      "published": "2026-09-05T16:30:00+00:00",
+      "summary": "The Christina School District will phase out its use of school resource officers at middle schools, and replace them with constables.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+      "published": "2026-09-05T14:00:37+00:00",
+      "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the tech Growing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
+      "published": "2026-09-05T13:00:36+00:00",
+      "summary": "The coastal community in California had already been devastated by landslides and wildfires before a fatal crash California’s rugged Big Sur coastline is often called a slice of heaven, 120 miles (195km) of unspoiled rocky promontories,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "OpenAI admits to German wiki ‘incident’",
       "source": "The Verge",
       "category": "AI / computing",
@@ -54,7 +94,7 @@
       "published": "2026-09-05T11:28:05+00:00",
       "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Virtual School Enrollment Has Doubled in Recent Years, Following Pandemic-Era Surge",
@@ -64,17 +104,7 @@
       "published": "2026-09-05T10:30:00+00:00",
       "summary": "Remote learning during the pandemic was a nightmare for some students, but others have stuck with it, new data shows.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "published": "2026-09-04T23:58:11+00:00",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Whatever happened to the floating schools of Bangladesh?",
@@ -84,37 +114,7 @@
       "published": "2026-09-05T11:26:09+00:00",
       "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-      "published": "2026-09-05T11:08:31+00:00",
-      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic Death on the road to Rafah: the night the IDF targeted WCK aid workers Seven aid workers killed in an airstrike…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "ICE given permission to force-feed Cuban hunger striker with gastric tube",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding",
-      "published": "2026-09-05T10:00:34+00:00",
-      "summary": "Exclusive: court orders seen by Guardian show agency given approval to fit Texas detainee with tube without his consent Federal immigration officials quietly received permission from a judge in recent weeks to force-feed a detained Cuban…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Texas Should Establish Three-Year Bachelor’s Degree Options, Gov. Greg Abbott Says",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/texas-should-establish-three-year-bachelors-degree-options-gov-greg-abbott-says/",
-      "published": "2026-09-04T18:30:00+00:00",
-      "summary": "Gov. Greg Abbott directed the Texas Higher Education Coordinating Board on Wednesday to work on pathways for students to earn bachelor’s degrees in three years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 7
   }
 }
