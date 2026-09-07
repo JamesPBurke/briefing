@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-07T09:00:31.702671Z
+Generated: 2026-09-07T14:00:04.581582Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice, Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute, and Seattle Times and Newsday sue OpenAI and Microsoft for infringement.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make, Oasis recordings up for auction despite band’s objections, and The Download: the hunt for underground hydrogen and more rogue OpenAI agents.
 
 ## Briefing
 
@@ -33,7 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice [10/10]
+### 1. Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.
+
+Link: https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make
+
+### 2. Oasis recordings up for auction despite band’s objections [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Guide price of archive documenting concerts, rehearsals, soundchecks and conversations between £1.2m and £1.
+
+Link: https://www.theguardian.com/music/2026/sep/07/auction-oasis-recordings-archive-concerts-rehearsals-conversations
+
+### 3. The Download: the hunt for underground hydrogen and more rogue OpenAI agents [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
+
+### 4. Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald…
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy
+
+### 5. ‘Nakedly political’: US attempts to link trans support to authoritarianism in new health department report [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+HHS releases report linking ‘gender ideology’ to political violence – a study scientists say was poorly conducted The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing…
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism
+
+### 6. ‘The most anti-union president’: how Trump turned his back on US workers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers.
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union
+
+### 7. Former Louisiana mayor completes 90-day jail term for raping 16-year-old boy [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Judge admits he made mistake in sentencing Misty Roberts, who faced up to 17 years in prison after conviction The former Louisiana mayor Misty Roberts has completed the 90-day jail sentence she received for raping a 16-year-old boy while…
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/former-louisiana-mayor-misty-robert-completes-jail-sentence
+
+### 8. "Many a brave knight are going to die" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as "the grail" following the sudden end-of-development announcement for its fighting game 2XKO. Read more
+
+Link: https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko
+
+### 9. 25 years ago, two strangers met in the twin towers and escaped on 9/11. What happened next? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Stanley Primnath and Brian Clark were two of only four individuals known to have survived above the impact zone in the north tower He has told the story hundreds of times, but it never seems to fade. If anything, it only becomes more vivid.
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11
+
+### 10. The first day of school: Bells, bikes, buses and big feelings [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Fifth graders calm school kindergartners in Los Angeles. Kids take the "bike bus" in Oklahoma. High school students take in a new high school building in Oregon.
+
+Link: https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts
+
+### 11. Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +132,7 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 
 Link: https://www.eurogamer.net/fable-preview-so-good-played-it-twice
 
-### 2. Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Gabna community fear their traditional herding routes will be sacrificed as far-right rhetoric ramps up against them For the Swedish-Sami politician Åsa Larsson Blind, it was something of a watershed moment in the national conversation…
-
-Link: https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute
-
-### 3. Seattle Times and Newsday sue OpenAI and Microsoft for infringement [10/10]
+### 12. Seattle Times and Newsday sue OpenAI and Microsoft for infringement [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,70 +141,7 @@ The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to c
 
 Link: https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
 
-### 4. Trump again asks supreme court to restrict mail-in voting as midterms loom [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Legal fight continues as states begin sending out ballots for voters to vote by mail in November’s midterm elections The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on mail-in voting,…
-
-Link: https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting
-
-### 5. The Blood of Dawnwalker's most popular mod right now nullifies its main hook [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed.
-
-Link: https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook
-
-### 6. ‘Work hard – nobody cares how good you used to be’: Paul Smith at 80 on love, fun and his fabulous life in fashion [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-With the release of his new biography, the British designer talks about leaving school at 15, the real reason he won’t retire and why no one wears velvet trousers any more Go for a browse in the Paul Smith shop in Mayfair, London, on any…
-
-Link: https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion
-
-### 7. Susan Sarandon says she is losing movie roles because of her support for Palestine [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for…
-
-Link: https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine
-
-### 8. Boox’s tiny Picco e-reader should land in November [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price.
-
-Link: https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa
-
-### 9. Professor analyzes what schools do and don't teach about 9/11 and the subsequent wars [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-NPR's Ayesha Rascoe speaks with professor Jeremy Stoddard of the University of Wisconsin about how to teach the September 11th attacks to middle and high school students.
-
-Link: https://www.npr.org/2026/09/06/nx-s1-5954257/professor-analyzes-what-schools-do-and-dont-teach-about-9-11-and-the-subsequent-wars
-
-### 10. When Plastic Companies Write the Lesson Plans [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This fall, 54 million K-12 students are headed back to the classroom for another year of lessons in all the classic subjects: math, English, history, biology. But there’s another subject that’s been sneaking into school curricula: plastics.
-
-Link: https://www.the74million.org/article/when-plastic-companies-write-the-lesson-plans/
-
-### 11. Pig kidneys keep patients alive long enough to get human kidneys for the first time [8/10]
+### 13. Pig kidneys keep patients alive long enough to get human kidneys for the first time [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,24 +149,6 @@ Link: https://www.the74million.org/article/when-plastic-companies-write-the-less
 For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.
 
 Link: https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time
-
-### 12. DIY plug-in solar gains momentum in the US [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker.
-
-Link: https://www.theverge.com/column/990183/diy-plug-in-solar-us
-
-### 13. ‘This is what I have to do to survive’: the Sudan refugees forced into sex work [8/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-They fled a brutal civil war to reach safety in Egypt, but now many Sudanese women and girls are falling prey to sexual exploitation Sudanese women who fled to Egypt to escape the war in their country are facing increasing levels of sexual…
-
-Link: https://www.theguardian.com/global-development/2026/sep/07/sudan-women-war-refugees-egypt-sex-work-exploitation
 
 ## YouTube
 
@@ -214,15 +214,6 @@ Link: https://www.youtube.com/watch?v=a6tNfqV50kk
 This neighborhood in Islambad, Pakistan, is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.
 
 Link: https://www.youtube.com/watch?v=q-zAk7DJp9o
-
-### When a N.Y. birthing center was set to close, this city fought back [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.
-
-Link: https://www.youtube.com/watch?v=X_1mH-vTrxc
 
 ### Ace Combat 8: One Of The Best Titles At Gamescom 2026! [8/10]
 **Creator:** Digital Foundry  
@@ -295,15 +286,6 @@ Link: https://www.youtube.com/watch?v=1mWVwzg2tk0
 This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=WhzWTEtTwxI
-
-### Taking All TTRPG Questions Today! | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=etn0BkyjJSo
 
 ## Entertainment Recommendations
 

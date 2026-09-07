@@ -1,11 +1,111 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-07T09:00:31.702671Z",
-  "generatedAtDisplay": "2026-09-07 05:00 AM EDT",
+  "generatedAt": "2026-09-07T14:00:04.581582Z",
+  "generatedAtDisplay": "2026-09-07 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice, Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute, and Seattle Times and Newsday sue OpenAI and Microsoft for infringement.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make, Oasis recordings up for auction despite band’s objections, and The Download: the hunt for underground hydrogen and more rogue OpenAI agents.",
   "mainItems": [
+    {
+      "title": "Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make",
+      "source": "Rock Paper Shotgun",
+      "category": "CS education / AI policy",
+      "url": "https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make",
+      "published": "2026-09-07T13:30:00+00:00",
+      "summary": "Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Oasis recordings up for auction despite band’s objections",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/sep/07/auction-oasis-recordings-archive-concerts-rehearsals-conversations",
+      "published": "2026-09-07T12:25:22+00:00",
+      "summary": "Guide price of archive documenting concerts, rehearsals, soundchecks and conversations between £1.2m and £1.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "published": "2026-09-07T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+      "published": "2026-09-07T12:00:50+00:00",
+      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Nakedly political’: US attempts to link trans support to authoritarianism in new health department report",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism",
+      "published": "2026-09-07T11:00:49+00:00",
+      "summary": "HHS releases report linking ‘gender ideology’ to political violence – a study scientists say was poorly conducted The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘The most anti-union president’: how Trump turned his back on US workers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
+      "published": "2026-09-07T11:00:49+00:00",
+      "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Former Louisiana mayor completes 90-day jail term for raping 16-year-old boy",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/former-louisiana-mayor-misty-robert-completes-jail-sentence",
+      "published": "2026-09-07T10:38:21+00:00",
+      "summary": "Judge admits he made mistake in sentencing Misty Roberts, who faced up to 17 years in prison after conviction The former Louisiana mayor Misty Roberts has completed the 90-day jail sentence she received for raping a 16-year-old boy while…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"Many a brave knight are going to die\" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko",
+      "published": "2026-09-07T09:30:34+00:00",
+      "summary": "Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as \"the grail\" following the sudden end-of-development announcement for its fighting game 2XKO. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "25 years ago, two strangers met in the twin towers and escaped on 9/11. What happened next?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11",
+      "published": "2026-09-07T09:00:30+00:00",
+      "summary": "Stanley Primnath and Brian Clark were two of only four individuals known to have survived above the impact zone in the north tower He has told the story hundreds of times, but it never seems to fade. If anything, it only becomes more vivid.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The first day of school: Bells, bikes, buses and big feelings",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+      "published": "2026-09-07T09:00:00+00:00",
+      "summary": "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
     {
       "title": "Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice",
       "source": "Eurogamer",
@@ -13,16 +113,6 @@
       "url": "https://www.eurogamer.net/fable-preview-so-good-played-it-twice",
       "published": "2026-09-07T09:00:00+00:00",
       "summary": "\"We don't want to spoil anything,\" associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, \"but we've got two very different loadouts for you to play with today.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute",
-      "published": "2026-09-07T04:00:24+00:00",
-      "summary": "Gabna community fear their traditional herding routes will be sacrificed as far-right rhetoric ramps up against them For the Swedish-Sami politician Åsa Larsson Blind, it was something of a watershed moment in the national conversation…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,76 +127,6 @@
       "score": 10
     },
     {
-      "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-      "published": "2026-09-06T16:23:02+00:00",
-      "summary": "Legal fight continues as states begin sending out ballots for voters to vote by mail in November’s midterm elections The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on mail-in voting,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Blood of Dawnwalker's most popular mod right now nullifies its main hook",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook",
-      "published": "2026-09-07T08:43:51+00:00",
-      "summary": "It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "‘Work hard – nobody cares how good you used to be’: Paul Smith at 80 on love, fun and his fabulous life in fashion",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion",
-      "published": "2026-09-07T04:00:23+00:00",
-      "summary": "With the release of his new biography, the British designer talks about leaving school at 15, the real reason he won’t retire and why no one wears velvet trousers any more Go for a browse in the Paul Smith shop in Mayfair, London, on any…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
-      "published": "2026-09-07T00:17:35+00:00",
-      "summary": "Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "published": "2026-09-06T16:28:58+00:00",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Professor analyzes what schools do and don't teach about 9/11 and the subsequent wars",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5954257/professor-analyzes-what-schools-do-and-dont-teach-about-9-11-and-the-subsequent-wars",
-      "published": "2026-09-06T12:02:45+00:00",
-      "summary": "NPR's Ayesha Rascoe speaks with professor Jeremy Stoddard of the University of Wisconsin about how to teach the September 11th attacks to middle and high school students.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "When Plastic Companies Write the Lesson Plans",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/when-plastic-companies-write-the-lesson-plans/",
-      "published": "2026-09-06T10:30:00+00:00",
-      "summary": "This fall, 54 million K-12 students are headed back to the classroom for another year of lessons in all the classic subjects: math, English, history, biology. But there’s another subject that’s been sneaking into school curricula: plastics.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
       "title": "Pig kidneys keep patients alive long enough to get human kidneys for the first time",
       "source": "NPR Health",
       "category": "Science / health",
@@ -114,26 +134,6 @@
       "published": "2026-09-07T08:42:53+00:00",
       "summary": "For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "DIY plug-in solar gains momentum in the US",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "published": "2026-09-07T08:29:33+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "‘This is what I have to do to survive’: the Sudan refugees forced into sex work",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/global-development/2026/sep/07/sudan-women-war-refugees-egypt-sex-work-exploitation",
-      "published": "2026-09-07T06:00:26+00:00",
-      "summary": "They fled a brutal civil war to reach safety in Egypt, but now many Sudanese women and girls are falling prey to sexual exploitation Sudanese women who fled to Egypt to escape the war in their country are facing increasing levels of sexual…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     }
   ],
@@ -211,17 +211,6 @@
       "url": "https://www.youtube.com/watch?v=q-zAk7DJp9o",
       "published": "2026-09-04T19:30:05+00:00",
       "summary": "This neighborhood in Islambad, Pakistan, is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "When a N.Y. birthing center was set to close, this city fought back",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=X_1mH-vTrxc",
-      "published": "2026-09-04T13:00:12+00:00",
-      "summary": "Republicans and Democrats in Troy, N.Y., took on a national Catholic health system and kept the county’s last birthing center open. Reporter: Noam N.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -313,17 +302,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Taking All TTRPG Questions Today! | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=etn0BkyjJSo",
-      "published": "2026-09-04T09:50:36+00:00",
-      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -714,8 +692,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
+    "youtubeCount": 15,
     "trailerCount": 25,
-    "sourceCount": 18
+    "sourceCount": 19
   }
 }
