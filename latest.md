@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-07T05:00:02.561295Z
+Generated: 2026-09-07T09:00:31.702671Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute, Susan Sarandon says she is losing movie roles because of her support for Palestine, and Seattle Times and Newsday sue OpenAI and Microsoft for infringement.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice, Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute, and Seattle Times and Newsday sue OpenAI and Microsoft for infringement.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute [10/10]
+### 1. Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+"We don't want to spoil anything," associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, "but we've got two very different loadouts for you to play with today.
+
+Link: https://www.eurogamer.net/fable-preview-so-good-played-it-twice
+
+### 2. Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -41,15 +50,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 Gabna community fear their traditional herding routes will be sacrificed as far-right rhetoric ramps up against them For the Swedish-Sami politician Åsa Larsson Blind, it was something of a watershed moment in the national conversation…
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute
-
-### 2. Susan Sarandon says she is losing movie roles because of her support for Palestine [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for…
-
-Link: https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine
 
 ### 3. Seattle Times and Newsday sue OpenAI and Microsoft for infringement [10/10]
 **Source:** The Verge  
@@ -69,16 +69,34 @@ Legal fight continues as states begin sending out ballots for voters to vote by 
 
 Link: https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting
 
-### 5. ‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones [10/10]
+### 5. The Blood of Dawnwalker's most popular mod right now nullifies its main hook [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed.
+
+Link: https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook
+
+### 6. ‘Work hard – nobody cares how good you used to be’: Paul Smith at 80 on love, fun and his fabulous life in fashion [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+With the release of his new biography, the British designer talks about leaving school at 15, the real reason he won’t retire and why no one wears velvet trousers any more Go for a browse in the Paul Smith shop in Mayfair, London, on any…
+
+Link: https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion
+
+### 7. Susan Sarandon says she is losing movie roles because of her support for Palestine [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-After her role in the fantasy series, the actor felt lost.
+Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2
+Link: https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine
 
-### 6. Boox’s tiny Picco e-reader should land in November [9/10]
+### 8. Boox’s tiny Picco e-reader should land in November [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,7 +105,7 @@ Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, b
 
 Link: https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa
 
-### 7. Professor analyzes what schools do and don't teach about 9/11 and the subsequent wars [9/10]
+### 9. Professor analyzes what schools do and don't teach about 9/11 and the subsequent wars [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,7 +114,7 @@ NPR's Ayesha Rascoe speaks with professor Jeremy Stoddard of the University of W
 
 Link: https://www.npr.org/2026/09/06/nx-s1-5954257/professor-analyzes-what-schools-do-and-dont-teach-about-9-11-and-the-subsequent-wars
 
-### 8. When Plastic Companies Write the Lesson Plans [9/10]
+### 10. When Plastic Companies Write the Lesson Plans [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,50 +123,32 @@ This fall, 54 million K-12 students are headed back to the classroom for another
 
 Link: https://www.the74million.org/article/when-plastic-companies-write-the-lesson-plans/
 
-### 9. Age Twisters is a genuinely charming co-op game hoping to bridge the generation divide - and one of my loveliest surprises at Gamescom [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Despite the horrors its name might imply, Age Twisters it's a surprisingly nifty little thing.
-
-Link: https://www.eurogamer.net/age-twisters-preview-gamescom
-
-### 10. Tupac trial spotlights decades of US police failures in solving the case [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police received information nearly immediately after the killing.
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation
-
-### 11. Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Lead candidate in Saxony-Anhalt welcomes further ‘strong’ cooperation with Musk as French minister says ‘we cannot forget our history’ AfD wins key German state election but falls just short of majority The candidate who led the far-right…
-
-Link: https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win
-
-### 12. An Amazon cargo plane crashed at Miami International Airport [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries.
-
-Link: https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami
-
-### 13. Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well [7/10]
+### 11. Pig kidneys keep patients alive long enough to get human kidneys for the first time [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.
+For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.
 
-Link: https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings
+Link: https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time
+
+### 12. DIY plug-in solar gains momentum in the US [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker.
+
+Link: https://www.theverge.com/column/990183/diy-plug-in-solar-us
+
+### 13. ‘This is what I have to do to survive’: the Sudan refugees forced into sex work [8/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+They fled a brutal civil war to reach safety in Egypt, but now many Sudanese women and girls are falling prey to sexual exploitation Sudanese women who fled to Egypt to escape the war in their country are facing increasing levels of sexual…
+
+Link: https://www.theguardian.com/global-development/2026/sep/07/sudan-women-war-refugees-egypt-sex-work-exploitation
 
 ## YouTube
 
@@ -224,9 +224,9 @@ Republicans and Democrats in Troy, N.Y., took on a national Catholic health syst
 
 Link: https://www.youtube.com/watch?v=X_1mH-vTrxc
 
-### Ace Combat 8: One Of The Best Titles At Gamescom 2026! [9/10]
+### Ace Combat 8: One Of The Best Titles At Gamescom 2026! [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -260,9 +260,9 @@ Link: https://www.youtube.com/watch?v=nvJs2VJD5T8
 
 Link: https://www.youtube.com/watch?v=Q_Nc9y2spTs
 
-### Kicking the Tires on Granblue Fantasy Versus: Rising | Super Smash Sunday [6/10]
+### Kicking the Tires on Granblue Fantasy Versus: Rising | Super Smash Sunday [7/10]
 **Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and El Cheshire try out some Granblue Fantasy Versus: Rising. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
