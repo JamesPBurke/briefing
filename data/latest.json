@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-08T14:00:02.489175Z",
-  "generatedAtDisplay": "2026-09-08 10:00 AM EDT",
+  "generatedAt": "2026-09-08T18:00:31.918064Z",
+  "generatedAtDisplay": "2026-09-08 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, Australian social media users to be offered choice to opt out of algorithms, and New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Indianapolis Public Schools Reverses No-Zero Grading Policy, UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, and JBL’s soundbar with detachable rear speakers is over $300 off.",
   "mainItems": [
+    {
+      "title": "Indianapolis Public Schools Reverses No-Zero Grading Policy",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/indianapolis-public-schools-reverses-no-zero-grading-policy/",
+      "published": "2026-09-08T16:30:00+00:00",
+      "summary": "Indianapolis Public School students can receive a zero on assignments again, but only if they make zero effort to complete them.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "published": "2026-09-08T13:27:24+00:00",
+      "published": "2026-09-08T15:42:59+00:00",
       "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+      "published": "2026-09-08T15:05:06+00:00",
+      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Job Corps Training Centers Stay Open As Student Suit Thwarts Trump Closure Bid",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/job-corps-training-centers-stay-open-as-student-suit-thwarts-trump-closure-bid/",
+      "published": "2026-09-08T14:30:00+00:00",
+      "summary": "The federal Job Corps youth training program, under threat of shutdown by the Trump administration since May, 2025, will remain open after a group of students successfully fought the closure in federal court. The U.S.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "America: the gulf, the lake and now the state – what’s next on Trump’s huge renaming spree? | Marina Hyde",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico",
+      "published": "2026-09-08T13:41:13+00:00",
+      "summary": "Farewell, New Mexico.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,53 +77,13 @@
       "score": 10
     },
     {
-      "title": "Phone gaming is getting a huge graphics boost",
+      "title": "Microsoft breaks another patch Tuesday record",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "published": "2026-09-08T12:42:32+00:00",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played.",
+      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "published": "2026-09-08T10:13:24+00:00",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "\"Let them work their magic\" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs",
-      "published": "2026-09-08T12:29:50+00:00",
-      "summary": "How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "published": "2026-09-08T11:44:58+00:00",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Harry and Meghan ‘surprised’ at king’s letter reiterating they are non-working royals",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/08/harry-meghan-surprised-king-charles-letter-non-working-royals",
-      "published": "2026-09-08T11:28:33+00:00",
-      "summary": "Duke and Duchess of Sussex were apparently given little notice before message was sent to the media The Duke and Duchess of Sussex were “surprised” at being given little notice of a formal letter sent to government departments and the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential.",
-      "source": "CSTA",
-      "category": "CS education / AI policy",
-      "url": "https://csteachers.org/ai-has-not-made-computer-science-assessment-obsolete-it-has-made-verification-essential/",
-      "published": "2026-09-08T11:00:00+00:00",
-      "summary": "Last fall, I assigned a programming project I had used for years. Several students turned in working code far faster... The post AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -97,23 +97,33 @@
       "score": 10
     },
     {
+      "title": "US federal court says no constitutional right to clean water in Mississippi case",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/mississippi-clean-water-case-constitutional-right",
+      "published": "2026-09-08T17:37:22+00:00",
+      "summary": "Appeals court dismisses lawsuit from Jackson residents claiming that tainted drinking water violated their rights A US appellate court has decided that the federal constitution does not guarantee a right to clean water.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Smithsonian chief Lonnie Bunch III to resign amid Trump administration pressure on institution - US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
+      "published": "2026-09-08T17:25:55+00:00",
+      "summary": "Bunch told the New York Times it was not Trump pressure on the organization that had led to his departure but acknowledged ‘stress’ of the role Sign up for US Breaking News emails Further down the ballot in New Hampshire, the Democratic…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
       "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
       "source": "NPR Health",
       "category": "Science / health",
       "url": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
       "published": "2026-09-08T13:01:58+00:00",
-      "summary": "IN 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?",
+      "summary": "In 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence",
-      "published": "2026-09-08T04:00:27+00:00",
-      "summary": "Scientists are battling over whether supposedly simple organisms should be considered ‘intelligent’.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -125,407 +135,10 @@
       "summary": "404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
-    },
-    {
-      "title": "Lanterns Locates “The Weenie” and Quits Beating About the Bush",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/tv-review-lanterns-locates-the-weenie-and-quits-beating-about-the-bush/",
-      "published": "2026-09-08T04:18:30+00:00",
-      "summary": "The episode is, in fact, full of weenie jokes The post Lanterns Locates “The Weenie” and Quits Beating About the Bush appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 6
     }
   ],
-  "youtube": [
-    {
-      "title": "GPT-6 Astra Changes Everything",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "published": "2026-09-08T08:24:27+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "White House adds 5 MAGA-themed games to its website",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Px6xKVi1Txc",
-      "published": "2026-09-07T15:00:32+00:00",
-      "summary": "The White House has launched a new online arcade on its website, with the five old-school games tied to Trump's agenda. The games themselves play off designs and themes of popular games like Tetris.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Several musicians file a class action lawsuit against AI music maker Suno",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=O3sGiJLlP5g",
-      "published": "2026-09-06T17:20:44+00:00",
-      "summary": "Singer-songwriter Jason Isbell and several other musicians have filed a class action lawsuit against Suno, accusing the AI music maker of training its models on musicians’ identities without their consent.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Last captive whales in Canada sent to facilities in U.S., Spain",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mXgAL91SvNY",
-      "published": "2026-09-05T16:30:27+00:00",
-      "summary": "The largest ever relocation of captive whales in the world is over after the shuttered Niagara Falls theme park, Marineland, shipped its’ last six captive whales to two aquariums in the United States.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Most PCs Shouldn't Run Ultra Settings - What Can Developers Do About It?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=cPLfKtXRRvI",
-      "published": "2026-09-07T19:00:21+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/NHTMBTW8lyI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Alien Isolation 2: The Sequel We've Been Waiting For - Hands-On Impressions!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=U_KRuQjyxdY",
-      "published": "2026-09-07T16:00:06+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Ace Combat 8: One Of The Best Titles At Gamescom 2026!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=TUKcExPW13Q",
-      "published": "2026-09-06T17:00:13+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Is GTA 6 Set To Become The Next Big PC Benchmarking Game",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=rDAF2jomxbs",
-      "published": "2026-09-06T15:00:02+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Kicking the Tires on Granblue Fantasy Versus: Rising | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=X13YKmm6KHY",
-      "published": "2026-09-07T06:38:51+00:00",
-      "summary": "KC and El Cheshire try out some Granblue Fantasy Versus: Rising. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Vholume, Combolands, Besmirch and Cicadamata | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ARe8e7t5M7c",
-      "published": "2026-09-06T15:00:00+00:00",
-      "summary": "From the team behind The Escapist, we're excited to introduce you to our new employee-owned and fully independent outlet, Second Wind. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Are You the Hero? | Adventure Is Nigh! - The Slow Walk Home | Ep. 9",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=1mWVwzg2tk0",
-      "published": "2026-09-05T16:00:06+00:00",
-      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.com/ What do we say in the face of death? Not today.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=2znSbIEyfic",
-      "published": "2026-09-04T16:20:52+00:00",
-      "summary": "Zach Cregger hosted the first ever live in-person Reddit AMA featuring a screening of the first 30 minutes of the movie in Los Angeles - simulcast in New York and Dallas. 700+ fans. 150+ creators. Three cities.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
-      "published": "2026-08-26T21:00:09+00:00",
-      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
-      "published": "2026-08-21T19:12:23+00:00",
-      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
-      "published": "2026-08-20T14:03:57+00:00",
-      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "literally how you'll feel on the inside watching the full trailer",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
-      "published": "2026-08-19T18:05:18+00:00",
-      "summary": "literally how you'll feel on the inside watching the full trailer",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "You Can See Everything | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GGJSRFWALTI",
-      "published": "2026-09-07T00:30:04+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Club Kid | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
-      "published": "2026-08-19T12:07:41+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Unknown - Official Teaser Trailer - Coming Soon",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=vJ3vIzWzFno",
-      "published": "2026-09-04T16:12:27+00:00",
-      "summary": "David is a Parisian photographer. Something of a loner, he becomes curious about a young woman he encounters on an assignment. That night, at a drug-fueled party, David locks eyes with her across the room and follows her.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Once Upon a Time in Harlem - Official Trailer - In Theaters October 16",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
-      "published": "2026-09-03T16:00:17+00:00",
-      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Fjord - Official Trailer - In Theaters October 9",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=frg59VOungA",
-      "published": "2026-08-27T16:00:28+00:00",
-      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
-      "published": "2026-08-25T16:00:37+00:00",
-      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "MARAMA | Official Trailer | SHUDDER",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=KOlD0A1mlmE",
-      "published": "2026-09-03T16:47:07+00:00",
-      "summary": "A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GOODY GOODY | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
-      "published": "2026-08-27T18:00:17+00:00",
-      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
-      "published": "2026-08-18T15:01:18+00:00",
-      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Less of a Stranger | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jx0RiYbSuuc",
-      "published": "2026-09-08T07:00:00+00:00",
-      "summary": "You know his songs, your parents know them, and so do their parents. With a guitar in his hand, he is a superhero. A story inspired by the life of Polish rock's wildest star.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Beyond Society | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Kbqd8r-7oRY",
-      "published": "2026-09-07T14:00:00+00:00",
-      "summary": "The rescue was only the beginning, but what came after deserves to be told too. ‘Beyond Society’ is the new Netflix documentary series created by J.A.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Gloria Steinem's Final Message To The World | Famous Last Words | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oIsysoq-u3A",
-      "published": "2026-09-04T13:00:00+00:00",
-      "summary": "“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A Message From Gloria Steinem | Famous Last Words | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=1MhhsJw7GSo",
-      "published": "2026-09-03T21:00:00+00:00",
-      "summary": "Gloria Steinem was a trailblazing pioneer in the fight for women’s rights.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Final Problem | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=yLeja7kWgmU",
-      "published": "2026-09-03T13:00:00+00:00",
-      "summary": "An isolated hotel. A mysterious death. Thirteen guests under suspicion. And only one person capable of solving the enigma.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Not a Stranger | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ODIk9yGmpQI",
-      "published": "2026-09-03T07:00:00+00:00",
-      "summary": "She let her in. That was the first mistake. Not a Stranger is only on Netflix on September 17th. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Widower: ‘Til Death Do Us Part | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=2Xn881UkR3s",
-      "published": "2026-09-02T17:30:00+00:00",
-      "summary": "In this documentary, a journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — Bring Them Home | Season 2 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NgWVjIhwqL0",
-      "published": "2026-09-04T18:59:56+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.co/_DarkMatter How it all began.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Season 4 Sneak Peek & Date Reveal [SPOILER WARNING] | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8Yq7dvVINpY",
-      "published": "2026-09-04T16:59:53+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The future is waiting. July 9, 2027.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 202 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NIyA6kdCv7c",
-      "published": "2026-09-04T00:59:54+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -637,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 11,
-    "trailerCount": 24,
-    "sourceCount": 20
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
