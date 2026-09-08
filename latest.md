@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-08T09:01:27.378993Z
+Generated: 2026-09-08T14:00:02.489175Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, Australian social media users to be offered choice to opt out of algorithms, and New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes.
 
 ## Briefing
 
@@ -33,25 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood [10/10]
-**Source:** Eurogamer  
+### 1. UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Capcom has released a gameplay trailer for its next DLC character: Arjun. An Indian fighter and framed policeman on the run, he'll be coming to the popular fighting game next month. Read more
+In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the…
 
-Link: https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer
+Link: https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing
 
-### 2. Virginia preschoolers embark on their very first day of school [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 2. Australian social media users to be offered choice to opt out of algorithms [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It's the first day of school for millions of students, including preschoolers at Charles City Elementary School, located outside Richmond, Virginia.
+A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.
 
-Link: https://www.npr.org/2026/09/08/nx-s1-5954751/virginia-preschoolers-embark-on-their-very-first-day-of-school
+Link: https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms
 
-### 3. First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost [10/10]
+### 3. New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Centrist Chris Pappas faces progressive primary challenger Karishma Manzur while Republicans eye chance to flip seat New Hampshire voters head to the polls Tuesday for primaries that will set up a closely watched Senate contest – a…
+
+Link: https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans
+
+### 4. Phone gaming is getting a huge graphics boost [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,34 +69,61 @@ China is getting first crack at a British technology that might change how mobil
 
 Link: https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3
 
-### 4. Colin from Accounts final season review – farewell to a blinding ray of TV sunshine [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After season two’s mortifying ending, the charming hit comedy is back for the last time … with sex parties, extreme cringe and a final answer to the central will-they-won’t-they There are cliffhangers, and then there’s whatever happened at…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/sep/07/colin-from-accounts-final-season-review-farewell-to-a-blinding-ray-of-tv-sunshine
-
-### 5. Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out [9/10]
+### 5. "Let them work their magic" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed.
+How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.
 
-Link: https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026
+Link: https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs
 
-### 6. Artworks stolen from Renoir Museum on French Riviera in latest heist [9/10]
+### 6. Audi’s new A2 E-tron is its most affordable and efficient EV yet [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other.
+
+Link: https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price
+
+### 7. Harry and Meghan ‘surprised’ at king’s letter reiterating they are non-working royals [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…
+Duke and Duchess of Sussex were apparently given little notice before message was sent to the media The Duke and Duchess of Sussex were “surprised” at being given little notice of a formal letter sent to government departments and the…
 
-Link: https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist
+Link: https://www.theguardian.com/uk-news/2026/sep/08/harry-meghan-surprised-king-charles-letter-non-working-royals
 
-### 7. ‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence [9/10]
+### 8. AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential. [10/10]
+**Source:** CSTA  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Last fall, I assigned a programming project I had used for years. Several students turned in working code far faster... The post AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential.
+
+Link: https://csteachers.org/ai-has-not-made-computer-science-assessment-obsolete-it-has-made-verification-essential/
+
+### 9. Virginia preschoolers embark on their very first day of school [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+It's the first day of school for millions of students, including preschoolers at Charles City Elementary School, located outside Richmond, Virginia.
+
+Link: https://www.npr.org/2026/09/08/nx-s1-5954751/virginia-preschoolers-embark-on-their-very-first-day-of-school
+
+### 10. Whatever happened to the Taliban threat: 'We will flog the women'? [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+IN 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?
+
+Link: https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging
+
+### 11. ‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,34 +132,16 @@ Scientists are battling over whether supposedly simple organisms should be consi
 
 Link: https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence
 
-### 8. How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-The online campaign used to focus on tackling cybercrime and hacking but has since expanded to suppress information that differs from official narratives Tsering Phuntsok watched news of the Nepal-Tibet flood unfold from thousands of miles…
+404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.
 
-Link: https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression
+Link: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/
 
-### 9. Oasis: Don’t Look Back in Anger: what we learned from the year’s biggest rockumentary [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Capturing the band’s 2025 global comeback tour, this two-hour film reveals the tense first rehearsal with Liam, Noel being a big softie and the Gallaghers’ politics – just don’t expect any mention of ticket prices It was the reunion that…
-
-Link: https://www.theguardian.com/music/2026/sep/08/oasis-dont-look-back-in-anger-live-tour-documentary-what-we-learned
-
-### 10. Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.
-
-Link: https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make
-
-### 11. Lanterns Locates “The Weenie” and Quits Beating About the Bush [7/10]
+### 13. Lanterns Locates “The Weenie” and Quits Beating About the Bush [6/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,27 +150,9 @@ The episode is, in fact, full of weenie jokes The post Lanterns Locates “The W
 
 Link: https://reactormag.com/tv-review-lanterns-locates-the-weenie-and-quits-beating-about-the-bush/
 
-### 12. The copper peptide trend has gone from creams to injections — ahead of the science [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Copper peptides are among the biggest viral trends on social media. Does evidence support smearing on the electric blue tincture for firmer skin, wound healing and other anti-aging effects?
-
-Link: https://www.npr.org/2026/09/07/nx-s1-5955552-e1/the-copper-peptide-trend-has-gone-from-creams-to-injections-ahead-of-the-science
-
-### 13. We Are Going to Be Okay: A Three Year Anniversary Events Recap [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Thank you for three years, and for partying hard with us for two sold out nights of celebration IRL in NYC.
-
-Link: https://www.404media.co/three-year-anniversary-events-recap-2/
-
 ## YouTube
 
-### GPT-6 Astra - A Massive Leap Into The Future [9/10]
+### GPT-6 Astra Changes Everything [9/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.

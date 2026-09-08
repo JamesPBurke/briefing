@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-08T09:01:27.378993Z",
-  "generatedAtDisplay": "2026-09-08 05:01 AM EDT",
+  "generatedAt": "2026-09-08T14:00:02.489175Z",
+  "generatedAtDisplay": "2026-09-08 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, Australian social media users to be offered choice to opt out of algorithms, and New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes.",
   "mainItems": [
     {
-      "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood",
-      "source": "Eurogamer",
+      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer",
-      "published": "2026-09-08T08:49:16+00:00",
-      "summary": "Capcom has released a gameplay trailer for its next DLC character: Arjun. An Indian fighter and framed policeman on the run, he'll be coming to the popular fighting game next month. Read more",
+      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+      "published": "2026-09-08T13:27:24+00:00",
+      "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "source": "NPR Tech",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "published": "2026-09-08T13:24:00+00:00",
+      "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans",
+      "published": "2026-09-08T13:00:39+00:00",
+      "summary": "Centrist Chris Pappas faces progressive primary challenger Karishma Manzur while Republicans eye chance to flip seat New Hampshire voters head to the polls Tuesday for primaries that will set up a closely watched Senate contest – a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Phone gaming is getting a huge graphics boost",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "published": "2026-09-08T12:42:32+00:00",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "\"Let them work their magic\" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs",
+      "published": "2026-09-08T12:29:50+00:00",
+      "summary": "How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "published": "2026-09-08T11:44:58+00:00",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Harry and Meghan ‘surprised’ at king’s letter reiterating they are non-working royals",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/08/harry-meghan-surprised-king-charles-letter-non-working-royals",
+      "published": "2026-09-08T11:28:33+00:00",
+      "summary": "Duke and Duchess of Sussex were apparently given little notice before message was sent to the media The Duke and Duchess of Sussex were “surprised” at being given little notice of a formal letter sent to government departments and the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential.",
+      "source": "CSTA",
+      "category": "CS education / AI policy",
+      "url": "https://csteachers.org/ai-has-not-made-computer-science-assessment-obsolete-it-has-made-verification-essential/",
+      "published": "2026-09-08T11:00:00+00:00",
+      "summary": "Last fall, I assigned a programming project I had used for years. Several students turned in working code far faster... The post AI Has Not Made Computer Science Assessment Obsolete. It Has Made Verification Essential.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -27,43 +97,13 @@
       "score": 10
     },
     {
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "published": "2026-09-07T23:51:11+00:00",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Colin from Accounts final season review – farewell to a blinding ray of TV sunshine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/07/colin-from-accounts-final-season-review-farewell-to-a-blinding-ray-of-tv-sunshine",
-      "published": "2026-09-07T21:30:18+00:00",
-      "summary": "After season two’s mortifying ending, the charming hit comedy is back for the last time … with sex parties, extreme cringe and a final answer to the central will-they-won’t-they There are cliffhangers, and then there’s whatever happened at…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026",
-      "published": "2026-09-08T08:11:05+00:00",
-      "summary": "Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
-      "published": "2026-09-08T07:49:34+00:00",
-      "summary": "Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
+      "published": "2026-09-08T13:01:58+00:00",
+      "summary": "IN 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -77,34 +117,14 @@
       "score": 9
     },
     {
-      "title": "How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression",
-      "published": "2026-09-08T03:14:43+00:00",
-      "summary": "The online campaign used to focus on tackling cybercrime and hacking but has since expanded to suppress information that differs from official narratives Tsering Phuntsok watched news of the Nepal-Tibet flood unfold from thousands of miles…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Oasis: Don’t Look Back in Anger: what we learned from the year’s biggest rockumentary",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/sep/08/oasis-dont-look-back-in-anger-live-tour-documentary-what-we-learned",
-      "published": "2026-09-08T02:09:40+00:00",
-      "summary": "Capturing the band’s 2025 global comeback tour, this two-hour film reveals the tense first rehearsal with Liam, Noel being a big softie and the Gallaghers’ politics – just don’t expect any mention of ticket prices It was the reunion that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make",
-      "source": "Rock Paper Shotgun",
-      "category": "CS education / AI policy",
-      "url": "https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make",
-      "published": "2026-09-07T13:30:00+00:00",
-      "summary": "Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "published": "2026-09-08T13:10:19+00:00",
+      "summary": "404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
       "title": "Lanterns Locates “The Weenie” and Quits Beating About the Bush",
@@ -114,32 +134,12 @@
       "published": "2026-09-08T04:18:30+00:00",
       "summary": "The episode is, in fact, full of weenie jokes The post Lanterns Locates “The Weenie” and Quits Beating About the Bush appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5955552-e1/the-copper-peptide-trend-has-gone-from-creams-to-injections-ahead-of-the-science",
-      "published": "2026-09-07T20:46:36+00:00",
-      "summary": "Copper peptides are among the biggest viral trends on social media. Does evidence support smearing on the electric blue tincture for firmer skin, wound healing and other anti-aging effects?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "We Are Going to Be Okay: A Three Year Anniversary Events Recap",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/three-year-anniversary-events-recap-2/",
-      "published": "2026-09-07T16:44:20+00:00",
-      "summary": "Thank you for three years, and for partying hard with us for two sold out nights of celebration IRL in NYC.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 6
     }
   ],
   "youtube": [
     {
-      "title": "GPT-6 Astra - A Massive Leap Into The Future",
+      "title": "GPT-6 Astra Changes Everything",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
@@ -639,6 +639,6 @@
     "mainCount": 13,
     "youtubeCount": 11,
     "trailerCount": 24,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }
