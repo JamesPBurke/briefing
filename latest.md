@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-07T18:01:51.549315Z
+Generated: 2026-09-08T05:00:02.696843Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are German chancellor vows to stay in office despite AfD triumph in state election, Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?, and Trump administration attacks UK plans to boost traditional media on social platforms.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns, First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost, and Persona 1 and 2 remakes are "something we'll probably eventually do," series producer says.
 
 ## Briefing
 
@@ -33,79 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. German chancellor vows to stay in office despite AfD triumph in state election [10/10]
+### 1. Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt A “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election…
+Anti-corruption agencies raid offices and arrest a deputy of Ruslan Kravchenko in case linked to alleged laundering of phone scam proceeds. What we know on day 1,658 Continue reading...
 
-Link: https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt
+Link: https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns
 
-### 2. Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 2. First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-GLP-1 medications have been a gamechanger in the fight against obesity. But for a minority of patients, their impact is negligible.
+China is getting first crack at a British technology that might change how mobile games are made and played.
 
-Link: https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders
+Link: https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3
 
-### 3. Trump administration attacks UK plans to boost traditional media on social platforms [10/10]
+### 3. Persona 1 and 2 remakes are "something we'll probably eventually do," series producer says [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+With Persona 3 Reload out the door and Persona 4 Revival next in line, series producer Kazuhisa Wada has said remakes of the first two games will "probably" happen as well. Read more
+
+Link: https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says
+
+### 4. New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A prominent Nintendo leaker has spilled even more information about the console maker's potential plans, which include the long-awaited return of Nintendogs and an all-new Super Smash Bros.
+
+Link: https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker
+
+### 5. How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US embassy says Downing Street’s plan to give BBC, ITV and other established media more online visibility carries risk of ‘censorship’ The Trump administration has raised “serious concerns” over Downing Street’s plan to force YouTube and…
+The online campaign used to focus on tackling cybercrime and hacking but has since expanded to suppress information that differs from official narratives Tsering Phuntsok watched news of the Nepal-Tibet flood unfold from thousands of miles…
 
-Link: https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans
+Link: https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression
 
-### 4. The real reason your phone is getting more expensive [10/10]
+### 6. Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+New York City mayor confirms he will attend memorial service but declines to respond to Giuliani’s remarks New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days…
+
+Link: https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani
+
+### 7. Audi’s new A2 E-tron is its most affordable and efficient EV yet [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag.
+When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other.
 
-Link: https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone
+Link: https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price
 
-### 5. The Download: the hunt for underground hydrogen and more rogue OpenAI agents [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
-
-### 6. The first day of school: Bells, bikes, buses and big feelings [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Fifth graders calm school kindergartners in Los Angeles. Kids take the "bike bus" in Oklahoma. High school students take in a new high school building in Oregon.
-
-Link: https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts
-
-### 7. Seattle Times and Newsday sue OpenAI and Microsoft for infringement [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
-
-### 8. Missouri Charter School Commission Returns $685,000 in Surplus Funds to Sponsored Schools [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Missouri’s largest charter-school sponsor entered August with nearly $3.3 million in its account, which is more than twice what it spent in the previous fiscal year.
-
-Link: https://www.the74million.org/article/missouri-charter-school-commission-returns-685000-in-surplus-funds-to-sponsored-schools/
-
-### 9. Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’ [9/10]
+### 8. Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -114,25 +105,25 @@ Advocacy groups expand legal challenges and condemn president’s ‘self-servin
 
 Link: https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy
 
-### 10. ‘Nakedly political’: US attempts to link trans support to authoritarianism in new health department report [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-HHS releases report linking ‘gender ideology’ to political violence – a study scientists say was poorly conducted The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing…
+Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.
 
-Link: https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism
+Link: https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make
 
-### 11. ‘The most anti-union president’: how Trump turned his back on US workers [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. The first day of school: Bells, bikes, buses and big feelings [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers.
+Fifth graders calm school kindergartners in Los Angeles. Kids take the "bike bus" in Oklahoma. High school students take in a new high school building in Oregon.
 
-Link: https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union
+Link: https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts
 
-### 12. Pig kidneys keep patients alive long enough to get human kidneys for the first time [8/10]
+### 11. Pig kidneys keep patients alive long enough to get human kidneys for the first time [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,6 +131,15 @@ Link: https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union
 For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.
 
 Link: https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time
+
+### 12. Lanterns Locates “The Weenie” and Quits Beating About the Bush [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The episode is, in fact, full of weenie jokes The post Lanterns Locates “The Weenie” and Quits Beating About the Bush appeared first on Reactor .
+
+Link: https://reactormag.com/tv-review-lanterns-locates-the-weenie-and-quits-beating-about-the-bush/
 
 ### 13. We Are Going to Be Okay: A Three Year Anniversary Events Recap [7/10]
 **Source:** 404 Media  
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-ali
 Thank you for three years, and for partying hard with us for two sold out nights of celebration IRL in NYC.
 
 Link: https://www.404media.co/three-year-anniversary-events-recap-2/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

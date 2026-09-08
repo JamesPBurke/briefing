@@ -1,60 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-07T18:01:51.549315Z",
-  "generatedAtDisplay": "2026-09-07 02:01 PM EDT",
+  "generatedAt": "2026-09-08T05:00:02.696843Z",
+  "generatedAtDisplay": "2026-09-08 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are German chancellor vows to stay in office despite AfD triumph in state election, Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?, and Trump administration attacks UK plans to boost traditional media on social platforms.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns, First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost, and Persona 1 and 2 remakes are \"something we'll probably eventually do,\" series producer says.",
   "mainItems": [
     {
-      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+      "title": "Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-      "published": "2026-09-07T17:48:37+00:00",
-      "summary": "Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt A “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns",
+      "published": "2026-09-08T01:15:56+00:00",
+      "summary": "Anti-corruption agencies raid offices and arrest a deputy of Ruslan Kravchenko in case linked to alleged laundering of phone scam proceeds. What we know on day 1,658 Continue reading...",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
-      "published": "2026-09-07T15:00:21+00:00",
-      "summary": "GLP-1 medications have been a gamechanger in the fight against obesity. But for a minority of patients, their impact is negligible.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump administration attacks UK plans to boost traditional media on social platforms",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
-      "published": "2026-09-07T14:20:12+00:00",
-      "summary": "US embassy says Downing Street’s plan to give BBC, ITV and other established media more online visibility carries risk of ‘censorship’ The Trump administration has raised “serious concerns” over Downing Street’s plan to force YouTube and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "The real reason your phone is getting more expensive",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "published": "2026-09-07T14:13:46+00:00",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "published": "2026-09-07T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "published": "2026-09-07T23:51:11+00:00",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "Persona 1 and 2 remakes are \"something we'll probably eventually do,\" series producer says",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says",
+      "published": "2026-09-07T19:05:37+00:00",
+      "summary": "With Persona 3 Reload out the door and Persona 4 Revival next in line, series producer Kazuhisa Wada has said remakes of the first two games will \"probably\" happen as well. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker",
+      "published": "2026-09-07T17:14:35+00:00",
+      "summary": "A prominent Nintendo leaker has spilled even more information about the console maker's potential plans, which include the long-awaited return of Nintendogs and an all-new Super Smash Bros.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression",
+      "published": "2026-09-08T03:14:43+00:00",
+      "summary": "The online campaign used to focus on tackling cybercrime and hacking but has since expanded to suppress information that differs from official narratives Tsering Phuntsok watched news of the Nepal-Tibet flood unfold from thousands of miles…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
+      "published": "2026-09-07T20:25:33+00:00",
+      "summary": "New York City mayor confirms he will attend memorial service but declines to respond to Giuliani’s remarks New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "published": "2026-09-07T20:03:41+00:00",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
+      "published": "2026-09-07T19:59:07+00:00",
+      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make",
+      "source": "Rock Paper Shotgun",
+      "category": "CS education / AI policy",
+      "url": "https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make",
+      "published": "2026-09-07T13:30:00+00:00",
+      "summary": "Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
     },
     {
       "title": "The first day of school: Bells, bikes, buses and big feelings",
@@ -64,56 +104,6 @@
       "published": "2026-09-07T09:00:00+00:00",
       "summary": "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "published": "2026-09-06T23:43:53+00:00",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Missouri Charter School Commission Returns $685,000 in Surplus Funds to Sponsored Schools",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/missouri-charter-school-commission-returns-685000-in-surplus-funds-to-sponsored-schools/",
-      "published": "2026-09-07T16:30:00+00:00",
-      "summary": "Missouri’s largest charter-school sponsor entered August with nearly $3.3 million in its account, which is more than twice what it spent in the previous fiscal year.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-      "published": "2026-09-07T12:00:50+00:00",
-      "summary": "Advocacy groups expand legal challenges and condemn president’s ‘self-serving attempts to take over midterms’ A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "‘Nakedly political’: US attempts to link trans support to authoritarianism in new health department report",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism",
-      "published": "2026-09-07T11:00:49+00:00",
-      "summary": "HHS releases report linking ‘gender ideology’ to political violence – a study scientists say was poorly conducted The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘The most anti-union president’: how Trump turned his back on US workers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
-      "published": "2026-09-07T11:00:49+00:00",
-      "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unions Donald Trump has repeatedly vowed to champion US workers.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -125,6 +115,16 @@
       "summary": "For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Lanterns Locates “The Weenie” and Quits Beating About the Bush",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/tv-review-lanterns-locates-the-weenie-and-quits-beating-about-the-bush/",
+      "published": "2026-09-08T04:18:30+00:00",
+      "summary": "The episode is, in fact, full of weenie jokes The post Lanterns Locates “The Weenie” and Quits Beating About the Bush appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     },
     {
       "title": "We Are Going to Be Okay: A Three Year Anniversary Events Recap",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 8
   }
 }
