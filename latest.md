@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-08T09:01:15.689584Z
+Generated: 2026-09-08T09:01:27.378993Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and Artworks stolen from Renoir Museum on French Riviera in latest heist.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost.
 
 ## Briefing
 
@@ -51,16 +51,7 @@ It's the first day of school for millions of students, including preschoolers at
 
 Link: https://www.npr.org/2026/09/08/nx-s1-5954751/virginia-preschoolers-embark-on-their-very-first-day-of-school
 
-### 3. Artworks stolen from Renoir Museum on French Riviera in latest heist [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…
-
-Link: https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist
-
-### 4. First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost [10/10]
+### 3. First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +60,7 @@ China is getting first crack at a British technology that might change how mobil
 
 Link: https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3
 
-### 5. Colin from Accounts final season review – farewell to a blinding ray of TV sunshine [10/10]
+### 4. Colin from Accounts final season review – farewell to a blinding ray of TV sunshine [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +69,7 @@ After season two’s mortifying ending, the charming hit comedy is back for the 
 
 Link: https://www.theguardian.com/tv-and-radio/2026/sep/07/colin-from-accounts-final-season-review-farewell-to-a-blinding-ray-of-tv-sunshine
 
-### 6. Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out [9/10]
+### 5. Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -86,6 +77,15 @@ Link: https://www.theguardian.com/tv-and-radio/2026/sep/07/colin-from-accounts-f
 Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed.
 
 Link: https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026
+
+### 6. Artworks stolen from Renoir Museum on French Riviera in latest heist [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…
+
+Link: https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist
 
 ### 7. ‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence [9/10]
 **Source:** The Guardian US  

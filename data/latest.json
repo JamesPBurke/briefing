@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-08T09:01:15.689584Z",
+  "generatedAt": "2026-09-08T09:01:27.378993Z",
   "generatedAtDisplay": "2026-09-08 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and Artworks stolen from Renoir Museum on French Riviera in latest heist.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood, Virginia preschoolers embark on their very first day of school, and First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost.",
   "mainItems": [
     {
       "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood",
@@ -24,16 +24,6 @@
       "published": "2026-09-08T08:42:22+00:00",
       "summary": "It's the first day of school for millions of students, including preschoolers at Charles City Elementary School, located outside Richmond, Virginia.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
-      "published": "2026-09-08T07:49:34+00:00",
-      "summary": "Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -64,6 +54,16 @@
       "published": "2026-09-08T08:11:05+00:00",
       "summary": "Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "published": "2026-09-08T07:49:34+00:00",
+      "summary": "Thieves took four artworks but dropped one as they fled, says mayor of Cagnes-sur-Mer Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks and…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
