@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-08T18:00:31.918064Z
+Generated: 2026-09-09T05:00:01.885189Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Indianapolis Public Schools Reverses No-Zero Grading Policy, UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, and JBL’s soundbar with detachable rear speakers is over $300 off.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates, Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts, and ‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains.
 
 ## Briefing
 
@@ -33,7 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Indianapolis Public Schools Reverses No-Zero Grading Policy [10/10]
+### 1. US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Shelton and Alcaraz meet for spot in US Open semis Tiafoe breaks Michelsen’s heart with epic comeback Reach out to Bryan on Bluesky or by email First set: Shelton 3-2 Alcaraz* (*denotes next server) An even breezier service game from…
+
+Link: https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates
+
+### 2. Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The president’s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial…
+
+Link: https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides
+
+### 3. ‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Supermarket shelves half-filled in Ukrainian capital as Moscow bombs warehouses supporting civilian life Stocking up on cured sausages from the half-empty shelves in her local supermarket, Valentyna Sveshnikova is worried about money.
+
+Link: https://www.theguardian.com/world/2026/sep/09/miserable-and-impossible-food-scarce-in-kyiv-ukraine-as-russia-targets-supply-chains
+
+### 4. What OpenAI’s latest controversy tells us about the future of math [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.
+
+Link: https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
+
+### 5. US says Iranian tankers ‘destroyed’ after missile attacks on American warship [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Tit-for-tat violence surges again in region, with tankers struck by the US in the Gulf of Oman, and reprisal attacks by Iran on a US base in Jordan The US military on Tuesday said it “destroyed” multiple Iranian tankers, after Iran…
+
+Link: https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz
+
+### 6. GOG brings back "big box" PC games, one printable template at a time [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Preservation "goodies" also includes downloadable 3D models for desktop perusal.
+
+Link: https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/
+
+### 7. Babies born to anaemic mothers have smaller brains, study finds [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the…
+
+Link: https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds
+
+### 8. Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Documents available through an online portal launched three days before the 25th anniversary of September 11 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact…
+
+Link: https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release
+
+### 9. Do Later School Start Times Help California Students? Here’s What New Study Says [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+California’s mandate requiring later start times for middle and high schools is already yielding results, with students sleeping more, reporting better mental health and scoring higher math and English scores, according to a new study.
+
+Link: https://www.the74million.org/article/do-later-school-start-times-help-california-students-heres-what-new-study-says/
+
+### 10. Indianapolis Public Schools Reverses No-Zero Grading Policy [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -42,97 +123,16 @@ Indianapolis Public School students can receive a zero on assignments again, but
 
 Link: https://www.the74million.org/article/indianapolis-public-schools-reverses-no-zero-grading-policy/
 
-### 2. UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. "Let them work their magic" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the…
+How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.
 
-Link: https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing
+Link: https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs
 
-### 3. JBL’s soundbar with detachable rear speakers is over $300 off [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound.
-
-Link: https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale
-
-### 4. Job Corps Training Centers Stay Open As Student Suit Thwarts Trump Closure Bid [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The federal Job Corps youth training program, under threat of shutdown by the Trump administration since May, 2025, will remain open after a group of students successfully fought the closure in federal court. The U.S.
-
-Link: https://www.the74million.org/article/job-corps-training-centers-stay-open-as-student-suit-thwarts-trump-closure-bid/
-
-### 5. America: the gulf, the lake and now the state – what’s next on Trump’s huge renaming spree? | Marina Hyde [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Farewell, New Mexico.
-
-Link: https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico
-
-### 6. Australian social media users to be offered choice to opt out of algorithms [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.
-
-Link: https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms
-
-### 7. New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Centrist Chris Pappas faces progressive primary challenger Karishma Manzur while Republicans eye chance to flip seat New Hampshire voters head to the polls Tuesday for primaries that will set up a closely watched Senate contest – a…
-
-Link: https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans
-
-### 8. Microsoft breaks another patch Tuesday record [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies.
-
-Link: https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad
-
-### 9. Virginia preschoolers embark on their very first day of school [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-It's the first day of school for millions of students, including preschoolers at Charles City Elementary School, located outside Richmond, Virginia.
-
-Link: https://www.npr.org/2026/09/08/nx-s1-5954751/virginia-preschoolers-embark-on-their-very-first-day-of-school
-
-### 10. US federal court says no constitutional right to clean water in Mississippi case [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Appeals court dismisses lawsuit from Jackson residents claiming that tainted drinking water violated their rights A US appellate court has decided that the federal constitution does not guarantee a right to clean water.
-
-Link: https://www.theguardian.com/us-news/2026/sep/08/mississippi-clean-water-case-constitutional-right
-
-### 11. Smithsonian chief Lonnie Bunch III to resign amid Trump administration pressure on institution - US politics live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Bunch told the New York Times it was not Trump pressure on the organization that had led to his departure but acknowledged ‘stress’ of the role Sign up for US Breaking News emails Further down the ballot in New Hampshire, the Democratic…
-
-Link: https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates
-
-### 12. Whatever happened to the Taliban threat: 'We will flog the women'? [9/10]
+### 12. Whatever happened to the Taliban threat: 'We will flog the women'? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flog
 404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.
 
 Link: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

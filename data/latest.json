@@ -1,11 +1,101 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-08T18:00:31.918064Z",
-  "generatedAtDisplay": "2026-09-08 02:00 PM EDT",
+  "generatedAt": "2026-09-09T05:00:01.885189Z",
+  "generatedAtDisplay": "2026-09-09 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Indianapolis Public Schools Reverses No-Zero Grading Policy, UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing, and JBL’s soundbar with detachable rear speakers is over $300 off.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates, Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts, and ‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains.",
   "mainItems": [
+    {
+      "title": "US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates",
+      "published": "2026-09-09T04:42:59+00:00",
+      "summary": "Shelton and Alcaraz meet for spot in US Open semis Tiafoe breaks Michelsen’s heart with epic comeback Reach out to Bryan on Bluesky or by email First set: Shelton 3-2 Alcaraz* (*denotes next server) An even breezier service game from…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+      "published": "2026-09-09T04:20:59+00:00",
+      "summary": "The president’s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/09/miserable-and-impossible-food-scarce-in-kyiv-ukraine-as-russia-targets-supply-chains",
+      "published": "2026-09-09T04:00:59+00:00",
+      "summary": "Supermarket shelves half-filled in Ukrainian capital as Moscow bombs warehouses supporting civilian life Stocking up on cured sausages from the half-empty shelves in her local supermarket, Valentyna Sveshnikova is worried about money.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published": "2026-09-09T03:10:08+00:00",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "US says Iranian tankers ‘destroyed’ after missile attacks on American warship",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
+      "published": "2026-09-09T01:04:38+00:00",
+      "summary": "Tit-for-tat violence surges again in region, with tankers struck by the US in the Gulf of Oman, and reprisal attacks by Iran on a US base in Jordan The US military on Tuesday said it “destroyed” multiple Iranian tankers, after Iran…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "published": "2026-09-08T21:23:13+00:00",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Babies born to anaemic mothers have smaller brains, study finds",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "published": "2026-09-09T04:00:58+00:00",
+      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+      "published": "2026-09-09T00:40:03+00:00",
+      "summary": "Documents available through an online portal launched three days before the 25th anniversary of September 11 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Do Later School Start Times Help California Students? Here’s What New Study Says",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/do-later-school-start-times-help-california-students-heres-what-new-study-says/",
+      "published": "2026-09-08T18:30:00+00:00",
+      "summary": "California’s mandate requiring later start times for middle and high schools is already yielding results, with students sleeping more, reporting better mental health and scoring higher math and English scores, according to a new study.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
     {
       "title": "Indianapolis Public Schools Reverses No-Zero Grading Policy",
       "source": "The 74",
@@ -14,106 +104,16 @@
       "published": "2026-09-08T16:30:00+00:00",
       "summary": "Indianapolis Public School students can receive a zero on assignments again, but only if they make zero effort to complete them.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "published": "2026-09-08T15:42:59+00:00",
-      "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-      "published": "2026-09-08T15:05:06+00:00",
-      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Job Corps Training Centers Stay Open As Student Suit Thwarts Trump Closure Bid",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/job-corps-training-centers-stay-open-as-student-suit-thwarts-trump-closure-bid/",
-      "published": "2026-09-08T14:30:00+00:00",
-      "summary": "The federal Job Corps youth training program, under threat of shutdown by the Trump administration since May, 2025, will remain open after a group of students successfully fought the closure in federal court. The U.S.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "America: the gulf, the lake and now the state – what’s next on Trump’s huge renaming spree? | Marina Hyde",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico",
-      "published": "2026-09-08T13:41:13+00:00",
-      "summary": "Farewell, New Mexico.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Australian social media users to be offered choice to opt out of algorithms",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "published": "2026-09-08T13:24:00+00:00",
-      "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "New Hampshire voters head to polls in race crucial to Democrats’ Senate hopes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans",
-      "published": "2026-09-08T13:00:39+00:00",
-      "summary": "Centrist Chris Pappas faces progressive primary challenger Karishma Manzur while Republicans eye chance to flip seat New Hampshire voters head to the polls Tuesday for primaries that will set up a closely watched Senate contest – a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft breaks another patch Tuesday record",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
-      "published": "2026-09-08T10:13:24+00:00",
-      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Virginia preschoolers embark on their very first day of school",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5954751/virginia-preschoolers-embark-on-their-very-first-day-of-school",
-      "published": "2026-09-08T08:42:22+00:00",
-      "summary": "It's the first day of school for millions of students, including preschoolers at Charles City Elementary School, located outside Richmond, Virginia.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "US federal court says no constitutional right to clean water in Mississippi case",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/mississippi-clean-water-case-constitutional-right",
-      "published": "2026-09-08T17:37:22+00:00",
-      "summary": "Appeals court dismisses lawsuit from Jackson residents claiming that tainted drinking water violated their rights A US appellate court has decided that the federal constitution does not guarantee a right to clean water.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Smithsonian chief Lonnie Bunch III to resign amid Trump administration pressure on institution - US politics live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-      "published": "2026-09-08T17:25:55+00:00",
-      "summary": "Bunch told the New York Times it was not Trump pressure on the organization that had led to his departure but acknowledged ‘stress’ of the role Sign up for US Breaking News emails Further down the ballot in New Hampshire, the Democratic…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "\"Let them work their magic\" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs",
+      "published": "2026-09-08T12:29:50+00:00",
+      "summary": "How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -124,7 +124,7 @@
       "published": "2026-09-08T13:01:58+00:00",
       "summary": "In 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over",
