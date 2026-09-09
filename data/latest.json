@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-09T05:00:01.885189Z",
-  "generatedAtDisplay": "2026-09-09 01:00 AM EDT",
+  "generatedAt": "2026-09-09T09:00:44.135209Z",
+  "generatedAtDisplay": "2026-09-09 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates, Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts, and ‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Understanding the thermal ceiling in portable power, Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish, and All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg.",
   "mainItems": [
     {
-      "title": "US Open 2026 quarter-final: Ben Shelton v Carlos Alcaraz – live updates",
-      "source": "The Guardian US",
+      "title": "Understanding the thermal ceiling in portable power",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates",
-      "published": "2026-09-09T04:42:59+00:00",
-      "summary": "Shelton and Alcaraz meet for spot in US Open semis Tiafoe breaks Michelsen’s heart with epic comeback Reach out to Bryan on Bluesky or by email First set: Shelton 3-2 Alcaraz* (*denotes next server) An even breezier service game from…",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "published": "2026-09-09T08:18:13+00:00",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish",
+      "published": "2026-09-09T08:04:18+00:00",
+      "summary": "Winner claims 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7) victory Epic quarter-final ends after 3.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg",
+      "published": "2026-09-09T08:00:03+00:00",
+      "summary": "Beautifully written by her daughter, this is a funny and intimate eulogy to the 60s star of The Avengers who went on to specialise in fierce, complicated women The late actor Diana Rigg declined to call herself a feminist, noting: “Why…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -47,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "US says Iranian tankers ‘destroyed’ after missile attacks on American warship",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
-      "published": "2026-09-09T01:04:38+00:00",
-      "summary": "Tit-for-tat violence surges again in region, with tankers struck by the US in the Gulf of Oman, and reprisal attacks by Iran on a US base in Jordan The US military on Tuesday said it “destroyed” multiple Iranian tankers, after Iran…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "GOG brings back \"big box\" PC games, one printable template at a time",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -65,16 +75,6 @@
       "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
-    },
-    {
-      "title": "Babies born to anaemic mothers have smaller brains, study finds",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "published": "2026-09-09T04:00:58+00:00",
-      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
     },
     {
       "title": "Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks",
@@ -137,8 +137,428 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "GPT-6 Astra Changes Everything",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "published": "2026-09-08T08:24:27+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Child Psychologist Answers Parenting Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=86YsXFf1Chw",
+      "published": "2026-09-08T16:00:09+00:00",
+      "summary": "Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "NTSB describes Miami airport crash scene as 'utter devastation'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=qr19IlQLxVI",
+      "published": "2026-09-08T14:40:30+00:00",
+      "summary": "The NTSB is investigating why an Amazon cargo plane ran off the end of a runway at Miami International Airport on Sunday, as it was making its arrival from San Juan, Puerto Rico.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "White House adds 5 MAGA-themed games to its website",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Px6xKVi1Txc",
+      "published": "2026-09-07T15:00:32+00:00",
+      "summary": "The White House has launched a new online arcade on its website, with the five old-school games tied to Trump's agenda. The games themselves play off designs and themes of popular games like Tetris.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Several musicians file a class action lawsuit against AI music maker Suno",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=O3sGiJLlP5g",
+      "published": "2026-09-06T17:20:44+00:00",
+      "summary": "Singer-songwriter Jason Isbell and several other musicians have filed a class action lawsuit against Suno, accusing the AI music maker of training its models on musicians’ identities without their consent.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "What Is DLSS 5? How Does It Work And Why Did Nvidia Make It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sALTR4WcirI",
+      "published": "2026-09-08T17:00:27+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/XAt63dB1hdI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "State of Play Was A Disappointment... Except For These Highlights",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=M-TsGw5sdwU",
+      "published": "2026-09-08T16:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/PdRVqDx6DyQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Most PCs Shouldn't Run Ultra Settings - What Can Developers Do About It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cPLfKtXRRvI",
+      "published": "2026-09-07T19:00:21+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/NHTMBTW8lyI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Alien Isolation 2: The Sequel We've Been Waiting For - Hands-On Impressions!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=U_KRuQjyxdY",
+      "published": "2026-09-07T16:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Ace Combat 8: One Of The Best Titles At Gamescom 2026!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TUKcExPW13Q",
+      "published": "2026-09-06T17:00:13+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Is GTA 6 Set To Become The Next Big PC Benchmarking Game",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=rDAF2jomxbs",
+      "published": "2026-09-06T15:00:02+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ca1GIOBPI6w ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Halloween: The Game: The Stream w/ Yahtzee, Nick, and Jesse G",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0JMp8Iv3OIQ",
+      "published": "2026-09-08T22:26:21+00:00",
+      "summary": "Halloween: The Game is out today, so we're going to slash/avoid being slashed all across Haddonfield. If you dig watching us gab over showcases, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Sovereign Tower Review | Bytesized",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=aCzyF9HqlJw",
+      "published": "2026-09-08T15:15:12+00:00",
+      "summary": "In this episode of Bytesized, Jess Hoops reviews Sovereign Tower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Kicking the Tires on Granblue Fantasy Versus: Rising | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=X13YKmm6KHY",
+      "published": "2026-09-07T06:38:51+00:00",
+      "summary": "KC and El Cheshire try out some Granblue Fantasy Versus: Rising. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Vholume, Combolands, Besmirch and Cicadamata | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ARe8e7t5M7c",
+      "published": "2026-09-06T15:00:00+00:00",
+      "summary": "From the team behind The Escapist, we're excited to introduce you to our new employee-owned and fully independent outlet, Second Wind. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "No room for error. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=HhGWSRspCmE",
+      "published": "2026-09-09T01:51:11+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=2znSbIEyfic",
+      "published": "2026-09-04T16:20:52+00:00",
+      "summary": "Zach Cregger hosted the first ever live in-person Reddit AMA featuring a screening of the first 30 minutes of the movie in Los Angeles - simulcast in New York and Dallas. 700+ fans. 150+ creators. Three cities.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
+      "published": "2026-08-26T21:00:09+00:00",
+      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lb-haH8xTwE",
+      "published": "2026-08-21T19:12:23+00:00",
+      "summary": "From the mind of Zach Cregger, director of Weapons and Barbarian. Filmed for IMAX – Resident Evil is in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.com/ResidentEvil https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "You Can See Everything | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GGJSRFWALTI",
+      "published": "2026-09-07T00:30:04+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Artificial - Official Teaser Trailer - In Theaters Christmas Day",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=rDZplZFnbOk",
+      "published": "2026-09-08T15:00:25+00:00",
+      "summary": "A film by Luca Guadagnino. Starring Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, Cooper Hoffman, Jason Schwartzman, and Mark Rylance. In select theaters Christmas Day.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Unknown - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=vJ3vIzWzFno",
+      "published": "2026-09-04T16:12:27+00:00",
+      "summary": "David is a Parisian photographer. Something of a loner, he becomes curious about a young woman he encounters on an assignment. That night, at a drug-fueled party, David locks eyes with her across the room and follows her.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Once Upon a Time in Harlem - Official Trailer - In Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
+      "published": "2026-09-03T16:00:17+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fjord - Official Trailer - In Theaters October 9",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=frg59VOungA",
+      "published": "2026-08-27T16:00:28+00:00",
+      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MARAMA | Official Trailer | SHUDDER",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=KOlD0A1mlmE",
+      "published": "2026-09-03T16:47:07+00:00",
+      "summary": "A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GOODY GOODY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
+      "published": "2026-08-27T18:00:17+00:00",
+      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Less of a Stranger | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jx0RiYbSuuc",
+      "published": "2026-09-08T07:00:00+00:00",
+      "summary": "You know his songs, your parents know them, and so do their parents. With a guitar in his hand, he is a superhero. A story inspired by the life of Polish rock's wildest star.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Beyond Society | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Kbqd8r-7oRY",
+      "published": "2026-09-07T14:00:00+00:00",
+      "summary": "The rescue was only the beginning, but what came after deserves to be told too. ‘Beyond Society’ is the new Netflix documentary series created by J.A.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Gloria Steinem's Final Message To The World | Famous Last Words | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oIsysoq-u3A",
+      "published": "2026-09-04T13:00:00+00:00",
+      "summary": "“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Message From Gloria Steinem | Famous Last Words | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=1MhhsJw7GSo",
+      "published": "2026-09-03T21:00:00+00:00",
+      "summary": "Gloria Steinem was a trailblazing pioneer in the fight for women’s rights.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Final Problem | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=yLeja7kWgmU",
+      "published": "2026-09-03T13:00:00+00:00",
+      "summary": "An isolated hotel. A mysterious death. Thirteen guests under suspicion. And only one person capable of solving the enigma.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Not a Stranger | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ODIk9yGmpQI",
+      "published": "2026-09-03T07:00:00+00:00",
+      "summary": "She let her in. That was the first mistake. Not a Stranger is only on Netflix on September 17th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Juliette Negotiates with Troy [SPOILER WARNING] | Season 3 Finale Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=vhz-mexSNII",
+      "published": "2026-09-08T20:29:51+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Bring Them Home | Season 2 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NgWVjIhwqL0",
+      "published": "2026-09-04T18:59:56+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.co/_DarkMatter How it all began.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +670,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 15,
+    "trailerCount": 23,
+    "sourceCount": 19
   }
 }
