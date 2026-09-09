@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-09T09:00:44.135209Z
+Generated: 2026-09-09T14:00:02.436310Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Understanding the thermal ceiling in portable power, Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish, and All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg.
+Today's sweep leans toward CS education / AI policy, AI / computing, Security / computing. The strongest items in this run are The Filter Q&A: sexual culture and wellbeing expert Alix Fox answers your questions, Students who use AI generally score worse at school, and Opinion: Why a Connecticut Career Academy Could Become a Nationwide Model.
 
 ## Briefing
 
@@ -33,25 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Understanding the thermal ceiling in portable power [10/10]
+### 1. The Filter Q&A: sexual culture and wellbeing expert Alix Fox answers your questions [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Alix Fox is live now answering your questions about how to have a healthier, happier, hornier love life SagittariusLe asks: Sex when life is genuinely exhausting - advice often tells women to ‘make time for intimacy’, but what does healthy…
+
+Link: https://www.theguardian.com/thefilter/live/2026/sep/09/the-filter-reader-q-and-a-ask-sexual-culture-and-wellbeing-expert-alix-fox-a-question
+
+### 2. Students who use AI generally score worse at school [10/10]
+**Source:** The Verge  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa
+
+### 3. Opinion: Why a Connecticut Career Academy Could Become a Nationwide Model [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+In high school, students are often pushed onto one of two paths: the college track paved with Advanced Placement and dual-credit classes or the career and technical education route built around hands-on training and workforce readiness.
+
+Link: https://www.the74million.org/article/why-a-connecticut-career-academy-could-become-a-nationwide-model/
+
+### 4. The Download: OpenAI’s turning point for math and a battery record [10/10]
 **Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/
+
+### 5. Death and fear stalk Haitians in Ohio city amid Trump’s anti-immigrant crackdown [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself.
+Springfield community mourns one of its own after Pierre Damas Bel, who was forced to wear electronic ankle bracelet by ICE, walked into traffic and was killed by truck For 20-year-old Pierre Damas Bel, the humiliation of starting college…
 
-Link: https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/
+Link: https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown
 
-### 2. Ben Shelton dethrones Carlos Alcaraz in five-set thriller after latest US Open finish [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 6. "You can never see outside of yourself": The House Before is a body horror game in which you are a house tunnelling through its own soul [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Winner claims 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7) victory Epic quarter-final ends after 3.
+It's a lovely morning in the village, and you are a horrible house. Wait, let's start that again. As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed into a horrible house.
 
-Link: https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish
+Link: https://www.rockpapershotgun.com/you-can-never-see-outside-of-yourself-the-house-before-is-a-body-horror-game-in-which-you-are-a-house-tunnelling-through-its-own-soul
 
-### 3. All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg [10/10]
+### 7. Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.
+
+Link: https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/
+
+### 8. All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,95 +105,50 @@ Beautifully written by her daughter, this is a funny and intimate eulogy to the 
 
 Link: https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg
 
-### 4. Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The president’s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial…
-
-Link: https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides
-
-### 5. ‘Miserable and impossible’: food scarce in Kyiv as Russia targets supply chains [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Supermarket shelves half-filled in Ukrainian capital as Moscow bombs warehouses supporting civilian life Stocking up on cured sausages from the half-empty shelves in her local supermarket, Valentyna Sveshnikova is worried about money.
-
-Link: https://www.theguardian.com/world/2026/sep/09/miserable-and-impossible-food-scarce-in-kyiv-ukraine-as-russia-targets-supply-chains
-
-### 6. What OpenAI’s latest controversy tells us about the future of math [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.
-
-Link: https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
-
-### 7. GOG brings back "big box" PC games, one printable template at a time [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Preservation "goodies" also includes downloadable 3D models for desktop perusal.
-
-Link: https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/
-
-### 8. Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Documents available through an online portal launched three days before the 25th anniversary of September 11 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact…
-
-Link: https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release
-
-### 9. Do Later School Start Times Help California Students? Here’s What New Study Says [9/10]
+### 9. Can ‘Hard Fun’ AI-Proof Classrooms? [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-California’s mandate requiring later start times for middle and high schools is already yielding results, with students sleeping more, reporting better mental health and scoring higher math and English scores, according to a new study.
+Can ‘Hard Fun’ AI-Proof Classrooms?
 
-Link: https://www.the74million.org/article/do-later-school-start-times-help-california-students-heres-what-new-study-says/
+Link: https://www.the74million.org/article/can-hard-fun-ai-proof-classrooms/
 
-### 10. Indianapolis Public Schools Reverses No-Zero Grading Policy [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Indianapolis Public School students can receive a zero on assignments again, but only if they make zero effort to complete them.
-
-Link: https://www.the74million.org/article/indianapolis-public-schools-reverses-no-zero-grading-policy/
-
-### 11. "Let them work their magic" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed.
-
-Link: https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs
-
-### 12. Whatever happened to the Taliban threat: 'We will flog the women'? [8/10]
+### 10. A Louisiana case could upend telehealth abortion. What exactly is it? [9/10]
 **Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-In 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?
+As a federal appeals court considers Louisiana's lawsuit to end telehealth abortion access, a longtime OB-GYN in Arizona explains how telehealth works in his clinic.
 
-Link: https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging
+Link: https://www.npr.org/2026/09/08/nx-s1-5955665/telehealth-abortion-pill-mifepristone-louisiana
 
-### 13. A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over [7/10]
+### 11. Cursed Blood and Strange Swamps: Announcing Swallerjaw by Tif Robinette [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+A debut southern gothic arriving August 2027 The post Cursed Blood and Strange Swamps: Announcing Swallerjaw by Tif Robinette appeared first on Reactor .
+
+Link: https://reactormag.com/book-announcement-swallerjaw-by-tif-robinette/
+
+### 12. The Man on a Quest to Digitally Preserve America’s Public Restrooms [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.
+The Restroom Archive is a museum-style repository of 3D scans of the world's restrooms.
 
-Link: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/
+Link: https://www.404media.co/the-man-on-a-quest-to-digitally-preserve-americas-public-restrooms/
+
+### 13. Whatever happened to the measles outbreak that shocked a country this year? [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Bangladesh has seen over 50,000 confirmed or suspected cases of measles this year. The death toll among children just surpassed 1,000. How are officials trying to bring the outbreak under control?
+
+Link: https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh
 
 ## YouTube
 
@@ -251,9 +251,9 @@ Link: https://www.youtube.com/watch?v=TUKcExPW13Q
 
 Link: https://www.youtube.com/watch?v=rDAF2jomxbs
 
-### Halloween: The Game: The Stream w/ Yahtzee, Nick, and Jesse G [8/10]
+### Halloween: The Game: The Stream w/ Yahtzee, Nick, and Jesse G [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Halloween: The Game is out today, so we're going to slash/avoid being slashed all across Haddonfield. If you dig watching us gab over showcases, considering supporting us over at Patreon -- https://www.patreon.
@@ -379,15 +379,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance 
 
 Link: https://www.youtube.com/watch?v=GGJSRFWALTI
 
-### Club Kid | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.
-
-Link: https://www.youtube.com/watch?v=guKEdb_iRXw
-
 ### Artificial - Official Teaser Trailer - In Theaters Christmas Day [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -495,15 +486,6 @@ Link: https://www.youtube.com/watch?v=1MhhsJw7GSo
 An isolated hotel. A mysterious death. Thirteen guests under suspicion. And only one person capable of solving the enigma.
 
 Link: https://www.youtube.com/watch?v=yLeja7kWgmU
-
-### Not a Stranger | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-She let her in. That was the first mistake. Not a Stranger is only on Netflix on September 17th. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=ODIk9yGmpQI
 
 ### Silo — Juliette Negotiates with Troy [SPOILER WARNING] | Season 3 Finale Scene | Apple TV [10/10]
 **Source:** Apple TV  
