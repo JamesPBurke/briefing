@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-09T18:01:41.905611Z",
-  "generatedAtDisplay": "2026-09-09 02:01 PM EDT",
+  "generatedAt": "2026-09-10T05:00:03.100825Z",
+  "generatedAtDisplay": "2026-09-10 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Special education head at Education Department abruptly resigns, iOS 27 launches on September 14th with Siri AI, and Microsoft has new AI privacy rules for schools.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, CS education / AI policy. The strongest items in this run are August was joint-hottest month ever recorded globally, It’s the year of smartphone price hikes, and 4 groups caught using the same Chrome and Windows exploit kit.",
   "mainItems": [
     {
-      "title": "Special education head at Education Department abruptly resigns",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-      "published": "2026-09-09T17:48:56+00:00",
-      "summary": "The leader of the Education Department's special education office told employees she is resigning less than four months in the role and as the agency overall is morphing and shrinking.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "iOS 27 launches on September 14th with Siri AI",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-      "published": "2026-09-09T17:41:49+00:00",
-      "summary": "Apple is launching its next iOS 27 update on Monday September 14th. The headline feature is Siri AI, the delayed AI-powered overhaul of the Siri assistant.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft has new AI privacy rules for schools",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "published": "2026-09-09T17:07:48+00:00",
-      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Ocarina of Time remake physical preorders are $10 off at Walmart",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale",
-      "published": "2026-09-09T16:43:54+00:00",
-      "summary": "Nintendo announced a variety of new titles at its September livestream, but among the most talked-about is the remastered The Legend of Zelda: Ocarina of Time for Switch 2.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Justice Dept. Lawsuit Over Parent Rights and Gender Identity Could Be Test Case",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/justice-dept-lawsuit-over-parent-rights-and-gender-identity-could-be-test-case/",
-      "published": "2026-09-09T16:30:00+00:00",
-      "summary": "The Trump administration took an unprecedented move last week when it sued the Kansas City, Kansas, school district over how it handles student gender identity issues.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Iran claims to have attacked 10 ships near strait of Hormuz after US strikes",
+      "title": "August was joint-hottest month ever recorded globally",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/09/iran-claims-to-have-attacked-10-ships-near-strait-of-hormuz-after-us-strikes",
-      "published": "2026-09-09T16:18:15+00:00",
-      "summary": "Oil price rises above $100 a barrel as Tehran responds to US attacks that sunk five Iranian tankers Tehran has said it attacked 10 ships around the strait of Hormuz after the US sunk five Iranian tankers, as escalating strikes between the…",
+      "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
+      "published": "2026-09-10T02:00:11+00:00",
+      "summary": "Temperatures reached 1.65C above preindustrial levels, months before El Niño system reaches full strength August was the joint-hottest month ever recorded around the world, with global temperatures reaching 1.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Opinion: Why a Connecticut Career Academy Could Become a Nationwide Model",
+      "title": "It’s the year of smartphone price hikes",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+      "published": "2026-09-10T00:03:39+00:00",
+      "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "published": "2026-09-09T20:55:02+00:00",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "A Generation Later, 9/11 Is Harder to Teach as Lived Memory Fades",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/why-a-connecticut-career-academy-could-become-a-nationwide-model/",
-      "published": "2026-09-09T12:30:00+00:00",
-      "summary": "In high school, students are often pushed onto one of two paths: the college track paved with Advanced Placement and dual-credit classes or the career and technical education route built around hands-on training and workforce readiness.",
+      "url": "https://www.the74million.org/article/a-generation-later-9-11-is-harder-to-teach-as-lived-memory-fades/",
+      "published": "2026-09-09T18:15:02+00:00",
+      "summary": "Sari Beth Rosenberg was supposed to begin student teaching in New York City on Sept. 11, 2001. At 26 years old, she was scheduled to observe a U.S. history class at LaGuardia High School. She didn’t get the chance.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "published": "2026-09-09T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Schools Have a Motivation Problem — AI Is Making It Impossible to Ignore",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/schools-have-a-motivation-problem-ai-is-making-it-impossible-to-ignore/",
-      "published": "2026-09-09T10:30:00+00:00",
-      "summary": "In 2017, Alex Campbell, a sociology teacher at Elizabethton High School in Tennessee, offered his students the assignment of a lifetime: Could they solve a notorious series of cold-case murders that had stumped law enforcement for more…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic researchers say AI could cause human extinction by 2030",
+      "title": "Rhode Island’s Democratic governor loses primary amid anger over bridge",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-      "published": "2026-09-09T15:53:34+00:00",
-      "summary": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanity Artificial intelligence could kill off humanity within the decade, according to three researchers with the industry giant…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rhode-island-primary-results-dan-mckee",
+      "published": "2026-09-10T02:05:20+00:00",
+      "summary": "Helena Foulkes beats incumbent Dan McKee after criticizing handling of Providence’s Washington bridge, now expected to be completed in 2028 Rhode Island’s Dan McKee became the first sitting governor to lose a primary in nearly a decade,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "published": "2026-09-09T23:00:04+00:00",
+      "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "published": "2026-09-09T20:44:43+00:00",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Valheim 1.0's Steam player count soars to a huge 5-year high, but it's not enough to beat the viral survival game's early access peak",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/valheim-steam-count-huge-survival-game-early-access",
+      "published": "2026-09-09T18:45:30+00:00",
+      "summary": "The five-year wait for Valheim 1.0 doesn't seem to have hurt the survival game behemoth's popularity all that much. After leaving early access, the crafty viking sim is enjoying a huge resurgence in Steam player numbers. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Mike Flanagan’s Carrie Trailer Takes the Horror Beyond the Prom",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/mike-flanagan-carrie-trailer/",
+      "published": "2026-09-09T15:21:44+00:00",
+      "summary": "They don't like her; they really, really don't like her The post Mike Flanagan’s Carrie Trailer Takes the Horror Beyond the Prom appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
+    },
+    {
+      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+      "published": "2026-09-09T21:21:17+00:00",
+      "summary": "Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members \"conspired\" behind his back to vote to put him on leave.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Anthropic researcher resigns amid AI safety concerns",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962889/anthropic-researcher-resigns-amid-ai-safety-concerns",
+      "published": "2026-09-09T20:54:56+00:00",
+      "summary": "A researcher at the AI company Anthropic resigned with a warning that the entire artificial intelligence industry is designing tools that humans will soon lose control of.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Can ‘Hard Fun’ AI-Proof Classrooms?",
@@ -114,16 +124,6 @@
       "published": "2026-09-09T12:14:06+00:00",
       "summary": "Can ‘Hard Fun’ AI-Proof Classrooms?",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/",
-      "published": "2026-09-09T17:15:45+00:00",
-      "summary": "Sinclair Broadcasting is pushing the idea that China and the No Kings protesters are the reason people don't like Flock.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }
