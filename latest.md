@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-10T09:00:40.692033Z
+Generated: 2026-09-10T14:00:02.299388Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes, US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech, and ‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are "Today, we are fighting fear" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins, Until Dawn 2 is notably cheaper than most first-party PlayStation games, but is this anything to be worried about?, and If you thought Final Fantasy 7 Rebirth was bloated, you're not going to like Revelation - but I'd much rather have too much to do than too little.
 
 ## Briefing
 
@@ -33,7 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes [10/10]
+### 1. "Today, we are fighting fear" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices…
+
+Link: https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb
+
+### 2. Until Dawn 2 is notably cheaper than most first-party PlayStation games, but is this anything to be worried about? [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Choice-and-consequence horror game Until Dawn 2, which only just got a release date , has also gone up for pre-ordering on the PlayStation Store.
+
+Link: https://www.eurogamer.net/until-dawn-2-price-cheaper
+
+### 3. If you thought Final Fantasy 7 Rebirth was bloated, you're not going to like Revelation - but I'd much rather have too much to do than too little [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Settling into my demo of Final Fantasy 7 Revelation, I was slightly appalled by how many tutorial pop-ups I had to click through in order to just play the damn game.
+
+Link: https://www.eurogamer.net/final-fantasy-7-revelation-preview
+
+### 4. While Puerto Ricans protest for reliable access to water, the governor washes her hands [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Leaky aqueducts and mega-projects for the wealthy exacerbate a water crisis in the US island territory Dhara Rivera de Jesús keeps at least 30 large water containers in her home at all times.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access
+
+### 5. Mathematicians want proof OpenAI didn’t use their work [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data
+
+### 6. Global Test Scores Hit New Lows — Just as AI Takes Hold in Schools [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Students around the world continue to fall further and further behind in the core subjects of reading and math, according to the release of scores from a widely cited standardized test on Tuesday.
+
+Link: https://www.the74million.org/article/global-test-scores-hit-new-lows-just-as-ai-takes-hold-in-schools/
+
+### 7. As final hearing over GTA firings begins, Rockstar reiterate they "reject the claims" made by union and will defend themselves "vigorously" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Rockstar Games have issued a statement making clear they're sticking to their guns, as the final hearing in the legal battle between them and a group of former staff they fired last year begins.
+
+Link: https://www.rockpapershotgun.com/as-final-hearing-over-gta-firings-begins-rockstar-reiterate-they-reject-the-claims-made-by-union-and-will-defend-themselves-vigorously
+
+### 8. Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,34 +105,7 @@ The Sussexes must have hoped for a warm welcome.
 
 Link: https://www.theguardian.com/commentisfree/2026/sep/10/harry-king-charles-press-sussex-letter
 
-### 2. US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-President makes offer that would cost US over $1tn and asks voters to ‘pretend that I’m on the ballot’ despite being deeply unpopular among electorate Donald Trump pledged to pay every adult citizen in the US $5,000 if Republicans retain…
-
-Link: https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections
-
-### 3. ‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Aardman’s hero is back in The Beast of Mossy Bottom – a terrifying tale of frankenfood, pitchfork-wielding villagers and a monster with suspiciously stiff orange hair.
-
-Link: https://www.theguardian.com/film/2026/sep/10/shaun-the-sheep-aardman-beast-of-mossy-bottom-horror
-
-### 4. Xbox picks up Kojima’s Physint after PlayStation dropped it [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it.
-
-Link: https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox
-
-### 5. 4 groups caught using the same Chrome and Windows exploit kit [9/10]
+### 9. Four groups caught using the same Chrome and Windows exploit kit [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -78,25 +114,16 @@ A patch gap and the hastened pace of AI-based vulnerability discovery are likely
 
 Link: https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/
 
-### 6. Read the Apple document explaining how new listening features still protect your privacy [9/10]
-**Source:** The Verge  
+### 10. Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs [9/10]
+**Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.
+Four women sue Amazon, say company denied basic accommodations and fired them.
 
-Link: https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy
+Link: https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/
 
-### 7. A Generation Later, 9/11 Is Harder to Teach as Lived Memory Fades [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Sari Beth Rosenberg was supposed to begin student teaching in New York City on Sept. 11, 2001. At 26 years old, she was scheduled to observe a U.S. history class at LaGuardia High School. She didn’t get the chance.
-
-Link: https://www.the74million.org/article/a-generation-later-9-11-is-harder-to-teach-as-lived-memory-fades/
-
-### 8. Mike Flanagan’s Carrie Trailer Takes the Horror Beyond the Prom [9/10]
+### 11. Mike Flanagan’s Carrie Trailer Takes the Horror Beyond the Prom [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -105,25 +132,7 @@ They don't like her; they really, really don't like her The post Mike Flanagan�
 
 Link: https://reactormag.com/mike-flanagan-carrie-trailer/
 
-### 9. Kirby and the World Beyond coming to Nintendo Switch 2 in Spring 2027 [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sounds the alarms! A reveal trailer for a brand-new Kirby game has been revealed in today's Nintendo Direct . Called Kirby and the World Beyond, the game is headed to the Nintendo Switch 2 in Spring, 2027. Read more
-
-Link: https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct
-
-### 10. Automattic CEO Matt Mullenweg Put on 'Leave of Absence' [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members "conspired" behind his back to vote to put him on leave.
-
-Link: https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/
-
-### 11. Anthropic researcher resigns amid AI safety concerns [8/10]
+### 12. Anthropic researcher resigns amid AI safety concerns [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -132,25 +141,25 @@ A researcher at the AI company Anthropic resigned with a warning that the entire
 
 Link: https://www.npr.org/2026/09/09/nx-s1-5962889/anthropic-researcher-resigns-amid-ai-safety-concerns
 
-### 12. Can ‘Hard Fun’ AI-Proof Classrooms? [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Can ‘Hard Fun’ AI-Proof Classrooms?
-
-Link: https://www.the74million.org/article/can-hard-fun-ai-proof-classrooms/
-
-### 13. Whatever happened to the measles outbreak that shocked a country this year? [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+### 13. Doctor Doom Thanked Seattle for All the Surveillance Cameras [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Bangladesh has seen over 50,000 confirmed or suspected cases of measles this year. The death toll among children just surpassed 1,000. How are officials trying to bring the outbreak under control?
+‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.
 
-Link: https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh
+Link: https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/
 
 ## YouTube
+
+### I Never Thought I’d See This Happen [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.
+
+Link: https://www.youtube.com/watch?v=mOvtumfyjCs
 
 ### GPT-6 Astra Changes Everything [8/10]
 **Creator:** Two Minute Papers  
@@ -161,6 +170,15 @@ Link: https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-ba
 
 Link: https://www.youtube.com/watch?v=eVBJIUxv8N8
 
+### The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile [10/10]
+**Creator:** Computerphile  
+**Verdict:** Watch it  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+So far, 'Chain of Thought' has allowed us a glimpse at the processes by which Large Language Models work their way through problems.
+
+Link: https://www.youtube.com/watch?v=iuHddnIzKRA
+
 ### Child Psychologist Answers Parenting Questions [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -169,6 +187,24 @@ Link: https://www.youtube.com/watch?v=eVBJIUxv8N8
 Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting.
 
 Link: https://www.youtube.com/watch?v=86YsXFf1Chw
+
+### Robby Hoffman on joking about they/them pronouns [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian Robby Hoffman has faced criticism for some of her remarks dismissing the use of nonbinary pronouns, despite her own gender identity.
+
+Link: https://www.youtube.com/watch?v=4wqH1ZVPv5s
+
+### Scientists discover black hole start [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Scientists recently discover black hole starts which could answer how supermassive black holes are born. ⁠
+
+Link: https://www.youtube.com/watch?v=by0ZOuInpvk
 
 ### WATCH: How 9/11 reshaped U.S. intelligence | Sources & Methods [9/10]
 **Creator:** NPR  
@@ -179,27 +215,27 @@ How did 9/11 fundamentally change America and the secret agencies tasked with ke
 
 Link: https://www.youtube.com/watch?v=82mCt4ONBM4
 
-### Emmy-nominated comedian Robby Hoffman has responsible bathroom habits and picks up important calls [7/10]
+### Emmy-nominated comedian Robby Hoffman has responsible bathroom habits and picks up important calls [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 For the record, Emmy-nominated comedian Robby Hoffman has responsible bathroom habits and picks up important calls, even during interviews. Also for the record, she always had a feeling she would find success despite a difficult childhood.
 
 Link: https://www.youtube.com/watch?v=T-h7j7lddZU
 
-### U.S. aid cuts blamed for shortages in food for Senegalese kids [8/10]
+### U.S. aid cuts blamed for shortages in food for Senegalese kids [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.
 
 Link: https://www.youtube.com/watch?v=IAw4h0c0DfA
 
-### Republicans host an unprecedented midterm convention to celebrate Trump [7/10]
+### Republicans host an unprecedented midterm convention to celebrate Trump [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Republicans have never held a midterm convention before. The unprecedented event is being billed as "Trumpapalooza," and is President Trump's last hurrah. Reporter: Tamara Keith/NPR Producer: Keren Carrión/NPR
@@ -223,15 +259,6 @@ Link: https://www.youtube.com/watch?v=0NhWJAs0LeY
 New York City has settled two lawsuits linked to air quality risks after the 9/11 terror attack 25 years ago. The city is also releasing documents withheld for decades by past mayors.
 
 Link: https://www.youtube.com/watch?v=-qEWELC-S1E
-
-### NTSB describes Miami airport crash scene as 'utter devastation' [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The NTSB is investigating why an Amazon cargo plane ran off the end of a runway at Miami International Airport on Sunday, as it was making its arrival from San Juan, Puerto Rico.
-
-Link: https://www.youtube.com/watch?v=qr19IlQLxVI
 
 ### DLSS 5 Performance: RTX 5060/5070/5080/5090 Tested - And It's Heavy [7/10]
 **Creator:** Digital Foundry  
@@ -287,18 +314,27 @@ Link: https://www.youtube.com/watch?v=cPLfKtXRRvI
 
 Link: https://www.youtube.com/watch?v=U_KRuQjyxdY
 
-### Solving Co-op Anime Puzzles in Orbitals w/ KC and Marty [7/10]
+### Life Is Chaos, and So Is the Dark Souls Randomizer w/ Jack and Jess -- Part 6 [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=kxGhGcwxM4g
+
+### Solving Co-op Anime Puzzles in Orbitals w/ KC and Marty [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=hSPdNDZprUg
 
-### Yahtzee Tries... Worming From Home and He Who Watches [8/10]
+### Yahtzee Tries... Worming From Home and He Who Watches [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.
@@ -478,6 +514,15 @@ A home birth turns terribly wrong when complications arise during a raging blizz
 
 Link: https://www.youtube.com/watch?v=T5dMa8OMyWg
 
+### Is It Cake? Halloween: Season 2 | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Six talented cake artists put their skills to the test as they whip up Halloween-themed cakes to trick the judges and claim the grand prize. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=E96wqnbhIgQ
+
 ### Haunted Hotel: Season 2 | Official Teaser | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -513,15 +558,6 @@ Link: https://www.youtube.com/watch?v=Kbqd8r-7oRY
 “Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.
 
 Link: https://www.youtube.com/watch?v=oIsysoq-u3A
-
-### A Message From Gloria Steinem | Famous Last Words | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Gloria Steinem was a trailblazing pioneer in the fight for women’s rights.
-
-Link: https://www.youtube.com/watch?v=1MhhsJw7GSo
 
 ### Silo — Juliette Negotiates with Troy [SPOILER WARNING] | Season 3 Finale Scene | Apple TV [10/10]
 **Source:** Apple TV  

@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-10T09:00:40.692033Z",
-  "generatedAtDisplay": "2026-09-10 05:00 AM EDT",
+  "generatedAt": "2026-09-10T14:00:02.299388Z",
+  "generatedAtDisplay": "2026-09-10 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes, US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech, and ‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are \"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins, Until Dawn 2 is notably cheaper than most first-party PlayStation games, but is this anything to be worried about?, and If you thought Final Fantasy 7 Rebirth was bloated, you're not going to like Revelation - but I'd much rather have too much to do than too little.",
   "mainItems": [
+    {
+      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "published": "2026-09-10T12:25:25+00:00",
+      "summary": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Until Dawn 2 is notably cheaper than most first-party PlayStation games, but is this anything to be worried about?",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/until-dawn-2-price-cheaper",
+      "published": "2026-09-10T12:23:40+00:00",
+      "summary": "Choice-and-consequence horror game Until Dawn 2, which only just got a release date , has also gone up for pre-ordering on the PlayStation Store.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "If you thought Final Fantasy 7 Rebirth was bloated, you're not going to like Revelation - but I'd much rather have too much to do than too little",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-preview",
+      "published": "2026-09-10T12:15:00+00:00",
+      "summary": "Settling into my demo of Final Fantasy 7 Revelation, I was slightly appalled by how many tutorial pop-ups I had to click through in order to just play the damn game.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "While Puerto Ricans protest for reliable access to water, the governor washes her hands",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access",
+      "published": "2026-09-10T11:30:23+00:00",
+      "summary": "Leaky aqueducts and mega-projects for the wealthy exacerbate a water crisis in the US island territory Dhara Rivera de Jesús keeps at least 30 large water containers in her home at all times.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "published": "2026-09-10T11:19:44+00:00",
+      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Global Test Scores Hit New Lows — Just as AI Takes Hold in Schools",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/global-test-scores-hit-new-lows-just-as-ai-takes-hold-in-schools/",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "Students around the world continue to fall further and further behind in the core subjects of reading and math, according to the release of scores from a widely cited standardized test on Tuesday.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "As final hearing over GTA firings begins, Rockstar reiterate they \"reject the claims\" made by union and will defend themselves \"vigorously\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/as-final-hearing-over-gta-firings-begins-rockstar-reiterate-they-reject-the-claims-made-by-union-and-will-defend-themselves-vigorously",
+      "published": "2026-09-10T10:34:53+00:00",
+      "summary": "Rockstar Games have issued a statement making clear they're sticking to their guns, as the final hearing in the legal battle between them and a group of former staff they fired last year begins.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "Ridiculed by the press – and now King Charles is joining in. Sorry, Harry, but what did you expect? | Emma Brockes",
       "source": "The Guardian US",
@@ -17,37 +87,7 @@
       "score": 10
     },
     {
-      "title": "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
-      "published": "2026-09-10T05:26:46+00:00",
-      "summary": "President makes offer that would cost US over $1tn and asks voters to ‘pretend that I’m on the ballot’ despite being deeply unpopular among electorate Donald Trump pledged to pay every adult citizen in the US $5,000 if Republicans retain…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/sep/10/shaun-the-sheep-aardman-beast-of-mossy-bottom-horror",
-      "published": "2026-09-10T04:00:14+00:00",
-      "summary": "Aardman’s hero is back in The Beast of Mossy Bottom – a terrifying tale of frankenfood, pitchfork-wielding villagers and a monster with suspiciously stiff orange hair.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-      "published": "2026-09-10T08:22:40+00:00",
-      "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "source": "Ars Technica",
       "category": "Security / computing",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
@@ -57,23 +97,13 @@
       "score": 9
     },
     {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "source": "The Verge",
+      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "published": "2026-09-09T20:44:43+00:00",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+      "published": "2026-09-09T19:09:20+00:00",
+      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "A Generation Later, 9/11 Is Harder to Teach as Lived Memory Fades",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/a-generation-later-9-11-is-harder-to-teach-as-lived-memory-fades/",
-      "published": "2026-09-09T18:15:02+00:00",
-      "summary": "Sari Beth Rosenberg was supposed to begin student teaching in New York City on Sept. 11, 2001. At 26 years old, she was scheduled to observe a U.S. history class at LaGuardia High School. She didn’t get the chance.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -87,26 +117,6 @@
       "score": 9
     },
     {
-      "title": "Kirby and the World Beyond coming to Nintendo Switch 2 in Spring 2027",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct",
-      "published": "2026-09-09T15:20:42+00:00",
-      "summary": "Sounds the alarms! A reveal trailer for a brand-new Kirby game has been revealed in today's Nintendo Direct . Called Kirby and the World Beyond, the game is headed to the Nintendo Switch 2 in Spring, 2027. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-      "published": "2026-09-09T21:21:17+00:00",
-      "summary": "Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members \"conspired\" behind his back to vote to put him on leave.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "Anthropic researcher resigns amid AI safety concerns",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -117,27 +127,28 @@
       "score": 8
     },
     {
-      "title": "Can ‘Hard Fun’ AI-Proof Classrooms?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/can-hard-fun-ai-proof-classrooms/",
-      "published": "2026-09-09T12:14:06+00:00",
-      "summary": "Can ‘Hard Fun’ AI-Proof Classrooms?",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "Whatever happened to the measles outbreak that shocked a country this year?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
-      "published": "2026-09-09T13:04:43+00:00",
-      "summary": "Bangladesh has seen over 50,000 confirmed or suspected cases of measles this year. The death toll among children just surpassed 1,000. How are officials trying to bring the outbreak under control?",
+      "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
+      "published": "2026-09-09T19:25:00+00:00",
+      "summary": "‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     }
   ],
   "youtube": [
+    {
+      "title": "I Never Thought I’d See This Happen",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "published": "2026-09-10T08:47:23+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "GPT-6 Astra Changes Everything",
       "source": "Two Minute Papers",
@@ -150,12 +161,45 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=iuHddnIzKRA",
+      "published": "2026-09-10T12:56:17+00:00",
+      "summary": "So far, 'Chain of Thought' has allowed us a glimpse at the processes by which Large Language Models work their way through problems.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Child Psychologist Answers Parenting Questions",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=86YsXFf1Chw",
       "published": "2026-09-08T16:00:09+00:00",
       "summary": "Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Robby Hoffman on joking about they/them pronouns",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=4wqH1ZVPv5s",
+      "published": "2026-09-10T12:30:19+00:00",
+      "summary": "Comedian Robby Hoffman has faced criticism for some of her remarks dismissing the use of nonbinary pronouns, despite her own gender identity.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Scientists discover black hole start",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=by0ZOuInpvk",
+      "published": "2026-09-10T10:30:32+00:00",
+      "summary": "Scientists recently discover black hole starts which could answer how supermassive black holes are born. ⁠",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -179,8 +223,8 @@
       "published": "2026-09-10T00:00:38+00:00",
       "summary": "For the record, Emmy-nominated comedian Robby Hoffman has responsible bathroom habits and picks up important calls, even during interviews. Also for the record, she always had a feeling she would find success despite a difficult childhood.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "U.S. aid cuts blamed for shortages in food for Senegalese kids",
@@ -190,8 +234,8 @@
       "published": "2026-09-10T00:00:12+00:00",
       "summary": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Republicans host an unprecedented midterm convention to celebrate Trump",
@@ -201,8 +245,8 @@
       "published": "2026-09-09T23:29:54+00:00",
       "summary": "Republicans have never held a midterm convention before. The unprecedented event is being billed as \"Trumpapalooza,\" and is President Trump's last hurrah. Reporter: Tamara Keith/NPR Producer: Keren Carrión/NPR",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "After months of attacks from Trump, Smithsonian chief resigns",
@@ -225,17 +269,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "NTSB describes Miami airport crash scene as 'utter devastation'",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=qr19IlQLxVI",
-      "published": "2026-09-08T14:40:30+00:00",
-      "summary": "The NTSB is investigating why an Amazon cargo plane ran off the end of a runway at Miami International Airport on Sunday, as it was making its arrival from San Juan, Puerto Rico.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "DLSS 5 Performance: RTX 5060/5070/5080/5090 Tested - And It's Heavy",
@@ -304,6 +337,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Life Is Chaos, and So Is the Dark Souls Randomizer w/ Jack and Jess -- Part 6",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kxGhGcwxM4g",
+      "published": "2026-09-10T13:16:16+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Solving Co-op Anime Puzzles in Orbitals w/ KC and Marty",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -311,8 +355,8 @@
       "published": "2026-09-10T01:14:01+00:00",
       "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... Worming From Home and He Who Watches",
@@ -322,8 +366,8 @@
       "published": "2026-09-09T22:11:54+00:00",
       "summary": "This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Resonance: A Plague Tale | Fully Ramblomatic",
@@ -504,6 +548,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Is It Cake? Halloween: Season 2 | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=E96wqnbhIgQ",
+      "published": "2026-09-10T13:30:00+00:00",
+      "summary": "Six talented cake artists put their skills to the test as they whip up Halloween-themed cakes to trick the judges and claim the grand prize. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Haunted Hotel: Season 2 | Official Teaser | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -543,17 +598,6 @@
       "url": "https://www.youtube.com/watch?v=oIsysoq-u3A",
       "published": "2026-09-04T13:00:00+00:00",
       "summary": "“Please tell your own story. This is the most important thing we can do for each other: to know each other through stories.” Gloria Steinem shares her final message to the world in Famous Last Words. Now on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A Message From Gloria Steinem | Famous Last Words | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=1MhhsJw7GSo",
-      "published": "2026-09-03T21:00:00+00:00",
-      "summary": "Gloria Steinem was a trailblazing pioneer in the fight for women’s rights.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -692,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 24,
     "trailerCount": 20,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }
