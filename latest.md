@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-11T09:00:25.052485Z
+Generated: 2026-09-11T14:00:04.298531Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are "I don't think it's worth any amount of money" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear "discreetly", JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention, and Anthropic details bad actors’ efforts to misuse its AI for bioweapons.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Opinion: Outcomes-Based Contracting Requires Not Just Accountability, but Partnership, How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top, and EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. "I don't think it's worth any amount of money" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear "discreetly" [10/10]
+### 1. Opinion: Outcomes-Based Contracting Requires Not Just Accountability, but Partnership [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+School districts are under increasing pressure to do more with less.
+
+Link: https://www.the74million.org/article/outcomes-based-contracting-requires-not-just-accountability-but-partnership/
+
+### 2. How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful posts In fewer than four months’ time, Ron DeSantis, Florida’s hard-right governor, will be termed out of office, and…
+
+Link: https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover
+
+### 3. EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Just over a month on from a consortium led by the Saudi Arabian government's Public Investment Fund taking over EA, in a buyout worth $55 billion , said new owners are reportedly considering merging the publishers with their existing…
+
+Link: https://www.rockpapershotgun.com/eas-saudi-arabian-owners-are-reportedly-considering-forming-an-ubermegacorp-by-merging-them-with-savvy-games
+
+### 4. Missouri UPS worker two weeks from retirement fatally struck by company vehicle [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Paul Roberts, who was employed by UPS for 44 years, was working at a customer care center when he was struck A longtime United Parcel Service (UPS) employee less than two weeks away from retiring was struck and killed by one of the…
+
+Link: https://www.theguardian.com/us-news/2026/sep/11/ups-worker-killed-on-job-weeks-before-retirement
+
+### 5. "I don't think it's worth any amount of money" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear "discreetly" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,25 +78,7 @@ The City of Miami Beach has approved negotiations with Rockstar Games for an upc
 
 Link: https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved
 
-### 2. JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vice-president dog-whistled, exaggerated claims of success and echoed Trump talking points to excited audience JD Vance made a clear pitch that he should be the heir to Donald Trump on Thursday night, closing out the Republicans ’ midterm…
-
-Link: https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention
-
-### 3. Anthropic details bad actors’ efforts to misuse its AI for bioweapons [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Report comes two days after former employee quit claiming company’s models could cause human extinction by 2030 Criminals, state-sponsored groups, spyware vendors, scientists and propagandists have attempted to use Anthropic’s powerful…
-
-Link: https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse
-
-### 4. LinkedIn beats "BrowserGate" lawsuits over scanning users' Chrome extensions [10/10]
+### 6. LinkedIn beats "BrowserGate" lawsuits over scanning users' Chrome extensions [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,34 +87,25 @@ Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.
 
 Link: https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/
 
-### 5. Schools are catching on to Big Tech’s playbook [10/10]
-**Source:** The Verge  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind.
-
-Link: https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids
-
-### 6. Victim families say it has ‘taken way too long’ to hold Saudi Arabia accountable for alleged support on 9/11 [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Terry Strada, whose husband was killed in the attacks, says she remains hopeful for justice as a lawsuit alleging Saudi support for the hijackers moves toward trial The leader of one group of 9/11 victims’ families says it has “taken way…
-
-Link: https://www.theguardian.com/us-news/2026/sep/10/9-11-victim-families-saudi-arabia
-
-### 7. Slack can now vibe-code interactive charts and reports inside chats [9/10]
-**Source:** The Verge  
+### 7. Claude users found ways around safeguards for bioweapons research [9/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat.
+Some dangerous biology looks much like legitimate research, complicating AI safeguards.
 
-Link: https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+Link: https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/
 
-### 8. Most Afterschool Programs Offer STEM Learning, But Rural Students Lack Access [9/10]
+### 8. 9/11 entrenched Islamophobia in US politics. But it doesn’t work the way you think | Moustafa Bayoumi [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Anti-Muslim sentiment is used as a political weapon.
+
+Link: https://www.theguardian.com/commentisfree/2026/sep/11/9-11-islamophobia-us-politics
+
+### 9. Most Afterschool Programs Offer STEM Learning, But Rural Students Lack Access [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,7 +114,7 @@ Most student programming after the final school bell offers science, technology,
 
 Link: https://www.the74million.org/article/most-afterschool-programs-offer-stem-learning-but-rural-students-lack-access/
 
-### 9. Ryan Murphy Assembles His A-Team in the Trailer for American Horror Story: 13 [9/10]
+### 10. Ryan Murphy Assembles His A-Team in the Trailer for American Horror Story: 13 [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -114,16 +123,16 @@ Will a clock strike 13? Will an elevator go to a mysterious 13th floor? Will the
 
 Link: https://reactormag.com/american-horror-story-13-trailer/
 
-### 10. Neil Young and the Chrome Hearts: Second Song review – shaky album occasionally strikes gold [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. ‘We Did Not Invite You.’ Citizens Rage at Town Hall Over Proposed Nuclear AI Data Center [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-(Reprise) The 80-year-old continues his tireless output, delving into the past for inspiration to variable results – though two lengthy brand-new songs are real showstoppers You can’t fault Neil Young for his industry.
+The University of Michigan is partnering with Los Alamos National Labs to build a massive data center in a small Michigan township. The residents say they were never consulted.
 
-Link: https://www.theguardian.com/music/2026/sep/11/neil-young-and-the-chrome-hearts-second-song-review-shaky-album-occasionally-strikes-gold
+Link: https://www.404media.co/we-did-not-invite-you-citizens-rage-at-town-hall-over-proposed-nuclear-ai-data-center/
 
-### 11. Former Anthropic researcher outlines threat of AI going rogue [8/10]
+### 12. Former Anthropic researcher outlines threat of AI going rogue [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -132,7 +141,7 @@ NPR's Scott Detrow talks with Jacob Coxon, a former researcher at the AI company
 
 Link: https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-outlines-threat-of-ai-going-rogue
 
-### 12. 'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims [7/10]
+### 13. 'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-o
 Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she'd face.
 
 Link: https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo
-
-### 13. Is a gas oven bad for bread?: Why a gas oven may be interfering with your go-to steaming method. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Adapted from King Arthur Baking Company’s Big Book of Bread The post Is a gas oven bad for bread?: Why a gas oven may be interfering with your go-to steaming method. appeared first on the King Arthur Blog .
-
-Link: https://www.kingarthurbaking.com/blog/2026/09/10/is-a-gas-oven-bad-for-bread
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Link: https://www.kingarthurbaking.com/blog/2026/09/10/is-a-gas-oven-bad-for-bre
 
 Link: https://www.youtube.com/watch?v=mOvtumfyjCs
 
-### The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile [9/10]
+### The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile [8/10]
 **Creator:** Computerphile  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 So far, 'Chain of Thought' has allowed us a glimpse at the processes by which Large Language Models work their way through problems.
@@ -188,9 +188,9 @@ Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s b
 
 Link: https://www.youtube.com/watch?v=86YsXFf1Chw
 
-### Anthropic researcher resigns, says AI companies are 'gambling with our lives' [9/10]
+### Anthropic researcher resigns, says AI companies are 'gambling with our lives' [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A researcher at the AI company Anthropic has resigned, warning the company’s work could have disastrous consequences.⁠ ⁠ Jacob Coxon, who worked at Anthropic and OpenAI, said he thinks AI companies are “gambling with our lives.
