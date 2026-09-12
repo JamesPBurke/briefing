@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-11T18:00:45.908776Z",
-  "generatedAtDisplay": "2026-09-11 02:00 PM EDT",
+  "generatedAt": "2026-09-12T05:00:03.965037Z",
+  "generatedAtDisplay": "2026-09-12 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Anthropic spent this week in hot water over cybersecurity, Report: How Gen-Z Views School and What a Sense of Belonging Means to Them, and Meta says it’s changing AI suggestions after posing invasive personal questions.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers, Man arrested over death of Mississippi woman found hanging from a tree, and Random rewards enrich classic game-theory insights.",
   "mainItems": [
+    {
+      "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "published": "2026-09-12T01:37:17+00:00",
+      "summary": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems Agents being tested by OpenAI uploaded hundreds of malicious packages in a cyberattack on software service RubyGems in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Man arrested over death of Mississippi woman found hanging from a tree",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/11/man-arrested-over-death-of-tasia-fortune",
+      "published": "2026-09-12T00:32:55+00:00",
+      "summary": "Police have arrested Jacques Ratliff and ruled the death of Tasia Fortune, a 29-year-old Black woman, as a homocide Police in Jackson, Mississippi, have arrested a man in the death of Tasia Fortune, a 29-year-old Black woman found hanging…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Random rewards enrich classic game-theory insights",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "published": "2026-09-11T21:41:16+00:00",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership",
+      "published": "2026-09-11T19:07:38+00:00",
+      "summary": "Last month, Sony argued that \"reasonable consumers\" already know they don't really own the digital goods they paid for .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "Anthropic spent this week in hot water over cybersecurity",
       "source": "The Verge",
@@ -17,43 +57,13 @@
       "score": 10
     },
     {
-      "title": "Report: How Gen-Z Views School and What a Sense of Belonging Means to Them",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/report-how-gen-z-views-school-and-what-a-sense-of-belonging-means-to-them/",
-      "published": "2026-09-11T16:30:00+00:00",
-      "summary": "When a 20-year-old New Yorker recently reflected on her high school experience, she said the things she learned weren’t “very helpful to where I am now.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "published": "2026-09-11T14:48:06+00:00",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Proposed Head Start Changes Could Cut Jobs, Raise Family Costs, Analysis Shows",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/proposed-head-start-changes-could-cut-jobs-raise-family-costs-analysis-shows/",
-      "published": "2026-09-11T14:30:00+00:00",
-      "summary": "A little over a month after the Trump administration debuted its proposal to dramatically reduce Head Start standards, a clearer picture is emerging of what those changes might mean for the 1,600 local programs across the country and the…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "From ‘Ozempic breath’ to hair loss: sorting the science from the hype about weight loss jabs",
+      "title": "I'm a pro chef – here's why this tiny knife sharpener belongs in the kitchen of any serious cook",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs",
-      "published": "2026-09-11T14:00:07+00:00",
-      "summary": "Do you gain weight once you stop using them? Do they make your face saggy? Can they improve your mental health? Experts explain whether 13 common beliefs about GLP-1s are true or false FALSE “GLP-1 medications mimic Glucagon-like peptide-1…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/11/horl-3-knife-sharpener-review",
+      "published": "2026-09-11T14:15:07+00:00",
+      "summary": "This sharpener is easy to use and does the job well enough to please a professional chef The seven best air fryers, tried and tested in a food lab Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things In…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -67,74 +77,64 @@
       "score": 10
     },
     {
-      "title": "Opinion: Outcomes-Based Contracting Requires Not Just Accountability, but Partnership",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/outcomes-based-contracting-requires-not-just-accountability-but-partnership/",
-      "published": "2026-09-11T12:30:00+00:00",
-      "summary": "School districts are under increasing pressure to do more with less.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
+      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover",
-      "published": "2026-09-11T12:00:04+00:00",
-      "summary": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful posts In less than four months’ time, Ron DeSantis, Florida’s hard-right governor, will be termed out of office, and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "published": "2026-09-10T20:55:29+00:00",
-      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "We unfolded the iPhone Duo",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-      "published": "2026-09-11T17:45:45+00:00",
-      "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+      "published": "2026-09-12T04:00:23+00:00",
+      "summary": "Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumbling A cataclysm. A 9.0 earthquake. A five-alarm fire.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Automattic’s Matt Mullenweg Claims He’s Back 'In Control'",
+      "title": "Proposed Head Start Changes Could Cut Jobs, Raise Family Costs, Analysis Shows",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/proposed-head-start-changes-could-cut-jobs-raise-family-costs-analysis-shows/",
+      "published": "2026-09-11T14:30:00+00:00",
+      "summary": "A little over a month after the Trump administration debuted its proposal to dramatically reduce Head Start standards, a clearer picture is emerging of what those changes might mean for the 1,600 local programs across the country and the…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Behind the Blog: How to Talk About AI Doom",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/automattic-matt-mullenweg-back-in-control/",
-      "published": "2026-09-11T16:33:12+00:00",
-      "summary": "Workers at Automattic, which owns WordPress.com and several other platforms, have said the company has endured years of chaotic leadership decisions.",
+      "url": "https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/",
+      "published": "2026-09-11T17:31:01+00:00",
+      "summary": "We discuss AI doomers, 9/11 posting, and Barbie.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Microsoft’s head of comms is leaving after almost 20 years",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
-      "published": "2026-09-11T16:01:34+00:00",
-      "summary": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
+      "published": "2026-09-11T15:34:51+00:00",
+      "summary": "The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
-      "title": "Former Anthropic researcher outlines threat of AI going rogue",
+      "title": "From DOGE to \"space lasers,\" Alex Gibney peels back the many layers of Elon Musk",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-outlines-threat-of-ai-going-rogue",
-      "published": "2026-09-11T01:00:14+00:00",
-      "summary": "NPR's Scott Detrow talks with Jacob Coxon, a former researcher at the AI company Anthropic who resigned in protest over the dangers of AI.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+      "published": "2026-09-11T09:00:00+00:00",
+      "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "Is The Uprising Really a Secret Robin Hood Movie?",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/uprising-robin-hood-movie-explained/",
+      "published": "2026-09-11T19:55:36+00:00",
+      "summary": "We finally have some answers to the strangest movie story of the year. Kind of... maybe The post Is The Uprising Really a Secret Robin Hood Movie? appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }
