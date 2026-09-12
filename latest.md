@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-12T09:00:28.061479Z
+Generated: 2026-09-12T14:00:03.467979Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp, What are we all playing this weekend?, and What we've been playing - "I don't think this is this game's biggest problem".
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are From socialist student to Trump proxy: the 25-year rise of Venezuela’s Delcy Rodríguez, ‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump, and What we've been playing - "I don't think this is this game's biggest problem".
 
 ## Briefing
 
@@ -33,23 +33,23 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp [10/10]
+### 1. From socialist student to Trump proxy: the 25-year rise of Venezuela’s Delcy Rodríguez [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change It was a week that left mathematicians reeling.
+Those who have encountered the interim president paint her in starkly different ways, but all agree she is likely to remain in power It was April 2002 and Delcy Rodríguez was a woman on a mission.
 
-Link: https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem
+Link: https://www.theguardian.com/world/2026/sep/12/venezuela-president-delcy-rodriguez-trump-rise-to-power
 
-### 2. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 2. ‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I’m a big fan of these September weekends where I wake up and my bedroom has neither the humidity nor the ambient temperature of an Eden Project rainforest-o-dome.
+What’s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories • Plus: The truth about my 11 days in the White House, by Anthony Scaramucci Gene Folkes ,…
 
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399
+Link: https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories
 
 ### 3. What we've been playing - "I don't think this is this game's biggest problem" [10/10]
 **Source:** Eurogamer  
@@ -60,16 +60,7 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem
 
-### 4. Call it the Miliband doctrine. Let’s hope the new Israeli settlement boycott is just the start | Steve Bloomfield [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This week’s move suggests that, even in the age of Trump, Britain will once again have an ‘ethical dimension’ to its foreign policy.
-
-Link: https://www.theguardian.com/commentisfree/2026/sep/12/miliband-doctrine-israeli-settlement-boycott-uk-foreign-policy
-
-### 5. Can chatbots feel – or even dream? Meet the man leading the fight for AI rights [10/10]
+### 4. Can chatbots feel – or even dream? Meet the man leading the fight for AI rights [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +69,7 @@ Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds a
 
 Link: https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights
 
-### 6. Random rewards enrich classic game-theory insights [10/10]
+### 5. Random rewards enrich classic game-theory insights [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,7 +78,7 @@ Simple games gain rich strategies in the face of noise.
 
 Link: https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/
 
-### 7. Anthropic spent this week in hot water over cybersecurity [10/10]
+### 6. Anthropic spent this week in hot water over cybersecurity [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,16 +87,34 @@ After admitting earlier this year that its AI models had hacked other companies'
 
 Link: https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity
 
-### 8. George W Bush’s impunity led to Trump’s lawlessness | Kenneth Roth [10/10]
+### 7. ‘Don’t I deserve a little grace?’: Lonnie Bunch on pressure from Trump and leaving the Smithsonian on his own terms [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The man who shepherded the creation of the National Museum for African American History and Culture discusses his tenure and interference from the White House “For the last two years, everything has implied getting rid of me,” Lonnie Bunch…
+
+Link: https://www.theguardian.com/culture/2026/sep/12/lonnie-bunch-smithsonian-resignation-trump
+
+### 8. Calls for investigation after video shows ICE officers using batons on protesters [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The reluctance of later administrations to repudiate Bush-era torture and endless detention laid the groundwork for recent violence If George W Bush’s abusive response to the September 11 attacks had been prosecuted rather than swept under…
+Residents in Frederick, Maryland, shaken after clashes as activists decry violence from officers as ‘unconscionable’ Political leaders in Maryland are calling for investigations into the conduct of Immigration and Customs Enforcement ( ICE…
 
-Link: https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump
+Link: https://www.theguardian.com/us-news/2026/sep/12/maryland-ice-protesters
 
-### 9. Proposed Head Start Changes Could Cut Jobs, Raise Family Costs, Analysis Shows [9/10]
+### 9. Why are the people building the most powerful AI so worried about what it could do? [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.
+
+Link: https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks
+
+### 10. Proposed Head Start Changes Could Cut Jobs, Raise Family Costs, Analysis Shows [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,16 +123,16 @@ A little over a month after the Trump administration debuted its proposal to dra
 
 Link: https://www.the74million.org/zero2eight/proposed-head-start-changes-could-cut-jobs-raise-family-costs-analysis-shows/
 
-### 10. Opinion: Outcomes-Based Contracting Requires Not Just Accountability, but Partnership [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 11. 'People are still afraid of those three letters': Fighting the stigma of HIV [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-School districts are under increasing pressure to do more with less.
+That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.
 
-Link: https://www.the74million.org/article/outcomes-based-contracting-requires-not-just-accountability-but-partnership/
+Link: https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma
 
-### 11. Behind the Blog: How to Talk About AI Doom [8/10]
+### 12. Behind the Blog: How to Talk About AI Doom [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.the74million.org/article/outcomes-based-contracting-requires-n
 We discuss AI doomers, 9/11 posting, and Barbie.
 
 Link: https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/
-
-### 12. As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths.
-
-Link: https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability
 
 ### 13. Is The Uprising Really a Secret Robin Hood Movie? [6/10]
 **Source:** Reactor  
@@ -170,9 +170,9 @@ So far, 'Chain of Thought' has allowed us a glimpse at the processes by which La
 
 Link: https://www.youtube.com/watch?v=iuHddnIzKRA
 
-### Sturdy Parenting Not Gentle Parenting [8/10]
+### Sturdy Parenting Not Gentle Parenting [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Uncanny Valley podcast ►► https://podcasts.
