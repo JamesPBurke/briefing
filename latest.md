@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-12T18:00:32.704985Z
+Generated: 2026-09-13T05:00:02.859830Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Mississippi police say more arrests to come in death of woman found hanging from tree, Anthropic CEO says it’s time to pump the brakes on AI, and LG responds to TV spying allegations.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Science / computing. The strongest items in this run are Anthropic CEO says it’s time to pump the brakes on AI, LG responds to TV spying allegations, and Breville Eye Q toaster review: a ‘revolutionary device’ that makes perfect toast without me trying.
 
 ## Briefing
 
@@ -33,16 +33,7 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Mississippi police say more arrests to come in death of woman found hanging from tree [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Officials still investigating death of Tasia Fortune, a Black woman, a day after man’s arrest in relation to killing Mississippi police said on Saturday they were still investigating the death of Tasia Fortune, a Black woman found hanging…
-
-Link: https://www.theguardian.com/us-news/2026/sep/12/mississippi-police-arrests-tasia-fortune-death-tree
-
-### 2. Anthropic CEO says it’s time to pump the brakes on AI [10/10]
+### 1. Anthropic CEO says it’s time to pump the brakes on AI [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +42,7 @@ Anthropic CEO Dario Amodei says the time has come to slow down AI development an
 
 Link: https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
 
-### 3. LG responds to TV spying allegations [10/10]
+### 2. LG responds to TV spying allegations [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,16 +51,16 @@ Earlier this week, Gamers Nexus, Level1Techs, and independent security researche
 
 Link: https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations
 
-### 4. Six Nigerians extradited to US over $6M online romance scam [10/10]
+### 3. Breville Eye Q toaster review: a ‘revolutionary device’ that makes perfect toast without me trying [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through…
+I toasted just about every kind of bread in Breville’s new Eye Q – and each slice came out perfectly toasted Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things It’s a centuries-old problem: how to…
 
-Link: https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams
+Link: https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review
 
-### 5. ‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump [10/10]
+### 4. ‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,25 +69,61 @@ What’s it like to be shown the door by the US president? A former national sec
 
 Link: https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories
 
-### 6. Can chatbots feel – or even dream? Meet the man leading the fight for AI rights [10/10]
+### 5. OpenAI’s rogue AI tried to hack another company in May [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
+
+### 6. Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
+
+### 7. I survived a stroke during an ocean swim. Here’s what I’ve learned about fear [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools.
+After his stroke in rough surf, Graham Russell embarked on an unexpected journey into fear.
 
-Link: https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights
+Link: https://www.theguardian.com/society/2026/sep/13/three-lessons-on-fear-suffering-stroke-during-an-ocean-swim
 
-### 7. Random rewards enrich classic game-theory insights [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 8. Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Simple games gain rich strategies in the face of noise.
+Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.
 
-Link: https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/
+Link: https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks
 
-### 8. Austin Mayor Releases Plan to Prevent Texas from Taking Over the School District [9/10]
+### 9. What are we all playing this weekend? [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I’m a big fan of these September weekends where I wake up and my bedroom has neither the humidity nor the ambient temperature of an Eden Project rainforest-o-dome.
+
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399
+
+### 10. Alaska drops cases against American Samoans who checked ‘US citizen’ on voter form [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Group no longer faces voter misconduct case over wrongly marked box after appeals court throws out felony charges Alaska prosecutors are dropping voter misconduct cases against a group of residents born in American Samoa after a state…
+
+Link: https://www.theguardian.com/us-news/2026/sep/12/alaska-drops-case-american-samoans-citizen-voting-form
+
+### 11. Austin Mayor Releases Plan to Prevent Texas from Taking Over the School District [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -104,33 +131,6 @@ Link: https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game
 In an effort to keep the Austin school district independent, Mayor Kirk Watson is pushing to close two chronically-failing middle schools that triggered the state’s takeover law. He’ll need parents’ help to do it.
 
 Link: https://www.the74million.org/article/austin-mayor-releases-plan-to-prevent-texas-from-taking-over-the-school-district/
-
-### 9. ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a…
-
-Link: https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown
-
-### 10. Calls for investigation after video shows ICE officers using batons on protesters [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Residents in Frederick, Maryland, shaken after clashes as activists decry violence from officers as ‘unconscionable’ Political leaders in Maryland are calling for investigations into the conduct of Immigration and Customs Enforcement ( ICE…
-
-Link: https://www.theguardian.com/us-news/2026/sep/12/maryland-ice-protesters
-
-### 11. Why are the people building the most powerful AI so worried about what it could do? [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.
-
-Link: https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks
 
 ### 12. 'People are still afraid of those three letters': Fighting the stigma of HIV [8/10]
 **Source:** NPR Health  
@@ -149,3 +149,196 @@ Link: https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma
 The planet’s radius may have shrunk by between four and six miles since it was formed due to global cooling, a contraction that is up to 30 percent larger than previously estimated.
 
 Link: https://www.404media.co/mercury-is-shrinking-way-faster-than-we-thought-scientists-discover/
+
+## YouTube
+
+### I Never Thought I’d See This Happen [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.
+
+Link: https://www.youtube.com/watch?v=mOvtumfyjCs
+
+### The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+So far, 'Chain of Thought' has allowed us a glimpse at the processes by which Large Language Models work their way through problems.
+
+Link: https://www.youtube.com/watch?v=iuHddnIzKRA
+
+### 'Ted Lasso' Cast Answer The 50 Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Hannah Waddingham (Rebecca Welton), Jason Sudeikis (Ted Lasso), Brendan Hunt (Coach Beard), Tanya Reynolds (Alice Chilton) and Jeremy Swift (Leslie Higgins) to answer the 50 most searched questions about _Ted Lasso.
+
+Link: https://www.youtube.com/watch?v=apcPejRT0Yc
+
+### Sturdy Parenting Not Gentle Parenting [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Uncanny Valley podcast ►► https://podcasts.
+
+Link: https://www.youtube.com/watch?v=-2J9A3gSl8E
+
+### Psychiatrist Fact Checks Mental Health Slop [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Psychiatrist Eric Bender as we fact check the internet, psychiatry edition. WIRED recommends: https://youtu.
+
+Link: https://www.youtube.com/watch?v=ShiMZkn7gso
+
+### Checking Out the Celtic Mythology ARPG Drova w/ Jack and Jesse [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=cYN5sWmgq20
+
+### The Dark Intent Behind Arcade.Gov | Unpacked [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this week's Unpacked, Nick digs into Arcade.gov. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=f87pfQTqx2s
+
+### Kojima Drama, Steam's Wild Leak, and Ocarina of Time Remake Thoughts | Firelink Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=BKn1S5BinFM
+
+### Life Is Chaos, and So Is the Dark Souls Randomizer w/ Jack and Jess -- Part 6 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=kxGhGcwxM4g
+
+### Yahtzee's Melee Combat Highway Code | Semi-Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=5BMv9b8JS5Q
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### You Can See Everything | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=GGJSRFWALTI
+
+### La Bola Negra | In Theaters October 16 [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Experience LA BOLA NEGRA on the big screen starting October 16. Featuring 35mm screenings and in-theater Q&As at select locations. Tickets on sale soon.
+
+Link: https://www.youtube.com/watch?v=giYV2mQsa3o
+
+### Sam Morril: Incorrect | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Sam Morril delivers savage laughs as he relives his worst one-night stand, compares famous assassinations and details an unorthodox rat extermination. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JARXfFDeFf8
+
+### BELOW | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s something in the water. Josh Hartnett, Charlie Heaton and Mackenzie Davis star in BELOW, a suspenseful new thriller set on the rugged coast of Newfoundland. Only on Netflix, October 8. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=U57CNxSgoss
+
+### Is It Cake? Halloween: Season 2 | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Six talented cake artists put their skills to the test as they whip up Halloween-themed cakes to trick the judges and claim the grand prize. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=E96wqnbhIgQ
+
+### Haunted Hotel: Season 2 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Abaddon returns! Haunted Hotel Season 2 debuts on October 9 only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=hXhrjlwL4vw
+
+### Dark Matter — The Official Podcast: Episode 203 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.
+
+Link: https://www.youtube.com/watch?v=WJjs6GeEibY
+
+### Silo — Juliette Negotiates with Troy [SPOILER WARNING] | Season 3 Finale Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=vhz-mexSNII
