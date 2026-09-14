@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-14T05:00:03.375205Z",
-  "generatedAtDisplay": "2026-09-14 01:00 AM EDT",
+  "generatedAt": "2026-09-14T09:00:16.365153Z",
+  "generatedAtDisplay": "2026-09-14 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever, Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA, and Missing US hiker, 70, found injured on remote island after week-long search.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline, Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank, and A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on.",
   "mainItems": [
+    {
+      "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "published": "2026-09-14T08:03:40+00:00",
+      "summary": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $107 a barrel after a series of drone attacks forced…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
+      "published": "2026-09-14T07:23:04+00:00",
+      "summary": "Report by Israeli human rights group says systematic and broad assault being waged on conditions required for Palestinians’ existence Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty",
+      "published": "2026-09-14T06:00:26+00:00",
+      "summary": "Run by a social enterprise, the six shops operate from shipping containers across Johannesburg’s Alexandra township and sell food and household goods by weight in small, affordable amounts Every morning, on her way to the laundry shop she…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever",
       "source": "The Guardian US",
@@ -17,24 +47,14 @@
       "score": 10
     },
     {
-      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
+      "title": "The US right still paints Muslims as the ‘enemy’. But they are fighting for a brighter future for Americans | Nesrine Malik",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-      "published": "2026-09-14T00:54:05+00:00",
-      "summary": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Missing US hiker, 70, found injured on remote island after week-long search",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued",
-      "published": "2026-09-13T23:12:29+00:00",
-      "summary": "Craig Berg was hypothermic but alert when located on Isle Royale by Michigan police and officials during solo hike A 70-year-old hiker who had been missing for a week on a Michigan island was rescued on Saturday, according to the US Coast…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani",
+      "published": "2026-09-14T05:00:24+00:00",
+      "summary": "Progressive politicians such as Zohran Mamdani offer answers to the bitter post-9/11 legacy of failures at home and abroad Twenty-five years after 9/11, two pieces of journalism, describing two different phenomena in contemporary New York,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity",
@@ -87,16 +107,6 @@
       "score": 9
     },
     {
-      "title": "JD Vance’s Catholicism could be at odds with Maga evangelicals in 2028",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
-      "published": "2026-09-13T18:56:09+00:00",
-      "summary": "Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and Catholics US vice-president JD Vance has worn his religion on his sleeve since converting to Catholicism in 2019.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year.",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -107,33 +117,23 @@
       "score": 9
     },
     {
-      "title": "Kamala Harris’s California home targeted by trespasser, officials say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser",
-      "published": "2026-09-13T15:08:58+00:00",
-      "summary": "Former vice-president and her husband were not home when person entered their property, no arrests were made Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
-      "published": "2026-09-13T16:16:16+00:00",
-      "summary": "Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined together that ditched its VR headset origins.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Research finds short bursts of vigorous movement are also beneficial for longevity",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5962891/research-finds-short-bursts-of-vigorous-movement-are-also-beneficial-for-longevity",
+      "published": "2026-09-14T08:43:58+00:00",
+      "summary": "When it comes to longevity, lots of research has shown how much you move matters. But a new study finds your pace may also be key -- even if you fall far short of daily step goals.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Black women are more likely to experience pregnancy trauma and have their pain ignored",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5944495/black-women-are-more-likely-to-experience-pregnancy-trauma-and-have-their-pain-ignored",
-      "published": "2026-09-13T12:04:21+00:00",
-      "summary": "Black mothers in the U.S. are three times as likely to die from pregnancy-related causes than white women. Actress Tatyana Ali became an advocate after her own awful experience giving birth.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/diablo-4-expansions-over",
+      "published": "2026-09-14T08:19:11+00:00",
+      "summary": "One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     }
   ],
@@ -159,9 +159,339 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Study: Very hot drinks could triple risk of esophageal cancer",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=M1Qy9SU1IhE",
+      "published": "2026-09-13T16:15:34+00:00",
+      "summary": "According to a large new study, drinking beverages at very hot temperatures on a regular basis could raise the risk of developing cancer of the esophagus.⁠ ⁠ The study followed nearly a million tea and coffee drinkers across the U.K.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump administration resumes work on barrier to stop invasive carp after call from Whitmer",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=KtGTehodIMc",
+      "published": "2026-09-13T13:45:27+00:00",
+      "summary": "The Trump administration says it is restarting work on a barrier to keep invasive carp from reaching the Great Lakes after abruptly halting the construction a few months ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "TSA brings back gate access for people without plane tickets",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=-8pcaMWDK_o",
+      "published": "2026-09-12T16:20:33+00:00",
+      "summary": "The TSA is piloting an airport program that allows passholders to see friends and family off at the gate, rolling back some of the restrictions put into place after the 9/11 attacks.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "U.S. marks 25th anniversary of the 9/11 terrorist attacks",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=pAMgM6HiojE",
+      "published": "2026-09-11T16:15:24+00:00",
+      "summary": "A moment of silence was held at 8:46 at ground zero this morning in New York City as the nation observes 25 years since the Sept. 11 terrorist attacks.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Witcher 3 Remastered: Proof That The RED Engine Is Coming Back?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=caGmFO9-NXc",
+      "published": "2026-09-13T16:00:38+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/-LLlJ_ICQsQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "DLSS 5 Verdict: Selectively Impressive - But First Gen Tech Can Only Do So Much",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Ancsa3YWQ4M",
+      "published": "2026-09-13T15:00:21+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/XAt63dB1hdI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "We Weren't Looking Forward To State Of Decay 3... Until We Played It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=UBZ8t11ggoQ",
+      "published": "2026-09-12T16:00:26+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/s3HuIFUO3d8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Are We Wrong About The Next-Gen PlayStation Handheld Not Running Native PS5 Games?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=m24LI3lCP7g",
+      "published": "2026-09-12T15:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/PdRVqDx6DyQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "DLSS 5 Modding Tests: What Have We Learned About Its Strengths/Weaknesses?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=VyK4QE2G9_M",
+      "published": "2026-09-11T17:00:10+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/XAt63dB1hdI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Switch 2: Should Nintendo Add A System-Level 30FPS Cap Option?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=rnMI15lQyOg",
+      "published": "2026-09-11T16:00:28+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/PdRVqDx6DyQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Come Fight Us in Granblue Fantasy Versus: Rising | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=1pEfhS9jSdI",
+      "published": "2026-09-13T18:41:57+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Checking Out the Celtic Mythology ARPG Drova w/ Jack and Jesse",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=cYN5sWmgq20",
+      "published": "2026-09-11T19:12:30+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Dark Intent Behind Arcade.Gov | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=f87pfQTqx2s",
+      "published": "2026-09-11T15:00:59+00:00",
+      "summary": "In this week's Unpacked, Nick digs into Arcade.gov. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
+    {
+      "title": "Whatever it takes. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mYeCHJmSrtI",
+      "published": "2026-09-10T22:38:20+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "No room for error. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=HhGWSRspCmE",
+      "published": "2026-09-09T01:51:11+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=2znSbIEyfic",
+      "published": "2026-09-04T16:20:52+00:00",
+      "summary": "Zach Cregger hosted the first ever live in-person Reddit AMA featuring a screening of the first 30 minutes of the movie in Los Angeles - simulcast in New York and Dallas. 700+ fans. 150+ creators. Three cities.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
+      "published": "2026-08-26T21:00:09+00:00",
+      "summary": "The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | Official Trailer | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
+      "published": "2026-09-10T16:00:23+00:00",
+      "summary": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "You Can See Everything | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GGJSRFWALTI",
+      "published": "2026-09-07T00:30:04+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "All of a Sudden - Official Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=2AxtdPvDojA",
+      "published": "2026-09-10T16:01:14+00:00",
+      "summary": "Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Artificial - Official Teaser Trailer - In Theaters Christmas Day",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=rDZplZFnbOk",
+      "published": "2026-09-08T15:00:25+00:00",
+      "summary": "A film by Luca Guadagnino. Starring Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, Cooper Hoffman, Jason Schwartzman, and Mark Rylance. In select theaters Christmas Day.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Unknown - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=vJ3vIzWzFno",
+      "published": "2026-09-04T16:12:27+00:00",
+      "summary": "David is a Parisian photographer. Something of a loner, he becomes curious about a young woman he encounters on an assignment. That night, at a drug-fueled party, David locks eyes with her across the room and follows her.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Once Upon a Time in Harlem - Official Trailer - In Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
+      "published": "2026-09-03T16:00:17+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fjord - Official Trailer - In Theaters October 9",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=frg59VOungA",
+      "published": "2026-08-27T16:00:28+00:00",
+      "summary": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It Ends- Final Trailer - Now Playing Only in Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=9k7jckaHeuA",
+      "published": "2026-08-25T16:00:37+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INFIRMARY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gN1LMAwyvGY",
+      "published": "2026-09-10T17:00:03+00:00",
+      "summary": "A rookie security guard named Edward works his first night shift at the crumbling, abandoned Wilshire psychiatric hospital and uncovers terrifying, unexplainable forces. INFIRMARY drops October 2 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MARAMA | Official Trailer | SHUDDER",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=KOlD0A1mlmE",
+      "published": "2026-09-03T16:47:07+00:00",
+      "summary": "A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GOODY GOODY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
+      "published": "2026-08-27T18:00:17+00:00",
+      "summary": "A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Last Kiss | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lAKtuOVkAgU",
+      "published": "2026-09-10T19:03:09+00:00",
+      "summary": "Hunting a serial killer through prophetic kisses. Romantic.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Money Trap: The Karun Treasure | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=bCxYPFYb_zU",
+      "published": "2026-09-14T07:00:00+00:00",
+      "summary": "Where’s the map? Where’s the money? Money Trap: The Karun Treasure, only on Netflix on October 16. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
     {
       "title": "La Bola Negra | In Theaters October 16",
       "source": "Netflix",
@@ -207,12 +537,23 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Haunted Hotel: Season 2 | Official Teaser | Netflix",
-      "source": "Netflix",
+      "title": "Dark Matter — The Box is Back | Season 2 Scene | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=hXhrjlwL4vw",
-      "published": "2026-09-09T15:00:00+00:00",
-      "summary": "Abaddon returns! Haunted Hotel Season 2 debuts on October 9 only on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=qJBCWLtE8F0",
+      "published": "2026-09-13T16:59:51+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Episode 203 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=WJjs6GeEibY",
+      "published": "2026-09-11T00:59:54+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -329,8 +670,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 2,
-    "trailerCount": 5,
-    "sourceCount": 8
+    "youtubeCount": 15,
+    "trailerCount": 23,
+    "sourceCount": 18
   }
 }
