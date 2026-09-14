@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-13T18:00:33.726515Z
+Generated: 2026-09-14T05:00:03.375205Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year., Kamala Harris’s California home targeted by trespasser, officials say, and ‘But enough about you …’ How to survive in a world of monologuists, interrupters and trauma dumpers.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever, Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA, and Missing US hiker, 70, found injured on remote island after week-long search.
 
 ## Briefing
 
@@ -33,97 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year. [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-All summer, Dr. Marvia Jones worried over the data.
-
-Link: https://www.the74million.org/article/kids-are-back-in-classrooms-health-misinformation-could-shape-the-school-year/
-
-### 2. Kamala Harris’s California home targeted by trespasser, officials say [10/10]
+### 1. ‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Former vice-president and her husband were not home when person entered their property, no arrests were made Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu…
+Call Me Maybe made the singer-songwriter famous – but also confused.
 
-Link: https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser
+Link: https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever
 
-### 3. ‘But enough about you …’ How to survive in a world of monologuists, interrupters and trauma dumpers [10/10]
+### 2. Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Conversations are supposed to be two-sided – but all too often we come up against someone who’s passionately, exclusively in love with the sound of their own voice.
+Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations
+Link: https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb
 
-### 4. The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more [10/10]
+### 3. Missing US hiker, 70, found injured on remote island after week-long search [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for conservation globally I have to confess that I rarely enjoy birding in montane cloud forests.
+Craig Berg was hypothermic but alert when located on Isle Royale by Michigan police and officials during solo hike A 70-year-old hiker who had been missing for a week on a Michigan island was rescued on Saturday, according to the US Coast…
 
-Link: https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe
+Link: https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued
 
-### 5. I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it. [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 4. The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-The manufacturer has a service that lets owners repair their own equipment.
+A bloated ballroom, a six-storey military HQ, a helipad-cum-cocktail patio, a gilded angel on a giant arch honouring himself … our architecture critic deplores the decorator-in-chief’s mutilation of Washington When you have a developer as…
 
-Link: https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/
+Link: https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity
 
-### 6. Opinion: ‘Responsive Teaching’ Has Never Been More Important, or Harder [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-I once walked into a second-grade classroom where the teacher, Mrs. Johnson, was introducing a new concept. Within a few minutes she knew where every one of her students stood.
-
-Link: https://www.the74million.org/article/responsive-teaching-has-never-been-more-important-or-harder/
-
-### 7. Waymo pulls over, calls cops on riders with a ghost gun [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them.
-
-Link: https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun
-
-### 8. OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development [9/10]
+### 5. Alexander Zverev claims first US Open after four-set battle with Ben Shelton [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman…
+No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton.
 
-Link: https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development
+Link: https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton
 
-### 9. ‘Trump accounts’ promise to mint child millionaires. Experts have their doubts [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 6. AI CEOs call for industry slowdown [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-President has hyped growth of federal investment accounts to help US children – for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding…
+Anthropic's Dario Amodei and OpenAI's Sam Altman are joining calls for a slowdown amid fears the AI industry is racing toward building technology that humans can't control.
 
-Link: https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth
+Link: https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown
 
-### 10. Religious Vance seeks to avoid Maga schism as he keeps the faith for 2028 [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and Catholics US vice-president JD Vance has worn his religion on his sleeve since converting to the Catholicism in 2019.
-
-Link: https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga
-
-### 11. OpenAI’s rogue AI tried to hack another company in May [9/10]
+### 7. OpenAI’s rogue AI tried to hack another company in May [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -132,14 +96,50 @@ In May, hundreds of malicious and spam packages were uploaded to RubyGems, causi
 
 Link: https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
 
-### 12. Could AI kill us all? Professor weighs in on former Anthropic employee's claim [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 8. Trump and Mike Johnson think the AI industry is overreacting [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-NPR's Ayesha Rascoe asks University of Southampton's Thomas Dekeyser about worries AI is becoming fatally out of control.
+Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X.
 
-Link: https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim
+Link: https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
+
+### 9. JD Vance’s Catholicism could be at odds with Maga evangelicals in 2028 [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and Catholics US vice-president JD Vance has worn his religion on his sleeve since converting to Catholicism in 2019.
+
+Link: https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga
+
+### 10. Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year. [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+All summer, Dr. Marvia Jones worried over the data.
+
+Link: https://www.the74million.org/article/kids-are-back-in-classrooms-health-misinformation-could-shape-the-school-year/
+
+### 11. Kamala Harris’s California home targeted by trespasser, officials say [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Former vice-president and her husband were not home when person entered their property, no arrests were made Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu…
+
+Link: https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser
+
+### 12. Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined together that ditched its VR headset origins.
+
+Link: https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games
 
 ### 13. Black women are more likely to experience pregnancy trauma and have their pain ignored [8/10]
 **Source:** NPR Health  
@@ -149,3 +149,97 @@ Link: https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professo
 Black mothers in the U.S. are three times as likely to die from pregnancy-related causes than white women. Actress Tatyana Ali became an advocate after her own awful experience giving birth.
 
 Link: https://www.npr.org/2026/09/13/nx-s1-5944495/black-women-are-more-likely-to-experience-pregnancy-trauma-and-have-their-pain-ignored
+
+## YouTube
+
+### 'Ted Lasso' Cast Answer The 50 Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Hannah Waddingham (Rebecca Welton), Jason Sudeikis (Ted Lasso), Brendan Hunt (Coach Beard), Tanya Reynolds (Alice Chilton) and Jeremy Swift (Leslie Higgins) to answer the 50 most searched questions about _Ted Lasso.
+
+Link: https://www.youtube.com/watch?v=apcPejRT0Yc
+
+### Sturdy Parenting Not Gentle Parenting [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Clinical psychologist Dr. Becky Kennedy joins WIRED to answer the internet’s burning questions about parenting. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Uncanny Valley podcast ►► https://podcasts.
+
+Link: https://www.youtube.com/watch?v=-2J9A3gSl8E
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### La Bola Negra | In Theaters October 16 [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Experience LA BOLA NEGRA on the big screen starting October 16. Featuring 35mm screenings and in-theater Q&As at select locations. Tickets on sale soon.
+
+Link: https://www.youtube.com/watch?v=giYV2mQsa3o
+
+### Sam Morril: Incorrect | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Sam Morril delivers savage laughs as he relives his worst one-night stand, compares famous assassinations and details an unorthodox rat extermination. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JARXfFDeFf8
+
+### BELOW | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s something in the water. Josh Hartnett, Charlie Heaton and Mackenzie Davis star in BELOW, a suspenseful new thriller set on the rugged coast of Newfoundland. Only on Netflix, October 8. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=U57CNxSgoss
+
+### Is It Cake? Halloween: Season 2 | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Six talented cake artists put their skills to the test as they whip up Halloween-themed cakes to trick the judges and claim the grand prize. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=E96wqnbhIgQ
+
+### Haunted Hotel: Season 2 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Abaddon returns! Haunted Hotel Season 2 debuts on October 9 only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=hXhrjlwL4vw
