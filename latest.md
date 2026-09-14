@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-14T09:00:16.365153Z
+Generated: 2026-09-14T14:00:03.409192Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline, Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank, and A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Science / computing. The strongest items in this run are In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game, Roblox plan to grow their absurd gaming empire even further by letting devs release games as "standalone apps", potentially via Steam, Epic, and GOG, and AI industry leaders call for development to slow down after recent safety concerns.
 
 ## Briefing
 
@@ -33,16 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline [10/10]
+### 1. In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Blizzard has revealed more tangible details about what the new StarCraft game actually is, beyond it being an open-world shooter due for release in 2030.
+
+Link: https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service
+
+### 2. Roblox plan to grow their absurd gaming empire even further by letting devs release games as "standalone apps", potentially via Steam, Epic, and GOG [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Not content with pulling in daily active user counts roughly equivalent to the population of Japan, game creation platform Roblox are planning to let developers release their games "as standalone apps across mobile, PC, and consoles, with…
+
+Link: https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog
+
+### 3. AI industry leaders call for development to slow down after recent safety concerns [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+After a string of security-related incidents involving AI agents and a high-profile resignation, AI industry leaders appear poised to slow down the pace of development to make sure it stays safe.
+
+Link: https://www.npr.org/2026/09/14/nx-s1-5968079/ai-industry-leaders-call-for-development-to-slow-down-after-recent-safety-concerns
+
+### 4. Superintendent Churn Comes With a Cost for Students [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Compton, California Fifteen years ago, the challenge of leading the Compton Unified School District would have scared off even the most confident education leader. Darin Brawley almost passed it over.
+
+Link: https://www.the74million.org/article/exclusive-districts-with-steady-leadership-see-better-student-performance/
+
+### 5. Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: "We want to convey confidence in some of our biggest bets" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away.
+
+Link: https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5
+
+### 6. UK ministers urged to act after US flies out diplomat accused of possessing indecent images of children [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $107 a barrel after a series of drone attacks forced…
+US officials reportedly raided envoy’s London home and took him to American airbase without warning Met police UK politics live – latest updates British ministers face calls to act after US authorities secretly flew out of the UK a…
 
-Link: https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline
+Link: https://www.theguardian.com/politics/2026/sep/14/ministers-us-diplomat-accused-indecent-images-children-uk
 
-### 2. Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank [10/10]
+### 7. Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,25 +96,43 @@ Report by Israeli human rights group says systematic and broad assault being wag
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report
 
-### 3. A spoonful of sugar: how South Africa’s weigh-and-pay shops are tackling ‘poverty tax’ head on [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. The four-hour-long Elon Musk documentary might be preaching to the choir [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Run by a social enterprise, the six shops operate from shipping containers across Johannesburg’s Alexandra township and sell food and household goods by weight in small, affordable amounts Every morning, on her way to the laundry shop she…
+It makes sense that Musk is a long film.
 
-Link: https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty
+Link: https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026
 
-### 4. ‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Microsoft says ‘people matter more than AI’ following safety concerns [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Call Me Maybe made the singer-songwriter famous – but also confused.
+Microsoft is publishing a 37-page "humanist AI code of conduct" today, amid growing safety concerns over AI model progress.
 
-Link: https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever
+Link: https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct
 
-### 5. The US right still paints Muslims as the ‘enemy’. But they are fighting for a brighter future for Americans | Nesrine Malik [9/10]
+### 10. The Download: AI’s real extinction threat and age-reversal tech for eyes [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/
+
+### 11. NPR looked for ChatGPT's new crisis feature. It's hard to find [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Earlier this year, OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis.
+
+Link: https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it
+
+### 12. The US right still paints Muslims as the ‘enemy’. But they are fighting for a brighter future for Americans | Nesrine Malik [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -78,7 +141,7 @@ Progressive politicians such as Zohran Mamdani offer answers to the bitter post-
 
 Link: https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani
 
-### 6. The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity [9/10]
+### 13. The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -86,69 +149,6 @@ Link: https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-isl
 A bloated ballroom, a six-storey military HQ, a helipad-cum-cocktail patio, a gilded angel on a giant arch honouring himself … our architecture critic deplores the decorator-in-chief’s mutilation of Washington When you have a developer as…
 
 Link: https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity
-
-### 7. Alexander Zverev claims first US Open after four-set battle with Ben Shelton [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton.
-
-Link: https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton
-
-### 8. AI CEOs call for industry slowdown [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Anthropic's Dario Amodei and OpenAI's Sam Altman are joining calls for a slowdown amid fears the AI industry is racing toward building technology that humans can't control.
-
-Link: https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown
-
-### 9. OpenAI’s rogue AI tried to hack another company in May [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
-
-### 10. Trump and Mike Johnson think the AI industry is overreacting [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
-
-### 11. Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year. [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-All summer, Dr. Marvia Jones worried over the data.
-
-Link: https://www.the74million.org/article/kids-are-back-in-classrooms-health-misinformation-could-shape-the-school-year/
-
-### 12. Research finds short bursts of vigorous movement are also beneficial for longevity [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-When it comes to longevity, lots of research has shown how much you move matters. But a new study finds your pace may also be key -- even if you fall far short of daily step goals.
-
-Link: https://www.npr.org/2026/09/14/nx-s1-5962891/research-finds-short-bursts-of-vigorous-movement-are-also-beneficial-for-longevity
-
-### 13. Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 .
-
-Link: https://www.eurogamer.net/diablo-4-expansions-over
 
 ## YouTube
 
@@ -260,6 +260,15 @@ Link: https://www.youtube.com/watch?v=VyK4QE2G9_M
 
 Link: https://www.youtube.com/watch?v=rnMI15lQyOg
 
+### The Etiquette of Remakes | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=K0nzeej-qIk
+
 ### Come Fight Us in Granblue Fantasy Versus: Rising | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -369,6 +378,15 @@ Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
 SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.
 
 Link: https://www.youtube.com/watch?v=GGJSRFWALTI
+
+### Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
+
+Link: https://www.youtube.com/watch?v=WMjGxEqK9lQ
 
 ### All of a Sudden - Official Trailer - In Theaters November [8/10]
 **Source:** NEON  
