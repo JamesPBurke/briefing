@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-14T18:00:24.165437Z
+Generated: 2026-09-15T05:00:02.480744Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Tech / media. The strongest items in this run are Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says, Apple releases iOS 27 with Siri AI overhaul, and Ex-CIA director John Brennan subpoenaed in Trump ‘grand conspiracy’ investigation.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Gavin Newsom says he will not run for president in 2028 if Kamala Harris does, Ukraine war briefing: No energy ceasefire until Russia stops, Zelenskyy confirms after Trump claim, and Mitch McConnell returns to Senate after months-long absence.
 
 ## Briefing
 
@@ -33,34 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says [10/10]
+### 1. Gavin Newsom says he will not run for president in 2028 if Kamala Harris does [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Office of inspector general’s report says practice at Florida immigration jail is not aligned with ‘humane treatment’ Before the facility was shuttered , detainees at Florida ’s “Alligator Alcatraz” federal immigration jail were frequently…
+In interview, term-limited California governor said running against former VP would ‘waste everybody’s time’ Gavin Newsom, the California governor, will not run for president if former vice-president Kamala Harris does, he said in a…
 
-Link: https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report
+Link: https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris
 
-### 2. Apple releases iOS 27 with Siri AI overhaul [10/10]
+### 2. Ukraine war briefing: No energy ceasefire until Russia stops, Zelenskyy confirms after Trump claim [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Moscow would need to commit ‘honestly and on a long-term basis’ to peace before Kyiv would de-escalate.
+
+Link: https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim
+
+### 3. Mitch McConnell returns to Senate after months-long absence [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The 84-year-old said he was prepared to cast his first vote after rampant speculation about his health Mitch McConnell, the former Republican Senate majority leader, returned to the Capitol on Monday and cast his first vote after a…
+
+Link: https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate
+
+### 4. Is Big Tech’s AI slowdown a safety pact or a cartel? [10/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates.
+When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately.
 
-Link: https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update
+Link: https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
 
-### 3. Ex-CIA director John Brennan subpoenaed in Trump ‘grand conspiracy’ investigation [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 5. GTA 6's first confirmed actor is King of the Hill's Stephen Root: "It's an amazing thing to look at" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Subpoena is among a flurry issued in recent weeks as part of DoJ inquiry into alleged conspiracy against Trump The former CIA director John Brennan has been subpoenaed to testify next month before a Florida grand jury as part of a…
+Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more
 
-Link: https://www.theguardian.com/us-news/2026/sep/14/john-brennan-cia-subpoena
+Link: https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root
 
-### 4. Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots [10/10]
+### 6. "We track every server you enter": the Wardogs devs are "coming down hard" on XP farms and cash exploits, even as they encourage people to grind [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+The creators of military shooter Wardogs have announced that they will crack down heavily on players who use exploits and bugs to speedily farm in-game currency and XP, or who spend “more than a few minutes” in servers created for this…
+
+Link: https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind
+
+### 7. Opinion: Schools Should Help Students Navigate AI, Not Ban It [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+“Today we will be writing an in-class essay.” It was fourth period English class, and the high school student was shaking, looking at the blank screen as the teacher explained the surprise exam.
+
+Link: https://www.the74million.org/article/schools-should-help-students-navigate-ai-not-ban-it/
+
+### 8. A roundtable on the rapid acceleration of AI [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+AI companies this weekend pushed out a new message: They want to slow down. This comes after several companies disclosed AI-related security incidents and raised concerns about the technology's future risks.
+
+Link: https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai
+
+### 9. New York Seizes 12 Celebrity Deepfake Websites [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+New York District Attorney Alvin Bragg said in a press conference on Monday that the sites included 1,200 people’s likenesses in “hyper-realistic” sexual imagery.
+
+Link: https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/
+
+### 10. Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,16 +123,7 @@ In the last school year, the national student-to-school counselor ratio improved
 
 Link: https://www.the74million.org/article/amid-shortage-of-counselors-students-need-stronger-networks-not-more-chatbots/
 
-### 5. Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media.
-
-Link: https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/
-
-### 6. I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner [10/10]
+### 11. I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -87,43 +132,7 @@ We must stop companies from allowing AI to self-improve into an uncontrollable l
 
 Link: https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings
 
-### 7. Superintendent Churn Comes With a Cost for Students [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Compton, Calif. — Fifteen years ago, the challenge of leading the Compton Unified School District would have scared off even the most confident education leader. Darin Brawley almost passed it over.
-
-Link: https://www.the74million.org/article/exclusive-districts-with-steady-leadership-see-better-student-performance/
-
-### 8. Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Report by Israeli human rights group says systematic and broad assault being waged on conditions required for Palestinians’ existence Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian…
-
-Link: https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report
-
-### 9. Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’ [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series "built for kids who want to feel a little edge," and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer…
-
-Link: https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven
-
-### 10. AI industry leaders call for development to slow down after recent safety concerns [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-After a string of security-related incidents involving AI agents and a high-profile resignation, AI industry leaders appear poised to slow down the pace of development to make sure it stays safe.
-
-Link: https://www.npr.org/2026/09/14/nx-s1-5968079/ai-industry-leaders-call-for-development-to-slow-down-after-recent-safety-concerns
-
-### 11. NPR looked for ChatGPT's new crisis feature. It's hard to find [9/10]
+### 12. NPR looked for ChatGPT's new crisis feature. It's hard to find [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,20 +141,46 @@ Earlier this year, OpenAI launched a feature on ChatGPT meant to help people at 
 
 Link: https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it
 
-### 12. The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 13. Crystal Lake Trailer Raises a Question: Is This a Friday the 13th Prequel or a Reboot? [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-A bloated ballroom, a six-storey military HQ, a helipad-cum-cocktail patio, a gilded angel on a giant arch honouring himself … our architecture critic deplores the decorator-in-chief’s mutilation of Washington When you have a developer as…
+Still doing the slowed-down, overly-on-the-nose songs, I see The post Crystal Lake Trailer Raises a Question: Is This a Friday the 13th Prequel or a Reboot? appeared first on Reactor .
 
-Link: https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity
+Link: https://reactormag.com/crystal-lake-trailer-timeline-explaine/
 
-### 13. MAGA Is Exploiting the Lindsay Clancy Case to Try to End Voting for Women [8/10]
-**Source:** The Nation  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+## YouTube
 
-Jeet Heer As Trump subverts elections, his most ardent fans want to overturn the 19th Amendment. The post MAGA Is Exploiting the Lindsay Clancy Case to Try to End Voting for Women appeared first on The Nation .
+_No YouTube picks in this briefing._
 
-Link: https://www.thenation.com/article/politics/lindsay-clancy-women-vote-19th-amendment/
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

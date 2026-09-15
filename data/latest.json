@@ -1,40 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-14T18:00:24.165437Z",
-  "generatedAtDisplay": "2026-09-14 02:00 PM EDT",
+  "generatedAt": "2026-09-15T05:00:02.480744Z",
+  "generatedAtDisplay": "2026-09-15 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Tech / media. The strongest items in this run are Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says, Apple releases iOS 27 with Siri AI overhaul, and Ex-CIA director John Brennan subpoenaed in Trump ‘grand conspiracy’ investigation.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Gavin Newsom says he will not run for president in 2028 if Kamala Harris does, Ukraine war briefing: No energy ceasefire until Russia stops, Zelenskyy confirms after Trump claim, and Mitch McConnell returns to Senate after months-long absence.",
   "mainItems": [
     {
-      "title": "Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says",
+      "title": "Gavin Newsom says he will not run for president in 2028 if Kamala Harris does",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report",
-      "published": "2026-09-14T17:43:02+00:00",
-      "summary": "Office of inspector general’s report says practice at Florida immigration jail is not aligned with ‘humane treatment’ Before the facility was shuttered , detainees at Florida ’s “Alligator Alcatraz” federal immigration jail were frequently…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
+      "published": "2026-09-15T01:34:57+00:00",
+      "summary": "In interview, term-limited California governor said running against former VP would ‘waste everybody’s time’ Gavin Newsom, the California governor, will not run for president if former vice-president Kamala Harris does, he said in a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "title": "Ukraine war briefing: No energy ceasefire until Russia stops, Zelenskyy confirms after Trump claim",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim",
+      "published": "2026-09-15T01:15:05+00:00",
+      "summary": "Moscow would need to commit ‘honestly and on a long-term basis’ to peace before Kyiv would de-escalate.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Mitch McConnell returns to Senate after months-long absence",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
+      "published": "2026-09-15T00:19:30+00:00",
+      "summary": "The 84-year-old said he was prepared to cast his first vote after rampant speculation about his health Mitch McConnell, the former Republican Senate majority leader, returned to the Capitol on Monday and cast his first vote after a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "published": "2026-09-14T17:33:22+00:00",
-      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "published": "2026-09-14T23:46:01+00:00",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Ex-CIA director John Brennan subpoenaed in Trump ‘grand conspiracy’ investigation",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/john-brennan-cia-subpoena",
-      "published": "2026-09-14T16:52:17+00:00",
-      "summary": "Subpoena is among a flurry issued in recent weeks as part of DoJ inquiry into alleged conspiracy against Trump The former CIA director John Brennan has been subpoenaed to testify next month before a Florida grand jury as part of a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "published": "2026-09-14T19:04:43+00:00",
+      "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
+    },
+    {
+      "title": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
+      "published": "2026-09-14T19:00:00+00:00",
+      "summary": "The creators of military shooter Wardogs have announced that they will crack down heavily on players who use exploits and bugs to speedily farm in-game currency and XP, or who spend “more than a few minutes” in servers created for this…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Schools Should Help Students Navigate AI, Not Ban It",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/schools-should-help-students-navigate-ai-not-ban-it/",
+      "published": "2026-09-14T18:30:00+00:00",
+      "summary": "“Today we will be writing an in-class essay.” It was fourth period English class, and the high school student was shaking, looking at the blank screen as the teacher explained the surprise exam.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "A roundtable on the rapid acceleration of AI",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai",
+      "published": "2026-09-14T20:34:25+00:00",
+      "summary": "AI companies this weekend pushed out a new message: They want to slow down. This comes after several companies disclosed AI-related security incidents and raised concerns about the technology's future risks.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "New York Seizes 12 Celebrity Deepfake Websites",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/",
+      "published": "2026-09-14T17:26:37+00:00",
+      "summary": "New York District Attorney Alvin Bragg said in a press conference on Monday that the sites included 1,200 people’s likenesses in “hyper-realistic” sexual imagery.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots",
@@ -44,17 +104,7 @@
       "published": "2026-09-14T14:30:00+00:00",
       "summary": "In the last school year, the national student-to-school counselor ratio improved by a meager 1% — from 376 to 372 students per counselor. That’s progress.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-      "published": "2026-09-14T14:22:43+00:00",
-      "summary": "Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
@@ -64,46 +114,6 @@
       "published": "2026-09-14T12:00:59+00:00",
       "summary": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Superintendent Churn Comes With a Cost for Students",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/exclusive-districts-with-steady-leadership-see-better-student-performance/",
-      "published": "2026-09-14T10:30:00+00:00",
-      "summary": "Compton, Calif. — Fifteen years ago, the challenge of leading the Compton Unified School District would have scared off even the most confident education leader. Darin Brawley almost passed it over.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
-      "published": "2026-09-14T07:23:04+00:00",
-      "summary": "Report by Israeli human rights group says systematic and broad assault being waged on conditions required for Palestinians’ existence Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-      "published": "2026-09-14T16:48:46+00:00",
-      "summary": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "AI industry leaders call for development to slow down after recent safety concerns",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968079/ai-industry-leaders-call-for-development-to-slow-down-after-recent-safety-concerns",
-      "published": "2026-09-14T10:50:33+00:00",
-      "summary": "After a string of security-related incidents involving AI agents and a high-profile resignation, AI industry leaders appear poised to slow down the pace of development to make sure it stays safe.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -117,23 +127,13 @@
       "score": 9
     },
     {
-      "title": "The desecration of DC: from a giant arch to a nuke-proof bunker, Trump’s legacy-building blingfest is an architectural atrocity",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity",
-      "published": "2026-09-14T04:00:21+00:00",
-      "summary": "A bloated ballroom, a six-storey military HQ, a helipad-cum-cocktail patio, a gilded angel on a giant arch honouring himself … our architecture critic deplores the decorator-in-chief’s mutilation of Washington When you have a developer as…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "MAGA Is Exploiting the Lindsay Clancy Case to Try to End Voting for Women",
-      "source": "The Nation",
-      "category": "Security / computing",
-      "url": "https://www.thenation.com/article/politics/lindsay-clancy-women-vote-19th-amendment/",
-      "published": "2026-09-14T13:52:51+00:00",
-      "summary": "Jeet Heer As Trump subverts elections, his most ardent fans want to overturn the 19th Amendment. The post MAGA Is Exploiting the Lindsay Clancy Case to Try to End Voting for Women appeared first on The Nation .",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "title": "Crystal Lake Trailer Raises a Question: Is This a Friday the 13th Prequel or a Reboot?",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/crystal-lake-trailer-timeline-explaine/",
+      "published": "2026-09-14T15:12:09+00:00",
+      "summary": "Still doing the slowed-down, overly-on-the-nose songs, I see The post Crystal Lake Trailer Raises a Question: Is This a Friday the 13th Prequel or a Reboot? appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }
