@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-15T09:01:32.917543Z
+Generated: 2026-09-15T14:00:02.786314Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Science / computing. The strongest items in this run are Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live, Is Big Tech’s AI slowdown a safety pact or a cartel?, and Apple Home’s new security camera features cost as much as $60 a month.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are This doorbell camera lets a human security guard watch your front door, The premium AirPods 5 are the best open-ear earbuds Apple has made, and Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode.
 
 ## Briefing
 
@@ -33,43 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Minister says discussions are ongoing on how to strengthen the alliance’s eastern flank after security incidents intensify across Europe, including in Denmark and Poland I am also keeping an eye on the latest from Sweden, and it looks like…
-
-Link: https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates
-
-### 2. Is Big Tech’s AI slowdown a safety pact or a cartel? [10/10]
+### 1. This doorbell camera lets a human security guard watch your front door [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately.
+DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
+Link: https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs
 
-### 3. Apple Home’s new security camera features cost as much as $60 a month [10/10]
+### 2. The premium AirPods 5 are the best open-ear earbuds Apple has made [10/10]
 **Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it.
-
-Link: https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription
-
-### 4. Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’ [10/10]
-**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-From Obama’s chef to a big cat obsessive, the actor has gathered experts from Alaska, the Amazon and beyond for a film about how to heal our besieged planet.
+It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5.
 
-Link: https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison
+Link: https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review
 
-### 5. A roundtable on the rapid acceleration of AI [9/10]
+### 3. Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Let me paint a picture: it is day three of Gamescom; I have seen dozens of fantastic games, spoken to many enthusiastic developers.
+
+Link: https://www.eurogamer.net/alien-deathstorm-gamescom-preview
+
+### 4. Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost [10/10]
+**Source:** Ars Technica  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
+
+Ars previewed Mozilla’s report on how cheap open models caught up on capability.
+
+Link: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
+
+### 5. How Parents in Boulder, Colorado, Rewrote the Rules on Autism Therapy in School [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Jenny Thamer had low hopes for the meeting called by the superintendent of the Boulder Valley School District to hear from families of autistic students.
+
+Link: https://www.the74million.org/article/how-parents-in-boulder-colorado-rewrote-the-rules-on-autism-therapy-in-school/
+
+### 6. Taylor Lorenz on the global effort to ban kids from social media – Stateside with Kai and Carter [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+What are we going to do about kids and social media? Lawsuit after lawsuit has accused the biggest social media platforms in the US of designing their products to be addictive and of endangering children.
+
+Link: https://www.theguardian.com/us-news/video/2026/sep/15/taylor-lorenz-social-media-bans-podcast
+
+### 7. Electric Shocks for Kids and the Push to Militarize Schools [10/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Catherine Lutz, Anne Lutz Fernandez Electric-shock gloves used on students in Nebraska are the latest sign of how policing, surveillance, and military technology have entered American schools.
+
+Link: https://www.thenation.com/article/politics/militarization-schools-surveillance-police/
+
+### 8. A roundtable on the rapid acceleration of AI [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -78,16 +105,7 @@ AI companies this weekend pushed out a new message: They want to slow down. This
 
 Link: https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai
 
-### 6. GTA 6's first confirmed actor is King of the Hill's Stephen Root: "It's an amazing thing to look at" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more
-
-Link: https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root
-
-### 7. "We track every server you enter": the Wardogs devs are "coming down hard" on XP farms and cash exploits, even as they encourage people to grind [9/10]
+### 9. "We track every server you enter": the Wardogs devs are "coming down hard" on XP farms and cash exploits, even as they encourage people to grind [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -96,16 +114,7 @@ The creators of military shooter Wardogs have announced that they will crack dow
 
 Link: https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind
 
-### 8. Opinion: Schools Should Help Students Navigate AI, Not Ban It [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-“Today we will be writing an in-class essay.” It was fourth period English class, and the high school student was shaking, looking at the blank screen as the teacher explained the surprise exam.
-
-Link: https://www.the74million.org/article/schools-should-help-students-navigate-ai-not-ban-it/
-
-### 9. Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots [9/10]
+### 10. Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,7 +123,7 @@ In the last school year, the national student-to-school counselor ratio improved
 
 Link: https://www.the74million.org/article/amid-shortage-of-counselors-students-need-stronger-networks-not-more-chatbots/
 
-### 10. Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats [9/10]
+### 11. Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,23 +132,14 @@ Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and th
 
 Link: https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/
 
-### 11. I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend.
-
-Link: https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings
-
-### 12. Step, stand, stairs [8/10]
+### 12. Air pollution spiked after the Trump administration stopped embassy monitoring [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-When it comes to longevity, lots of research has shown how much you move matters. But a new study finds your pace may also be key -- even if you fall far short of daily step goals.
+In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.
 
-Link: https://www.npr.org/2026/09/14/nx-s1-5962891-e1/step-stand-stairs
+Link: https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring
 
 ### 13. Crystal Lake Trailer Raises a Question: Is This a Friday the 13th Prequel or a Reboot? [8/10]
 **Source:** Reactor  
@@ -278,9 +278,9 @@ Link: https://www.youtube.com/watch?v=UBZ8t11ggoQ
 
 Link: https://www.youtube.com/watch?v=m24LI3lCP7g
 
-### Is Hot Wheels: Infinite Rush a Modern Burnout Paradise? | Hot Monday Energy [8/10]
+### Is Hot Wheels: Infinite Rush a Modern Burnout Paradise? | Hot Monday Energy [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.
@@ -387,6 +387,15 @@ Link: https://www.youtube.com/watch?v=MfHEZw7Xw_c
 Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.
 
 Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
+
+### Primetime | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=C0NZa01qTRU
 
 ### You Can See Everything | Official Teaser HD | A24 [6/10]
 **Source:** A24  
@@ -495,6 +504,24 @@ Link: https://www.youtube.com/watch?v=T5dMa8OMyWg
 Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
+
+### Hollywood Arts | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New students, new songs, same legendary school. Meet the new class of Hollywood Arts on October 15! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=IXQP43JjY4Q
+
+### Animals | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+When their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.
+
+Link: https://www.youtube.com/watch?v=mlBfQJ8oxB0
 
 ### The Trap | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
