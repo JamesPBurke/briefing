@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-16T05:00:03.837652Z
+Generated: 2026-09-16T09:00:54.934131Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Students in Gaza ‘devastated’ after plan for them to study in Belgium fails, Microsoft announces Windows and Surface event for October 7th, and Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live, Microsoft announces Windows and Surface event for October 7th, and AI models need more data about biology, and OpenAI is paying to create it.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Students in Gaza ‘devastated’ after plan for them to study in Belgium fails [10/10]
+### 1. Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live [10/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Belgian government unable to agree on evacuation of 13 students to take up scholarships at universities Students who are unable to leave Gaza and take up scholarships at Belgian universities have said they are devastated after Belgium’s…
+European Commission president says the EU wants to ‘move the partnership with Canada to the highest level possible’ Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market,…
 
-Link: https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships
+Link: https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates
 
 ### 2. Microsoft announces Windows and Surface event for October 7th [10/10]
 **Source:** The Verge  
@@ -51,25 +51,7 @@ It's been more than two years since the last major Windows event, so Microsoft i
 
 Link: https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco
 
-### 3. Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Iran-aligned militant group rejected the suggestion it had targeted Mecca, while the Organisation of Islamic Cooperation condemned the attack Saudi Arabia’s air defences intercepted and destroyed a ⁠Houthi drone south of Mecca on…
-
-Link: https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east
-
-### 4. Russia plotting to kill Ukraine allies in US and Europe, FBI says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Intelligence services allegedly attempted to pay people to surveil and kill people perceived to be aligned with Ukraine Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations…
-
-Link: https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot
-
-### 5. AI models need more data about biology, and OpenAI is paying to create it [10/10]
+### 3. AI models need more data about biology, and OpenAI is paying to create it [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -77,6 +59,24 @@ Link: https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot
 Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.
 
 Link: https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
+
+### 4. The trans CIA official ousted by Trump: ‘We’re a government crippled by its own decisions’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Julia Curlee, a former senior CIA officer, speaks on Trump administration’s purge of national security staff, attacks on DEI and failures in Iran war When the White House fired Julia Curlee from her senior intelligence position in March…
+
+Link: https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump
+
+### 5. The colleges where borrowers aren't repaying their student loans [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Millions of federal student loan borrowers are in default or well on their way. New federal data shows that tens of thousands of them attended the same problematic schools.
+
+Link: https://www.npr.org/2026/09/16/nx-s1-5963867/the-colleges-where-borrowers-arent-repaying-their-student-loans
 
 ### 6. Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive [9/10]
 **Source:** Eurogamer  
@@ -96,14 +96,14 @@ Four openers and live band for Sheeran’s tour depart after removal of Macklemo
 
 Link: https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas
 
-### 8. Ohio’s Next Education Fight Could Be Over How Kids Learn Math [9/10]
+### 8. Opinion: Student Newspapers Impart Critical Skills. The Nation Needs More of Them [9/10]
 **Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Ohio officials are tackling the math struggles of students with an effort resembling its science of reading push, but have yet to deal with perhaps the most fundamental issue — how instruction should change.
+“Portrait of a Graduate,” embraced by 26 states, describes essential skills that high school students should master, including thinking critically, communicating clearly and engaging as citizens.
 
-Link: https://www.the74million.org/article/ohios-next-education-fight-could-be-could-be-over-how-kids-learn-math/
+Link: https://www.the74million.org/article/student-newspapers-impart-critical-skills-the-nation-needs-more-of-them/
 
 ### 9. Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost [9/10]
 **Source:** Ars Technica  
@@ -114,16 +114,25 @@ Ars previewed Mozilla’s report on how cheap open models caught up on capabilit
 
 Link: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
 
-### 10. What to make of warnings that AI may pose an existential threat to humanity [8/10]
+### 10. Steve Bannon shares why he think AI development needs to be slowed down [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Over the past week, fears of AI wiping out humanity are surging. But could it happen? And if so, how?
+NPR's Steve Inskeep speaks with Trump ally Steve Bannon about why he wants AI development to be reigned in.
 
-Link: https://www.npr.org/2026/09/15/nx-s1-5969783/what-to-make-of-warnings-that-ai-may-pose-an-existential-threat-to-humanity
+Link: https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-shares-why-he-think-ai-development-needs-to-be-slowed-down
 
-### 11. AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide [8/10]
+### 11. 21 million women live in U.S. counties with limited birth control access [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+EXCLUSIVE EMBARGOED 9/16 Data shared exclusively with NPR shows more than 21 million women in the U.S. need birth control that they can't access.
+
+Link: https://www.npr.org/2026/09/16/nx-s1-5956869/21-million-women-live-in-u-s-counties-with-limited-birth-control-access
+
+### 12. AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ iLands and its AI agents are doing completely useless tasks, then begging for mo
 
 Link: https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/
 
-### 12. Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay [8/10]
+### 13. Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,18 +150,214 @@ Link: https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-wo
 
 Link: https://reactormag.com/mike-flanagan-dark-tower-adaptation-delay-explained/
 
-### 13. Air pollution spiked after the Trump administration stopped embassy monitoring [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.
-
-Link: https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring
-
 ## YouTube
 
-_No YouTube picks in this briefing._
+### We could be heroes? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Could a genetic mutation ever cause humanity to develop super powers? Anthropologist Agustín Fuentes joins WIRED to answer the internet's burning questions about human evolution. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.
+
+Link: https://www.youtube.com/watch?v=f4_GfqvKG1I
+
+### Anthropologist Answers Evolution Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Anthropologist Agustín Fuentes joins WIRED to answer the internet's burning questions about human evolution.
+
+Link: https://www.youtube.com/watch?v=Ejun0lzE1vE
+
+### Famed fashion and costume designer Bob Mackie dies at 87 [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Famed costume designer Bob Mackie died Monday. He was 87 years old.
+
+Link: https://www.youtube.com/watch?v=PkJPTwxQnCA
+
+### Apple TV's 'Widow's Bay' wins big with 14 Emmy Awards [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+There was a big winner during last night’s Emmy Awards for the best in television: The horror comedy "Widow’s Bay" picked up 14 trophies.
+
+Link: https://www.youtube.com/watch?v=-dsTAx8yCyQ
+
+### Mitch McConnell returns to the Senate after 3-months-long abscence [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Republican Sen. Mitch McConnell, of Kentucky, was back on Capitol Hill yesterday for the first time since he was hospitalized in June after a fall. The 84-year-old returned to the Senate floor in a wheelchair with staff by his side.
+
+Link: https://www.youtube.com/watch?v=_OQ549HA_iw
+
+### Macklemore dropped from Ed Sheeran's tour for saying 'Free Palestine' [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Macklemore has been dropped from Ed Sheeran’s U.S. tour over comments supportive of Palestinians.⁠ ⁠ Macklemore already opened for several shows of Sheeran’s stadium tour.
+
+Link: https://www.youtube.com/watch?v=zfZDcUU0YWM
+
+### Celine Dion returns to the stage after battling rare illness [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Celine Dion kicked off her 16-show residency in Paris at the Plenitude Arena on Saturday.
+
+Link: https://www.youtube.com/watch?v=xZ2E8C1e2pA
+
+### Federal workers say forced summer relocations have been chaos [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+The Trump administration is moving federal workers into buildings in poor condition, often without permission from Congress. NPR found it's costing taxpayers millions.
+
+Link: https://www.youtube.com/watch?v=FiYWshuGPsQ
+
+### Trump downplays calls for slowdown in AI development [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump is downplaying concerns about the dangers of artificial intelligence. Anthropic's CEO suggested over the weekend the industry slow its development of AI to ensure more safeguards are put in place.
+
+Link: https://www.youtube.com/watch?v=-cAKJe8Ov-w
+
+### What comes next for the Republican Party? [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+What comes next for the Republican Party that has been defined by Trump? We asked these true believers.
+
+Link: https://www.youtube.com/watch?v=ssa5mtJcCOw
+
+### Zelda: Ocarina of Time Remake: The DF Tech Breakdown [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/LlCdR9cKPOg ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jSm_7SmDhjg
+
+### Sony Cancels Kojima's Physint - And Now It's Coming To Xbox Instead [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/LlCdR9cKPOg ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=YMroiGDAaw8
+
+### Did Capcom Play It Too Safe With Onimusha Way Of The Sword Graphics? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/-LLlJ_ICQsQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=VCVocwSAVEg
+
+### Will AMD Develop Its Own DLSS 5-Like Technology? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/-LLlJ_ICQsQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2h5TAwQHZQ8
+
+### The Witcher 3 Remastered: Proof That The RED Engine Is Coming Back? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/-LLlJ_ICQsQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=caGmFO9-NXc
+
+### DLSS 5 Verdict: Selectively Impressive - But First Gen Tech Can Only Do So Much [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/XAt63dB1hdI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Ancsa3YWQ4M
+
+### More Elden Ring Co-op w/ Jack and Jenna, aka, the Tarnished Twins [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=ti47xKu4uko
+
+### Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about this year's Emmy Awards winners, Darren's recent Resident Evil rewatch, and why Lanterns continues to be great.
+
+Link: https://www.youtube.com/watch?v=1VQ0TcHVIs4
+
+### Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about this year's Emmy Awards winners, Darren's recent Resident Evil rewatch, and why Lanterns continues to be great.
+
+Link: https://www.youtube.com/watch?v=vxQeEWRSoQI
+
+### Is Hot Wheels: Infinite Rush a Modern Burnout Paradise? | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=EOeZhSQCEJQ
+
+### The Etiquette of Remakes | Windbreaker Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=K0nzeej-qIk
+
+### Blue Dragon’s PC Port Is the Future of Preservation [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=_Fd5-wQr5sU
+
+### Come Fight Us in Granblue Fantasy Versus: Rising | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=1pEfhS9jSdI
 
 ## Entertainment Recommendations
 
@@ -183,4 +388,272 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Whatever it takes. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=mYeCHJmSrtI
+
+### No room for error. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=HhGWSRspCmE
+
+### Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger hosted the first ever live in-person Reddit AMA featuring a screening of the first 30 minutes of the movie in Los Angeles - simulcast in New York and Dallas. 700+ fans. 150+ creators. Three cities.
+
+Link: https://www.youtube.com/watch?v=2znSbIEyfic
+
+### THE SOCIAL RECKONING – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The verdict is in. The reckoning is coming. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
+
+Link: https://www.youtube.com/watch?v=MfHEZw7Xw_c
+
+### Whalefall | Official Trailer | In Theaters October 16 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.
+
+Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
+
+### Primetime | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=C0NZa01qTRU
+
+### You Can See Everything | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=GGJSRFWALTI
+
+### Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
+
+Link: https://www.youtube.com/watch?v=WMjGxEqK9lQ
+
+### All of a Sudden - Official Trailer - In Theaters November [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff.
+
+Link: https://www.youtube.com/watch?v=2AxtdPvDojA
+
+### Artificial - Official Teaser Trailer - In Theaters Christmas Day [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A film by Luca Guadagnino. Starring Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, Cooper Hoffman, Jason Schwartzman, and Mark Rylance. In select theaters Christmas Day.
+
+Link: https://www.youtube.com/watch?v=rDZplZFnbOk
+
+### The Unknown - Official Teaser Trailer - Coming Soon [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+David is a Parisian photographer. Something of a loner, he becomes curious about a young woman he encounters on an assignment. That night, at a drug-fueled party, David locks eyes with her across the room and follows her.
+
+Link: https://www.youtube.com/watch?v=vJ3vIzWzFno
+
+### Once Upon a Time in Harlem - Official Trailer - In Theaters October 16 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
+
+Link: https://www.youtube.com/watch?v=ESnX3LQbCVI
+
+### Fjord - Official Trailer - In Theaters October 9 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town.
+
+Link: https://www.youtube.com/watch?v=frg59VOungA
+
+### INFIRMARY | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A rookie security guard named Edward works his first night shift at the crumbling, abandoned Wilshire psychiatric hospital and uncovers terrifying, unexplainable forces. INFIRMARY drops October 2 on Shudder.
+
+Link: https://www.youtube.com/watch?v=gN1LMAwyvGY
+
+### MARAMA | Official Trailer | SHUDDER [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A young Māori woman discovers her horrific colonial heritage after travelling to Victorian England in 1859. She soon becomes compelled to confront and destroy the titled Englishman who devastated her family.
+
+Link: https://www.youtube.com/watch?v=KOlD0A1mlmE
+
+### GOODY GOODY | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A home birth turns terribly wrong when complications arise during a raging blizzard. GOODY GOODY drops September 18 on Shudder.
+
+Link: https://www.youtube.com/watch?v=T5dMa8OMyWg
+
+### Other Mommy | Official Trailer 2 [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+All you have to do is say yes.
+
+Link: https://www.youtube.com/watch?v=avXdGfYmRhM
+
+### The Last Kiss | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Hunting a serial killer through prophetic kisses. Romantic.
+
+Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
+
+### Crazy Rich, Incredibly Broke | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+After losing their entire fortune, AlThahabi family turns to exaggeration and showing off to convince everyone they still have it all, leading to a series of hilarious situations as they try to keep up appearances.
+
+Link: https://www.youtube.com/watch?v=oDBUdMDfq30
+
+### Love is Blind: Netherlands | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Love Is Blind has finally arrived in the Netherlands.
+
+Link: https://www.youtube.com/watch?v=IXQmV0-tF0k
+
+### Stranger Things: Tales From ‘85 | Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Catch up on all things Stranger Things: Tales From ’85 ahead of Season 2 dropping September 17, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=j4Yp461emJE
+
+### BEST OF THE BEST drops this Friday! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Imagine it's your first day of college and you get clocked like this... Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=sJ9-3eAB6t0
+
+### The Diplomat: Season 4 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The award-winning series returns - October 15th, only on Netflix. In Season Four of The Diplomat, two marriages threaten to eat each other alive.
+
+Link: https://www.youtube.com/watch?v=for_t1ySDvk
+
+### Hollywood Arts | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New students, new songs, same legendary school. Meet the new class of Hollywood Arts on October 15! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=IXQP43JjY4Q
+
+### Animals | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+When their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.
+
+Link: https://www.youtube.com/watch?v=mlBfQJ8oxB0
+
+### The Trap | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A memory. A suspicion. A trap. The bait: herself. The Trap, a psychological thriller series from the creator of Dear Child. October 13. Only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=SmaC-w7x63c
+
+### Lupin: Part 4 | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+After four years in prison, Assane is ready to start a new life with his family. But the emergence of a mysterious copycat forces Lupin to return to his most brilliant schemes. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Vr4zLkYblMA
+
+### Money Trap: The Karun Treasure | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Where’s the map? Where’s the money? Money Trap: The Karun Treasure, only on Netflix on October 16. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=bCxYPFYb_zU
+
+### Dark Matter — A World Without Computers | Season 2 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=L_Th1QBLsSo
+
+### Dark Matter — The Box is Back | Season 2 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=qJBCWLtE8F0
