@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-16T09:00:54.934131Z",
-  "generatedAtDisplay": "2026-09-16 05:00 AM EDT",
+  "generatedAt": "2026-09-16T14:00:01.359131Z",
+  "generatedAtDisplay": "2026-09-16 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live, Microsoft announces Windows and Surface event for October 7th, and AI models need more data about biology, and OpenAI is paying to create it.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says, Threats intensify against Israeli directors of Gaza documentary NAZA, and ‘Bucks County, USA’ Sees School Board Fights As Reflection of a Nation Divided.",
   "mainItems": [
     {
-      "title": "Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live",
+      "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+      "published": "2026-09-16T13:57:29+00:00",
+      "summary": "Fable developer Playground Games has said \"many people within Xbox view Fable as being vital to the DNA of the platform\", which is why this game has been allowed such a long and \"protected\" development. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Threats intensify against Israeli directors of Gaza documentary NAZA",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-      "published": "2026-09-16T08:42:24+00:00",
-      "summary": "European Commission president says the EU wants to ‘move the partnership with Canada to the highest level possible’ Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market,…",
+      "url": "https://www.theguardian.com/world/2026/sep/16/threats-against-israeli-directors-gaza-documentary-naza",
+      "published": "2026-09-16T13:41:33+00:00",
+      "summary": "Rights groups express support for directors of Guardian-produced film facing threats from Israeli ministers and far-right activists • ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Bucks County, USA’ Sees School Board Fights As Reflection of a Nation Divided",
+      "source": "The 74",
+      "category": "AI / privacy",
+      "url": "https://www.the74million.org/article/bucks-county-usa-sees-school-board-fights-as-reflection-of-a-nation-divided/",
+      "published": "2026-09-16T12:30:00+00:00",
+      "summary": "Over the past few years, a suburban Philadelphia school district has become a flashpoint for nearly every fault line in America’s school culture wars, with a lawsuit and federal civil rights investigation alleging discrimination against…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+      "published": "2026-09-16T12:10:53+00:00",
+      "summary": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "published": "2026-09-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -21,99 +61,49 @@
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-      "published": "2026-09-16T03:17:07+00:00",
+      "published": "2026-09-16T11:45:00+00:00",
       "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "published": "2026-09-15T12:00:00+00:00",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The trans CIA official ousted by Trump: ‘We’re a government crippled by its own decisions’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump",
-      "published": "2026-09-15T11:00:41+00:00",
-      "summary": "Julia Curlee, a former senior CIA officer, speaks on Trump administration’s purge of national security staff, attacks on DEI and failures in Iran war When the White House fired Julia Curlee from her senior intelligence position in March…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The colleges where borrowers aren't repaying their student loans",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5963867/the-colleges-where-borrowers-arent-repaying-their-student-loans",
-      "published": "2026-09-16T08:41:46+00:00",
-      "summary": "Millions of federal student loan borrowers are in default or well on their way. New federal data shows that tens of thousands of them attended the same problematic schools.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-      "published": "2026-09-16T01:00:00+00:00",
-      "summary": "The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+      "title": "Trump asked Americans to help him whitewash national parks. They revolted instead",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
-      "published": "2026-09-15T21:47:16+00:00",
-      "summary": "Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments All four supporting acts for upcoming dates of Ed Sheeran ’s Loop tour have withdrawn in solidarity with fellow opening act…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/16/trump-national-parks-executive-order-history",
+      "published": "2026-09-16T11:00:18+00:00",
+      "summary": "The DOI placed QR codes in national parks, inviting visitors to report content deemed ‘negative about either past or living Americans’.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Opinion: Student Newspapers Impart Critical Skills. The Nation Needs More of Them",
+      "title": "The Alimentary Infrastructure: Why CTE Funds Must Underwrite AI-Driven Agricultural Habitats for Title I Communities",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/the-alimentary-infrastructure-why-cte-funds-must-underwrite-ai-driven-agricultural-habitats-for-title-i-communities/",
+      "published": "2026-09-16T11:00:00+00:00",
+      "summary": "The landscape of K-12 STEM education has encountered a significant resource bottleneck. Historically, initiatives targeting systemic equity and advanced technological...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Evicted Students Miss Class and Fall Behind. Tulsa Schools Want to Change That",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/student-newspapers-impart-critical-skills-the-nation-needs-more-of-them/",
-      "published": "2026-09-15T18:30:00+00:00",
-      "summary": "“Portrait of a Graduate,” embraced by 26 states, describes essential skills that high school students should master, including thinking critically, communicating clearly and engaging as citizens.",
+      "url": "https://www.the74million.org/article/evicted-students-miss-class-and-fall-behind-tulsa-schools-want-to-change-that/",
+      "published": "2026-09-16T10:30:00+00:00",
+      "summary": "This article was published with The 19th, a nonprofit newsroom covering gender, politics, policy and power.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "source": "Ars Technica",
-      "category": "AI / open models",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "published": "2026-09-15T12:00:41+00:00",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
-      "score": 9
-    },
-    {
-      "title": "Steve Bannon shares why he think AI development needs to be slowed down",
+      "title": "'Machine Gods' explores the latest developments in the world of AI",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-shares-why-he-think-ai-development-needs-to-be-slowed-down",
-      "published": "2026-09-16T08:43:46+00:00",
-      "summary": "NPR's Steve Inskeep speaks with Trump ally Steve Bannon about why he wants AI development to be reigned in.",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5969921/machine-gods-explores-the-latest-developments-in-the-world-of-ai",
+      "published": "2026-09-16T09:56:29+00:00",
+      "summary": "NPR's Steve Inskeep talks to tech journalists Casey Newton and Kevin Roose about their new show 'Machine Gods,' which is coming to NPR.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "21 million women live in U.S. counties with limited birth control access",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5956869/21-million-women-live-in-u-s-counties-with-limited-birth-control-access",
-      "published": "2026-09-16T08:43:39+00:00",
-      "summary": "EXCLUSIVE EMBARGOED 9/16 Data shared exclusively with NPR shows more than 21 million women in the U.S. need birth control that they can't access.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -125,6 +115,16 @@
       "summary": "iLands and its AI agents are doing completely useless tasks, then begging for money.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Senators question Trump's picks for top health positions, including surgeon general",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+      "published": "2026-09-16T10:00:00+00:00",
+      "summary": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
       "title": "Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay",
@@ -168,8 +168,8 @@
       "published": "2026-09-15T23:00:41+00:00",
       "summary": "Famed costume designer Bob Mackie died Monday. He was 87 years old.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Apple TV's 'Widow's Bay' wins big with 14 Emmy Awards",
@@ -322,8 +322,8 @@
       "published": "2026-09-15T22:14:44+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast",
@@ -837,6 +837,6 @@
     "mainCount": 13,
     "youtubeCount": 23,
     "trailerCount": 30,
-    "sourceCount": 23
+    "sourceCount": 22
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-16T09:00:54.934131Z
+Generated: 2026-09-16T14:00:01.359131Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live, Microsoft announces Windows and Surface event for October 7th, and AI models need more data about biology, and OpenAI is paying to create it.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Xbox's Fable reboot was allowed a 10-year development because the RPG series is "vital to the DNA of the platform", developer Playground Games says, Threats intensify against Israeli directors of Gaza documentary NAZA, and ‘Bucks County, USA’ Sees School Board Fights As Reflection of a Nation Divided.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live [10/10]
+### 1. Xbox's Fable reboot was allowed a 10-year development because the RPG series is "vital to the DNA of the platform", developer Playground Games says [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Fable developer Playground Games has said "many people within Xbox view Fable as being vital to the DNA of the platform", which is why this game has been allowed such a long and "protected" development. Read more
+
+Link: https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games
+
+### 2. Threats intensify against Israeli directors of Gaza documentary NAZA [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-European Commission president says the EU wants to ‘move the partnership with Canada to the highest level possible’ Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market,…
+Rights groups express support for directors of Guardian-produced film facing threats from Israeli ministers and far-right activists • ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film…
 
-Link: https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates
+Link: https://www.theguardian.com/world/2026/sep/16/threats-against-israeli-directors-gaza-documentary-naza
 
-### 2. Microsoft announces Windows and Surface event for October 7th [10/10]
+### 3. ‘Bucks County, USA’ Sees School Board Fights As Reflection of a Nation Divided [10/10]
+**Source:** The 74  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Over the past few years, a suburban Philadelphia school district has become a flashpoint for nearly every fault line in America’s school culture wars, with a lawsuit and federal civil rights investigation alleging discrimination against…
+
+Link: https://www.the74million.org/article/bucks-county-usa-sees-school-board-fights-as-reflection-of-a-nation-divided/
+
+### 4. The iPhone 18 Pro’s big camera update is all about the small gains [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products.
+
+Link: https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture
+
+### 5. The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/
+
+### 6. Microsoft announces Windows and Surface event for October 7th [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,88 +87,43 @@ It's been more than two years since the last major Windows event, so Microsoft i
 
 Link: https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco
 
-### 3. AI models need more data about biology, and OpenAI is paying to create it [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.
-
-Link: https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
-
-### 4. The trans CIA official ousted by Trump: ‘We’re a government crippled by its own decisions’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Julia Curlee, a former senior CIA officer, speaks on Trump administration’s purge of national security staff, attacks on DEI and failures in Iran war When the White House fired Julia Curlee from her senior intelligence position in March…
-
-Link: https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump
-
-### 5. The colleges where borrowers aren't repaying their student loans [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Millions of federal student loan borrowers are in default or well on their way. New federal data shows that tens of thousands of them attended the same problematic schools.
-
-Link: https://www.npr.org/2026/09/16/nx-s1-5963867/the-colleges-where-borrowers-arent-repaying-their-student-loans
-
-### 6. Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected.
-
-Link: https://www.eurogamer.net/wo-long-2-wings-of-ember-preview
-
-### 7. All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore [9/10]
+### 7. Trump asked Americans to help him whitewash national parks. They revolted instead [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments All four supporting acts for upcoming dates of Ed Sheeran ’s Loop tour have withdrawn in solidarity with fellow opening act…
+The DOI placed QR codes in national parks, inviting visitors to report content deemed ‘negative about either past or living Americans’.
 
-Link: https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/sep/16/trump-national-parks-executive-order-history
 
-### 8. Opinion: Student Newspapers Impart Critical Skills. The Nation Needs More of Them [9/10]
+### 8. The Alimentary Infrastructure: Why CTE Funds Must Underwrite AI-Driven Agricultural Habitats for Title I Communities [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The landscape of K-12 STEM education has encountered a significant resource bottleneck. Historically, initiatives targeting systemic equity and advanced technological...
+
+Link: https://csteachers.org/the-alimentary-infrastructure-why-cte-funds-must-underwrite-ai-driven-agricultural-habitats-for-title-i-communities/
+
+### 9. Evicted Students Miss Class and Fall Behind. Tulsa Schools Want to Change That [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-“Portrait of a Graduate,” embraced by 26 states, describes essential skills that high school students should master, including thinking critically, communicating clearly and engaging as citizens.
+This article was published with The 19th, a nonprofit newsroom covering gender, politics, policy and power.
 
-Link: https://www.the74million.org/article/student-newspapers-impart-critical-skills-the-nation-needs-more-of-them/
+Link: https://www.the74million.org/article/evicted-students-miss-class-and-fall-behind-tulsa-schools-want-to-change-that/
 
-### 9. Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost [9/10]
-**Source:** Ars Technica  
-**Category:** AI / open models  
-**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
-
-Ars previewed Mozilla’s report on how cheap open models caught up on capability.
-
-Link: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
-
-### 10. Steve Bannon shares why he think AI development needs to be slowed down [8/10]
+### 10. 'Machine Gods' explores the latest developments in the world of AI [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-NPR's Steve Inskeep speaks with Trump ally Steve Bannon about why he wants AI development to be reigned in.
+NPR's Steve Inskeep talks to tech journalists Casey Newton and Kevin Roose about their new show 'Machine Gods,' which is coming to NPR.
 
-Link: https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-shares-why-he-think-ai-development-needs-to-be-slowed-down
+Link: https://www.npr.org/2026/09/16/nx-s1-5969921/machine-gods-explores-the-latest-developments-in-the-world-of-ai
 
-### 11. 21 million women live in U.S. counties with limited birth control access [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-EXCLUSIVE EMBARGOED 9/16 Data shared exclusively with NPR shows more than 21 million women in the U.S. need birth control that they can't access.
-
-Link: https://www.npr.org/2026/09/16/nx-s1-5956869/21-million-women-live-in-u-s-counties-with-limited-birth-control-access
-
-### 12. AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide [8/10]
+### 11. AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,6 +131,15 @@ Link: https://www.npr.org/2026/09/16/nx-s1-5956869/21-million-women-live-in-u-s-
 iLands and its AI agents are doing completely useless tasks, then begging for money.
 
 Link: https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/
+
+### 12. Senators question Trump's picks for top health positions, including surgeon general [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.
+
+Link: https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general
 
 ### 13. Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay [7/10]
 **Source:** Reactor  
@@ -170,9 +170,9 @@ Anthropologist Agustín Fuentes joins WIRED to answer the internet's burning que
 
 Link: https://www.youtube.com/watch?v=Ejun0lzE1vE
 
-### Famed fashion and costume designer Bob Mackie dies at 87 [8/10]
+### Famed fashion and costume designer Bob Mackie dies at 87 [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Famed costume designer Bob Mackie died Monday. He was 87 years old.
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=caGmFO9-NXc
 
 Link: https://www.youtube.com/watch?v=Ancsa3YWQ4M
 
-### More Elden Ring Co-op w/ Jack and Jenna, aka, the Tarnished Twins [7/10]
+### More Elden Ring Co-op w/ Jack and Jenna, aka, the Tarnished Twins [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
