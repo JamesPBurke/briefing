@@ -1,70 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-15T18:02:33.360778Z",
-  "generatedAtDisplay": "2026-09-15 02:02 PM EDT",
+  "generatedAt": "2026-09-16T05:00:03.837652Z",
+  "generatedAtDisplay": "2026-09-16 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are The premium AirPods 5 are the best open-ear earbuds Apple has made, Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen, and Catnapped bodega cat in Brooklyn reunited with owner after intense grassroots campaign.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Students in Gaza ‘devastated’ after plan for them to study in Belgium fails, Microsoft announces Windows and Surface event for October 7th, and Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca.",
   "mainItems": [
     {
-      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
+      "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
+      "published": "2026-09-16T04:00:11+00:00",
+      "summary": "Belgian government unable to agree on evacuation of 13 students to take up scholarships at universities Students who are unable to leave Gaza and take up scholarships at Belgian universities have said they are devastated after Belgium’s…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft announces Windows and Surface event for October 7th",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-      "published": "2026-09-15T17:59:38+00:00",
-      "summary": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5.",
+      "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "published": "2026-09-16T03:17:07+00:00",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+      "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
-      "published": "2026-09-15T17:25:02+00:00",
-      "summary": "Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab strait Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis…",
+      "url": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "published": "2026-09-16T02:56:37+00:00",
+      "summary": "The Iran-aligned militant group rejected the suggestion it had targeted Mecca, while the Organisation of Islamic Cooperation condemned the attack Saudi Arabia’s air defences intercepted and destroyed a ⁠Houthi drone south of Mecca on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Catnapped bodega cat in Brooklyn reunited with owner after intense grassroots campaign",
+      "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/stolen-new-york-city-bodega-cat",
-      "published": "2026-09-15T16:50:54+00:00",
-      "summary": "Three-month-old Jabal was returned to Park Slope bodega after community rallied to rescue purloined kitty The owner of a New York City bodega on Tuesday was reunited with the store’s cat after a couple passing by the establishment five…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+      "published": "2026-09-16T01:28:20+00:00",
+      "summary": "Intelligence services allegedly attempted to pay people to surveil and kill people perceived to be aligned with Ukraine Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Nick Reiner will not face death penalty if convicted of killing parents, LA district attorney says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/nick-reiner-conviction-la-district-attorney",
-      "published": "2026-09-15T16:44:59+00:00",
-      "summary": "Reiner is accused of fatally stabbing his parents, Rob and Michele Singer Reiner in their home in December 2025 Nick Reiner will not face the death penalty if convicted of the killings of his parents Rob and Michele Singer Reiner, the Los…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How The Oregon Trail became a generational icon",
-      "source": "The Verge",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-      "published": "2026-09-15T16:18:10+00:00",
-      "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail.",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "published": "2026-09-15T12:00:00+00:00",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "published": "2026-09-15T14:45:00+00:00",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
+      "published": "2026-09-16T01:00:00+00:00",
+      "summary": "The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
+      "published": "2026-09-15T21:47:16+00:00",
+      "summary": "Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments All four supporting acts for upcoming dates of Ed Sheeran ’s Loop tour have withdrawn in solidarity with fellow opening act…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Ohio’s Next Education Fight Could Be Over How Kids Learn Math",
@@ -74,7 +84,7 @@
       "published": "2026-09-15T14:30:00+00:00",
       "summary": "Ohio officials are tackling the math struggles of students with an effort resembling its science of reading push, but have yet to deal with perhaps the most fundamental issue — how instruction should change.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
@@ -84,46 +94,36 @@
       "published": "2026-09-15T12:00:41+00:00",
       "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
       "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
-      "score": 10
-    },
-    {
-      "title": "How Parents in Boulder, Colorado, Rewrote the Rules on Autism Therapy in School",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-parents-in-boulder-colorado-rewrote-the-rules-on-autism-therapy-in-school/",
-      "published": "2026-09-15T10:30:00+00:00",
-      "summary": "Jenny Thamer had low hopes for the meeting called by the superintendent of the Boulder Valley School District to hear from families of autistic students.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Top Democrat on House oversight panel investigating Trump Jr wedding party bankrolled by Russian oligarch",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/democrat-investigation-trump-jr-wedding-russian-oligarch",
-      "published": "2026-09-15T17:05:52+00:00",
-      "summary": "Robert Garcia expresses concern over ‘any possible foreign entanglement’ between White House and Umar Kremlev Robert Garcia, the top Democrat on the House oversight committee, is investigating potential ties between the White House and a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "A roundtable on the rapid acceleration of AI",
+      "title": "What to make of warnings that AI may pose an existential threat to humanity",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai",
-      "published": "2026-09-14T20:34:25+00:00",
-      "summary": "AI companies this weekend pushed out a new message: They want to slow down. This comes after several companies disclosed AI-related security incidents and raised concerns about the technology's future risks.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5969783/what-to-make-of-warnings-that-ai-may-pose-an-existential-threat-to-humanity",
+      "published": "2026-09-15T21:45:48+00:00",
+      "summary": "Over the past week, fears of AI wiping out humanity are surging. But could it happen? And if so, how?",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable",
+      "title": "AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/",
-      "published": "2026-09-15T15:43:14+00:00",
-      "summary": "Three felonies have suddenly become two second-degree misdemeanors.",
+      "url": "https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/",
+      "published": "2026-09-15T20:08:56+00:00",
+      "summary": "iLands and its AI agents are doing completely useless tasks, then begging for money.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/mike-flanagan-dark-tower-adaptation-delay-explained/",
+      "published": "2026-09-15T19:26:55+00:00",
+      "summary": "“To do it the way I wanna do it requires an enormous commitment from a studio” The post Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 10
   }
 }

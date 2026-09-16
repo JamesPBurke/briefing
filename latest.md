@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-15T18:02:33.360778Z
+Generated: 2026-09-16T05:00:03.837652Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are The premium AirPods 5 are the best open-ear earbuds Apple has made, Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen, and Catnapped bodega cat in Brooklyn reunited with owner after intense grassroots campaign.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Students in Gaza ‘devastated’ after plan for them to study in Belgium fails, Microsoft announces Windows and Surface event for October 7th, and Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The premium AirPods 5 are the best open-ear earbuds Apple has made [10/10]
+### 1. Students in Gaza ‘devastated’ after plan for them to study in Belgium fails [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Belgian government unable to agree on evacuation of 13 students to take up scholarships at universities Students who are unable to leave Gaza and take up scholarships at Belgian universities have said they are devastated after Belgium’s…
+
+Link: https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships
+
+### 2. Microsoft announces Windows and Surface event for October 7th [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5.
+It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices.
 
-Link: https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review
+Link: https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco
 
-### 2. Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen [10/10]
+### 3. Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab strait Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis…
+The Iran-aligned militant group rejected the suggestion it had targeted Mecca, while the Organisation of Islamic Cooperation condemned the attack Saudi Arabia’s air defences intercepted and destroyed a ⁠Houthi drone south of Mecca on…
 
-Link: https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen
+Link: https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east
 
-### 3. Catnapped bodega cat in Brooklyn reunited with owner after intense grassroots campaign [10/10]
+### 4. Russia plotting to kill Ukraine allies in US and Europe, FBI says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Three-month-old Jabal was returned to Park Slope bodega after community rallied to rescue purloined kitty The owner of a New York City bodega on Tuesday was reunited with the store’s cat after a couple passing by the establishment five…
+Intelligence services allegedly attempted to pay people to surveil and kill people perceived to be aligned with Ukraine Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations…
 
-Link: https://www.theguardian.com/us-news/2026/sep/15/stolen-new-york-city-bodega-cat
+Link: https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot
 
-### 4. Nick Reiner will not face death penalty if convicted of killing parents, LA district attorney says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Reiner is accused of fatally stabbing his parents, Rob and Michele Singer Reiner in their home in December 2025 Nick Reiner will not face the death penalty if convicted of the killings of his parents Rob and Michele Singer Reiner, the Los…
-
-Link: https://www.theguardian.com/us-news/2026/sep/15/nick-reiner-conviction-la-district-attorney
-
-### 5. How The Oregon Trail became a generational icon [10/10]
-**Source:** The Verge  
+### 5. AI models need more data about biology, and OpenAI is paying to create it [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail.
+Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.
 
-Link: https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon
+Link: https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
 
-### 6. Meta’s new One subscriptions put a price on social media and AI [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.
+The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected.
 
-Link: https://www.theverge.com/tech/995453/meta-one-subscriptions-ai
+Link: https://www.eurogamer.net/wo-long-2-wings-of-ember-preview
 
-### 7. Ohio’s Next Education Fight Could Be Over How Kids Learn Math [10/10]
+### 7. All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments All four supporting acts for upcoming dates of Ed Sheeran ’s Loop tour have withdrawn in solidarity with fellow opening act…
+
+Link: https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas
+
+### 8. Ohio’s Next Education Fight Could Be Over How Kids Learn Math [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,7 +105,7 @@ Ohio officials are tackling the math struggles of students with an effort resemb
 
 Link: https://www.the74million.org/article/ohios-next-education-fight-could-be-could-be-over-how-kids-learn-math/
 
-### 8. Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost [10/10]
+### 9. Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost [9/10]
 **Source:** Ars Technica  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -105,41 +114,32 @@ Ars previewed Mozilla’s report on how cheap open models caught up on capabilit
 
 Link: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
 
-### 9. How Parents in Boulder, Colorado, Rewrote the Rules on Autism Therapy in School [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Jenny Thamer had low hopes for the meeting called by the superintendent of the Boulder Valley School District to hear from families of autistic students.
-
-Link: https://www.the74million.org/article/how-parents-in-boulder-colorado-rewrote-the-rules-on-autism-therapy-in-school/
-
-### 10. Top Democrat on House oversight panel investigating Trump Jr wedding party bankrolled by Russian oligarch [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Robert Garcia expresses concern over ‘any possible foreign entanglement’ between White House and Umar Kremlev Robert Garcia, the top Democrat on the House oversight committee, is investigating potential ties between the White House and a…
-
-Link: https://www.theguardian.com/us-news/2026/sep/15/democrat-investigation-trump-jr-wedding-russian-oligarch
-
-### 11. A roundtable on the rapid acceleration of AI [9/10]
+### 10. What to make of warnings that AI may pose an existential threat to humanity [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-AI companies this weekend pushed out a new message: They want to slow down. This comes after several companies disclosed AI-related security incidents and raised concerns about the technology's future risks.
+Over the past week, fears of AI wiping out humanity are surging. But could it happen? And if so, how?
 
-Link: https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai
+Link: https://www.npr.org/2026/09/15/nx-s1-5969783/what-to-make-of-warnings-that-ai-may-pose-an-existential-threat-to-humanity
 
-### 12. Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable [8/10]
+### 11. AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Three felonies have suddenly become two second-degree misdemeanors.
+iLands and its AI agents are doing completely useless tasks, then begging for money.
 
-Link: https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/
+Link: https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/
+
+### 12. Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+“To do it the way I wanna do it requires an enormous commitment from a studio” The post Mike Flanagan Says Dark Tower TV Series Is Still Happening and Explains the Delay appeared first on Reactor .
+
+Link: https://reactormag.com/mike-flanagan-dark-tower-adaptation-delay-explained/
 
 ### 13. Air pollution spiked after the Trump administration stopped embassy monitoring [8/10]
 **Source:** NPR Health  
@@ -149,3 +149,38 @@ Link: https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy
 In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.
 
 Link: https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
