@@ -1,38 +1,88 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-17T09:00:28.492815Z",
-  "generatedAtDisplay": "2026-09-17 05:00 AM EDT",
+  "generatedAt": "2026-09-17T14:00:03.422003Z",
+  "generatedAtDisplay": "2026-09-17 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Games / criticism, Science / computing. The strongest items in this run are Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live, Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints, and OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system, American kids keep getting shot. Now they’re also increasingly competing for help, and \"If the player trusts you enough, they are not going to savescum\": Why the makers of some of the best RPGs on PC want you to get used to failing.",
   "mainItems": [
-    {
-      "title": "Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
-      "published": "2026-09-17T08:43:07+00:00",
-      "summary": "European Commission president Ursula von der Leyen says such a partnership is for the European Union’s ‘common strength’ Defence and security editor Meanwhile, Nato’s secretary general said the alliance needs “more UK and more Europe” to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
-      "published": "2026-09-17T08:36:26+00:00",
-      "summary": "Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
     {
       "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-      "published": "2026-09-17T06:58:25+00:00",
-      "summary": "Model adopting ‘jailbreak-like instructions’ among cases as firm says it is introducing new way of tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned the…",
+      "published": "2026-09-17T13:33:57+00:00",
+      "summary": "Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "American kids keep getting shot. Now they’re also increasingly competing for help",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/memphis-violence-prevention-young-people",
+      "published": "2026-09-17T13:00:49+00:00",
+      "summary": "In Memphis, programs to help at-risk youths work overtime to make sure they don’t get lost in the criminal justice system One Friday afternoon in late July, at the Shelby county juvenile court in Memphis , a 14-year-old boy waited to learn…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"If the player trusts you enough, they are not going to savescum\": Why the makers of some of the best RPGs on PC want you to get used to failing",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing",
+      "published": "2026-09-17T13:00:00+00:00",
+      "summary": "When it comes to RPGs, I am an irredeemable savescummer. I admit it. I'll slam F9 at the drop of a hat (perhaps the hat was dropped as a result of a failed dexterity roll. Unacceptable. Reload).",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "published": "2026-09-17T12:49:56+00:00",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "published": "2026-09-17T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns",
+      "published": "2026-09-17T12:00:50+00:00",
+      "summary": "As the country’s top public health official spends his time in office undermining science, doctors and advocates mount an urgent campaign for childhood vaccines On an early September morning, dozens of families stood in line outside a…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Ilhan Omar brings bill to make ICE ‘pay the price’ for terrorizing communities",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/ilhan-omar-ice-bill",
+      "published": "2026-09-17T11:00:47+00:00",
+      "summary": "Make ICE Pay Act would block nearly $140bn in funding and redirect money to places reeling from Trump crackdown The US congresswoman Ilhan Omar is set to introduce a bill that would make federal immigration agencies “pay the price” for…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "published": "2026-09-17T11:00:46+00:00",
+      "summary": "It’s a chaotic time in an industry that’s reshaping our lives – Guardian reporters and experts recommend the books that help explain how we got here, and where we’re heading Have you been feeling trapped in an endless cycle of artificial…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -47,53 +97,13 @@
       "score": 10
     },
     {
-      "title": "‘I thank God for killing me and bringing me back’: Nicolas Winding Refn on the emergency op that inspired his new sci-fi horror",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell",
-      "published": "2026-09-17T04:00:40+00:00",
-      "summary": "Notorious for ultra-violent movies like Drive and The Neon Demon, the Dane had lost the will to direct until ‘the Tom Cruise of surgeons’ saved his life – and triggered an astonishing creative rebirth Nicolas Winding Refn has his phone…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Charlie Kirk's family blame Utah university officials for his killing",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/charlie-kirk-family-utah-officials",
-      "published": "2026-09-16T20:04:07+00:00",
-      "summary": "String of ‘reckless decisions’ by Utah Valley University officials left him exposed to sniper, attorneys say Charlie Kirk’s family blamed Utah officials for failing to prevent the conservative political activist’s fatal shooting at a state…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Head Start got her out of homelessness. Trump proposal threatens that help for others",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5950524/head-start-got-her-out-of-homelessness-trump-proposal-threatens-that-help-for-others",
-      "published": "2026-09-17T08:43:31+00:00",
-      "summary": "A new proposal by the Trump administration would strip protections and funding for homeless students hoping to access Head Start programs.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "published": "2026-09-16T20:44:41+00:00",
-      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood .",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "From Learning to Doing: Putting the Science of Reading Into Practice",
+      "title": "As NJ Lowers Math Standards, Fewer Students Can Handle College-Level Work",
       "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/from-learning-to-doing-how-davidson-county-schools-is-putting-the-science-of-reading-into-practice/",
-      "published": "2026-09-16T18:30:00+00:00",
-      "summary": "Something wasn’t adding up in Davidson County Schools. Students were making strong gains in reading in kindergarten and first grade. They were developing foundational skills and, for the most part, reading accurately.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/as-nj-lowers-math-standards-fewer-students-can-handle-college-level-work/",
+      "published": "2026-09-16T14:30:00+00:00",
+      "summary": "A year ago, a report from the University of California San Diego made major waves when it showed that a rising share of its incoming freshmen had math skills that were below the high school level.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -107,34 +117,24 @@
       "score": 9
     },
     {
-      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
-      "published": "2026-09-16T23:07:40+00:00",
-      "summary": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Podcast: Humans Are Reading Your ChatGPT Conversations",
+      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
-      "published": "2026-09-16T14:19:51+00:00",
-      "summary": "The contractors reading real ChatGPT users' prompts; the big out-and-back-in around Automattic; and a16z thinks enshittification isn't real.",
+      "url": "https://www.404media.co/spotify-ai-music-scam/",
+      "published": "2026-09-17T13:33:52+00:00",
+      "summary": "A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
-      "title": "13 gluten-free dessert recipes : There's something for everyone.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/09/16/gluten-free-desserts",
-      "published": "2026-09-16T14:00:00+00:00",
-      "summary": "Eating a gluten-free dessert may sound limiting at first, but the options are endless: There are decadent cakes, chewy cookies, creamy cheesecakes, and more. The post 13 gluten-free dessert recipes : There's something for everyone.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 7
+      "title": "Why reshaping memories may hold the key to raising self-esteem",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+      "published": "2026-09-17T09:02:00+00:00",
+      "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -159,6 +159,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The insurance flaw forcing houses into the ocean",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=71qcn0xUtIY",
+      "published": "2026-09-17T09:00:24+00:00",
+      "summary": "Dramatic videos show waterfront houses collapsing into the water. It’s happening across the United States, from California to Michigan to Maine. One hotspot is Dare County, N.C.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Multistory building damaged by Israeli bombardments collapses in Gaza overnight",
@@ -238,17 +249,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Federal workers say forced summer relocations have been chaos",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=FiYWshuGPsQ",
-      "published": "2026-09-14T19:23:33+00:00",
-      "summary": "The Trump administration is moving federal workers into buildings in poor condition, often without permission from Congress. NPR found it's costing taxpayers millions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "The Big Marvel's Wolverine Review Debate: Where Do We Stand?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -322,8 +322,8 @@
       "published": "2026-09-17T00:59:55+00:00",
       "summary": "KC and Marty are going to show off a few hours of Marvel's Wolverine. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... Shroom and Gloom and Sprawl Zero",
@@ -333,8 +333,8 @@
       "published": "2026-09-16T22:13:24+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Shroom and Gloom and Sprawl Zero. https://store.steampowered.com/app/3271280/Shroom_and_Gloom/ https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "STAR WARS Zero Company | Fully Ramblomatic",
@@ -603,6 +603,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Monster: The Lizzie Borden Story, now playing on Netflix.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=BGsER-sXSyw",
+      "published": "2026-09-17T12:00:00+00:00",
+      "summary": "Tension is rising. Ella Beatty and Charlie Hunnam star as Lizzie and Andrew Borden in the new season of Monster: The Lizzie Borden Story, now playing on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fading Grandeur | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=duhj1D_BCT4",
+      "published": "2026-09-17T09:00:00+00:00",
+      "summary": "Leandro (Antonio de la Torre) is a fallen marquis who will stop at nothing to regain his lost prestige.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Storm | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -719,39 +741,6 @@
       "url": "https://www.youtube.com/watch?v=for_t1ySDvk",
       "published": "2026-09-15T14:00:02+00:00",
       "summary": "The award-winning series returns - October 15th, only on Netflix. In Season Four of The Diplomat, two marriages threaten to eat each other alive.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Hollywood Arts | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IXQP43JjY4Q",
-      "published": "2026-09-15T13:00:00+00:00",
-      "summary": "New students, new songs, same legendary school. Meet the new class of Hollywood Arts on October 15! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Animals | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=mlBfQJ8oxB0",
-      "published": "2026-09-15T12:00:01+00:00",
-      "summary": "When their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Trap | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=SmaC-w7x63c",
-      "published": "2026-09-15T08:00:00+00:00",
-      "summary": "A memory. A suspicion. A trap. The bait: herself. The Trap, a psychological thriller series from the creator of Dear Child. October 13. Only on Netflix. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -902,7 +891,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 35,
-    "sourceCount": 22
+    "trailerCount": 34,
+    "sourceCount": 21
   }
 }

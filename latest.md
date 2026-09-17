@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-17T09:00:28.492815Z
+Generated: 2026-09-17T14:00:03.422003Z
 
-Today's sweep leans toward Democracy / anti-fascism, Games / criticism, Science / computing. The strongest items in this run are Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live, Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints, and OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system, American kids keep getting shot. Now they’re also increasingly competing for help, and "If the player trusts you enough, they are not going to savescum": Why the makers of some of the best RPGs on PC want you to get used to failing.
 
 ## Briefing
 
@@ -33,34 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live [10/10]
+### 1. OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-European Commission president Ursula von der Leyen says such a partnership is for the European Union’s ‘common strength’ Defence and security editor Meanwhile, Nato’s secretary general said the alliance needs “more UK and more Europe” to…
-
-Link: https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates
-
-### 2. Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up.
-
-Link: https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal
-
-### 3. OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Model adopting ‘jailbreak-like instructions’ among cases as firm says it is introducing new way of tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned the…
+Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that…
 
 Link: https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents
 
-### 4. OpenAI flags new concerning AI behavior, to track model misalignment regularly [10/10]
+### 2. American kids keep getting shot. Now they’re also increasingly competing for help [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In Memphis, programs to help at-risk youths work overtime to make sure they don’t get lost in the criminal justice system One Friday afternoon in late July, at the Shelby county juvenile court in Memphis , a 14-year-old boy waited to learn…
+
+Link: https://www.theguardian.com/us-news/2026/sep/17/memphis-violence-prevention-young-people
+
+### 3. "If the player trusts you enough, they are not going to savescum": Why the makers of some of the best RPGs on PC want you to get used to failing [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+When it comes to RPGs, I am an irredeemable savescummer. I admit it. I'll slam F9 at the drop of a hat (perhaps the hat was dropped as a result of a failed dexterity roll. Unacceptable. Reload).
+
+Link: https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing
+
+### 4. Inside the suddenly explosive world of AI safety [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic
+
+### 5. The Download: mice with part-human brains and climate tech innovators [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/
+
+### 6. With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As the country’s top public health official spends his time in office undermining science, doctors and advocates mount an urgent campaign for childhood vaccines On an early September morning, dozens of families stood in line outside a…
+
+Link: https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns
+
+### 7. Ilhan Omar brings bill to make ICE ‘pay the price’ for terrorizing communities [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Make ICE Pay Act would block nearly $140bn in funding and redirect money to places reeling from Trump crackdown The US congresswoman Ilhan Omar is set to introduce a bill that would make federal immigration agencies “pay the price” for…
+
+Link: https://www.theguardian.com/us-news/2026/sep/17/ilhan-omar-ice-bill
+
+### 8. Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+It’s a chaotic time in an industry that’s reshaping our lives – Guardian reporters and experts recommend the books that help explain how we got here, and where we’re heading Have you been feeling trapped in an endless cycle of artificial…
+
+Link: https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list
+
+### 9. OpenAI flags new concerning AI behavior, to track model misalignment regularly [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -69,52 +114,16 @@ OpenAI has disclosed six reports on unexpected or concerning behavior in artific
 
 Link: https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior
 
-### 5. ‘I thank God for killing me and bringing me back’: Nicolas Winding Refn on the emergency op that inspired his new sci-fi horror [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Notorious for ultra-violent movies like Drive and The Neon Demon, the Dane had lost the will to direct until ‘the Tom Cruise of surgeons’ saved his life – and triggered an astonishing creative rebirth Nicolas Winding Refn has his phone…
-
-Link: https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell
-
-### 6. Charlie Kirk's family blame Utah university officials for his killing [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-String of ‘reckless decisions’ by Utah Valley University officials left him exposed to sniper, attorneys say Charlie Kirk’s family blamed Utah officials for failing to prevent the conservative political activist’s fatal shooting at a state…
-
-Link: https://www.theguardian.com/us-news/2026/sep/16/charlie-kirk-family-utah-officials
-
-### 7. Head Start got her out of homelessness. Trump proposal threatens that help for others [9/10]
-**Source:** NPR Education  
+### 10. As NJ Lowers Math Standards, Fewer Students Can Handle College-Level Work [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A new proposal by the Trump administration would strip protections and funding for homeless students hoping to access Head Start programs.
+A year ago, a report from the University of California San Diego made major waves when it showed that a rising share of its incoming freshmen had math skills that were below the high school level.
 
-Link: https://www.npr.org/2026/09/17/nx-s1-5950524/head-start-got-her-out-of-homelessness-trump-proposal-threatens-that-help-for-others
+Link: https://www.the74million.org/article/as-nj-lowers-math-standards-fewer-students-can-handle-college-level-work/
 
-### 8. Lionsgate releases a new trailer for Sunrise on the Reaping [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood .
-
-Link: https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/
-
-### 9. From Learning to Doing: Putting the Science of Reading Into Practice [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Something wasn’t adding up in Davidson County Schools. Students were making strong gains in reading in kindergarten and first grade. They were developing foundational skills and, for the most part, reading accurately.
-
-Link: https://www.the74million.org/article/from-learning-to-doing-how-davidson-county-schools-is-putting-the-science-of-reading-into-practice/
-
-### 10. Latest Hunger Games: Sunrise on the Reaping Trailer Focuses on the Spark of Rebellion [9/10]
+### 11. Latest Hunger Games: Sunrise on the Reaping Trailer Focuses on the Spark of Rebellion [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,32 +132,23 @@ Revolutions take a long time. The post Latest Hunger Games: Sunrise on the Reapi
 
 Link: https://reactormag.com/sunrise-on-the-reaping-trailer-2/
 
-### 11. Here's why an Arizona medical examiner is working to track heat-related deaths [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.
-
-Link: https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner
-
-### 12. Podcast: Humans Are Reading Your ChatGPT Conversations [7/10]
+### 12. I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The contractors reading real ChatGPT users' prompts; the big out-and-back-in around Automattic; and a16z thinks enshittification isn't real.
+A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.
 
-Link: https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/
+Link: https://www.404media.co/spotify-ai-music-scam/
 
-### 13. 13 gluten-free dessert recipes : There's something for everyone. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 13. Why reshaping memories may hold the key to raising self-esteem [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Eating a gluten-free dessert may sound limiting at first, but the options are endless: There are decadent cakes, chewy cookies, creamy cheesecakes, and more. The post 13 gluten-free dessert recipes : There's something for everyone.
+In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.
 
-Link: https://www.kingarthurbaking.com/blog/2026/09/16/gluten-free-desserts
+Link: https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem
 
 ## YouTube
 
@@ -169,6 +169,15 @@ Link: https://www.youtube.com/watch?v=f4_GfqvKG1I
 Anthropologist Agustín Fuentes joins WIRED to answer the internet's burning questions about human evolution.
 
 Link: https://www.youtube.com/watch?v=Ejun0lzE1vE
+
+### The insurance flaw forcing houses into the ocean [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Dramatic videos show waterfront houses collapsing into the water. It’s happening across the United States, from California to Michigan to Maine. One hotspot is Dare County, N.C.
+
+Link: https://www.youtube.com/watch?v=71qcn0xUtIY
 
 ### Multistory building damaged by Israeli bombardments collapses in Gaza overnight [8/10]
 **Creator:** NPR  
@@ -233,15 +242,6 @@ Celine Dion kicked off her 16-show residency in Paris at the Plenitude Arena on 
 
 Link: https://www.youtube.com/watch?v=xZ2E8C1e2pA
 
-### Federal workers say forced summer relocations have been chaos [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-The Trump administration is moving federal workers into buildings in poor condition, often without permission from Congress. NPR found it's costing taxpayers millions.
-
-Link: https://www.youtube.com/watch?v=FiYWshuGPsQ
-
 ### The Big Marvel's Wolverine Review Debate: Where Do We Stand? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -296,18 +296,18 @@ Link: https://www.youtube.com/watch?v=VCVocwSAVEg
 
 Link: https://www.youtube.com/watch?v=2h5TAwQHZQ8
 
-### Slicing and Dicing in Marvel's Wolverine w/ KC and Marty [7/10]
+### Slicing and Dicing in Marvel's Wolverine w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and Marty are going to show off a few hours of Marvel's Wolverine. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=0tByoE0ieN4
 
-### Yahtzee Tries... Shroom and Gloom and Sprawl Zero [7/10]
+### Yahtzee Tries... Shroom and Gloom and Sprawl Zero [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try Shroom and Gloom and Sprawl Zero. https://store.steampowered.com/app/3271280/Shroom_and_Gloom/ https://store.steampowered.
@@ -559,6 +559,24 @@ Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
 
+### Monster: The Lizzie Borden Story, now playing on Netflix. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Tension is rising. Ella Beatty and Charlie Hunnam star as Lizzie and Andrew Borden in the new season of Monster: The Lizzie Borden Story, now playing on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=BGsER-sXSyw
+
+### Fading Grandeur | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Leandro (Antonio de la Torre) is a fallen marquis who will stop at nothing to regain his lost prestige.
+
+Link: https://www.youtube.com/watch?v=duhj1D_BCT4
+
 ### The Storm | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -657,33 +675,6 @@ Link: https://www.youtube.com/watch?v=sJ9-3eAB6t0
 The award-winning series returns - October 15th, only on Netflix. In Season Four of The Diplomat, two marriages threaten to eat each other alive.
 
 Link: https://www.youtube.com/watch?v=for_t1ySDvk
-
-### Hollywood Arts | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-New students, new songs, same legendary school. Meet the new class of Hollywood Arts on October 15! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=IXQP43JjY4Q
-
-### Animals | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-When their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.
-
-Link: https://www.youtube.com/watch?v=mlBfQJ8oxB0
-
-### The Trap | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A memory. A suspicion. A trap. The bait: herself. The Trap, a psychological thriller series from the creator of Dear Child. October 13. Only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=SmaC-w7x63c
 
 ### Tenzing — Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  
