@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-18T09:00:14.121403Z
+Generated: 2026-09-18T14:00:01.366651Z
 
-Today's sweep leans toward Democracy / press freedom, Tech / media, AI / computing. The strongest items in this run are Doctors raise concerns about views and experience of members on federal task force, "Publishers are afraid of certain parts of the world": Saber Interactive's message to North American studios is to get their head out of their own geography, and Global leaders urged to join initiative to fight extreme inequality.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Control Resonant review, ‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets, and Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: "This is just the beginning".
 
 ## Briefing
 
@@ -33,34 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Doctors raise concerns about views and experience of members on federal task force [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Control Resonant review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Health Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S.
+The first time I ate mold was like something out of a Victorian morality play.
 
-Link: https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force
+Link: https://www.eurogamer.net/control-resonant-review
 
-### 2. "Publishers are afraid of certain parts of the world": Saber Interactive's message to North American studios is to get their head out of their own geography [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Layoffs have been a constant drumbeat in gaming industry news since 2022. Even if the cadence of layoffs seems to have slowed in 2026, the severity of those cuts has not lessened.
-
-Link: https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography
-
-### 3. Global leaders urged to join initiative to fight extreme inequality [10/10]
+### 2. ‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’ More than 1,500 academics and economists from 100-plus countries are urging global leaders to join…
+Guardian readers share how much they spend on food and the changes they’ve had to made in response to rising prices While campaigning for re-election in 2024, Donald Trump stood in front of a table full of groceries – bags of flour,…
 
-Link: https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality
+Link: https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets
 
-### 4. ‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft [10/10]
+### 3. Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: "This is just the beginning" [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record .
+
+Link: https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning
+
+### 4. What Trump’s attacks on mail-in voting mean for the midterms [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The extraordinary danger is that a president who believes he is the law, and the law is him, remains intent on disrupting the electoral process This was originally published in The Stakes 2026, a newsletter about the midterm elections.
+
+Link: https://www.theguardian.com/us-news/2026/sep/17/trump-mail-voting-explained-stakes-newsletter
+
+### 5. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security…
+
+Link: https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot
+
+### 6. ‘Clear retribution’: dismay as key Alzheimer’s study cancelled amid Trump attacks on science [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Participants in Pittsburgh may never learn the results of their cognitive tests – and funding cuts that target ‘DEI’ have the potential to delay vital diagnoses Roderick Blair was surprised when scientific researchers appeared on his…
+
+Link: https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers
+
+### 7. US wheat farmers navigate uncertainty amid drought and geopolitical chaos [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops…
+
+Link: https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics
+
+### 8. Ohio Reading Scores Rise. Is the Science of Reading Working? [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Ohio students’ reading scores rose slightly last school year, the first the science of reading was mandated, but it’s too soon to say whether the phonics-based lessons are making a difference.
+
+Link: https://www.the74million.org/article/ohio-reading-scores-rise-is-the-science-of-reading-working/
+
+### 9. The specter of AI-enabled bioweapons is a wake-up call for biotech [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed.
+
+Link: https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/
+
+### 10. Google is helping write AI chatbot safety laws — while pushing for loopholes [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.
+
+Link: https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google
+
+### 11. ‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -69,34 +132,7 @@ Link: https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to
 
 Link: https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/
 
-### 5. LLMs respond differently to harmful prompts when AI watermarking is used [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-SynthID can cause models to follow harmful instructions they would otherwise refuse.
-
-Link: https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
-
-### 6. Save $30 or more on a refurbished Apple TV 4K [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company.
-
-Link: https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale
-
-### 7. Could AI really end humanity? Post your questions for our tech reporters now [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-After a week of alarming warnings about the technology’s potential to destroy the world as we know it, our expert tech reporters will take your questions on the reality of the AI threat.
-
-Link: https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end-humanity-technology-qanda
-
-### 8. To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot [9/10]
+### 12. To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -104,42 +140,6 @@ Link: https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end
 Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.
 
 Link: https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health
-
-### 9. Opinion: New York Must Not Abandon Regents Exams Without a Better Measure of Readiness [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Board of Regents took another dangerous step this week: one that could leave New York’s 1 million high school and middle school students less prepared for college and the workforce.
-
-Link: https://www.the74million.org/article/new-york-must-not-abandon-regents-exams-without-a-better-measure-of-readiness/
-
-### 10. Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Despite Rockstar Games' silence on the matter, the cat rather seems to be out of the bag about GTA 6 getting its own online component that'll doubtless serve as GTA Online has for GTA 5 .
-
-Link: https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air
-
-### 11. To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Like most of us, Emily Freitag hears a lot about generative artificial intelligence in the classroom. Much of it seems like the typical ed-tech hype.
-
-Link: https://www.the74million.org/article/to-get-past-ai-hype-researchers-watch-students-use-actual-tools-in-class/
-
-### 12. With AI, what's more important for the U.S. — winning or safety? [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Everyone is talking about the spectre of AI catastrophe. Can the U.S. and China agree on guardrails to blunt the biggest risks when their leaders meet next week?
-
-Link: https://www.npr.org/2026/09/17/nx-s1-5973024/with-ai-whats-more-important-for-the-u-s-winning-or-safety
 
 ### 13. Lanterns’ Midseason Trailer Offers More Guy Gardner, More Sinestro, and More Questions [8/10]
 **Source:** Reactor  
@@ -152,12 +152,12 @@ Link: https://reactormag.com/lanterns-midseason-trailer/
 
 ## YouTube
 
-### The New DeepSeek Is Huge. And Somehow Tiny. [8/10]
+### DeepSeek’s Insane New Architecture [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Sources: https://x.
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.
 
 Link: https://www.youtube.com/watch?v=vIHw_2VjSUw
 
@@ -314,6 +314,15 @@ Link: https://www.youtube.com/watch?v=jSm_7SmDhjg
 
 Link: https://www.youtube.com/watch?v=YMroiGDAaw8
 
+### Taking Your TTRPG Questions | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
+
+Link: https://www.youtube.com/watch?v=h1vez0QvPRQ
+
 ### Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -322,15 +331,6 @@ Link: https://www.youtube.com/watch?v=YMroiGDAaw8
 This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=jlU_L_Tn39E
-
-### Taking Your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=h1vez0QvPRQ
 
 ### Getting Our 2D Retro RPG On in Elements Destiny w/ Jack, Jess, and Marty [6/10]
 **Creator:** Second Wind  
@@ -675,6 +675,15 @@ Link: https://www.youtube.com/watch?v=IXQmV0-tF0k
 Catch up on all things Stranger Things: Tales From ’85 ahead of Season 2 dropping September 17, only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=j4Yp461emJE
+
+### BEST OF THE BEST drops this Friday! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Imagine it's your first day of college and you get clocked like this... Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=sJ9-3eAB6t0
 
 ### Knife Edge: Chasing Michelin Stars — Season 2 Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  

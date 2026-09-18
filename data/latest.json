@@ -1,39 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-18T09:00:14.121403Z",
-  "generatedAtDisplay": "2026-09-18 05:00 AM EDT",
+  "generatedAt": "2026-09-18T14:00:01.366651Z",
+  "generatedAtDisplay": "2026-09-18 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, AI / computing. The strongest items in this run are Doctors raise concerns about views and experience of members on federal task force, \"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography, and Global leaders urged to join initiative to fight extreme inequality.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Control Resonant review, ‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets, and Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\".",
   "mainItems": [
     {
-      "title": "Doctors raise concerns about views and experience of members on federal task force",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
-      "published": "2026-09-18T08:44:41+00:00",
-      "summary": "Health Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Control Resonant review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/control-resonant-review",
+      "published": "2026-09-18T13:00:00+00:00",
+      "summary": "The first time I ate mold was like something out of a Victorian morality play.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
-      "published": "2026-09-18T08:15:00+00:00",
-      "summary": "Layoffs have been a constant drumbeat in gaming industry news since 2022. Even if the cadence of layoffs seems to have slowed in 2026, the severity of those cuts has not lessened.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Global leaders urged to join initiative to fight extreme inequality",
+      "title": "‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-      "published": "2026-09-18T06:00:11+00:00",
-      "summary": "More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’ More than 1,500 academics and economists from 100-plus countries are urging global leaders to join…",
+      "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
+      "published": "2026-09-18T12:00:18+00:00",
+      "summary": "Guardian readers share how much they spend on food and the changes they’ve had to made in response to rising prices While campaigning for re-election in 2024, Donald Trump stood in front of a table full of groceries – bags of flour,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
+      "published": "2026-09-18T11:55:42+00:00",
+      "summary": "Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What Trump’s attacks on mail-in voting mean for the midterms",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-mail-voting-explained-stakes-newsletter",
+      "published": "2026-09-18T11:30:16+00:00",
+      "summary": "The extraordinary danger is that a president who believes he is the law, and the law is him, remains intent on disrupting the electoral process This was originally published in The Stakes 2026, a newsletter about the midterm elections.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "published": "2026-09-18T11:20:44+00:00",
+      "summary": "US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Clear retribution’: dismay as key Alzheimer’s study cancelled amid Trump attacks on science",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers",
+      "published": "2026-09-18T11:00:18+00:00",
+      "summary": "Participants in Pittsburgh may never learn the results of their cognitive tests – and funding cuts that target ‘DEI’ have the potential to delay vital diagnoses Roderick Blair was surprised when scientific researchers appeared on his…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+      "published": "2026-09-18T11:00:17+00:00",
+      "summary": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ohio Reading Scores Rise. Is the Science of Reading Working?",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/ohio-reading-scores-rise-is-the-science-of-reading-working/",
+      "published": "2026-09-18T10:30:00+00:00",
+      "summary": "Ohio students’ reading scores rose slightly last school year, the first the science of reading was mandated, but it’s too soon to say whether the phonics-based lessons are making a difference.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "published": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "published": "2026-09-18T09:00:00+00:00",
+      "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -47,36 +117,6 @@
       "score": 10
     },
     {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "published": "2026-09-17T18:33:13+00:00",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Save $30 or more on a refurbished Apple TV 4K",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-      "published": "2026-09-17T17:14:07+00:00",
-      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Could AI really end humanity? Post your questions for our tech reporters now",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end-humanity-technology-qanda",
-      "published": "2026-09-18T07:14:11+00:00",
-      "summary": "After a week of alarming warnings about the technology’s potential to destroy the world as we know it, our expert tech reporters will take your questions on the reality of the AI threat.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
       "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
       "source": "NPR Health",
       "category": "Science / health",
@@ -85,46 +125,6 @@
       "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
-    },
-    {
-      "title": "Opinion: New York Must Not Abandon Regents Exams Without a Better Measure of Readiness",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-york-must-not-abandon-regents-exams-without-a-better-measure-of-readiness/",
-      "published": "2026-09-17T15:30:00+00:00",
-      "summary": "The Board of Regents took another dangerous step this week: one that could leave New York’s 1 million high school and middle school students less prepared for college and the workforce.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-      "published": "2026-09-17T15:02:50+00:00",
-      "summary": "Despite Rockstar Games' silence on the matter, the cat rather seems to be out of the bag about GTA 6 getting its own online component that'll doubtless serve as GTA Online has for GTA 5 .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/to-get-past-ai-hype-researchers-watch-students-use-actual-tools-in-class/",
-      "published": "2026-09-17T11:00:00+00:00",
-      "summary": "Like most of us, Emily Freitag hears a lot about generative artificial intelligence in the classroom. Much of it seems like the typical ed-tech hype.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "With AI, what's more important for the U.S. — winning or safety?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5973024/with-ai-whats-more-important-for-the-u-s-winning-or-safety",
-      "published": "2026-09-17T21:14:48+00:00",
-      "summary": "Everyone is talking about the spectre of AI catastrophe. Can the U.S. and China agree on guardrails to blunt the biggest risks when their leaders meet next week?",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     },
     {
       "title": "Lanterns’ Midseason Trailer Offers More Guy Gardner, More Sinestro, and More Questions",
@@ -139,12 +139,12 @@
   ],
   "youtube": [
     {
-      "title": "The New DeepSeek Is Huge. And Somehow Tiny.",
+      "title": "DeepSeek’s Insane New Architecture",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
       "published": "2026-09-18T07:03:46+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Sources: https://x.",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -337,6 +337,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Taking Your TTRPG Questions | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=h1vez0QvPRQ",
+      "published": "2026-09-18T10:17:26+00:00",
+      "summary": "Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -346,17 +357,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Taking Your TTRPG Questions | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=h1vez0QvPRQ",
-      "published": "2026-09-17T19:16:59+00:00",
-      "summary": "Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Getting Our 2D Retro RPG On in Elements Destiny w/ Jack, Jess, and Marty",
@@ -746,6 +746,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "BEST OF THE BEST drops this Friday!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=sJ9-3eAB6t0",
+      "published": "2026-09-15T15:00:00+00:00",
+      "summary": "Imagine it's your first day of college and you get clocked like this... Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Knife Edge: Chasing Michelin Stars — Season 2 Official Trailer | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -880,7 +891,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 26,
-    "trailerCount": 31,
-    "sourceCount": 22
+    "trailerCount": 32,
+    "sourceCount": 21
   }
 }
