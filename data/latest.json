@@ -1,19 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-17T18:00:29.214655Z",
-  "generatedAtDisplay": "2026-09-17 02:00 PM EDT",
+  "generatedAt": "2026-09-18T05:00:01.863050Z",
+  "generatedAtDisplay": "2026-09-18 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are White House withdraws nomination of ex-state trooper Lance Schroyer to head ICE, Save $30 or more on a refurbished Apple TV 4K, and US passenger duct-taped to plane seat says: ‘I don’t remember any of it’.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / anti-fascism, Tech / media. The strongest items in this run are ‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft, LLMs respond differently to harmful prompts when AI watermarking is used, and Save $30 or more on a refurbished Apple TV 4K.",
   "mainItems": [
     {
-      "title": "White House withdraws nomination of ex-state trooper Lance Schroyer to head ICE",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
-      "published": "2026-09-17T17:38:10+00:00",
-      "summary": "Critics had criticized administration for nominating Schroyer, who has no formal experience working in ICE The White House has withdrawn the nomination of former Oklahoma state trooper Lance Schroyer to head Immigration and Customs…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+      "published": "2026-09-17T22:01:43+00:00",
+      "summary": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published": "2026-09-17T18:33:13+00:00",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -27,24 +37,54 @@
       "score": 10
     },
     {
-      "title": "US passenger duct-taped to plane seat says: ‘I don’t remember any of it’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/duct-tape-plane-seat-passenger",
-      "published": "2026-09-17T16:49:18+00:00",
-      "summary": "After being read charges, Layne Lundeen said: ‘I assaulted a police officer? Is that what it says? I don’t have my glasses’ An American Airlines passenger who was duct-taped to his seat following an alleged outburst including racial and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "published": "2026-09-17T16:18:34+00:00",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
-      "published": "2026-09-17T16:45:58+00:00",
-      "summary": "The Trump administration's efforts to lower drug prices included promised changes to Medicaid. But it's still unclear which drugs will be affected. And each state has to opt in.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Trump’s love of fossil fuels is about more than money | Moira Donegan",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry",
+      "published": "2026-09-17T10:00:45+00:00",
+      "summary": "The US decision to remove limits on coal and gas plant emissions is rooted in a perception of manliness in these industries You can impress a certain kind of person at a party by reciting the fact that there are more yoga instructors in…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
+    },
+    {
+      "title": "No hope, no vote … how most of Delhi’s sex workers are being struck off electoral rolls",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/sep/18/delhi-sex-workers-vote-modi-electoral-rolls-documentation-gb-road",
+      "published": "2026-09-18T03:00:06+00:00",
+      "summary": "Modi’s bid to ‘purify’ voter lists has affected a third of the city’s residents.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+      "published": "2026-09-17T19:33:30+00:00",
+      "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "New lawsuit alleges Epstein possessed ‘child sexual abuse material of countless children’",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/epstein-lawsuit-child-sexual-abuse-material",
+      "published": "2026-09-17T16:22:34+00:00",
+      "summary": "Two women who filed suit against Epstein estate ask court to order program to notify potential victims Jeffrey Epstein ’s estate is facing a new lawsuit filed by two women who allege that Epstein possessed child sexual abuse material…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "Opinion: New York Must Not Abandon Regents Exams Without a Better Measure of Readiness",
@@ -54,37 +94,27 @@
       "published": "2026-09-17T15:30:00+00:00",
       "summary": "The Board of Regents took another dangerous step this week: one that could leave New York’s 1 million high school and middle school students less prepared for college and the workforce.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "I’m nearly 30, a virgin and feel lonely. The manosphere is trying to draw me in – where else can I seek assurance? | Leading questions",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/18/im-a-virgin-the-manosphere-is-trying-to-draw-me-in-advice",
-      "published": "2026-09-17T15:00:52+00:00",
-      "summary": "The manosphere says this type of suffering is targeted neglect, writes advice columnist Eleanor Gordon-Smith . But your suffering gives you the ability to make your part of the world better.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
+      "published": "2026-09-17T15:02:50+00:00",
+      "summary": "Despite Rockstar Games' silence on the matter, the cat rather seems to be out of the bag about GTA 6 getting its own online component that'll doubtless serve as GTA Online has for GTA 5 .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-      "published": "2026-09-17T13:33:57+00:00",
-      "summary": "Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t",
-      "source": "The Guardian US",
+      "title": "To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns",
-      "published": "2026-09-17T12:00:50+00:00",
-      "summary": "As the country’s top public health official spends his time in office undermining science, doctors and advocates mount an urgent campaign for childhood vaccines On an early September morning, dozens of families stood in line outside a…",
+      "url": "https://www.the74million.org/article/to-get-past-ai-hype-researchers-watch-students-use-actual-tools-in-class/",
+      "published": "2026-09-17T11:00:00+00:00",
+      "summary": "Like most of us, Emily Freitag hears a lot about generative artificial intelligence in the classroom. Much of it seems like the typical ed-tech hype.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
@@ -94,50 +124,109 @@
       "published": "2026-09-17T06:44:49+00:00",
       "summary": "OpenAI has disclosed six reports on unexpected or concerning behavior in artificial-intelligence models. This includes models acting without authorization or evading oversight.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "New lawsuit alleges Epstein possessed ‘child sexual abuse material of countless children’",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/epstein-lawsuit-child-sexual-abuse-material",
-      "published": "2026-09-17T16:22:34+00:00",
-      "summary": "Two women who filed the suit against the Epstein estate are seeking a court-ordered program to notify potential victims Jeffrey Epstein ’s estate is facing a new lawsuit filed by two women who allege that Epstein possessed child sexual…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-      "published": "2026-09-17T15:25:39+00:00",
-      "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/spotify-ai-music-scam/",
-      "published": "2026-09-17T13:33:52+00:00",
-      "summary": "A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Why reshaping memories may hold the key to raising self-esteem",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
-      "published": "2026-09-17T09:02:00+00:00",
-      "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Strange New Worlds Showrunners Explain Why There Are Still So Many Gimmick Episodes",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/strange-new-worlds-gimmick-episodes-explained/",
+      "published": "2026-09-17T18:53:03+00:00",
+      "summary": "\"The original series always jumped around in genre\" The post Strange New Worlds Showrunners Explain Why There Are Still So Many Gimmick Episodes appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jlU_L_Tn39E",
+      "published": "2026-09-18T00:39:06+00:00",
+      "summary": "This video is brought to you by Let's Build a Dungeon, the game studio management sim from the creators of Let's Build a Zoo. Wishlist now and play the demo on Steam or Xbox. - https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Taking Your TTRPG Questions | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=h1vez0QvPRQ",
+      "published": "2026-09-17T19:16:59+00:00",
+      "summary": "Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Getting Our 2D Retro RPG On in Elements Destiny w/ Jack, Jess, and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=VY48FGfcloA",
+      "published": "2026-09-17T19:10:30+00:00",
+      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Pursuit of Graphical “Realism” Is Dangerous | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7lIbr2QVaV8",
+      "published": "2026-09-17T15:00:34+00:00",
+      "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Slicing and Dicing in Marvel's Wolverine w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0tByoE0ieN4",
+      "published": "2026-09-17T00:59:55+00:00",
+      "summary": "KC and Marty are going to show off a few hours of Marvel's Wolverine. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Shroom and Gloom and Sprawl Zero",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=nl5j8z0Ar90",
+      "published": "2026-09-16T22:13:24+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Shroom and Gloom and Sprawl Zero. https://store.steampowered.com/app/3271280/Shroom_and_Gloom/ https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "STAR WARS Zero Company | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JTVKa4jrCEA",
+      "published": "2026-09-16T16:00:13+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Star Wars Zero Company. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "More Elden Ring Co-op w/ Jack and Jenna, aka, the Tarnished Twins",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ti47xKu4uko",
+      "published": "2026-09-15T22:14:44+00:00",
+      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +339,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 8,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 10
   }
 }
