@@ -1,29 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-18T18:00:30.495421Z",
-  "generatedAtDisplay": "2026-09-18 02:00 PM EDT",
+  "generatedAt": "2026-09-19T05:00:01.656310Z",
+  "generatedAtDisplay": "2026-09-19 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump administration sued over threat to deploy federal law enforcement at voting sites, Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors, and Security researchers used Claude to help them hack into OpenAI.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / computing, AI / privacy. The strongest items in this run are Google says its Gemini AI model hacked three other companies, OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web, and Trump administration sued over threat to deploy federal law enforcement at voting sites.",
   "mainItems": [
+    {
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "published": "2026-09-19T00:53:20+00:00",
+      "summary": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "published": "2026-09-18T21:07:24+00:00",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Trump administration sued over threat to deploy federal law enforcement at voting sites",
       "source": "The Guardian US",
       "category": "AI / privacy",
       "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting",
-      "published": "2026-09-18T17:03:29+00:00",
+      "published": "2026-09-18T19:17:55+00:00",
       "summary": "Civil rights groups say plan will make people ‘afraid to vote’ and violates the Voting Rights Act US politics live – latest updates A coalition of civil rights groups filed a lawsuit against Trump administration officials on Friday,…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors",
-      "published": "2026-09-18T17:00:23+00:00",
-      "summary": "Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackers Vast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,46 +47,6 @@
       "score": 10
     },
     {
-      "title": "How LAUSD Teachers Are Adapting to Accommodate Screen Time Policy",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-lausd-teachers-are-adapting-to-accommodate-screen-time-policy/",
-      "published": "2026-09-18T16:30:00+00:00",
-      "summary": "A month into the school year, teachers in the Los Angeles Unified School District are still adapting to the district’s new policy that bans screen time for its youngest kids and will soon place significant restrictions on older students.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Trump’s authoritarian mindset can’t handle dissent from his appointees",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-authoritarian-dissent-appointees",
-      "published": "2026-09-18T15:01:40+00:00",
-      "summary": "Defiance from the supreme court and the Federal Reserve chair in one week ... how ever will the US president cope? “It’s not personal, Sonny. It’s strictly business,” Michael Corleone tells his brother, Sonny, in The Godfather.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "published": "2026-09-18T13:30:12+00:00",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "published": "2026-09-18T11:20:44+00:00",
-      "summary": "US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "‘Clear retribution’: dismay as key Alzheimer’s study cancelled amid Trump attacks on science",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -87,24 +57,44 @@
       "score": 10
     },
     {
-      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "title": "Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-      "published": "2026-09-18T11:00:17+00:00",
-      "summary": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/thousands-protest-closure-of-the-kennedy-center-amid-fears-trump-is-set-to-demolish-the-institution",
+      "published": "2026-09-19T03:33:16+00:00",
+      "summary": "Demonstrators gathered outside the building in Washington, after the president was spotted holding a placard that read: ‘Kennedy Center DEMOLIS ...",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "‘He was making history, not copying it’: the greatest Gordon Parks photographs",
+      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/gordon-parks-photography-exhibit",
-      "published": "2026-09-18T09:00:13+00:00",
-      "summary": "As a new exhibition celebrates the 20th anniversary of the Gordon Parks Foundation, those who knew him discuss his most powerful images Gordon Parks was not only a renowned photographer but also a poet, composer, director and mentor to so…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+      "published": "2026-09-18T23:08:49+00:00",
+      "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "State Colleges, PreK-12 Schools Must Implement AI Guardrails Before July",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/state-colleges-prek-12-schools-must-implement-ai-guardrails-before-july/",
+      "published": "2026-09-18T18:30:00+00:00",
+      "summary": "The body regulating Florida public schools and state colleges Wednesday approved what the Florida Department of Education calls “one of the most comprehensive, parent-centered AI frameworks in the country.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+      "published": "2026-09-18T16:52:24+00:00",
+      "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "How Google is drafting AI chatbot laws around the country",
@@ -114,27 +104,37 @@
       "published": "2026-09-18T09:00:00+00:00",
       "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
-      "published": "2026-09-17T22:01:43+00:00",
-      "summary": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "title": "How Outlander: Blood of My Blood Season 2 Handles the Claire of It All",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/how-outlander-blood-of-my-blood-season-2-claire/",
+      "published": "2026-09-18T20:43:39+00:00",
+      "summary": "\"The reality that she may never see her daughter again kicks in… that breaks her heart.\" The post How Outlander: Blood of My Blood Season 2 Handles the Claire of It All appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
-      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
+      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-      "published": "2026-09-17T19:33:30+00:00",
-      "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+      "published": "2026-09-18T16:07:51+00:00",
+      "summary": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "404 Media x The Intercept Live: How AI Is Used to Surveil and Kill",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
+      "published": "2026-09-18T15:47:19+00:00",
+      "summary": "404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 8
   }
 }
