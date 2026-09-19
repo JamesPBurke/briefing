@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-19T09:00:29.954858Z
+Generated: 2026-09-19T14:00:02.234576Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are The Guide #261: There is so much good telly this autumn you may never go outside again, Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious, and Deep cuts: how one Londoner’s fake vinyl empire sheds light on ‘industrial scale’ fraud.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are China bogeyman looms large over American firms’ AI doomsday scenario, ‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life, and ‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war.
 
 ## Briefing
 
@@ -33,43 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The Guide #261: There is so much good telly this autumn you may never go outside again [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In this week’s newsletter: From HBO’s incredible divorce drama War to the hilarious return of The Paper, there’s too much TV to choose from even for a confirmed addict like me For those of us who like to stay indoors, it has been a bad…
-
-Link: https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper
-
-### 2. Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious [10/10]
+### 1. China bogeyman looms large over American firms’ AI doomsday scenario [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The perils of ageing and the horrors of finding post-divorce romance are laid bare in the new show from the creator of Motherland.
+Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity When reporters asked Donald Trump this week if he supported calls to slow down the…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/sep/19/youth-sharon-horgans-comedy-dating-at-50-hbo-max
+Link: https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
 
-### 3. Deep cuts: how one Londoner’s fake vinyl empire sheds light on ‘industrial scale’ fraud [10/10]
+### 2. ‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Thousands of knock-off records worth a fortune are being seized in the UK by anti-counterfeit police stings From 2017 onwards, Rehan Ahmed styled himself as a savvy business owner.
+From the blissful threat of ‘death by chocolate’, to a book made of sponge and the lemon drizzle to end them all, these are the bakes that left the biggest impressions The Sorting Hat sponge I made for my son’s Harry Potter party is not…
 
-Link: https://www.theguardian.com/music/2026/sep/19/fake-vinyl-empire-sheds-light-industrial-scale-fraud
+Link: https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life
 
-### 4. From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence.
-
-Link: https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary
-
-### 5. ‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war [10/10]
+### 3. ‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +60,7 @@ Moment of reckoning for ‘Mr Nice Guy’ of music, who embraced Macklemore’s 
 
 Link: https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine
 
-### 6. ‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists [10/10]
+### 4. ‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,23 +69,41 @@ Exclusive: In her first media interview since fleeing Russia, Rita Flores descri
 
 Link: https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores
 
-### 7. OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web [10/10]
+### 5. Google says its Gemini AI model hacked three other companies [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May.
+
+Link: https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack
+
+### 6. Security researchers used Claude to help them hack into OpenAI [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.
+A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+Link: https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
 
-### 8. What we've been playing - "the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out" [9/10]
+### 7. Learning another language may be one of the best ways to keep your brain healthy [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Research suggests that bilingualism can offer cognitive benefits.
+
+Link: https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/
+
+### 8. HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women.
 
-Link: https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral
+Link: https://www.eurogamer.net/nodusfall-gamescom-preview
 
 ### 9. State Colleges, PreK-12 Schools Must Implement AI Guardrails Before July [9/10]
 **Source:** The 74  
@@ -114,7 +114,25 @@ The body regulating Florida public schools and state colleges Wednesday approved
 
 Link: https://www.the74million.org/article/state-colleges-prek-12-schools-must-implement-ai-guardrails-before-july/
 
-### 10. Despite calls for Congress to take action on AI, the House went home early [8/10]
+### 10. Ancient teeth pose a mystery: What made those strange grooves? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.
+
+Link: https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs
+
+### 11. ‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Some 600 million years ago, the supercontinent Gondwana produced a colossal mountain range that helped set the stage for all modern complex life, according to a new examination of tiny ancient rocks.
+
+Link: https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/
+
+### 12. Despite calls for Congress to take action on AI, the House went home early [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -122,24 +140,6 @@ Link: https://www.the74million.org/article/state-colleges-prek-12-schools-must-i
 In spite of growing calls for Congress to take action on AI, the House went home early and won't be back until after this November's midterm elections.
 
 Link: https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early
-
-### 11. Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030? [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?
-
-Link: https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender
-
-### 12. 404 Media x The Intercept Live: How AI Is Used to Surveil and Kill [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.
-
-Link: https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/
 
 ### 13. How Outlander: Blood of My Blood Season 2 Handles the Claire of It All [7/10]
 **Source:** Reactor  
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=F9UDVoXNLaY
 
 Link: https://www.youtube.com/watch?v=CI3l0f9KCpw
 
-### Crawling Through Dungeons in Crystals of Irm w/ Jesse, KC, and Jess [8/10]
+### Crawling Through Dungeons in Crystals of Irm w/ Jesse, KC, and Jess [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.

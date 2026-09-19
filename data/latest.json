@@ -1,48 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-19T09:00:29.954858Z",
-  "generatedAtDisplay": "2026-09-19 05:00 AM EDT",
+  "generatedAt": "2026-09-19T14:00:02.234576Z",
+  "generatedAtDisplay": "2026-09-19 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are The Guide #261: There is so much good telly this autumn you may never go outside again, Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious, and Deep cuts: how one Londoner’s fake vinyl empire sheds light on ‘industrial scale’ fraud.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are China bogeyman looms large over American firms’ AI doomsday scenario, ‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life, and ‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war.",
   "mainItems": [
     {
-      "title": "The Guide #261: There is so much good telly this autumn you may never go outside again",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper",
-      "published": "2026-09-19T06:00:40+00:00",
-      "summary": "In this week’s newsletter: From HBO’s incredible divorce drama War to the hilarious return of The Paper, there’s too much TV to choose from even for a confirmed addict like me For those of us who like to stay indoors, it has been a bad…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Youth: Sharon Horgan’s comedy about dating at 50 is utterly hilarious",
+      "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/19/youth-sharon-horgans-comedy-dating-at-50-hbo-max",
-      "published": "2026-09-19T06:00:40+00:00",
-      "summary": "The perils of ageing and the horrors of finding post-divorce romance are laid bare in the new show from the creator of Motherland.",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+      "published": "2026-09-19T10:00:45+00:00",
+      "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity When reporters asked Donald Trump this week if he supported calls to slow down the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Deep cuts: how one Londoner’s fake vinyl empire sheds light on ‘industrial scale’ fraud",
+      "title": "‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/sep/19/fake-vinyl-empire-sheds-light-industrial-scale-fraud",
-      "published": "2026-09-19T06:00:38+00:00",
-      "summary": "Thousands of knock-off records worth a fortune are being seized in the UK by anti-counterfeit police stings From 2017 onwards, Rehan Ahmed styled himself as a savvy business owner.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
-      "published": "2026-09-19T05:00:37+00:00",
-      "summary": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence.",
+      "url": "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life",
+      "published": "2026-09-19T10:00:44+00:00",
+      "summary": "From the blissful threat of ‘death by chocolate’, to a book made of sponge and the lemon drizzle to end them all, these are the bakes that left the biggest impressions The Sorting Hat sponge I made for my son’s Harry Potter party is not…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,22 +47,42 @@
       "score": 10
     },
     {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "published": "2026-09-19T00:53:20+00:00",
+      "summary": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "published": "2026-09-18T21:07:24+00:00",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "published": "2026-09-18T16:30:32+00:00",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "published": "2026-09-19T11:10:43+00:00",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
-      "published": "2026-09-19T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "url": "https://www.eurogamer.net/nodusfall-gamescom-preview",
+      "published": "2026-09-19T09:00:00+00:00",
+      "summary": "Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
@@ -97,6 +97,26 @@
       "score": 9
     },
     {
+      "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+      "published": "2026-09-19T11:21:56+00:00",
+      "summary": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/",
+      "published": "2026-09-19T10:00:27+00:00",
+      "summary": "Some 600 million years ago, the supercontinent Gondwana produced a colossal mountain range that helped set the stage for all modern complex life, according to a new examination of tiny ancient rocks.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "Despite calls for Congress to take action on AI, the House went home early",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -104,26 +124,6 @@
       "published": "2026-09-18T23:09:36+00:00",
       "summary": "In spite of growing calls for Congress to take action on AI, the House went home early and won't be back until after this November's midterm elections.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-      "published": "2026-09-18T16:07:51+00:00",
-      "summary": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "404 Media x The Intercept Live: How AI Is Used to Surveil and Kill",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
-      "published": "2026-09-18T15:47:19+00:00",
-      "summary": "404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -322,8 +322,8 @@
       "published": "2026-09-18T23:10:08+00:00",
       "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Onimusha: Way of the Sword Loves It When You Parry",
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 24,
     "trailerCount": 31,
-    "sourceCount": 21
+    "sourceCount": 22
   }
 }
