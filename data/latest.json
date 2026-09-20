@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-19T18:01:29.347339Z",
-  "generatedAtDisplay": "2026-09-19 02:01 PM EDT",
+  "generatedAt": "2026-09-20T05:00:03.805772Z",
+  "generatedAtDisplay": "2026-09-20 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web, Gemini went rogue, hacked three companies, and Google hid it, and Trump’s battle to rename the Kennedy Center has put its future at risk.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Gavin Newsom signs election security bills to thwart federal interference by Trump, Gemini went rogue, hacked three companies, and Google hid it, and Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty.",
   "mainItems": [
     {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "published": "2026-09-19T16:18:50+00:00",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Gavin Newsom signs election security bills to thwart federal interference by Trump",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference",
+      "published": "2026-09-20T00:43:17+00:00",
+      "summary": "Bills signed by California governor safeguard vote by mail and make seizing ballots or election records a felony California governor Gavin Newsom has signed off on a package of bills aimed at bolstering election security, including…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -27,12 +27,12 @@
       "score": 10
     },
     {
-      "title": "Trump’s battle to rename the Kennedy Center has put its future at risk",
+      "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future",
-      "published": "2026-09-19T13:30:48+00:00",
-      "summary": "The president has threatened to block renovations and suggested the landmark could be demolished after courts ruled against his bid to rename it It was born with the world premiere of Leonard Bernstein’s Mass.",
+      "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
+      "published": "2026-09-19T14:43:07+00:00",
+      "summary": "Statement sought to clarify Trump’s announcement that US will have ‘permanent control’ over Greenland’s security Denmark and Greenland have said any agreement with the US to develop a significant military presence in the strategic Arctic…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -67,44 +67,54 @@
       "score": 10
     },
     {
-      "title": "Minneapolis Looks to Close as Many as 16 Schools Amid Declining Enrollment",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/minneapolis-looks-to-close-as-many-as-16-schools-amid-declining-enrollment/",
-      "published": "2026-09-19T16:30:00+00:00",
-      "summary": "Minneapolis Public Schools is taking the first steps toward closing as many as 16 schools after years of declining enrollment has left it with an expansive real estate portfolio that includes more than 12,000 empty desks.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "published": "2026-09-19T16:18:50+00:00",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
+      "title": "Trump’s battle to rename the Kennedy Center has put its future at risk",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
-      "published": "2026-09-19T14:52:24+00:00",
-      "summary": "Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world war Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future",
+      "published": "2026-09-19T13:30:48+00:00",
+      "summary": "The president has threatened to block renovations and suggested the landmark could be demolished after courts ruled against his bid to rename it It was born with the world premiere of Leonard Bernstein’s Mass.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "published": "2026-09-18T19:30:34+00:00",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+      "published": "2026-09-19T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "published": "2026-09-18T18:54:39+00:00",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "‘The rules have changed’: has Russia begun to order assassinations on US soil?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil",
+      "published": "2026-09-20T04:00:05+00:00",
+      "summary": "Exiled dissidents and an unsealed indictment suggest Kremlin may have abandoned longstanding taboo on attacks on its rival’s territory Roman Dobrokhotov had been content enough for his appearance at a conference in Washington DC this week…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "University president embraces DEI despite Trump administration rollbacks",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5789858/university-president-embraces-dei-despite-trump-administration-rollbacks",
+      "published": "2026-09-19T21:05:28+00:00",
+      "summary": "The President of Sacramento State talks about their Black honors college -- and how schools are dealings with DEI under the Trump administration.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
@@ -124,16 +134,6 @@
       "published": "2026-09-19T10:00:27+00:00",
       "summary": "Some 600 million years ago, the supercontinent Gondwana produced a colossal mountain range that helped set the stage for all modern complex life, according to a new examination of tiny ancient rocks.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Despite calls for Congress to take action on AI, the House went home early",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early",
-      "published": "2026-09-18T23:09:36+00:00",
-      "summary": "In spite of growing calls for Congress to take action on AI, the House went home early and won't be back until after this November's midterm elections.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     }
   ],

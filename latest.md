@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-19T18:01:29.347339Z
+Generated: 2026-09-20T05:00:03.805772Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web, Gemini went rogue, hacked three companies, and Google hid it, and Trump’s battle to rename the Kennedy Center has put its future at risk.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Gavin Newsom signs election security bills to thwart federal interference by Trump, Gemini went rogue, hacked three companies, and Google hid it, and Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 1. Gavin Newsom signs election security bills to thwart federal interference by Trump [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.
+Bills signed by California governor safeguard vote by mail and make seizing ballots or election records a felony California governor Gavin Newsom has signed off on a package of bills aimed at bolstering election security, including…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+Link: https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference
 
 ### 2. Gemini went rogue, hacked three companies, and Google hid it [10/10]
 **Source:** The Verge  
@@ -51,14 +51,14 @@ In May, Gemini broke containment and hacked three different companies, but Googl
 
 Link: https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
 
-### 3. Trump’s battle to rename the Kennedy Center has put its future at risk [10/10]
+### 3. Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The president has threatened to block renovations and suggested the landmark could be demolished after courts ruled against his bid to rename it It was born with the world premiere of Leonard Bernstein’s Mass.
+Statement sought to clarify Trump’s announcement that US will have ‘permanent control’ over Greenland’s security Denmark and Greenland have said any agreement with the US to develop a significant military presence in the strategic Arctic…
 
-Link: https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future
+Link: https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty
 
 ### 4. China bogeyman looms large over American firms’ AI doomsday scenario [10/10]
 **Source:** The Guardian US  
@@ -87,43 +87,52 @@ Moment of reckoning for ‘Mr Nice Guy’ of music, who embraced Macklemore’s 
 
 Link: https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine
 
-### 7. Minneapolis Looks to Close as Many as 16 Schools Amid Declining Enrollment [9/10]
-**Source:** The 74  
+### 7. OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+
+### 8. Trump’s battle to rename the Kennedy Center has put its future at risk [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The president has threatened to block renovations and suggested the landmark could be demolished after courts ruled against his bid to rename it It was born with the world premiere of Leonard Bernstein’s Mass.
+
+Link: https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future
+
+### 9. What we've been playing - "the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral
+
+### 10. ‘The rules have changed’: has Russia begun to order assassinations on US soil? [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Exiled dissidents and an unsealed indictment suggest Kremlin may have abandoned longstanding taboo on attacks on its rival’s territory Roman Dobrokhotov had been content enough for his appearance at a conference in Washington DC this week…
+
+Link: https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil
+
+### 11. University president embraces DEI despite Trump administration rollbacks [8/10]
+**Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Minneapolis Public Schools is taking the first steps toward closing as many as 16 schools after years of declining enrollment has left it with an expansive real estate portfolio that includes more than 12,000 empty desks.
+The President of Sacramento State talks about their Black honors college -- and how schools are dealings with DEI under the Trump administration.
 
-Link: https://www.the74million.org/article/minneapolis-looks-to-close-as-many-as-16-schools-amid-declining-enrollment/
+Link: https://www.npr.org/2026/09/19/nx-s1-5789858/university-president-embraces-dei-despite-trump-administration-rollbacks
 
-### 8. Jewish heirs of Holocaust victims sue California museum over Nazi-looted art [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world war Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi…
-
-Link: https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art
-
-### 9. Does AI need an antitrust exemption so it doesn’t kill everyone???? [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration.
-
-Link: https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition
-
-### 10. Disney’s first CTO is Character.AI’s former CEO [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time.
-
-Link: https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai
-
-### 11. Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use [8/10]
+### 12. Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ New research on ancient human remains suggests the habitual usage of betel nuts,
 
 Link: https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs
 
-### 12. ‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover [8/10]
+### 13. ‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +150,37 @@ Some 600 million years ago, the supercontinent Gondwana produced a colossal moun
 
 Link: https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/
 
-### 13. Despite calls for Congress to take action on AI, the House went home early [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+## YouTube
 
-In spite of growing calls for Congress to take action on AI, the House went home early and won't be back until after this November's midterm elections.
+_No YouTube picks in this briefing._
 
-Link: https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
