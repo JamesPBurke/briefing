@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-21T09:00:30.824223Z
+Generated: 2026-09-21T14:00:02.616458Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog, Banished to alien lands: Trump’s secret deportation deals, and ICE agent shoots and wounds man at traffic stop in Austin, Texas, officials say.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are US hunter charged after fatally shooting woman he mistook for a deer, police say, iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit, and CNN, MS Now and Politico to sue Trump after being blocked from White House.
 
 ## Briefing
 
@@ -33,104 +33,104 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog [10/10]
+### 1. US hunter charged after fatally shooting woman he mistook for a deer, police say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Walter Moorhead, 74, jailed on suspicion of manslaughter after allegedly shooting a woman while hunting in Delaware A Maryland hunter was recently jailed on suspicion of manslaughter after he allegedly fatally shot a woman whom he mistook…
+
+Link: https://www.theguardian.com/us-news/2026/sep/21/maryland-hunter-fatally-shot-woman-mistook-deer
+
+### 2. iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.
+
+Link: https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement
+
+### 3. CNN, MS Now and Politico to sue Trump after being blocked from White House [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Three news outlets will file lawsuit in attempt to regain access to the White House after having badges disabled In what will be one of the largest battles yet between the press and Donald Trump’s administration , three news organizations…
+
+Link: https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit
+
+### 4. Teardown details the iPhone 18 Pro’s mechanical camera [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of.
+
+Link: https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown
+
+### 5. Apple Mac mini review: The new M6 impresses, but the price hike is rough [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The M4 Mac mini was one of Apple's best values ever. This one, not so much.
+
+Link: https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
+
+### 6. Googlebooks launch October 4 starting at $899—here are the five models you can preorder today [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.
+
+Link: https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
+
+### 7. The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebrating local culture.
+Having launched though the same system of reservations and waitlists as the Steam Machine , the Steam Frame is still navigating that inscrutable void betixt "on sale" and "actually out.
 
-Link: https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog
+Link: https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug
 
-### 2. Banished to alien lands: Trump’s secret deportation deals [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries.
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals
-
-### 3. ICE agent shoots and wounds man at traffic stop in Austin, Texas, officials say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Anti-ICE protests break out in push for transparency as unnamed man is in serious but stable condition A US Immigration and Customs Enforcement ( ICE ) officer shot and wounded a man on Sunday afternoon in Texas ’s capital city of Austin ,…
-
-Link: https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas
-
-### 4. Whiplashed middle powers seek new alliances as Trump rages on world stage [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-While world leaders prepare for annual UN gathering, shifts in the global order continue in the face of a disruptive American president In the event of a midterms election battering, it is possible that a deflated Donald Trump, constrained…
-
-Link: https://www.theguardian.com/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order
-
-### 5. Marvel's Wolverine "fart gas" scent trails addressed by a surprise update [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Marvel's Wolverine has received a hotfix update that addresses one of the core features in the game many people have an issue with: scent trails.
-
-Link: https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes
-
-### 6. Silent Hill: Townfall review [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As I watch the credits roll on Silent Hill Townfall, it's hard to believe this is the same series that had, until just a few years ago, been neglected into near-irrelevance.
-
-Link: https://www.eurogamer.net/silent-hill-townfall-review
-
-### 7. No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown
-
-### 8. The American Way of Killing by Malcolm Gladwell review – wide of the mark [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Gladwell’s highly readable investigation into US gun culture fails to engage with the bigger questions Once, while having a steak dinner with Republicans in a small town in Indiana, the man sitting opposite me asked: “How do you cope in…
-
-Link: https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark
-
-### 9. A new start after 60: I’m 92 and cycling is my life – despite the crash that left me unconscious [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Arthur Plummer got a bike when he retired at 65 and joined a cycling club as one of its youngest members. Now he is its oldest but still racking up 5,000km every year When Arthur Plummer retired at 65, he bought a secondhand bicycle.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/21/a-new-start-after-60-cycling-92
-
-### 10. VA School Board Settles With Parents, Reverses Policy Blocking LGBTQ+ Student Club [9/10]
+### 8. Opinion: While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-King George County Schools will now allow sixth- to eighth-grade students to form non-curricular clubs, including one supporting LGBTQ+ students, after the school board settled with the families of two students who said the school did not…
+Two of the nation’s largest school systems are drawing new boundaries around artificial intelligence.
 
-Link: https://www.the74million.org/article/va-school-board-settles-with-parents-reverses-policy-blocking-lgbtq-student-club/
+Link: https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan/
 
-### 11. Opinion: Why Access to Special Education Depends Too Much on Parents [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-As a parent of children with learning disabilities, a researcher studying family-school partnerships and a board member of the National Center for Learning Disabilities, I’ve spent a lot of time listening to families describe their…
+There still might not yet be a release date for GTA 6 's PC port, but Rockstar appear to be preparing for the massive uptick in mods for their games that'll inevitably accompany it.
 
-Link: https://www.the74million.org/article/why-access-to-special-education-depends-too-much-on-parents/
+Link: https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps
+
+### 10. These Students Are Shaping UN Human Rights Policy [10/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Rachel Brooks Princeton undergraduates are helping the organization develop standards for post-mortem digital privacy and death in custody. The post These Students Are Shaping UN Human Rights Policy appeared first on The Nation .
+
+Link: https://www.thenation.com/article/world/princeton-united-nations-ohchr-policy-advocacy-clinic/
+
+### 11. The Download: investigating deaths at the US border’s “virtual wall” [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance.
+
+Link: https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/
 
 ### 12. Trump says he'll create an AI task force. Industry insiders have a lot of questions [8/10]
 **Source:** NPR Tech  
@@ -141,14 +141,14 @@ President Trump has proposed creating an AI task force, similar to Space Force. 
 
 Link: https://www.npr.org/2026/09/21/nx-s1-5975522/trump-says-hell-create-an-ai-task-force-industry-insiders-have-a-lot-of-questions
 
-### 13. PHOTOS: The precarious life of fisherfolk [8/10]
+### 13. Is homegrown food safer? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.
+Home gardening is getting a boost in part from fears of foodborne illness. Experts say what is, or is not, safer when it comes to home grown.
 
-Link: https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india
+Link: https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer
 
 ## YouTube
 
@@ -242,6 +242,15 @@ Link: https://www.youtube.com/watch?v=RjYbGfTdKm0
 
 Link: https://www.youtube.com/watch?v=1QWWhJDU7wI
 
+### Some Games Shouldn't Be Games | Windbreaker Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=1y0c0mXkOa4
+
 ### The Granblue Fantasy Versus: Rising Fighting Pits Are Open | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -295,15 +304,6 @@ Link: https://www.youtube.com/watch?v=l3kMc46OzdE
 This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=Z0IxNMPkK0g
-
-### Taking Your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Break out the lo-fi beats to make character's to, 'cause it's a chill day with Jesse Galena just taking your questions and talking TTRPGs. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=h1vez0QvPRQ
 
 ## Entertainment Recommendations
 
@@ -478,6 +478,42 @@ Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
 
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Pitt returns as Cliff Booth, only this time it’s 1977 and it’s a very different Hollywood. Directed by David Fincher from a screenplay by Quentin Tarantino, THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH comes to IMAX November 25.
+
+Link: https://www.youtube.com/watch?v=JckKVDBXfXM
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Pitt returns as Cliff Booth, only this time it’s 1977 and it’s a very different Hollywood. Directed by David Fincher from a screenplay by Quentin Tarantino, THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH comes to IMAX 25 November.
+
+Link: https://www.youtube.com/watch?v=NIOfWyHdBSE
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Pitt returns as Cliff Booth, only this time it’s 1977 and it’s a very different Hollywood. Directed by David Fincher from a screenplay by Quentin Tarantino, THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH comes to IMAX November 25.
+
+Link: https://www.youtube.com/watch?v=RjEZaUBbUvU
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Pitt returns as Cliff Booth, only this time it’s 1977 and it’s a very different Hollywood. Directed by David Fincher from a screenplay by Quentin Tarantino, THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH comes to IMAX 26 November.
+
+Link: https://www.youtube.com/watch?v=SPMhX_2hMBI
+
 ### can you believe it has been 5yrs already?! 📺: SQUID GAME [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -558,42 +594,6 @@ Link: https://www.youtube.com/watch?v=jGbqoKa2c0M
 New ghosts. New employees. New undefined evils that we haven’t even discovered yet! Haunted Hotel Season 2 debuts on October 9 only on Netflix https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=uteOTMS9CAY
-
-### Sacrifice | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis (Chris Evans) is taken hostage by a radical warrior (Anya Taylor-Joy) and her devoted…
-
-Link: https://www.youtube.com/watch?v=u5qW1gMMSVI
-
-### Crazy Rich, Incredibly Broke | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-After losing their entire fortune, AlThahabi family turns to exaggeration and showing off to convince everyone they still have it all, leading to a series of hilarious situations as they try to keep up appearances.
-
-Link: https://www.youtube.com/watch?v=oDBUdMDfq30
-
-### Love is Blind: Netherlands | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Love Is Blind has finally arrived in the Netherlands.
-
-Link: https://www.youtube.com/watch?v=IXQmV0-tF0k
-
-### Stranger Things: Tales From ‘85 | Season 1 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Catch up on all things Stranger Things: Tales From ’85 ahead of Season 2 dropping September 17, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=j4Yp461emJE
 
 ### Dark Matter — Ryan and Amanda's Return | Season 2 Scene | Apple TV [10/10]
 **Source:** Apple TV  
