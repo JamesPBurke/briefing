@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-22T09:00:35.571497Z
+Generated: 2026-09-22T14:00:02.344716Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, AI / computing. The strongest items in this run are British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting, The truth about Sean Combs: ‘No is not a stopping point for him’, and ICE hides locations of thousands of detainees with final removal orders.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Tech / media. The strongest items in this run are Sony appears to be testing PlayStation Store credit offers when you buy certain games, Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese, and People Training OpenAI’s AI Fired for Using AI to Train the AI.
 
 ## Briefing
 
@@ -33,7 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting [10/10]
+### 1. Sony appears to be testing PlayStation Store credit offers when you buy certain games [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sony appears to be testing a new PlayStation rewards programme.
+
+Link: https://www.eurogamer.net/playstation-store-wallet-credits-rewards
+
+### 2. Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter…
+
+Link: https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese
+
+### 3. People Training OpenAI’s AI Fired for Using AI to Train the AI [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.
+
+Link: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/
+
+### 4. Death of 27-year-old Presley Gerber being investigated as suspected overdose [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Son of supermodel Cindy Crawford and entrepreneur Rande Gerber died at a rehabilitation facility The death on Sunday of Presley Gerber , the 27-year-old son of supermodel Cindy Crawford and entrepreneur Rande Gerber, is being investigated…
+
+Link: https://www.theguardian.com/us-news/2026/sep/22/presley-gerber-cause-death-investigated-overdose
+
+### 5. Meta patches Muse exploit that let attackers control the AI agent [10/10]
+**Source:** The Verge  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.
+
+Link: https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent
+
+### 6. Don’t be fooled by this summer of AI hype [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.
+
+Link: https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
+
+### 7. ‘Our job was not to attack’: how do you make a documentary about America’s culture wars? [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Oscar-winning film-maker Barry Levinson’s docuseries Bucks County, USA examines the political divide in one town in a revealing and infuriating manner Like many teenage best friends, Evi and Vanessa have a penchant for finishing each…
+
+Link: https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars
+
+### 8. The best and biggest games of September [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+From Silent Hill: Townfall to Control Resonant to Fire Emblem: Fortune's Weave , we review the best new games to play as autumn begins, ahead of the titanic GTA6 release.
+
+Link: https://www.npr.org/2026/09/22/nx-s1-5971441/review-control-resonant-silent-hill-best-biggest-september-games
+
+### 9. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,104 +114,32 @@ Canadian province alleges deadly attack could have been prevented if company had
 
 Link: https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
 
-### 2. The truth about Sean Combs: ‘No is not a stopping point for him’ [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Cheyenne Roundtree, an investigative reporter at Rolling Stone, was as shocked as anyone when allegations of rape and sexual abuse were made against the music mogul. Then she began digging into his past life.
-
-Link: https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him
-
-### 3. ICE hides locations of thousands of detainees with final removal orders [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Immigration agency’s move makes it harder for lawyers and family to find detainees, in line with stringent Trump policy US Immigration and Customs Enforcement ( ICE ) has stopped publicly revealing where it is holding thousands of…
-
-Link: https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations
-
-### 4. Google confirms Gemini models hacked three companies in May 2026 [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.
-
-Link: https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
-
-### 5. 4 ways to address the failures we found along the US border’s “virtual wall” [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.
-
-Link: https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/
-
-### 6. Nighthawks review – a series of vignettes that sometimes excel but more often falter [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the inside of the diner looks warm.
-
-Link: https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter
-
-### 7. Youth review – Sharon Horgan is back … and she’s better than ever [9/10]
+### 10. ‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly – live updates [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-This brutal, hilarious new show about life as a fiftysomething is full of all the heart and humour of human life.
+The UN secretary-general said the world must work together to solve problems in final major assembly address as secretary general Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever
+Link: https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates
 
-### 8. How AI Chatbots Are 'Deskilling' Human Empathy [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Sherry Turkle's latest book, Artificial Intimacy: Who We Become When We Talk to Machines, comes out on September 29.
-
-Link: https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/
-
-### 9. California OKs Long List of Options for Training Teachers in Early Literacy [9/10]
+### 11. Opinion: My One-Student School: Why Educators Need Serious Hobbies [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-As a key element in the state’s package of early literacy reforms, Gov. Gavin Newsom included $200 million in last year’s state budget to pay for instructing elementary school teachers in the new reading strategies.
+In 2016, I was running six schools I had founded in six years. And I was completely spent. I started getting alarming signals from the people in my life. Friends would pull me aside and ask if I was ok.
 
-Link: https://www.the74million.org/article/california-oks-long-list-of-options-for-training-teachers-in-early-literacy/
+Link: https://www.the74million.org/article/my-one-student-school-why-educators-need-serious-hobbies/
 
-### 10. Opinion: While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Two of the nation’s largest school systems are drawing new boundaries around artificial intelligence.
-
-Link: https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan/
-
-### 11. Data centers are a flashpoint in the U.S. But what happens when one comes to town? [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Opposition to data centers has grown into one of the year's major political movements. What is the impact on local jobs and the economy when a data center comes to town?
-
-Link: https://www.npr.org/2026/09/22/nx-s1-5945009/data-centers-are-a-flashpoint-in-the-u-s-but-what-happens-when-one-comes-to-town
-
-### 12. Your smartwatch isn't accurately counting how many calories you burn, study says [7/10]
+### 12. Abortion is on the ballot again as post-Roe policies continue to evolve [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A new study finds that consumer-grade fitness wearables are generally inaccurate when calculating calories burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna.
+Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court's "Dobbs" decision, which upended federal abortion protections.
 
-Link: https://www.npr.org/2026/09/22/nx-s1-5976782/your-smartwatch-isnt-accurately-counting-how-many-calories-you-burn-study-says
+Link: https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe
 
 ### 13. A Little Fish From the Deep Blue Sea: Ponyo [7/10]
 **Source:** Reactor  
@@ -151,6 +151,15 @@ Examining Hayao Miyazaki’s variation on The Little Mermaid The post A Little F
 Link: https://reactormag.com/a-little-fish-from-the-deep-blue-sea-ponyo/
 
 ## YouTube
+
+### Yes, Jev Is Insane, But There's A Catch [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.
+
+Link: https://www.youtube.com/watch?v=qBBRRsH0rQc
 
 ### Voting in this year's Fat Bear Week begins Tuesday [7/10]
 **Creator:** NPR  
@@ -242,9 +251,9 @@ Link: https://www.youtube.com/watch?v=G25uo--ahG4
 
 Link: https://www.youtube.com/watch?v=doNSIVPctT4
 
-### Spooky Farm Fall Is Here With Welcome to Elderfield | Hot Monday Energy [7/10]
+### Spooky Farm Fall Is Here With Welcome to Elderfield | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, Jess, KC, and Jesse play Welcome to Elderfield -- https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -595,6 +604,15 @@ On your marks, get set… bake! A new batch of talented amateur bakers compete u
 
 Link: https://www.youtube.com/watch?v=jGbqoKa2c0M
 
+### The Sisters Grimm — Season 2 Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The next chapter awaits. The Sisters Grimm Season 2 — October 2 #TheSistersGrimm #Trailer #AppleTV
+
+Link: https://www.youtube.com/watch?v=W9gixQopmPw
+
 ### Brothers — Opening Credits | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -612,12 +630,3 @@ Link: https://www.youtube.com/watch?v=8RLE6FHWl8A
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
 
 Link: https://www.youtube.com/watch?v=FhL8EhdMoeg
-
-### Knife Edge: Chasing Michelin Stars — Season 2 Official Trailer | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The journey to culinary greatness continues. From executive producer Gordon Ramsay, Knife Edge: Chasing Michelin Stars, hosted by Topjaw's Jesse Burgess, returns September 25 on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=7Pbylo3ydkw

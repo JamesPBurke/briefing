@@ -1,11 +1,91 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-22T09:00:35.571497Z",
-  "generatedAtDisplay": "2026-09-22 05:00 AM EDT",
+  "generatedAt": "2026-09-22T14:00:02.344716Z",
+  "generatedAtDisplay": "2026-09-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, AI / computing. The strongest items in this run are British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting, The truth about Sean Combs: ‘No is not a stopping point for him’, and ICE hides locations of thousands of detainees with final removal orders.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Tech / media. The strongest items in this run are Sony appears to be testing PlayStation Store credit offers when you buy certain games, Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese, and People Training OpenAI’s AI Fired for Using AI to Train the AI.",
   "mainItems": [
+    {
+      "title": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+      "published": "2026-09-22T13:26:17+00:00",
+      "summary": "Sony appears to be testing a new PlayStation rewards programme.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
+      "published": "2026-09-22T13:00:02+00:00",
+      "summary": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+      "published": "2026-09-22T12:59:12+00:00",
+      "summary": "OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Death of 27-year-old Presley Gerber being investigated as suspected overdose",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/presley-gerber-cause-death-investigated-overdose",
+      "published": "2026-09-22T12:44:19+00:00",
+      "summary": "Son of supermodel Cindy Crawford and entrepreneur Rande Gerber died at a rehabilitation facility The death on Sunday of Presley Gerber , the 27-year-old son of supermodel Cindy Crawford and entrepreneur Rande Gerber, is being investigated…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "source": "The Verge",
+      "category": "Security / computing",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "published": "2026-09-22T11:53:58+00:00",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "published": "2026-09-22T11:04:51+00:00",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘Our job was not to attack’: how do you make a documentary about America’s culture wars?",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars",
+      "published": "2026-09-22T10:00:53+00:00",
+      "summary": "Oscar-winning film-maker Barry Levinson’s docuseries Bucks County, USA examines the political divide in one town in a revealing and infuriating manner Like many teenage best friends, Evi and Vanessa have a penchant for finishing each…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The best and biggest games of September",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5971441/review-control-resonant-silent-hill-best-biggest-september-games",
+      "published": "2026-09-22T09:00:00+00:00",
+      "summary": "From Silent Hill: Townfall to Control Resonant to Fire Emblem: Fortune's Weave , we review the best new games to play as autumn begins, ahead of the titanic GTA6 release.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
     {
       "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
       "source": "The Guardian US",
@@ -17,114 +97,34 @@
       "score": 10
     },
     {
-      "title": "The truth about Sean Combs: ‘No is not a stopping point for him’",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him",
-      "published": "2026-09-22T04:00:36+00:00",
-      "summary": "Cheyenne Roundtree, an investigative reporter at Rolling Stone, was as shocked as anyone when allegations of rape and sexual abuse were made against the music mogul. Then she began digging into his past life.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "ICE hides locations of thousands of detainees with final removal orders",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations",
-      "published": "2026-09-21T19:43:49+00:00",
-      "summary": "Immigration agency’s move makes it harder for lawyers and family to find detainees, in line with stringent Trump policy US Immigration and Customs Enforcement ( ICE ) has stopped publicly revealing where it is holding thousands of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "published": "2026-09-21T16:57:26+00:00",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
-      "published": "2026-09-22T08:33:05+00:00",
-      "summary": "Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the inside of the diner looks warm.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Youth review – Sharon Horgan is back … and she’s better than ever",
+      "title": "‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly – live updates",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever",
-      "published": "2026-09-22T04:00:36+00:00",
-      "summary": "This brutal, hilarious new show about life as a fiftysomething is full of all the heart and humour of human life.",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "published": "2026-09-22T13:56:43+00:00",
+      "summary": "The UN secretary-general said the world must work together to solve problems in final major assembly address as secretary general Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "How AI Chatbots Are 'Deskilling' Human Empathy",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/",
-      "published": "2026-09-21T19:33:32+00:00",
-      "summary": "Sherry Turkle's latest book, Artificial Intimacy: Who We Become When We Talk to Machines, comes out on September 29.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "California OKs Long List of Options for Training Teachers in Early Literacy",
+      "title": "Opinion: My One-Student School: Why Educators Need Serious Hobbies",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-oks-long-list-of-options-for-training-teachers-in-early-literacy/",
-      "published": "2026-09-21T14:30:00+00:00",
-      "summary": "As a key element in the state’s package of early literacy reforms, Gov. Gavin Newsom included $200 million in last year’s state budget to pay for instructing elementary school teachers in the new reading strategies.",
+      "url": "https://www.the74million.org/article/my-one-student-school-why-educators-need-serious-hobbies/",
+      "published": "2026-09-22T10:30:00+00:00",
+      "summary": "In 2016, I was running six schools I had founded in six years. And I was completely spent. I started getting alarming signals from the people in my life. Friends would pull me aside and ask if I was ok.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Opinion: While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan/",
-      "published": "2026-09-21T12:30:00+00:00",
-      "summary": "Two of the nation’s largest school systems are drawing new boundaries around artificial intelligence.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Data centers are a flashpoint in the U.S. But what happens when one comes to town?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5945009/data-centers-are-a-flashpoint-in-the-u-s-but-what-happens-when-one-comes-to-town",
-      "published": "2026-09-22T08:47:33+00:00",
-      "summary": "Opposition to data centers has grown into one of the year's major political movements. What is the impact on local jobs and the economy when a data center comes to town?",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
-    },
-    {
-      "title": "Your smartwatch isn't accurately counting how many calories you burn, study says",
+      "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5976782/your-smartwatch-isnt-accurately-counting-how-many-calories-you-burn-study-says",
-      "published": "2026-09-22T08:44:15+00:00",
-      "summary": "A new study finds that consumer-grade fitness wearables are generally inaccurate when calculating calories burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna.",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
+      "published": "2026-09-22T09:00:00+00:00",
+      "summary": "Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court's \"Dobbs\" decision, which upended federal abortion protections.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
       "title": "A Little Fish From the Deep Blue Sea: Ponyo",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "Yes, Jev Is Insane, But There's A Catch",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "published": "2026-09-22T09:32:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Voting in this year's Fat Bear Week begins Tuesday",
       "source": "NPR",
@@ -256,8 +267,8 @@
       "published": "2026-09-22T01:11:43+00:00",
       "summary": "🎮 This week on Hidden Gems, Jess, KC, and Jesse play Welcome to Elderfield -- https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Some Games Shouldn't Be Games | Windbreaker Podcast",
@@ -647,6 +658,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The Sisters Grimm — Season 2 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=W9gixQopmPw",
+      "published": "2026-09-22T12:59:48+00:00",
+      "summary": "The next chapter awaits. The Sisters Grimm Season 2 — October 2 #TheSistersGrimm #Trailer #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Brothers — Opening Credits | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -664,17 +686,6 @@
       "url": "https://www.youtube.com/watch?v=FhL8EhdMoeg",
       "published": "2026-09-19T16:59:55+00:00",
       "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Knife Edge: Chasing Michelin Stars — Season 2 Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7Pbylo3ydkw",
-      "published": "2026-09-17T13:59:50+00:00",
-      "summary": "The journey to culinary greatness continues. From executive producer Gordon Ramsay, Knife Edge: Chasing Michelin Stars, hosted by Topjaw's Jesse Burgess, returns September 25 on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -791,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
+    "youtubeCount": 17,
     "trailerCount": 33,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }
