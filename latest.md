@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-21T18:00:54.587355Z
+Generated: 2026-09-22T05:00:01.937150Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Charges dropped against Stanford students over pro-Palestine protest, These are the first five Googlebook laptops, and Lauren Boebert says claims of sexual relationships with staffers ‘utterly false’.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting, The truth about Sean Combs: ‘No is not a stopping point for him’, and ICE hides locations of thousands of detainees with final removal orders.
 
 ## Briefing
 
@@ -33,34 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Charges dropped against Stanford students over pro-Palestine protest [10/10]
+### 1. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting [10/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Students faced prison terms and thousands of dollars in restitution over campus protest against Israel’s war on Gaza Five Stanford University students who faced prison sentences and thousands of dollars in restitution in connection to a…
+Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been…
 
-Link: https://www.theguardian.com/us-news/2026/sep/21/stanford-students-gaza-protest-charges-dropped
+Link: https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
 
-### 2. These are the first five Googlebook laptops [10/10]
-**Source:** The Verge  
+### 2. The truth about Sean Combs: ‘No is not a stopping point for him’ [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Cheyenne Roundtree, an investigative reporter at Rolling Stone, was as shocked as anyone when allegations of rape and sexual abuse were made against the music mogul. Then she began digging into his past life.
+
+Link: https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him
+
+### 3. ICE hides locations of thousands of detainees with final removal orders [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off.
+Immigration agency’s move makes it harder for lawyers and family to find detainees, in line with stringent Trump policy US Immigration and Customs Enforcement ( ICE ) has stopped publicly revealing where it is holding thousands of…
 
-Link: https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell
+Link: https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations
 
-### 3. Lauren Boebert says claims of sexual relationships with staffers ‘utterly false’ [10/10]
-**Source:** The Guardian US  
+### 4. Michigan Increased Funding for English Learners by $12.5 Million. Advocates Say a Big Gap Persists. [10/10]
+**Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republican congresswoman rejects ethics complaint and says allegations part of ‘politically motivated’ hit campaign Lauren Boebert, the firebrand Republican subject of a House ethics complaint that she had sex with three staff members, and…
+This year, Michigan lawmakers increased state funding for English language learners by $12.5 million — but not all such students will benefit.
 
-Link: https://www.theguardian.com/us-news/2026/sep/21/lauren-boebert-sexual-relationships-ethics-complaint
+Link: https://www.the74million.org/article/michigan-increased-funding-for-english-learners-by-12-5-million-advocates-say-a-big-gap-persists/
 
-### 4. Google confirms Gemini models hacked three companies in May 2026 [10/10]
+### 5. Bungie is freeing vaulted Destiny 2 campaigns after Marathon "did not reach as many players as we had hoped" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Bungie's been having a tough time these past few years, but the studio's new leadership is making big promises.
+
+Link: https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future
+
+### 6. Google confirms Gemini models hacked three companies in May 2026 [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,34 +87,34 @@ A third-party cybersecurity firm accidentally gave experimental Gemini models ac
 
 Link: https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
 
-### 5. Trump set to press Zelenskyy at UN to agree energy ceasefire with Russia [10/10]
-**Source:** The Guardian US  
+### 7. 4 ways to address the failures we found along the US border’s “virtual wall” [10/10]
+**Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President to meet Ukrainian counterpart in New York as Ukraine steps up attacks on Russian energy sector Donald Trump is expected to press Ukrainian leader Volodymyr Zelenskyy on an energy ceasefire during a face-to-face meeting this week…
+MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.
 
-Link: https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations
+Link: https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/
 
-### 6. Paramount settles lawsuits with 12 US states, clearing way for Warner merger [10/10]
+### 8. Youth review – Sharon Horgan is back … and she’s better than ever [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-States including California and New York sued over concerns of ‘extinguishing competition’ with $81bn merger Paramount has reached a settlement with California and several other states that sued over a proposed $81bn merger with Warner…
+This brutal, hilarious new show about life as a fiftysomething is full of all the heart and humour of human life.
 
-Link: https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger
+Link: https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever
 
-### 7. California settles lawsuit against Paramount/Warner merger, angering advocates [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. How AI Chatbots Are 'Deskilling' Human Empathy [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-State AGs had "very strong" case that merger is illegal, Lina Khan says.
+Sherry Turkle's latest book, Artificial Intimacy: Who We Become When We Talk to Machines, comes out on September 29.
 
-Link: https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/
+Link: https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/
 
-### 8. California OKs Long List of Options for Training Teachers in Early Literacy [10/10]
+### 10. California OKs Long List of Options for Training Teachers in Early Literacy [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,32 +123,14 @@ As a key element in the state’s package of early literacy reforms, Gov. Gavin 
 
 Link: https://www.the74million.org/article/california-oks-long-list-of-options-for-training-teachers-in-early-literacy/
 
-### 9. Apple Mac mini review: The new M6 impresses, but the price hike is rough [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Opinion: While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.
+Two of the nation’s largest school systems are drawing new boundaries around artificial intelligence.
 
-Link: https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
-
-### 10. Googlebooks launch October 4 starting at $899—here are the five models you can preorder today [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.
-
-Link: https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
-
-### 11. These Students Are Shaping UN Human Rights Policy [10/10]
-**Source:** The Nation  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Rachel Brooks Princeton undergraduates are helping the organization develop standards for post-mortem digital privacy and death in custody. The post These Students Are Shaping UN Human Rights Policy appeared first on The Nation .
-
-Link: https://www.thenation.com/article/world/princeton-united-nations-ohchr-policy-advocacy-clinic/
+Link: https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan/
 
 ### 12. Trump says he'll create an AI task force. Industry insiders have a lot of questions [8/10]
 **Source:** NPR Tech  
@@ -141,11 +141,46 @@ President Trump has proposed creating an AI task force, similar to Space Force. 
 
 Link: https://www.npr.org/2026/09/21/nx-s1-5975522/trump-says-hell-create-an-ai-task-force-industry-insiders-have-a-lot-of-questions
 
-### 13. Is homegrown food safer? [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. A Little Fish From the Deep Blue Sea: Ponyo [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Home gardening is getting a boost in part from fears of foodborne illness. Experts say what is, or is not, safer when it comes to home grown.
+Examining Hayao Miyazaki’s variation on The Little Mermaid The post A Little Fish From the Deep Blue Sea: Ponyo appeared first on Reactor .
 
-Link: https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer
+Link: https://reactormag.com/a-little-fish-from-the-deep-blue-sea-ponyo/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

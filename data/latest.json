@@ -1,39 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-21T18:00:54.587355Z",
-  "generatedAtDisplay": "2026-09-21 02:00 PM EDT",
+  "generatedAt": "2026-09-22T05:00:01.937150Z",
+  "generatedAtDisplay": "2026-09-22 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Charges dropped against Stanford students over pro-Palestine protest, These are the first five Googlebook laptops, and Lauren Boebert says claims of sexual relationships with staffers ‘utterly false’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting, The truth about Sean Combs: ‘No is not a stopping point for him’, and ICE hides locations of thousands of detainees with final removal orders.",
   "mainItems": [
     {
-      "title": "Charges dropped against Stanford students over pro-Palestine protest",
+      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/stanford-students-gaza-protest-charges-dropped",
-      "published": "2026-09-21T17:22:48+00:00",
-      "summary": "Students faced prison terms and thousands of dollars in restitution over campus protest against Israel’s war on Gaza Five Stanford University students who faced prison sentences and thousands of dollars in restitution in connection to a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+      "published": "2026-09-22T04:29:22+00:00",
+      "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "These are the first five Googlebook laptops",
-      "source": "The Verge",
+      "title": "The truth about Sean Combs: ‘No is not a stopping point for him’",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him",
+      "published": "2026-09-22T04:00:36+00:00",
+      "summary": "Cheyenne Roundtree, an investigative reporter at Rolling Stone, was as shocked as anyone when allegations of rape and sexual abuse were made against the music mogul. Then she began digging into his past life.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "ICE hides locations of thousands of detainees with final removal orders",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "published": "2026-09-21T17:12:20+00:00",
-      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations",
+      "published": "2026-09-21T19:43:49+00:00",
+      "summary": "Immigration agency’s move makes it harder for lawyers and family to find detainees, in line with stringent Trump policy US Immigration and Customs Enforcement ( ICE ) has stopped publicly revealing where it is holding thousands of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Lauren Boebert says claims of sexual relationships with staffers ‘utterly false’",
-      "source": "The Guardian US",
+      "title": "Michigan Increased Funding for English Learners by $12.5 Million. Advocates Say a Big Gap Persists.",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/lauren-boebert-sexual-relationships-ethics-complaint",
-      "published": "2026-09-21T17:03:37+00:00",
-      "summary": "Republican congresswoman rejects ethics complaint and says allegations part of ‘politically motivated’ hit campaign Lauren Boebert, the firebrand Republican subject of a House ethics complaint that she had sex with three staff members, and…",
+      "url": "https://www.the74million.org/article/michigan-increased-funding-for-english-learners-by-12-5-million-advocates-say-a-big-gap-persists/",
+      "published": "2026-09-21T18:30:00+00:00",
+      "summary": "This year, Michigan lawmakers increased state funding for English language learners by $12.5 million — but not all such students will benefit.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+      "published": "2026-09-21T17:06:26+00:00",
+      "summary": "Bungie's been having a tough time these past few years, but the studio's new leadership is making big promises.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -47,34 +67,34 @@
       "score": 10
     },
     {
-      "title": "Trump set to press Zelenskyy at UN to agree energy ceasefire with Russia",
-      "source": "The Guardian US",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations",
-      "published": "2026-09-21T16:54:14+00:00",
-      "summary": "President to meet Ukrainian counterpart in New York as Ukraine steps up attacks on Russian energy sector Donald Trump is expected to press Ukrainian leader Volodymyr Zelenskyy on an energy ceasefire during a face-to-face meeting this week…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
+      "title": "Youth review – Sharon Horgan is back … and she’s better than ever",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
-      "published": "2026-09-21T16:52:49+00:00",
-      "summary": "States including California and New York sued over concerns of ‘extinguishing competition’ with $81bn merger Paramount has reached a settlement with California and several other states that sued over a proposed $81bn merger with Warner…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever",
+      "published": "2026-09-22T04:00:36+00:00",
+      "summary": "This brutal, hilarious new show about life as a fiftysomething is full of all the heart and humour of human life.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-      "published": "2026-09-21T16:15:26+00:00",
-      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "How AI Chatbots Are 'Deskilling' Human Empathy",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/",
+      "published": "2026-09-21T19:33:32+00:00",
+      "summary": "Sherry Turkle's latest book, Artificial Intimacy: Who We Become When We Talk to Machines, comes out on September 29.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "California OKs Long List of Options for Training Teachers in Early Literacy",
@@ -84,37 +104,17 @@
       "published": "2026-09-21T14:30:00+00:00",
       "summary": "As a key element in the state’s package of early literacy reforms, Gov. Gavin Newsom included $200 million in last year’s state budget to pay for instructing elementary school teachers in the new reading strategies.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-      "published": "2026-09-21T13:00:24+00:00",
-      "summary": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-      "published": "2026-09-21T13:00:11+00:00",
-      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "These Students Are Shaping UN Human Rights Policy",
-      "source": "The Nation",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/world/princeton-united-nations-ohchr-policy-advocacy-clinic/",
-      "published": "2026-09-21T09:00:00+00:00",
-      "summary": "Rachel Brooks Princeton undergraduates are helping the organization develop standards for post-mortem digital privacy and death in custody. The post These Students Are Shaping UN Human Rights Policy appeared first on The Nation .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "title": "Opinion: While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan/",
+      "published": "2026-09-21T12:30:00+00:00",
+      "summary": "Two of the nation’s largest school systems are drawing new boundaries around artificial intelligence.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
     },
     {
       "title": "Trump says he'll create an AI task force. Industry insiders have a lot of questions",
@@ -127,13 +127,13 @@
       "score": 8
     },
     {
-      "title": "Is homegrown food safer?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer",
-      "published": "2026-09-21T08:40:49+00:00",
-      "summary": "Home gardening is getting a boost in part from fears of foodborne illness. Experts say what is, or is not, safer when it comes to home grown.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "A Little Fish From the Deep Blue Sea: Ponyo",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/a-little-fish-from-the-deep-blue-sea-ponyo/",
+      "published": "2026-09-21T15:00:00+00:00",
+      "summary": "Examining Hayao Miyazaki’s variation on The Little Mermaid The post A Little Fish From the Deep Blue Sea: Ponyo appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 8
   }
 }
