@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-09-23T09:00:46.891373Z
+Generated: 2026-09-23T09:01:13.450776Z
 
 Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims, ‘My body is on fire!’: my perilous, painful, perfect month of pilates, and As Japan swelters, farmers turn to new heat-resistant rice varieties to boost staple crop.
 
