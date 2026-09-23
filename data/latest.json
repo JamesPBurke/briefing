@@ -1,69 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-23T09:01:13.450776Z",
-  "generatedAtDisplay": "2026-09-23 05:01 AM EDT",
+  "generatedAt": "2026-09-23T14:00:02.546706Z",
+  "generatedAtDisplay": "2026-09-23 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims, ‘My body is on fire!’: my perilous, painful, perfect month of pilates, and As Japan swelters, farmers turn to new heat-resistant rice varieties to boost staple crop.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US justice department defends Trump banning journalists from White House ahead of court hearing – live, Nobody does it like Remedy, and Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week.",
   "mainItems": [
     {
-      "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
-      "source": "NPR Health",
+      "title": "US justice department defends Trump banning journalists from White House ahead of court hearing – live",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
-      "published": "2026-09-23T05:26:31+00:00",
-      "summary": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+      "published": "2026-09-23T13:53:27+00:00",
+      "summary": "Trump’s DoJ says White House access is ‘a privilege, not a right’; CNN, Politico and MS Now to present case in court after president banned outlets from White House grounds Sign up for US Breaking News emails Donald Trump has a habit of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘My body is on fire!’: my perilous, painful, perfect month of pilates",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates",
-      "published": "2026-09-23T04:00:15+00:00",
-      "summary": "A growing number of men, including singers Shaggy and Harry Styles, are taking up pilates.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "As Japan swelters, farmers turn to new heat-resistant rice varieties to boost staple crop",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/sep/23/japan-rice-new-strains-rising-heat-climate",
-      "published": "2026-09-23T03:23:13+00:00",
-      "summary": "New rice varieties give hope that farmers can overcome the climate emergency and a warmer future that threatens harvests When schoolchildren in Shiroishi were enlisted to plant rice seedlings in June, Shinto priests blessed the land and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "source": "Ars Technica",
+      "title": "Nobody does it like Remedy",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "published": "2026-09-22T21:25:18+00:00",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "url": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
+      "published": "2026-09-23T13:35:07+00:00",
+      "summary": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "source": "The Verge",
+      "title": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "published": "2026-09-22T20:52:40+00:00",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired.",
+      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+      "published": "2026-09-23T13:22:06+00:00",
+      "summary": "Former Halo leaders Bonnie Ross and Kiki Wolfkill have added their voices to the chorus of people wishing laid-off Halo Studios employees well after Microsoft's drastic downsizing of the studio yesterday. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-      "source": "The Verge",
+      "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+      "published": "2026-09-23T12:17:21+00:00",
+      "summary": "A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Not set in stone: teachers are defying mandates to display the Ten Commandments in classrooms",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/schools-ten-commandments-law",
+      "published": "2026-09-23T12:00:48+00:00",
+      "summary": "Some educators are pushing back in class and in court against the display of the religious code in public schools When history teacher Chris Dier sued Louisiana two years ago for mandating that the Ten Commandments be displayed in…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-      "published": "2026-09-22T19:48:08+00:00",
-      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected.",
+      "url": "https://www.theguardian.com/world/2026/sep/23/iran-denies-dropping-preconditions-very-productive-three-hour-un-talks-new-york",
+      "published": "2026-09-23T10:41:41+00:00",
+      "summary": "Trump says further talks possible as barrel of Brent crude falls to below $100 for first time in two weeks United Nations general assembly – latest updates Iran has pushed back on claims that it dropped former preconditions for reopening…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How The 74 Revealed Decades of Alleged Sexual Abuse in New York Schools",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-the-74-revealed-decades-of-alleged-sexual-abuse-in-new-york-schools/",
+      "published": "2026-09-23T10:30:00+00:00",
+      "summary": "Early in my career as a high school English teacher, I was chaperoning a field trip to Six Flags when a 9th-grade student asked me to hold her phone while she rode the roller coaster.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+      "published": "2026-09-23T10:08:29+00:00",
+      "summary": "Bryan Seaver, who announced Parton’s death to the world, is alleged to have intimidated her manager and others, which he denies The estate of the late Dolly Parton is involved in a dispute with the country star’s nephew and former head of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -77,53 +97,33 @@
       "score": 10
     },
     {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "published": "2026-09-22T11:04:51+00:00",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "CDC survey finds mental health and suicide risk among U.S. teens has improved",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5976873/cdc-survey-finds-mental-health-and-suicide-risk-among-u-s-teens-has-improved",
-      "published": "2026-09-23T08:41:45+00:00",
-      "summary": "The CDC's latest Youth Risk Behavior Survey highlights students' diets, sleep and nutrition, which are priorities for Health Secretary Robert F. Kennedy Jr.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now",
-      "published": "2026-09-22T21:50:59+00:00",
-      "summary": "I was not a child that was built for skateboarding. Child me was a tad too wimpy to ever do anything so wicked cool as that.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI",
+      "title": "Americans Fear AI Will Make the World Worse, Love It Anyway",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
-      "published": "2026-09-22T12:59:12+00:00",
-      "summary": "OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.",
+      "url": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
+      "published": "2026-09-23T11:13:53+00:00",
+      "summary": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "New Data Shows Drop in College Readiness, Education Participation",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-data-shows-drop-in-college-readiness-and-participation-among-young-adults/",
-      "published": "2026-09-22T18:30:00+00:00",
-      "summary": "Advocates for children and young adults from across the state gathered in Lansing on Thursday as the Michigan League for Public Policy released a new report aimed at measuring the health, wealth and education of Michigan youth.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+      "published": "2026-09-23T10:00:00+00:00",
+      "summary": "The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+      "published": "2026-09-23T09:00:00+00:00",
+      "summary": "Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -150,12 +150,34 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=giTmBaNGaHw",
+      "published": "2026-09-23T13:00:20+00:00",
+      "summary": "The public thought the AI containment crisis started with Hugging Face. They were wrong. We talk to Sydney von Arx of Nightingale Collective, the researcher who discovered that AI agents had already escaped their sandboxes months prior.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Astrobiologist Answers Mars Questions",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=LFt5CwsZNK8",
       "published": "2026-09-22T16:04:02+00:00",
       "summary": "Space scientist and astrobiologist Erika DeBenedictis joins WIRED to answer the internet's burning questions about The Red Planet.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "We have a new Senior Podcast Challenge!",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nwO65H8-iQ0",
+      "published": "2026-09-23T12:00:19+00:00",
+      "summary": "65 and older? Got a story to tell? Seniors, we want to hear from you! Record, then send us a podcast about any topic you are passionate about for a chance to win a free visit to NPR headquarters where you'll hear your story air live on…",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -168,8 +190,8 @@
       "published": "2026-09-22T23:30:21+00:00",
       "summary": "When it comes to ad spending, Republicans now have a significant advantage heading into the closing weeks of the 2026 midterms.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "How Ms. Rachel used her platform to advocate for children affected by war and humanitarian crises",
@@ -179,8 +201,8 @@
       "published": "2026-09-22T22:30:13+00:00",
       "summary": "With her pink headband and high-pitched, singsong voice, Ms. Rachel, whose real name is Rachel Accurso, has become one of the most recognizable figures in children's entertainment. Ms.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How data centers are reshaping American politics",
@@ -190,8 +212,8 @@
       "published": "2026-09-22T22:10:17+00:00",
       "summary": "A new poll from \"The Economist\" and YouGov shows about two-thirds of Americans oppose data centers being built in their communities.⁠ ⁠ Find “NPR News Now” wherever you listen to podcasts.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "American journalist Austin Tice vanished in Syria 14 years ago. Is he still alive?",
@@ -201,8 +223,8 @@
       "published": "2026-09-22T22:00:32+00:00",
       "summary": "In the fall of 2012, a video appears online titled: \"Austin Tice Still Alive\". It shows American journalist Austin Tice bound, blindfolded and terrified, surrounded by armed men. Tice vanished in Syria 14 years ago.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "What happens when human bad actors leverage artificial intelligence?",
@@ -236,17 +258,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Voting in this year's Fat Bear Week begins Tuesday",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=L4Q8Dgfbqpc",
-      "published": "2026-09-21T20:05:37+00:00",
-      "summary": "It's Fat Bear Week! Voting starts tomorrow in the 12th annual tournament that pits 16 brown bears — up from 12 in recent years — at Alaska's Katmai National Park and Preserve against each other as voters judge which bear is biggest.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Will There Ever Be Third Party PlayStation Console Hardware?",
@@ -449,6 +460,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "You Can See Everything | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "published": "2026-09-23T13:00:14+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Primetime | Official Trailer 2 HD | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -592,6 +614,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Ray Gunn | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VL-xjzQFWsY",
+      "published": "2026-09-23T13:00:02+00:00",
+      "summary": "Academy Award winner Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… In Metropia, a gigantic city in an alternate future as seen from 1939, private eye…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ray Gunn | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=cW8PaAhqqvU",
+      "published": "2026-09-23T13:00:02+00:00",
+      "summary": "Academy Award winner Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… In Metropia, a gigantic city in an alternate future as seen from 1939, private eye…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Bass X Machina | Minotaur Fight | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -713,12 +757,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Monster: The Lizzie Borden Story, now playing on Netflix.",
-      "source": "Netflix",
+      "title": "Where's Wanda? — Season 2 Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BGsER-sXSyw",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Tension is rising. Ella Beatty and Charlie Hunnam star as Lizzie and Andrew Borden in the new season of Monster: The Lizzie Borden Story, now playing on Netflix. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=7B6D8x5yxh4",
+      "published": "2026-09-23T12:59:49+00:00",
+      "summary": "Normalcy is short-lived when Wanda is caught red-handed standing over a dead body. The Klatts must confront secrets in their town to prove her innocence. https://apple.co/WheresWanda Wanda has found her way into new trouble.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -731,7 +775,7 @@
       "published": "2026-09-22T12:59:48+00:00",
       "summary": "The next chapter awaits. The Sisters Grimm Season 2 — October 2 #TheSistersGrimm #Trailer #AppleTV",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -868,8 +912,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
-    "trailerCount": 34,
-    "sourceCount": 22
+    "youtubeCount": 23,
+    "trailerCount": 37,
+    "sourceCount": 24
   }
 }

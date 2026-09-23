@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-23T09:01:13.450776Z
+Generated: 2026-09-23T14:00:02.546706Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims, ‘My body is on fire!’: my perilous, painful, perfect month of pilates, and As Japan swelters, farmers turn to new heat-resistant rice varieties to boost staple crop.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US justice department defends Trump banning journalists from White House ahead of court hearing – live, Nobody does it like Remedy, and Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week.
 
 ## Briefing
 
@@ -33,61 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims [10/10]
-**Source:** NPR Health  
+### 1. US justice department defends Trump banning journalists from White House ahead of court hearing – live [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.
+Trump’s DoJ says White House access is ‘a privilege, not a right’; CNN, Politico and MS Now to present case in court after president banned outlets from White House grounds Sign up for US Breaking News emails Donald Trump has a habit of…
 
-Link: https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act
+Link: https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates
 
-### 2. ‘My body is on fire!’: my perilous, painful, perfect month of pilates [10/10]
+### 2. Nobody does it like Remedy [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City.
+
+Link: https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox
+
+### 3. Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Former Halo leaders Bonnie Ross and Kiki Wolfkill have added their voices to the chorus of people wishing laid-off Halo Studios employees well after Microsoft's drastic downsizing of the studio yesterday. Read more
+
+Link: https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross
+
+### 4. Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing.
+
+Link: https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown
+
+### 5. Not set in stone: teachers are defying mandates to display the Ten Commandments in classrooms [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Some educators are pushing back in class and in court against the display of the religious code in public schools When history teacher Chris Dier sued Louisiana two years ago for mandating that the Ten Commandments be displayed in…
+
+Link: https://www.theguardian.com/us-news/2026/sep/23/schools-ten-commandments-law
+
+### 6. Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Trump says further talks possible as barrel of Brent crude falls to below $100 for first time in two weeks United Nations general assembly – latest updates Iran has pushed back on claims that it dropped former preconditions for reopening…
+
+Link: https://www.theguardian.com/world/2026/sep/23/iran-denies-dropping-preconditions-very-productive-three-hour-un-talks-new-york
+
+### 7. How The 74 Revealed Decades of Alleged Sexual Abuse in New York Schools [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Early in my career as a high school English teacher, I was chaperoning a field trip to Six Flags when a 9th-grade student asked me to hold her phone while she rode the roller coaster.
+
+Link: https://www.the74million.org/article/how-the-74-revealed-decades-of-alleged-sexual-abuse-in-new-york-schools/
+
+### 8. Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-A growing number of men, including singers Shaggy and Harry Styles, are taking up pilates.
+Bryan Seaver, who announced Parton’s death to the world, is alleged to have intimidated her manager and others, which he denies The estate of the late Dolly Parton is involved in a dispute with the country star’s nephew and former head of…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates
+Link: https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats
 
-### 3. As Japan swelters, farmers turn to new heat-resistant rice varieties to boost staple crop [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New rice varieties give hope that farmers can overcome the climate emergency and a warmer future that threatens harvests When schoolchildren in Shiroishi were enlisted to plant rice seedlings in June, Shinto priests blessed the land and…
-
-Link: https://www.theguardian.com/world/2026/sep/23/japan-rice-new-strains-rising-heat-climate
-
-### 4. New Anthropic, OpenAI models make same promise: A little more for a lot less money [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The frontier AI model race has entered its comparison shopping phase.
-
-Link: https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/
-
-### 5. Rabbit’s new AI agent doesn’t need an R1 to run [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
-
-### 6. Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected.
-
-Link: https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style
-
-### 7. Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting [10/10]
+### 9. Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -96,50 +114,32 @@ British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.
 
 Link: https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
 
-### 8. Don’t be fooled by this summer of AI hype [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.
-
-Link: https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
-
-### 9. CDC survey finds mental health and suicide risk among U.S. teens has improved [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The CDC's latest Youth Risk Behavior Survey highlights students' diets, sleep and nutrition, which are priorities for Health Secretary Robert F. Kennedy Jr.
-
-Link: https://www.npr.org/2026/09/23/nx-s1-5976873/cdc-survey-finds-mental-health-and-suicide-risk-among-u-s-teens-has-improved
-
-### 10. Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I was not a child that was built for skateboarding. Child me was a tad too wimpy to ever do anything so wicked cool as that.
-
-Link: https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now
-
-### 11. People Training OpenAI’s AI Fired for Using AI to Train the AI [9/10]
+### 10. Americans Fear AI Will Make the World Worse, Love It Anyway [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.
+Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'
 
-Link: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/
+Link: https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/
 
-### 12. New Data Shows Drop in College Readiness, Education Participation [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Advocates for children and young adults from across the state gathered in Lansing on Thursday as the Michigan League for Public Policy released a new report aimed at measuring the health, wealth and education of Michigan youth.
+The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval.
 
-Link: https://www.the74million.org/article/new-data-shows-drop-in-college-readiness-and-participation-among-young-adults/
+Link: https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri
+
+### 12. How an 'AI freeze' could make big AI companies bigger and hurt smaller firms [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up.
+
+Link: https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic
 
 ### 13. Read an Excerpt From The Tarot Trials by Katee Robert [7/10]
 **Source:** Reactor  
@@ -161,6 +161,15 @@ Link: https://reactormag.com/excerpts-the-tarot-trials-by-katee-robert/
 
 Link: https://www.youtube.com/watch?v=qBBRRsH0rQc
 
+### What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile [9/10]
+**Creator:** Computerphile  
+**Verdict:** Watch it  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The public thought the AI containment crisis started with Hugging Face. They were wrong. We talk to Sydney von Arx of Nightingale Collective, the researcher who discovered that AI agents had already escaped their sandboxes months prior.
+
+Link: https://www.youtube.com/watch?v=giTmBaNGaHw
+
 ### Astrobiologist Answers Mars Questions [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -170,36 +179,45 @@ Space scientist and astrobiologist Erika DeBenedictis joins WIRED to answer the 
 
 Link: https://www.youtube.com/watch?v=LFt5CwsZNK8
 
-### Millions of dollars in ad spending is giving Republicans a significant advantage for the midterms [7/10]
+### We have a new Senior Podcast Challenge! [8/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+65 and older? Got a story to tell? Seniors, we want to hear from you! Record, then send us a podcast about any topic you are passionate about for a chance to win a free visit to NPR headquarters where you'll hear your story air live on…
+
+Link: https://www.youtube.com/watch?v=nwO65H8-iQ0
+
+### Millions of dollars in ad spending is giving Republicans a significant advantage for the midterms [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 When it comes to ad spending, Republicans now have a significant advantage heading into the closing weeks of the 2026 midterms.
 
 Link: https://www.youtube.com/watch?v=kgtvjbNEHVw
 
-### How Ms. Rachel used her platform to advocate for children affected by war and humanitarian crises [9/10]
+### How Ms. Rachel used her platform to advocate for children affected by war and humanitarian crises [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 With her pink headband and high-pitched, singsong voice, Ms. Rachel, whose real name is Rachel Accurso, has become one of the most recognizable figures in children's entertainment. Ms.
 
 Link: https://www.youtube.com/watch?v=ExllQ_9uBbc
 
-### How data centers are reshaping American politics [7/10]
+### How data centers are reshaping American politics [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 A new poll from "The Economist" and YouGov shows about two-thirds of Americans oppose data centers being built in their communities.⁠ ⁠ Find “NPR News Now” wherever you listen to podcasts.
 
 Link: https://www.youtube.com/watch?v=KUkgWbASSL4
 
-### American journalist Austin Tice vanished in Syria 14 years ago. Is he still alive? [9/10]
+### American journalist Austin Tice vanished in Syria 14 years ago. Is he still alive? [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In the fall of 2012, a video appears online titled: "Austin Tice Still Alive". It shows American journalist Austin Tice bound, blindfolded and terrified, surrounded by armed men. Tice vanished in Syria 14 years ago.
@@ -232,15 +250,6 @@ Link: https://www.youtube.com/watch?v=p5meIjxAB9A
 The man who was shot and wounded by an ICE officer conducting a traffic stop in Austin, Texas, on Sunday is speaking out. Wilber Rafael Garces Perez, 28, is originally from Venezuela.
 
 Link: https://www.youtube.com/watch?v=9wSFtAMgEfs
-
-### Voting in this year's Fat Bear Week begins Tuesday [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-It's Fat Bear Week! Voting starts tomorrow in the 12th annual tournament that pits 16 brown bears — up from 12 in recent years — at Alaska's Katmai National Park and Preserve against each other as voters judge which bear is biggest.
-
-Link: https://www.youtube.com/watch?v=L4Q8Dgfbqpc
 
 ### Will There Ever Be Third Party PlayStation Console Hardware? [7/10]
 **Creator:** Digital Foundry  
@@ -433,6 +442,15 @@ Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) go
 
 Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
 
+### You Can See Everything | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.
+
+Link: https://www.youtube.com/watch?v=HvW_N5p1q44
+
 ### Primetime | Official Trailer 2 HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -550,6 +568,24 @@ Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
 
+### Ray Gunn | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Academy Award winner Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… In Metropia, a gigantic city in an alternate future as seen from 1939, private eye…
+
+Link: https://www.youtube.com/watch?v=VL-xjzQFWsY
+
+### Ray Gunn | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Academy Award winner Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… In Metropia, a gigantic city in an alternate future as seen from 1939, private eye…
+
+Link: https://www.youtube.com/watch?v=cW8PaAhqqvU
+
 ### Bass X Machina | Minotaur Fight | Sneak Peek | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -649,16 +685,16 @@ TYSON is a raw four-part documentary that peels back the curtain on Mike Tyson�
 
 Link: https://www.youtube.com/watch?v=o1S5LsYhfEg
 
-### Monster: The Lizzie Borden Story, now playing on Netflix. [10/10]
-**Source:** Netflix  
+### Where's Wanda? — Season 2 Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Tension is rising. Ella Beatty and Charlie Hunnam star as Lizzie and Andrew Borden in the new season of Monster: The Lizzie Borden Story, now playing on Netflix. Watch on Netflix: https://www.netflix.
+Normalcy is short-lived when Wanda is caught red-handed standing over a dead body. The Klatts must confront secrets in their town to prove her innocence. https://apple.co/WheresWanda Wanda has found her way into new trouble.
 
-Link: https://www.youtube.com/watch?v=BGsER-sXSyw
+Link: https://www.youtube.com/watch?v=7B6D8x5yxh4
 
-### The Sisters Grimm — Season 2 Official Trailer | Apple TV [9/10]
+### The Sisters Grimm — Season 2 Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
