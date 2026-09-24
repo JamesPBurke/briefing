@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-24T09:00:21.120936Z
+Generated: 2026-09-24T14:00:02.587061Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are The west is in freefall – and the worst part is that we were warned, but chose not to listen | Owen Jones, ‘Stranger Things was a train you can’t jump off’: Gaten Matarazzo on his return to the stage, and Meta’s next VR device isn’t a headset — it’s glasses.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Meta’s Muse AI Charms can interact with each other, Logitech’s new haptics-based gaming mouse is a little better and $20 more, and Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette.
 
 ## Briefing
 
@@ -33,43 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The west is in freefall – and the worst part is that we were warned, but chose not to listen | Owen Jones [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Endless pursuit of wealth and power by western leaders led us here. What strikes me most is how many saw what was coming The symptoms of decline are everywhere you look.
-
-Link: https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power
-
-### 2. ‘Stranger Things was a train you can’t jump off’: Gaten Matarazzo on his return to the stage [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The actor we know as Dustin was a ‘theatre kid’ from age 11. Now he’s starring in a new staging of Rent.
-
-Link: https://www.theguardian.com/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre
-
-### 3. Meta’s next VR device isn’t a headset — it’s glasses [10/10]
+### 1. Meta’s Muse AI Charms can interact with each other [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Meta is launching new VR hardware: a pair of glasses.
+Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year.
 
-Link: https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on
+Link: https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem
 
-### 4. Don't expect regular Destiny 2 updates to return, despite the surprise "unvaulting" of game additions [9/10]
+### 2. Logitech’s new haptics-based gaming mouse is a little better and $20 more [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The G Pro Superstrike mouse is one of Logitech's most interesting products.
+
+Link: https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price
+
+### 3. Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-After announcing the end of Destiny 2 development and laying off almost the game's entire team , Bungie surprised fans earlier this week with news that it's working on "unvaulting" Destiny 2 campaigns, raids and destinations - bringing…
+After first hearing about Roman Sands Re:Build, and following along with bits of its development over the last few years, it's been a real ride getting to sit down with it; the demo from a couple years ago gave us a glimpse at both of the…
 
-Link: https://www.eurogamer.net/destiny-2-unvaulted-content-details-report
+Link: https://www.eurogamer.net/roman-sands-rebuild-review
 
-### 5. OpenAI's breach of Australian health department website prompts rebuke [9/10]
+### 4. Gemini 4 is almost ready, says new Google DeepMind chief [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.
+
+Link: https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu
+
+### 5. How Trump’s Crackdown on Speech Has Damaged the Student Press [10/10]
+**Source:** The Nation  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+George Porteous I serve as editor in chief and president of The Stanford Daily . Our newsroom has keenly felt the effects of Trump’s campus crackdown, which is why we sued the federal government.
+
+Link: https://www.thenation.com/article/society/stanford-speech-student-press-ozturk-the-stanford-daily/
+
+### 6. A Different World review – it was only a matter of time before they remade this trailblazing black sitcom [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Many of the original cast of this Cosby Show-spinoff are back (including Jada Pinkett-Smith, briefly).
+
+Link: https://www.theguardian.com/tv-and-radio/2026/sep/24/a-different-world-review
+
+### 7. OpenAI's breach of Australian health department website prompts rebuke [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -78,7 +96,7 @@ Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's 
 
 Link: https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia
 
-### 6. FBI Hack Exposed FBI’s Own Hacking Unit [9/10]
+### 8. FBI Hack Exposed FBI’s Own Hacking Unit [9/10]
 **Source:** 404 Media  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,7 +105,7 @@ The FBI's Remote Operations Unit (ROU) is a highly secretive team of hackers mak
 
 Link: https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/
 
-### 7. Discord launches controversial age-verification system "using the most privacy-preserving approach we could build" months after first delay [9/10]
+### 9. Discord launches controversial age-verification system "using the most privacy-preserving approach we could build" months after first delay [9/10]
 **Source:** Eurogamer  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -95,24 +113,6 @@ Link: https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-oper
 Discord delayed the rollout of its controversial age verification system back in February after very loud backlash against the company's plans.
 
 Link: https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving
-
-### 8. Contrary to some reports, you don't have two brains [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-A bad press release makes a good excuse to look at how developmental biology works.
-
-Link: https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/
-
-### 9. More Unlicensed Teachers Are Filling In Gaps In Hawaiʻi Classrooms [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As the new academic year started last month, more students were being taught by educators who had not yet completed the training or testing needed to earn a Hawai‘i teacher’s license.
-
-Link: https://www.the74million.org/article/more-unlicensed-teachers-are-filling-in-gaps-in-hawai%ca%bbi-classrooms/
 
 ### 10. As White House Reviews New Education Tax Credit Rules, Questions Remain [9/10]
 **Source:** The 74  
@@ -123,7 +123,25 @@ When Congress passed the first federal tax credit for education last year, one c
 
 Link: https://www.the74million.org/article/as-white-house-reviews-new-education-tax-credit-rules-questions-remain/
 
-### 11. Beware Boiúna Trailer Gives You a Killer Snake Movie to Feed Your Nightmares [8/10]
+### 11. Watch Body Cam of Man Arrested for Just Cussing at a County Meeting [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Cops followed EJ Carrion home and arrested him in his drive way one week after he said 'bullshit' at a county meeting in Texas.
+
+Link: https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/
+
+### 12. Needy couples got cash and a spending plan. Results were good -- and bad [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.
+
+Link: https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence
+
+### 13. Beware Boiúna Trailer Gives You a Killer Snake Movie to Feed Your Nightmares [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,27 +150,9 @@ It’s like JAWS, but in a jungle and the shark is a giant, sentient, killer sna
 
 Link: https://reactormag.com/beware-boiuna-trailer/
 
-### 12. Americans Fear AI Will Make the World Worse, Love It Anyway [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'
-
-Link: https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/
-
-### 13. FDA advisory panel recommends a first: multi-cancer blood test [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts weighed the evidence and decided to cautiously recommend it for FDA approval.
-
-Link: https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri
-
 ## YouTube
 
-### Claude Opus 5.5 AI: A Massive Leap Forward [9/10]
+### Claude Opus 5.5 AI: An Incredible Leap Forward [9/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -170,9 +170,9 @@ Link: https://www.youtube.com/watch?v=SA9kdAX2Zj0
 
 Link: https://www.youtube.com/watch?v=qBBRRsH0rQc
 
-### What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile [9/10]
+### What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile [8/10]
 **Creator:** Computerphile  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 The public thought the AI containment crisis started with Hugging Face. They were wrong. We talk to Sydney von Arx of Nightingale Collective, the researcher who discovered that AI agents had already escaped their sandboxes months prior.
@@ -196,6 +196,24 @@ Link: https://www.youtube.com/watch?v=KzotBDL7Jj8
 Space scientist and astrobiologist Erika DeBenedictis joins WIRED to answer the internet's burning questions about The Red Planet.
 
 Link: https://www.youtube.com/watch?v=LFt5CwsZNK8
+
+### Children's entertainers Ms.Rachel and Mr. Aaron launch their debut children's music record [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Since launching the YouTube channel "Songs for Littles" in 2019, Rachel Accurso better known as Ms. Rachel and her husband, Aron Accurso, better known as Mr. Aron, have racked up over 17.2 billion views.
+
+Link: https://www.youtube.com/watch?v=HmZqOGx3vCk
+
+### Tucker Carlson criticizes Trump’s decision to go to war against Iran [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Tucker Carlson used to be a vocal supporter of President Trump but now he’s a critic. In an interview with NPR’s Steve Inskeep, the conservative pundit calls Trump’s decision to go to war against Iran “profoundly destructive.
+
+Link: https://www.youtube.com/watch?v=C61-elTuCbs
 
 ### 'Choosin' Texas' steals Mariah Carey's crown — but Christmas is around the corner [7/10]
 **Creator:** NPR  
@@ -241,33 +259,6 @@ Link: https://www.youtube.com/watch?v=d5XRKB9QlyY
 Kenya's Lake Turkana is the world's largest permanent desert lake. its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.⁠ ⁠
 
 Link: https://www.youtube.com/watch?v=XY6RrWvpnY0
-
-### Israel has seized territories in Southern Lebanon, displacing more than 300,000 people [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-In Southern Lebanon, Israel has been seizing territory since a ceasefire with Iran-backed Hezbollah five months ago and now occupies almost 6% of the country, leveling villages and displacing more than 300,000 people.
-
-Link: https://www.youtube.com/watch?v=g4RNb7gmPGI
-
-### We have a new Senior Podcast Challenge! [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-65 and older? Got a story to tell? Seniors, we want to hear from you! Record, then send us a podcast about any topic you are passionate about for a chance to win a free visit to NPR headquarters where you'll hear your story air live on…
-
-Link: https://www.youtube.com/watch?v=nwO65H8-iQ0
-
-### Millions of dollars in ad spending is giving Republicans a significant advantage for the midterms [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-When it comes to ad spending, Republicans now have a significant advantage heading into the closing weeks of the 2026 midterms.
-
-Link: https://www.youtube.com/watch?v=kgtvjbNEHVw
 
 ### Fire Emblem Fortune's Weave Switch 2 - We've Tested It [7/10]
 **Creator:** Digital Foundry  
@@ -323,18 +314,18 @@ Link: https://www.youtube.com/watch?v=fjRj0INuvRc
 
 Link: https://www.youtube.com/watch?v=K-S7MCSvz6Y
 
-### Showing Off Some Control Resonant w/ KC and Marty [7/10]
+### Showing Off Some Control Resonant w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and Marty are going to show off a few hours of Control Resonant. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=mz7srWVzK2E
 
-### Yahtzee Tries... Knuckle Jet and Driving Rogue [7/10]
+### Yahtzee Tries... Knuckle Jet and Driving Rogue [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try Knuckle Jet and Driving Rogue. https://store.steampowered.com/app/3199470/Knuckle_Jet/ https://store.steampowered.
@@ -477,6 +468,15 @@ Link: https://www.youtube.com/watch?v=YtJMd3XXgkM
 Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.
 
 Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
+
+### Misty Green | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=5SohUK9E_eo
 
 ### You Can See Everything | Official Trailer HD | A24 [8/10]
 **Source:** A24  
