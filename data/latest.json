@@ -1,90 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-25T09:00:18.837060Z",
-  "generatedAtDisplay": "2026-09-25 05:00 AM EDT",
+  "generatedAt": "2026-09-25T14:00:02.646077Z",
+  "generatedAtDisplay": "2026-09-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke, LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff, and Gemini 3.8 Live with Live Avatar gives Google’s AI a face.",
+  "summary": "Today's sweep leans toward CS education / AI policy, Democracy / press freedom, AI / computing. The strongest items in this run are Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test, Civil rights lawyer Ben Crump releases data from Nolan Wells’ cellphone, and Removal of 760,000 people from ACA marketplace could undermine US health system.",
   "mainItems": [
     {
-      "title": "‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "published": "2026-09-25T13:35:25+00:00",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Civil rights lawyer Ben Crump releases data from Nolan Wells’ cellphone",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/nolan-wells-ben-crump-cellphone",
+      "published": "2026-09-25T13:03:45+00:00",
+      "summary": "Messaging ‘very telling’, says Crump after grand jury said it found no evidence of criminal conduct in teen’s death Civil rights attorney Ben Crump released information from a forensic examination of Nolan Wells’ cellphone as well as…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Removal of 760,000 people from ACA marketplace could undermine US health system",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+      "published": "2026-09-25T13:00:50+00:00",
+      "summary": "Trump administration move weakens federal insurance programs – and some poor people will likely forego healthcare Reader Q&A: who’s spending big on the US midterms? Our reporters take your questions The Trump administration is removing…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Even With Extra Funding, Missouri Charters Lag Behind Local District Schools",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/even-with-extra-funding-missouri-charters-lag-behind-local-district-schools/",
+      "published": "2026-09-25T12:30:00+00:00",
+      "summary": "After years of frustration and spurious claims that it is destroying public education, the charter school movement is nearing a tipping point when it comes to equitably accessing the local resources from which it has too often been…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/sep/25/michael-kiwanuka-life-after-devastating-stroke",
-      "published": "2026-09-25T04:00:40+00:00",
-      "summary": "The Mercury prize winner hasn’t been able to go home since falling ill last summer.",
+      "url": "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson",
+      "published": "2026-09-25T12:17:13+00:00",
+      "summary": "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
+      "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
+      "published": "2026-09-25T12:00:50+00:00",
+      "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulations Donald Trump’s latest fishing order is raising new concerns about US marine protections, as it directs federal agencies…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-      "published": "2026-09-24T21:59:13+00:00",
-      "summary": "I would hope that for most of you it would not be a controversial thing to hear me say I hate generative AI.",
+      "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning",
+      "published": "2026-09-25T11:05:00+00:00",
+      "summary": "Demo sessions are often terrible ways to see a game, doubly so at conferences.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "published": "2026-09-24T20:00:34+00:00",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Inside Alpha School’s ‘Bootcamp’: Heart Monitors, Unpaid Labor & Many, Many Tweets",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/inside-alpha-schools-bootcamp-heart-monitors-unpaid-labor-many-many-tweets/",
+      "published": "2026-09-25T10:30:00+00:00",
+      "summary": "This fall, as students at the private, AI-focused Alpha School begin their academic year, many are being tested in an unusual way: they’re watching a video of their parents “talking about our worst qualities,” according to one student,…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-      "published": "2026-09-24T14:00:21+00:00",
-      "summary": "Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "published": "2026-09-24T11:00:04+00:00",
-      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Experience: a brain surgeon dropped part of my skull on the floor",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor",
-      "published": "2026-09-25T04:00:39+00:00",
-      "summary": "I was a healthy 34-year-old when a mass of blood vessels ruptured in my brain. It took three neurosurgeons and a risky 16-hour operation to fix me On a Sunday in May 2017, I was at the gym and using a chest press when there was this pop.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "published": "2026-09-25T01:25:53+00:00",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-      "source": "The Verge",
+      "title": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
+      "source": "Rock Paper Shotgun",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-      "published": "2026-09-24T23:50:55+00:00",
-      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health.",
+      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+      "published": "2026-09-25T10:12:53+00:00",
+      "summary": "Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms – and led by former Wild Arms producer Akifumi Kaneko – has been cancelled.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "score": 10
     },
     {
       "title": "How to limit rat numbers? Train humans",
@@ -97,23 +107,13 @@
       "score": 9
     },
     {
-      "title": "Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot",
+      "title": "You’ll Do Anything for Your Baby. The Algorithm Knows How to Exploit That.",
       "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/so-many-credentials-so-little-value-what-states-can-learn-from-ohios-reboot/",
-      "published": "2026-09-24T16:30:00+00:00",
-      "summary": "The gap between workforce policy ambition and the infrastructure that’s needed to make it a reality is a defining story in American workforce policy. Ohio is an example of this problem and the pathway to solving it.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Watch Body Cam of Man Arrested for Just Cussing at a County Meeting",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/",
-      "published": "2026-09-24T13:24:31+00:00",
-      "summary": "Cops followed EJ Carrion home and arrested him in his drive way one week after he said 'bullshit' at a county meeting in Texas.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "category": "Security / computing",
+      "url": "https://www.the74million.org/zero2eight/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/",
+      "published": "2026-09-25T12:30:00+00:00",
+      "summary": "This piece was published in coordination with The Washington Post.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     },
     {
@@ -127,13 +127,13 @@
       "score": 7
     },
     {
-      "title": "This fall, reach for this unlikely apple ingredient : Apple cider vinegar is a baker’s secret weapon.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/09/24/apple-cider-vinegar-recipes",
-      "published": "2026-09-24T14:00:00+00:00",
-      "summary": "As fall baking season settles in, you're probably reaching for apples — and the many flavor-packed ingredients they produce.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "title": "This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
+      "published": "2026-09-24T17:46:37+00:00",
+      "summary": "A former fan made a mod to silence the streamer’s followers who are spamming public spaces with slurs and hate.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -145,17 +145,6 @@
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "published": "2026-09-24T08:40:55+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Yes, Jev Is Insane, But There's A Catch",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "published": "2026-09-22T09:32:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -216,7 +205,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Trump harangues the U.N. / Xi in D.C. / White House press ban fallout",
+      "title": "Trump harangues the U.N. / Xi in D.C. / White House press ban fallout | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=qlyOQxYQfq8",
@@ -359,6 +348,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Chill Pre-BurgQuest Stream | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gVRARJTlx_o",
+      "published": "2026-09-25T09:55:43+00:00",
+      "summary": "Jesse Galena is at BurgQuest this weekend; doing a live RPG Help Desk panel on Sunday! So we're doing a chill stream today. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -368,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Chill Pre-BurgQuest Stream | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=gVRARJTlx_o",
-      "published": "2026-09-24T15:16:40+00:00",
-      "summary": "Jesse Galena is at BurgQuest this weekend; doing a live RPG Help Desk panel on Sunday! So we're doing a chill stream today. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Dark Souls, But Make It Random w/ Jack and Jess -- Part 7",
@@ -709,7 +698,7 @@
       "published": "2026-09-25T02:00:00+00:00",
       "summary": "5 DAYS. The crew is coming together. The adventure is ours to build. LEGO ONE PIECE is almost here. 🏴‍☠️ Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -898,17 +887,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Brothers — Opening Credits | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8RLE6FHWl8A",
-      "published": "2026-09-21T14:59:48+00:00",
-      "summary": "Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -1022,8 +1000,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 28,
-    "trailerCount": 42,
-    "sourceCount": 23
+    "youtubeCount": 27,
+    "trailerCount": 41,
+    "sourceCount": 21
   }
 }

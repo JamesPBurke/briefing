@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-25T09:00:18.837060Z
+Generated: 2026-09-25T14:00:02.646077Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke, LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff, and Gemini 3.8 Live with Live Avatar gives Google’s AI a face.
+Today's sweep leans toward CS education / AI policy, Democracy / press freedom, AI / computing. The strongest items in this run are Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test, Civil rights lawyer Ben Crump releases data from Nolan Wells’ cellphone, and Removal of 760,000 people from ACA marketplace could undermine US health system.
 
 ## Briefing
 
@@ -33,79 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Mercury prize winner hasn’t been able to go home since falling ill last summer.
-
-Link: https://www.theguardian.com/music/2026/sep/25/michael-kiwanuka-life-after-devastating-stroke
-
-### 2. LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I would hope that for most of you it would not be a controversial thing to hear me say I hate generative AI.
-
-Link: https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff
-
-### 3. Gemini 3.8 Live with Live Avatar gives Google’s AI a face [10/10]
+### 1. Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.
+A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again.
 
-Link: https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+Link: https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review
 
-### 4. ‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality [10/10]
+### 2. Civil rights lawyer Ben Crump releases data from Nolan Wells’ cellphone [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich,…
+Messaging ‘very telling’, says Crump after grand jury said it found no evidence of criminal conduct in teen’s death Civil rights attorney Ben Crump released information from a forensic examination of Nolan Wells’ cellphone as well as…
 
-Link: https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai
+Link: https://www.theguardian.com/us-news/2026/sep/25/nolan-wells-ben-crump-cellphone
 
-### 5. Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Usable local AI is a lot of fun, but how much would you pay for it?
-
-Link: https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/
-
-### 6. Experience: a brain surgeon dropped part of my skull on the floor [9/10]
+### 3. Removal of 760,000 people from ACA marketplace could undermine US health system [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-I was a healthy 34-year-old when a mass of blood vessels ruptured in my brain. It took three neurosurgeons and a risky 16-hour operation to fix me On a Sunday in May 2017, I was at the gym and using a chest press when there was this pop.
+Trump administration move weakens federal insurance programs – and some poor people will likely forego healthcare Reader Q&A: who’s spending big on the US midterms? Our reporters take your questions The Trump administration is removing…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor
+Link: https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance
 
-### 7. Microsoft is killing off the ‘Copilot Plus PC’ brand [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 4. Even With Extra Funding, Missouri Charters Lag Behind Local District Schools [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Remember when Microsoft wanted everyone to know that "Copilot Plus PCs" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem…
+After years of frustration and spurious claims that it is destroying public education, the charter school movement is nearing a tipping point when it comes to equitably accessing the local resources from which it has too often been…
 
-Link: https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand
+Link: https://www.the74million.org/article/even-with-extra-funding-missouri-charters-lag-behind-local-district-schools/
 
-### 8. Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures [9/10]
-**Source:** The Verge  
+### 5. ‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl.
+
+Link: https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson
+
+### 6. Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulations Donald Trump’s latest fishing order is raising new concerns about US marine protections, as it directs federal agencies…
+
+Link: https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order
+
+### 7. I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Demo sessions are often terrible ways to see a game, doubly so at conferences.
+
+Link: https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning
+
+### 8. Inside Alpha School’s ‘Bootcamp’: Heart Monitors, Unpaid Labor & Many, Many Tweets [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This fall, as students at the private, AI-focused Alpha School begin their academic year, many are being tested in an unusual way: they’re watching a video of their parents “talking about our worst qualities,” according to one student,…
+
+Link: https://www.the74million.org/article/inside-alpha-schools-bootcamp-heart-monitors-unpaid-labor-many-many-tweets/
+
+### 9. Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health.
+Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms – and led by former Wild Arms producer Akifumi Kaneko – has been cancelled.
 
-Link: https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
+Link: https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits
 
-### 9. How to limit rat numbers? Train humans [9/10]
+### 10. How to limit rat numbers? Train humans [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,23 +123,14 @@ No matter how much poison you put out, rats continue to thrive. So D.C.'s Rat Ra
 
 Link: https://www.npr.org/2026/09/24/nx-s1-5950338/how-to-limit-rat-numbers-train-humans
 
-### 10. Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot [9/10]
+### 11. You’ll Do Anything for Your Baby. The Algorithm Knows How to Exploit That. [8/10]
 **Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-The gap between workforce policy ambition and the infrastructure that’s needed to make it a reality is a defining story in American workforce policy. Ohio is an example of this problem and the pathway to solving it.
+This piece was published in coordination with The Washington Post.
 
-Link: https://www.the74million.org/article/so-many-credentials-so-little-value-what-states-can-learn-from-ohios-reboot/
-
-### 11. Watch Body Cam of Man Arrested for Just Cussing at a County Meeting [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Cops followed EJ Carrion home and arrested him in his drive way one week after he said 'bullshit' at a county meeting in Texas.
-
-Link: https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/
+Link: https://www.the74million.org/zero2eight/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/
 
 ### 12. Damien McCarthy’s Hokum Heads to Streaming in Time For Halloween [7/10]
 **Source:** Reactor  
@@ -141,14 +141,14 @@ The horror film starring Adam Scott involves an inn, a witch, and disturbing rab
 
 Link: https://reactormag.com/hokum-streaming-release-date/
 
-### 13. This fall, reach for this unlikely apple ingredient : Apple cider vinegar is a baker’s secret weapon. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 13. This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-As fall baking season settles in, you're probably reaching for apples — and the many flavor-packed ingredients they produce.
+A former fan made a mod to silence the streamer’s followers who are spamming public spaces with slurs and hate.
 
-Link: https://www.kingarthurbaking.com/blog/2026/09/24/apple-cider-vinegar-recipes
+Link: https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/
 
 ## YouTube
 
@@ -160,15 +160,6 @@ Link: https://www.kingarthurbaking.com/blog/2026/09/24/apple-cider-vinegar-recip
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one.
 
 Link: https://www.youtube.com/watch?v=SA9kdAX2Zj0
-
-### Yes, Jev Is Insane, But There's A Catch [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.
-
-Link: https://www.youtube.com/watch?v=qBBRRsH0rQc
 
 ### What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile [8/10]
 **Creator:** Computerphile  
@@ -215,7 +206,7 @@ Space scientist and astrobiologist Erika DeBenedictis joins WIRED to answer the 
 
 Link: https://www.youtube.com/watch?v=LFt5CwsZNK8
 
-### Trump harangues the U.N. / Xi in D.C. / White House press ban fallout [9/10]
+### Trump harangues the U.N. / Xi in D.C. / White House press ban fallout | Sources & Methods [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -332,6 +323,15 @@ Link: https://www.youtube.com/watch?v=RAOpBm7A20w
 
 Link: https://www.youtube.com/watch?v=vN4YE08jm2o
 
+### Chill Pre-BurgQuest Stream | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jesse Galena is at BurgQuest this weekend; doing a live RPG Help Desk panel on Sunday! So we're doing a chill stream today. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=gVRARJTlx_o
+
 ### Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -340,15 +340,6 @@ Link: https://www.youtube.com/watch?v=vN4YE08jm2o
 This week on Firelink Nick and KC chat about the big game news and releases of the week, and discuss the big Halo news that has a lot of divided opinions on the internet.
 
 Link: https://www.youtube.com/watch?v=hyAwDpITeXY
-
-### Chill Pre-BurgQuest Stream | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jesse Galena is at BurgQuest this weekend; doing a live RPG Help Desk panel on Sunday! So we're doing a chill stream today. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=gVRARJTlx_o
 
 ### Dark Souls, But Make It Random w/ Jack and Jess -- Part 7 [7/10]
 **Creator:** Second Wind  
@@ -640,7 +631,7 @@ The countdown begins! The official music video for ‘Born for This’ is here. 
 
 Link: https://www.youtube.com/watch?v=nRU2GZd6b6Y
 
-### 5 days until LEGO ONE PIECE! [10/10]
+### 5 days until LEGO ONE PIECE! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -801,12 +792,3 @@ Link: https://www.youtube.com/watch?v=7B6D8x5yxh4
 The next chapter awaits. The Sisters Grimm Season 2 — October 2 #TheSistersGrimm #Trailer #AppleTV
 
 Link: https://www.youtube.com/watch?v=W9gixQopmPw
-
-### Brothers — Opening Credits | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.
-
-Link: https://www.youtube.com/watch?v=8RLE6FHWl8A
