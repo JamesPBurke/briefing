@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-24T18:00:24.261343Z
+Generated: 2026-09-25T05:00:03.570766Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Journalists from CNN, Politico, and MS Now belatedly regain access to White House after judge ruling – live, US citizen injured after ICE agents reportedly mistook him for fugitive, and Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke, New Jersey governor calls on lieutenant governor to resign after ethics investigation, and LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff.
 
 ## Briefing
 
@@ -33,25 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Journalists from CNN, Politico, and MS Now belatedly regain access to White House after judge ruling – live [10/10]
+### 1. ‘Everyone can relate to pain and struggle. So I’m sharing mine’: Michael Kiwanuka on life after his devastating stroke [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A federal judge had ruled Trump administration must immediately return the outlets’ press passes and said ban likely unconstitutional Sign up for US Breaking News emails Lawyers for the news outlets President Trump banned from the White…
+The Mercury prize winner hasn’t been able to go home since falling ill last summer.
 
-Link: https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates
+Link: https://www.theguardian.com/music/2026/sep/25/michael-kiwanuka-life-after-devastating-stroke
 
-### 2. US citizen injured after ICE agents reportedly mistook him for fugitive [10/10]
+### 2. New Jersey governor calls on lieutenant governor to resign after ethics investigation [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Man left bloodied and hurt after immigration enforcement agents tried to arrest him in Evanston, a Chicago suburb An eyewitness has described how two federal immigration agents allegedly beat and badly injured a US citizen in a botched…
+Mikie Sherrill says Dale Caldwell ‘engaged in serious, repeated violations’ involving staffers and gifts New Jersey’s governor on Thursday called on the state’s lieutenant governor, Dale Caldwell, to resign by Friday after a law firm hired…
 
-Link: https://www.theguardian.com/us-news/2026/sep/24/citizen-injured-ice-mistaken-fugitive-arrest
+Link: https://www.theguardian.com/us-news/2026/sep/24/new-jersey-lieutenant-governor-ethics-investigation
 
-### 3. Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot [10/10]
+### 3. LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I would hope that for most of you it would not be a controversial thing to hear me say I hate generative AI.
+
+Link: https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff
+
+### 4. Gemini 3.8 Live with Live Avatar gives Google’s AI a face [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.
+
+Link: https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+
+### 5. Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Right, I need you lot to pipe down for a minute because you're making games less interesting.
+
+Link: https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier
+
+### 6. Experience: a brain surgeon dropped part of my skull on the floor [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+I was a healthy 34-year-old when a mass of blood vessels ruptured close to my brain.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor
+
+### 7. Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures [9/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health.
+
+Link: https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
+
+### 8. How to limit rat numbers? Train humans [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+No matter how much poison you put out, rats continue to thrive. So D.C.'s Rat Rangers are trying education (of people, not the rats). They take residents into back alleys to illuminate the problem.
+
+Link: https://www.npr.org/2026/09/24/nx-s1-5950338/how-to-limit-rat-numbers-train-humans
+
+### 9. Opinion: So Many Credentials, So Little Value — What States Can Learn From Ohio’s Reboot [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,52 +114,7 @@ The gap between workforce policy ambition and the infrastructure that’s needed
 
 Link: https://www.the74million.org/article/so-many-credentials-so-little-value-what-states-can-learn-from-ohios-reboot/
 
-### 4. Russia could attack a Nato country within months, Danish intelligence says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Warning comes hours after Poland says fire at Starlink satellite station was ‘act of sabotage’ Russia could launch a limited military attack against a Nato country in the coming months, Danish intelligence said, in one of the starkest…
-
-Link: https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says
-
-### 5. Trump administration to ask supreme court to allow third-country deportation policy [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US attorney general Todd Blanche says justice department will ask high court for help after lower court rejected policy The Trump administration will ask the US supreme court to allow it to deport immigrants to countries other than their…
-
-Link: https://www.theguardian.com/us-news/2026/sep/24/trump-supreme-court-third-country-deportation
-
-### 6. You might not miss what Nikon removed from its cheaper full-frame Z5 IIC [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in order to make it more affordable for novice…
-
-Link: https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter
-
-### 7. EU says Trump plan to ban US diesel exports would ‘negatively impact both sides’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president’s suggested 90-day export ban before midterm elections could bring even higher fuel prices across Europe The EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying the move would…
-
-Link: https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe
-
-### 8. Gemini can now call businesses for you so you don’t have to wait on hold [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google's launching an "early experiment" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls
-
-### 9. OpenAI's breach of Australian health department website prompts rebuke [9/10]
+### 10. OpenAI's breach of Australian health department website prompts rebuke [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -114,38 +123,64 @@ Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's 
 
 Link: https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia
 
-### 10. FBI Hack Exposed FBI’s Own Hacking Unit [9/10]
-**Source:** 404 Media  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The FBI's Remote Operations Unit (ROU) is a highly secretive team of hackers making exploits and tools to break into target’s devices. Some of its members just got exposed.
-
-Link: https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/
-
-### 11. This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans [8/10]
+### 11. Watch Body Cam of Man Arrested for Just Cussing at a County Meeting [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The beta for the hotly anticipated World of Warcraft: Forever has been marred by fans of the streamer Asmongold who have filled the game’s public spaces with spam and slurs .
+Cops followed EJ Carrion home and arrested him in his drive way one week after he said 'bullshit' at a county meeting in Texas.
 
-Link: https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/
+Link: https://www.404media.co/watch-body-cam-of-man-arrested-for-just-cussing-at-a-county-meeting/
 
-### 12. Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. Damien McCarthy’s Hokum Heads to Streaming in Time For Halloween [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Protest outside UN headquarters drew hundreds of people as Israeli prime minister prepared to speak As the Israeli prime minister, Benjamin Netanyahu , prepared to deliver his speech at the UN headquarters in New York City on Thursday,…
+The horror film starring Adam Scott involves an inn, a witch, and disturbing rabbit imagery The post Damien McCarthy’s Hokum Heads to Streaming in Time For Halloween appeared first on Reactor .
 
-Link: https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests
+Link: https://reactormag.com/hokum-streaming-release-date/
 
-### 13. Needy couples got cash and a spending plan. Results were good -- and bad [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. This fall, reach for this unlikely apple ingredient : Apple cider vinegar is a baker’s secret weapon. [7/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
 
-In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.
+As fall baking season settles in, you're probably reaching for apples — and the many flavor-packed ingredients they produce.
 
-Link: https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence
+Link: https://www.kingarthurbaking.com/blog/2026/09/24/apple-cider-vinegar-recipes
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
