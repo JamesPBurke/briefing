@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-25T18:07:56.511591Z",
-  "generatedAtDisplay": "2026-09-25 02:07 PM EDT",
+  "generatedAt": "2026-09-26T05:00:03.498652Z",
+  "generatedAtDisplay": "2026-09-26 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Education / pedagogy. The strongest items in this run are One company is at the center of a wave of rogue AI attacks, Meta makes the Muse filesystem even more accessible, and Sony and UMG are suing Suno again.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Russia strikes at heart of Ukraine’s digital economy with attacks on ISPs and datacentres, Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy, and Sony and UMG are suing Suno again.",
   "mainItems": [
+    {
+      "title": "Russia strikes at heart of Ukraine’s digital economy with attacks on ISPs and datacentres",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
+      "published": "2026-09-26T04:00:25+00:00",
+      "summary": "As winter approaches, Kyiv fears disruption to vital networks that keep banks, payment systems and public services running Ukraine and Russia’s long-range drone war Russia has opened a new front in its campaign against Ukraine, hitting…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record",
+      "published": "2026-09-26T02:00:22+00:00",
+      "summary": "Mother of Lian Yunzhi says world record a ‘dream come true’ for child who now gets autograph requests from fellow students The mother of the six-year-old girl who broke the women’s world record for solving a Rubik’s Cube in an average time…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "published": "2026-09-25T19:09:57+00:00",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "One company is at the center of a wave of rogue AI attacks",
       "source": "The Verge",
@@ -17,84 +47,24 @@
       "score": 10
     },
     {
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "published": "2026-09-25T16:49:53+00:00",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Sony and UMG are suing Suno again",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "published": "2026-09-25T15:59:12+00:00",
-      "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Behind the Blog: Did you notice?",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/behind-the-blog-did-you-notice/",
-      "published": "2026-09-25T15:58:26+00:00",
-      "summary": "This week, we discuss some small changes, an AI song, and internet soup.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US supreme court lifts restrictions on controversial voter database",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database",
-      "published": "2026-09-25T15:52:51+00:00",
-      "summary": "Trump and officials claimed it combats voting by noncitizens but critics said it could disenfranchise eligible voters The US supreme court has lifted restrictions on a controversial federal database of voters as Donald Trump seeks to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Violent Victimization at School Rose Among Students in 2024, Federal Data Show",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/violent-victimization-at-school-rose-among-students-in-2024-federal-data-show/",
-      "published": "2026-09-25T14:30:00+00:00",
-      "summary": "Students ages 12 to 18 experienced higher rates of reported crime at school than away from school in 2024, according to a new federal analysis. But the overall rate of crime victimization at school has not changed significantly since 2014.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "published": "2026-09-25T13:35:25+00:00",
-      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Civil rights lawyer Ben Crump releases data from Nolan Wells’ cellphone",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/nolan-wells-ben-crump-cellphone",
-      "published": "2026-09-25T13:03:45+00:00",
-      "summary": "Messaging ‘very telling’, says Crump after grand jury said it found no evidence of criminal conduct in teen’s death Civil rights attorney Ben Crump released information from a forensic examination of Nolan Wells’ cellphone as well as…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Removal of 760,000 people from ACA marketplace could undermine US health system",
+      "title": "TikTok to pay Alabama $100m and limit teenage use in first state settlement",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
-      "published": "2026-09-25T13:00:50+00:00",
-      "summary": "Trump administration move weakens federal insurance programs – and some poor people will likely forego healthcare Reader Q&A: who’s spending big on the US midterms? Our reporters take your questions The Trump administration is removing…",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions",
+      "published": "2026-09-26T04:19:20+00:00",
+      "summary": "Trial had been set for Monday over claims by Alabama that TikTok misled parents about tools meant to shield children from harmful content TikTok has agreed to pay Alabama at least $100m and enact time limits and other restrictions for…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+      "published": "2026-09-25T19:02:39+00:00",
+      "summary": "Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinating over at Bethesda Game Studios .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Podcast: OpenAI Admits AI is Killing the Internet",
@@ -107,14 +77,44 @@
       "score": 9
     },
     {
-      "title": "How to limit rat numbers? Train humans",
+      "title": "Violent Victimization at School Rose Among Students in 2024, Federal Data Show",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/violent-victimization-at-school-rose-among-students-in-2024-federal-data-show/",
+      "published": "2026-09-25T14:30:00+00:00",
+      "summary": "Students ages 12 to 18 experienced higher rates of reported crime at school than away from school in 2024, according to a new federal analysis. But the overall rate of crime victimization at school has not changed significantly since 2014.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+      "published": "2026-09-25T10:12:53+00:00",
+      "summary": "Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms – and led by former Wild Arms producer Akifumi Kaneko – has been cancelled.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Did Strange New Worlds Just Bring M’Ress Into Live-Action Star Trek?",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/strange-new-worlds-mress-cameo/",
+      "published": "2026-09-25T17:40:18+00:00",
+      "summary": "A striking background character in Strange New Worlds raises a lot of questions The post Did Strange New Worlds Just Bring M’Ress Into Live-Action Star Trek ? appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5950338/how-to-limit-rat-numbers-train-humans",
-      "published": "2026-09-24T21:13:02+00:00",
-      "summary": "No matter how much poison you put out, rats continue to thrive. So D.C.'s Rat Rangers are trying education (of people, not the rats). They take residents into back alleys to illuminate the problem.",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "published": "2026-09-25T15:57:35+00:00",
+      "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
@@ -134,10 +134,99 @@
       "published": "2026-09-25T12:30:00+00:00",
       "summary": "This piece was published in coordination with The Washington Post.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Moving Halo to Activision Is the Right Call | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iRNong-CyYM",
+      "published": "2026-09-25T15:00:11+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Chill Pre-BurgQuest Stream | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gVRARJTlx_o",
+      "published": "2026-09-25T09:55:43+00:00",
+      "summary": "Jesse Galena is at BurgQuest this weekend; doing a live RPG Help Desk panel on Sunday! So we're doing a chill stream today. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=hyAwDpITeXY",
+      "published": "2026-09-25T00:52:40+00:00",
+      "summary": "This week on Firelink Nick and KC chat about the big game news and releases of the week, and discuss the big Halo news that has a lot of divided opinions on the internet.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Dark Souls, But Make It Random w/ Jack and Jess -- Part 7",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=-JzjDtiONvw",
+      "published": "2026-09-24T19:15:15+00:00",
+      "summary": "Jack has played Dark Souls 1 a million times, so let's see how him and Jess handle the game when it's randomized. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Video Game \"Commute\" Problem | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dfrZHF23IeE",
+      "published": "2026-09-24T15:20:37+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Showing Off Some Control Resonant w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=mz7srWVzK2E",
+      "published": "2026-09-24T01:10:15+00:00",
+      "summary": "KC and Marty are going to show off a few hours of Control Resonant. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Knuckle Jet and Driving Rogue",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rwDo3OpL9oQ",
+      "published": "2026-09-23T22:15:12+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try Knuckle Jet and Driving Rogue. https://store.steampowered.com/app/3199470/Knuckle_Jet/ https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Halloween: The Game | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=m8jJoejfFBM",
+      "published": "2026-09-23T16:00:12+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Halloween: The Game. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +339,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 8,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 10
   }
 }
