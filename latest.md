@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-26T09:00:35.935449Z
+Generated: 2026-09-26T14:00:03.581418Z
 
-Today's sweep leans toward CS education / AI policy, Democracy / press freedom, AI / computing. The strongest items in this run are What we've been playing - "I curl up on my sofa and breed my army of battle cats", ‘They accepted the money but didn’t take care of my child’: what Luna Wong’s death reveals about the treatment of international students in the UK, and Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi, MobyGames video game database now lets developers claim their game credits, and Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What we've been playing - "I curl up on my sofa and breed my army of battle cats" [10/10]
-**Source:** Eurogamer  
+### 1. Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way .
 
-Link: https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats
+Link: https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans
 
-### 2. ‘They accepted the money but didn’t take care of my child’: what Luna Wong’s death reveals about the treatment of international students in the UK [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-When her parents waved her off to study in England they hoped it would be a fresh start the 16-year-old needed after struggling with her mental health in Hong Kong. Instead, 10 months later, she was dead.
-
-Link: https://www.theguardian.com/society/2026/sep/26/luna-wong-hong-kong-death-reveals-treatment-international-students-uk
-
-### 3. Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Mother of Lian Yunzhi says world record a ‘dream come true’ for child who now gets autograph requests from fellow students The mother of the six-year-old girl who broke the women’s world record for solving a Rubik’s Cube in an average time…
-
-Link: https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record
-
-### 4. One company is at the center of a wave of rogue AI attacks [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google
-
-### 5. TikTok to pay Alabama $100m and limit teenage use in first state settlement [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Trial had been set for Monday over claims by Alabama that TikTok misled parents about tools meant to shield children from harmful content TikTok has agreed to pay Alabama at least $100m and enact time limits and other restrictions for…
-
-Link: https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions
-
-### 6. Ubisoft's Mario + Rabbids team reportedly came close to making an "ambitious" Zelda game starring Ganondorf, but it wasn't to be [9/10]
+### 2. MobyGames video game database now lets developers claim their game credits [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of regular protagonist Link - but an initially receptive…
+Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more
 
-Link: https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda
+Link: https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio
 
-### 7. Podcast: OpenAI Admits AI is Killing the Internet [9/10]
+### 3. Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Third US president wrote in 1787 about importance of peace, paying off debt and supporting agriculture A remarkably prescient letter written by Thomas Jefferson, the third US president, advising how the newly created country could prosper,…
+
+Link: https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning
+
+### 4. Opinion: Changing Head Start Rules Would Rob Kids of Skills They Need for School and Life [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Ask kindergarten teachers what they need most from 5-year-olds, and few will say it’s children who can read full sentences or count to 100.
+
+Link: https://www.the74million.org/zero2eight/changing-head-start-rules-would-rob-kids-of-skills-they-need-for-school-and-life/
+
+### 5. The AI safety debate is confusing. Here's our guide to the different factions [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.
+
+Link: https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions
+
+### 6. New research finds 485 chemicals in US pesticide products linked to breast cancer [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising…
+
+Link: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
+
+### 7. US court orders Redditor to pay Nintendo £3.4m over Switch piracy [9/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as "Archbox", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy.
+
+Link: https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million
+
+### 8. Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+"Overly constrained AI models" could cause military operations to fail, judges say.
+
+Link: https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
+
+### 9. At This Indianapolis Middle School, Student Mediators Help Drive Down Suspensions [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Sixth grader Jocelyn Montiel had her phone stolen. She said her friend, Esteban Gonzalez, was to blame.
+
+Link: https://www.the74million.org/article/at-this-indianapolis-middle-school-student-mediators-help-drive-down-suspensions/
+
+### 10. Podcast: OpenAI Admits AI is Killing the Internet [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -96,34 +123,16 @@ Microsoft and OpenAI admit it; how we got AI slop onto a real band's Spotify pag
 
 Link: https://www.404media.co/podcast-openai-admits-ai-is-killing-the-internet/
 
-### 8. Violent Victimization at School Rose Among Students in 2024, Federal Data Show [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Students ages 12 to 18 experienced higher rates of reported crime at school than away from school in 2024, according to a new federal analysis. But the overall rate of crime victimization at school has not changed significantly since 2014.
-
-Link: https://www.the74million.org/article/violent-victimization-at-school-rose-among-students-in-2024-federal-data-show/
-
-### 9. Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms – and led by former Wild Arms producer Akifumi Kaneko – has been cancelled.
-
-Link: https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits
-
-### 10. There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup? [8/10]
+### 11. Meal deliveries can save money and improve health. Will they survive Medicaid cuts? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?
+Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.
 
-Link: https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization
+Link: https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts
 
-### 11. What to Watch and Read This Weekend: Avengers: Endgame? Again? [8/10]
+### 12. What to Watch and Read This Weekend: Avengers: Endgame? Again? [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,7 +141,7 @@ Plus: Pilgrim at Tinker Creek, and why it's never too late for Early Edition The
 
 Link: https://reactormag.com/what-to-watch-and-read-this-weekend-september-25-2026/
 
-### 12. Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit [8/10]
+### 13. Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -140,15 +149,6 @@ Link: https://reactormag.com/what-to-watch-and-read-this-weekend-september-25-20
 Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.
 
 Link: https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france
-
-### 13. You’ll Do Anything for Your Baby. The Algorithm Knows How to Exploit That. [7/10]
-**Source:** The 74  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-This piece was published in coordination with The Washington Post.
-
-Link: https://www.the74million.org/zero2eight/youll-do-anything-for-your-baby-the-algorithm-knows-how-to-exploit-that/
 
 ## YouTube
 
@@ -160,15 +160,6 @@ Link: https://www.the74million.org/zero2eight/youll-do-anything-for-your-baby-th
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one.
 
 Link: https://www.youtube.com/watch?v=SA9kdAX2Zj0
-
-### What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile [8/10]
-**Creator:** Computerphile  
-**Verdict:** Worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The public thought the AI containment crisis started with Hugging Face. They were wrong. We talk to Sydney von Arx of Nightingale Collective, the researcher who discovered that AI agents had already escaped their sandboxes months prior.
-
-Link: https://www.youtube.com/watch?v=giTmBaNGaHw
 
 ### Biomedical Scientist Fact Checks Pseudoscience Slop [7/10]
 **Creator:** WIRED  
