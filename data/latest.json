@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-26T18:00:26.791466Z",
-  "generatedAtDisplay": "2026-09-26 02:00 PM EDT",
+  "generatedAt": "2026-09-27T05:00:02.275148Z",
+  "generatedAtDisplay": "2026-09-27 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Science / computing. The strongest items in this run are Third person arrested in death of Tasia Fortune, as police say hanging was staged, OpenAI says its models engaged with US government websites in misbehavior disclosure, and Wisconsin police investigating fraternity for hazing after men found in basement.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight, OpenAI halts training of latest models as reports mount of AI agents going rogue, and NAZA film-makers address threats at documentary’s New York City premiere.",
   "mainItems": [
     {
-      "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
+      "title": "Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
-      "published": "2026-09-26T17:20:40+00:00",
-      "summary": "Eric Clark, 45, charged with murder as autopsy concludes Fortune was dead days before body discovered in tree A third person has been arrested in the death of 29-year-old Tasia Fortune in Mississippi ’s capital city, while investigators…",
+      "url": "https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight",
+      "published": "2026-09-27T04:00:54+00:00",
+      "summary": "Images of Maricarmen Abascal being forcibly removed from her home sparked protests and a reckoning over the country’s soaring real estate market Images of an octogenarian being evicted from the home she had lived in for seven decades on a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "published": "2026-09-27T01:10:21+00:00",
+      "summary": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "NAZA film-makers address threats at documentary’s New York City premiere",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
+      "published": "2026-09-27T00:48:09+00:00",
+      "summary": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA , the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+      "published": "2026-09-26T17:51:31+00:00",
+      "summary": "Tense platforming? Riveting, punchy action combat? Complex, thought provoking puzzles? Is this what we come to video games for? Of course not! It's for the menus, those sweet, sweet collections of pixels that let us tailor our experience…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -27,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
-      "published": "2026-09-26T16:57:54+00:00",
-      "summary": "Pledges found covered in food in heated basement of fraternity house near University of Wisconsin-Madison Police are investigating suspected illegal hazing after about 30 partially clothed young men covered in food, condiments and other…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "OpenAI pauses training of its ‘most capable models’",
       "source": "The Verge",
       "category": "Security / computing",
@@ -47,6 +67,26 @@
       "score": 10
     },
     {
+      "title": "OpenAI says its AI agents probed federal websites without the company's knowledge",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981971/openai-says-its-ai-agents-probed-federal-websites-without-the-companys-knowledge",
+      "published": "2026-09-26T21:13:08+00:00",
+      "summary": "OpenAI says its AI agents gained access to websites at the SEC and the Commerce Department in unauthorized ways this summer. The agencies say no private data was exposed.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "The moment I knew: My late fiance’s favourite song was playing – and Billy said ‘Jamie’s here, isn’t that nice?’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/the-moment-i-knew-finding-love-after-death",
+      "published": "2026-09-26T20:00:45+00:00",
+      "summary": "After the death of his partner, Anthony Nocera had almost given up on love.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Struggling Delaware Schools Could Be Taken Over by DOE Under Draft Plan",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -54,67 +94,37 @@
       "published": "2026-09-26T16:30:00+00:00",
       "summary": "As Delaware continues to grapple with concerningly low average test scores from students, the state Department of Education has drafted a plan that could see it take over low-performing schools or even hold back third-graders who are far…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans",
-      "published": "2026-09-26T12:00:35+00:00",
-      "summary": "As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "published": "2026-09-26T13:00:36+00:00",
-      "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
-      "published": "2026-09-26T11:00:34+00:00",
-      "summary": "Third US president wrote in 1787 about importance of peace, paying off debt and supporting agriculture A remarkably prescient letter written by Thomas Jefferson, the third US president, advising how the newly created country could prosper,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/",
+      "published": "2026-09-26T21:59:39+00:00",
+      "summary": "Scientists have discovered that Earth-like microbes could potentially survive conditions inside Enceladus’s subsurface ocean, and that detecting signs of life on the moon may be easier than expected, according to a pair of studies.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Opinion: Changing Head Start Rules Would Rob Kids of Skills They Need for School and Life",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/changing-head-start-rules-would-rob-kids-of-skills-they-need-for-school-and-life/",
-      "published": "2026-09-26T10:30:00+00:00",
-      "summary": "Ask kindergarten teachers what they need most from 5-year-olds, and few will say it’s children who can read full sentences or count to 100.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "source": "Ars Technica",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "published": "2026-09-25T21:36:20+00:00",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "published": "2026-09-26T21:30:01+00:00",
+      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "At This Indianapolis Middle School, Student Mediators Help Drive Down Suspensions",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/at-this-indianapolis-middle-school-student-mediators-help-drive-down-suspensions/",
-      "published": "2026-09-25T18:30:00+00:00",
-      "summary": "Sixth grader Jocelyn Montiel had her phone stolen. She said her friend, Esteban Gonzalez, was to blame.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "source": "Eurogamer",
+      "category": "AI / privacy",
+      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "published": "2026-09-26T10:18:58+00:00",
+      "summary": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 8
     },
     {
       "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
@@ -123,16 +133,6 @@
       "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
       "published": "2026-09-26T09:00:00+00:00",
       "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/",
-      "published": "2026-09-25T20:56:21+00:00",
-      "summary": "\"One’s like a happy or upbeat sad song if that makes any sense, and one’s a sad, sad song. I think one’s in a minor key, one’s in a major key, but I’m not a music professional.\"",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 8
   }
 }

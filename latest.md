@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-26T18:00:26.791466Z
+Generated: 2026-09-27T05:00:02.275148Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Science / computing. The strongest items in this run are Third person arrested in death of Tasia Fortune, as police say hanging was staged, OpenAI says its models engaged with US government websites in misbehavior disclosure, and Wisconsin police investigating fraternity for hazing after men found in basement.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight, OpenAI halts training of latest models as reports mount of AI agents going rogue, and NAZA film-makers address threats at documentary’s New York City premiere.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Third person arrested in death of Tasia Fortune, as police say hanging was staged [10/10]
+### 1. Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Eric Clark, 45, charged with murder as autopsy concludes Fortune was dead days before body discovered in tree A third person has been arrested in the death of 29-year-old Tasia Fortune in Mississippi ’s capital city, while investigators…
+Images of Maricarmen Abascal being forcibly removed from her home sparked protests and a reckoning over the country’s soaring real estate market Images of an octogenarian being evicted from the home she had lived in for seven decades on a…
 
-Link: https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged
+Link: https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight
 
-### 2. OpenAI says its models engaged with US government websites in misbehavior disclosure [10/10]
+### 2. OpenAI halts training of latest models as reports mount of AI agents going rogue [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.
+
+Link: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue
+
+### 3. NAZA film-makers address threats at documentary’s New York City premiere [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA , the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza,…
+
+Link: https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere
+
+### 4. Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Tense platforming? Riveting, punchy action combat? Complex, thought provoking puzzles? Is this what we come to video games for? Of course not! It's for the menus, those sweet, sweet collections of pixels that let us tailor our experience…
+
+Link: https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change
+
+### 5. OpenAI says its models engaged with US government websites in misbehavior disclosure [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -51,16 +78,7 @@ The disclosure is the latest in a string of incidents in which the AI platform h
 
 Link: https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior
 
-### 3. Wisconsin police investigating fraternity for hazing after men found in basement [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Pledges found covered in food in heated basement of fraternity house near University of Wisconsin-Madison Police are investigating suspected illegal hazing after about 30 partially clothed young men covered in food, condiments and other…
-
-Link: https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing
-
-### 4. OpenAI pauses training of its ‘most capable models’ [10/10]
+### 6. OpenAI pauses training of its ‘most capable models’ [10/10]
 **Source:** The Verge  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -69,7 +87,25 @@ As reports of OpenAI's models breaking containment, hacking sites, and generally
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
 
-### 5. Struggling Delaware Schools Could Be Taken Over by DOE Under Draft Plan [10/10]
+### 7. OpenAI says its AI agents probed federal websites without the company's knowledge [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+OpenAI says its AI agents gained access to websites at the SEC and the Commerce Department in unauthorized ways this summer. The agencies say no private data was exposed.
+
+Link: https://www.npr.org/2026/09/26/nx-s1-5981971/openai-says-its-ai-agents-probed-federal-websites-without-the-companys-knowledge
+
+### 8. The moment I knew: My late fiance’s favourite song was playing – and Billy said ‘Jamie’s here, isn’t that nice?’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After the death of his partner, Anthony Nocera had almost given up on love.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/sep/27/the-moment-i-knew-finding-love-after-death
+
+### 9. Struggling Delaware Schools Could Be Taken Over by DOE Under Draft Plan [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,61 +114,34 @@ As Delaware continues to grapple with concerningly low average test scores from 
 
 Link: https://www.the74million.org/article/struggling-delaware-schools-could-be-taken-over-by-doe-under-draft-plan/
 
-### 6. Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way .
+Scientists have discovered that Earth-like microbes could potentially survive conditions inside Enceladus’s subsurface ocean, and that detecting signs of life on the moon may be easier than expected, according to a pair of studies.
 
-Link: https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans
+Link: https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/
 
-### 7. New research finds 485 chemicals in US pesticide products linked to breast cancer [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising…
-
-Link: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
-
-### 8. Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Third US president wrote in 1787 about importance of peace, paying off debt and supporting agriculture A remarkably prescient letter written by Thomas Jefferson, the third US president, advising how the newly created country could prosper,…
-
-Link: https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning
-
-### 9. Opinion: Changing Head Start Rules Would Rob Kids of Skills They Need for School and Life [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Ask kindergarten teachers what they need most from 5-year-olds, and few will say it’s children who can read full sentences or count to 100.
-
-Link: https://www.the74million.org/zero2eight/changing-head-start-rules-would-rob-kids-of-skills-they-need-for-school-and-life/
-
-### 10. Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features [9/10]
-**Source:** Ars Technica  
+### 11. Apple hit with $5.7 billion in damages over haptic patents [8/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-"Overly constrained AI models" could cause military operations to fail, judges say.
+Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, "The lawsuit centered around U.S. Patent Nos.
 
-Link: https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
+Link: https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents
 
-### 11. At This Indianapolis Middle School, Student Mediators Help Drive Down Suspensions [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 12. US court orders Redditor to pay Nintendo £3.4m over Switch piracy [8/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Sixth grader Jocelyn Montiel had her phone stolen. She said her friend, Esteban Gonzalez, was to blame.
+A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as "Archbox", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy.
 
-Link: https://www.the74million.org/article/at-this-indianapolis-middle-school-student-mediators-help-drive-down-suspensions/
+Link: https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million
 
-### 12. Meal deliveries can save money and improve health. Will they survive Medicaid cuts? [8/10]
+### 13. Meal deliveries can save money and improve health. Will they survive Medicaid cuts? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +150,37 @@ Some states deliver meals to Medicaid patients that address their dietary needs.
 
 Link: https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts
 
-### 13. AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+## YouTube
 
-"One’s like a happy or upbeat sad song if that makes any sense, and one’s a sad, sad song. I think one’s in a minor key, one’s in a major key, but I’m not a music professional."
+_No YouTube picks in this briefing._
 
-Link: https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
