@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-27T18:00:29.035478Z
+Generated: 2026-09-28T05:00:01.698122Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are OpenAI agents tried to ‘bruteforce’ a UN website, At least 27 dead after two mass shootings in South Africa, police say, and Five arrested for alleged terrorism offences after ‘major incident’ near RAF Fairford.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Science / computing. The strongest items in this run are ‘My husband has to remind me: You’re not a real cop!’ Siân Brooke on the perils of playing a tough Blue Lights ‘peeler’, OpenAI agents tried to ‘bruteforce’ a UN website, and Saturday Night Live: Jalen Brunson makes for stiff host in underwhelming season premiere.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. OpenAI agents tried to ‘bruteforce’ a UN website [10/10]
+### 1. ‘My husband has to remind me: You’re not a real cop!’ Siân Brooke on the perils of playing a tough Blue Lights ‘peeler’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+She lit up Sherlock, made a brutal exit from House of the Dragon and now she’s back in the hard-hitting Belfast-set police drama. Will she have to stuff a chopping board into her flak jacket this time round? Sharp eyes save lives.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/sep/28/blue-lights-sian-brooke-peelers-sherlock-house-of-the-dragon
+
+### 2. OpenAI agents tried to ‘bruteforce’ a UN website [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,23 +51,14 @@ Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Co
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
 
-### 2. At least 27 dead after two mass shootings in South Africa, police say [10/10]
+### 3. Saturday Night Live: Jalen Brunson makes for stiff host in underwhelming season premiere [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27…
+There are some promising moments from newer cast members, but the show’s return, after a politically tumultuous period, was lacking in bite The 52nd season of Saturday Night Live opens inside the New York City mayor’s office.
 
-Link: https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town
-
-### 3. Five arrested for alleged terrorism offences after ‘major incident’ near RAF Fairford [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Men held also suspected of explosives offences as homes evacuated near British airbase used in US attacks on Iran Counter-terrorism police are leading the investigation in which five men were arrested on suspicion of explosives and…
-
-Link: https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences
+Link: https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson
 
 ### 4. From human rights to mathematical research: how AI is being used for good [10/10]
 **Source:** NPR Tech  
@@ -78,52 +78,34 @@ Link: https://www.npr.org/2026/09/27/nx-s1-5981063/from-human-rights-to-mathemat
 
 Link: https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power
 
-### 6. Opinion: Present Concerns & Future Worries: Parents Weigh In on NYC School Technology Ban [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-New York City students returned to public school in September facing a one-year moratorium on using generative artificial intelligence, including chatbots and tutors, in grades 2K through 8, as well as restrictions on screen time: none…
-
-Link: https://www.the74million.org/article/present-concerns-future-worries-parents-weigh-in-on-nyc-school-technology-ban/
-
-### 7. Indiana Superintendents Say They’re Cutting Jobs Because of Property Tax Reforms [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Dozens of Indiana’s public school superintendents say their districts will cut teaching and support staff in the coming years to contend with the financial fallout of property tax reform, according to a new survey from the Indiana…
-
-Link: https://www.the74million.org/article/indiana-superintendents-say-theyre-cutting-jobs-because-of-property-tax-reforms-2/
-
-### 8. UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war [9/10]
+### 6. Blanche defends Trump’s White House media ban: ‘It is a privilege, not a right’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’ The Trump administration ’s ambassador to the United Nations said the US rejected Iran ’s proposal to end the ongoing war there because…
+US attorney general argues that president was ‘sick and tired’ of inaccurate reporting by CNN, MS Now and Politico Donald Trump ’s attorney general Todd Blanche argued on Sunday that the administration was permitted to ban three news…
 
-Link: https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war
+Link: https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media
 
-### 9. ‘I wanted to help another family’: four surrogates on how they feel about the surrogacy discourse [9/10]
+### 7. Engram is a sampler that turns broken AI hallucinations into music [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
+
+### 8. At least 27 dead after two mass shootings in South Africa, police say [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The Guardian spoke with surrogates across the US about what they think of the controversy surrounding the practice Surrogacy has been thrust into the national spotlight in recent weeks, with both the announcement of Lena Dunham using a…
+Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey
+Link: https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town
 
-### 10. Grizzly reality: US states grapple with uptick in encounters between bears and humans [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Bears are increasingly entering places where humans live in the US, forcing wildlife workers to make tough decisions Dan Thompson, supervisor of the large carnivore section of the Wyoming game and fish department, enjoys the field work of…
-
-Link: https://www.theguardian.com/us-news/2026/sep/27/bear-human-encounters
-
-### 11. Bad language: profane Trump brings presidential swearing out into open [9/10]
+### 9. Bad language: profane Trump brings presidential swearing out into open [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -132,7 +114,16 @@ President has let rip with swearwords in recent months, redefining norms about a
 
 Link: https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language
 
-### 12. Photos: This may be the most inspirational night school on Earth [9/10]
+### 10. Opinion: Present Concerns & Future Worries: Parents Weigh In on NYC School Technology Ban [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+New York City students returned to public school in September facing a one-year moratorium on using generative artificial intelligence, including chatbots and tutors, in grades 2K through 8, as well as restrictions on screen time: none…
+
+Link: https://www.the74million.org/article/present-concerns-future-worries-parents-weigh-in-on-nyc-school-technology-ban/
+
+### 11. Photos: This may be the most inspirational night school on Earth [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +132,107 @@ Many thousands of boys and men in Lesotho take up the vital profession of herdin
 
 Link: https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho
 
-### 13. Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 12. Minecraft still gains around 300,000 new players a day, Xbox boss reveals [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Scientists have discovered that Earth-like microbes could potentially survive conditions inside Enceladus’s subsurface ocean, and that detecting signs of life on the moon may be easier than expected, according to a pair of studies.
+More than 300,000 try Minecraft for the first time every single day. Read more
 
-Link: https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/
+Link: https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft
+
+### 13. Early Edition, One of Those Perfectly ‘90s Shows, Turns 30 Today (Tomorrow) [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Did you hear that thump and a cat meow? The post Early Edition , One of Those Perfectly ‘90s Shows, Turns 30 Today (Tomorrow) appeared first on Reactor .
+
+Link: https://reactormag.com/early-edition-turns-30-today-tomorrow/
+
+## YouTube
+
+### Would Photo-Realistic Graphics Mean The End of Digital Foundry? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/NHTMBTW8lyI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=z0Q-6YEwccc
+
+### What Is "Frame Health" And Why Does DF Think It's So Important? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=hDCh_3T5SDs
+
+### Will Valve Make a Cheaper ARM-Based Steam Handheld? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=BbcFMz9lCD8
+
+### Rumour: No New GPUs Until 2028... Except One With A Project Helix Connection [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/0DUIohDikXM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=EoEQbw9U3OY
+
+### Chromatic Aberration: Why Is It Used So Often When So Many Users Dislike It? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=f4s6namW4nQ
+
+### Diablo 4 on Switch 2: No 60FPS, So How Do 30FPS/40FPS Modes Stack Up? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/0DUIohDikXM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Pp90aPSpwIc
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
