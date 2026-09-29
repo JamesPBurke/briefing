@@ -1,39 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-28T18:00:35.091494Z",
-  "generatedAtDisplay": "2026-09-28 02:00 PM EDT",
+  "generatedAt": "2026-09-29T05:00:02.954087Z",
+  "generatedAtDisplay": "2026-09-29 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are Five UK nationals arrested at RAF Fairford released on bail, Florida seeks a ban on ChatGPT acting like a person, and FBI co-deputy director Andrew Bailey steps down amid agency shake-up.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are School Girls; Or, The African Mean Girls Play review – comedy makes a near-flawless Broadway debut, ‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis, and Investigation of alleged gang-rape at Cornell University fraternity house reopened.",
   "mainItems": [
     {
-      "title": "Five UK nationals arrested at RAF Fairford released on bail",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police",
-      "published": "2026-09-28T17:31:14+00:00",
-      "summary": "Police say alleged offences could have been committed ‘knowingly or unknowingly’ on behalf of a foreign state Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as police investigate why they were so…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "published": "2026-09-28T17:25:59+00:00",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "FBI co-deputy director Andrew Bailey steps down amid agency shake-up",
+      "title": "School Girls; Or, The African Mean Girls Play review – comedy makes a near-flawless Broadway debut",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/fbi-co-deputy-director-steps-down",
-      "published": "2026-09-28T17:07:39+00:00",
-      "summary": "Bailey, who oversaw some of Trump’s election crackdown investigations, to resign about a year after assuming role Andrew Bailey, a deputy director of the FBI who has been overseeing some of Trump’s election-related investigations, will…",
+      "url": "https://www.theguardian.com/stage/2026/sep/28/school-african-mean-girls-play-review",
+      "published": "2026-09-29T01:30:49+00:00",
+      "summary": "Nearly a decade after it was first staged, Jocelyn Bioh’s study of girlhood in 1980s Ghana is better than ever in irresistible new production After its 2017 premiere off-Broadway, School Girls; Or, the African Mean Girls Play transferred…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid",
+      "published": "2026-09-29T01:12:49+00:00",
+      "summary": "One in 60 adults Fiji lives with HIV but a recent emergency declaration may help address key issues such as syringe sharing On a recent Friday night, Dr Kesaia Tuidraki’s medical team parked its mobile clinic outside McDonald’s in downtown…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -41,50 +31,70 @@
       "source": "The Guardian US",
       "category": "AI / privacy",
       "url": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape",
-      "published": "2026-09-28T17:05:00+00:00",
+      "published": "2026-09-28T22:03:26+00:00",
       "summary": "Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made public Sign up for the Breaking News US newsletter email Prosecutors in New York said on Monday that they have reopened an…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "published": "2026-09-28T16:56:26+00:00",
-      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "published": "2026-09-28T16:43:18+00:00",
-      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+      "published": "2026-09-28T20:49:39+00:00",
+      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
-      "published": "2026-09-28T15:32:57+00:00",
-      "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "published": "2026-09-28T18:42:17+00:00",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "How a $60 loaf of rye bread went viral in New York City: ‘It’s a conversation piece’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/rye-bread-viral-new-york-city",
-      "published": "2026-09-28T15:03:02+00:00",
-      "summary": "Bread experts weigh in on whether the rye sourdough that bakers ‘feed every day’ is worth that much A loaf of bread has become New York City’s latest viral hit and, somehow, status symbol.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "OpenAI’s AI agents need to catch up",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "published": "2026-09-28T18:40:24+00:00",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "Fewer Students, Too Many Schools: Communities Confront Closures, Consolidations",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/fewer-students-too-many-schools-communities-confront-closures-consolidations/",
+      "published": "2026-09-28T18:30:00+00:00",
+      "summary": "Declining birth rates mean fewer students. And that means more districts grappling with whether to close or merge schools.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Chatbots are becoming a new reality for renters",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5974078/chatbots-are-becoming-a-new-reality-for-renters",
+      "published": "2026-09-28T22:24:37+00:00",
+      "summary": "Landlords are using AI chatbots to manage interactions with their tenants. We hear from one renter who just wants help from a human.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+      "published": "2026-09-28T19:05:03+00:00",
+      "summary": "Double Fine's wasted no time at all as an independent game studio (again) after splitting from former owner Xbox earlier this summer.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "SEED Act Gives Early Educators the Same Tax Break Long Available in K-12",
@@ -94,47 +104,37 @@
       "published": "2026-09-28T14:30:00+00:00",
       "summary": "Educators often end up spending their own money on the kids they teach, despite being in a profession that rarely leaves them with enough disposable income to do so comfortably.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-      "published": "2026-09-28T09:00:00+00:00",
-      "summary": "Teachers are using AI to develop lesson plans, and in some districts, AI chatbots give students feedback on their work. Meanwhile, the research around how AI can help students is extremely limited.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Humans Are Reading Copilot Prompts — And They're Horrified",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/humans-reading-copilot-prompts-images/",
-      "published": "2026-09-28T13:26:31+00:00",
-      "summary": "Human contractors are reviewing Copilot users’ prompts and uploaded images, according to internal documents obtained by 404 Media. The contractors are also bombarded with users’ requests for sexual AI images.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "AI assessors says current science hasn't caught up to the safety measures people want",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5974206/ai-assessors-says-current-science-hasnt-caught-up-to-the-safety-measures-people-want",
-      "published": "2026-09-28T08:41:39+00:00",
-      "summary": "Anthropic and OpenAI say they are working with third-party evaluators to make sure their products are safe. Some evaluators caution that current AI science lags behind what people are calling for.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "5 tips for parents worried about their kids' screen time and online safety",
+      "title": "Tennessee's failed execution ignites a medical ethics debate",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
-      "published": "2026-09-28T09:00:00+00:00",
-      "summary": "Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnerable.",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5980299/tennessees-failed-execution-ignites-a-medical-ethics-debate",
+      "published": "2026-09-28T22:26:33+00:00",
+      "summary": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, ever. No matter the method.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+      "published": "2026-09-28T19:17:06+00:00",
+      "summary": "ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Martha Wells Book Club: The Wizard Hunters",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/martha-wells-book-club-the-wizard-hunters/",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "Ile-Rien is on its last legs, and invasion is a near certainty... The post Martha Wells Book Club: The Wizard Hunters appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 9
   }
 }

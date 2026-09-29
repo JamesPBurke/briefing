@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-28T18:00:35.091494Z
+Generated: 2026-09-29T05:00:02.954087Z
 
-Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are Five UK nationals arrested at RAF Fairford released on bail, Florida seeks a ban on ChatGPT acting like a person, and FBI co-deputy director Andrew Bailey steps down amid agency shake-up.
+Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are School Girls; Or, The African Mean Girls Play review – comedy makes a near-flawless Broadway debut, ‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis, and Investigation of alleged gang-rape at Cornell University fraternity house reopened.
 
 ## Briefing
 
@@ -33,34 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Five UK nationals arrested at RAF Fairford released on bail [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police say alleged offences could have been committed ‘knowingly or unknowingly’ on behalf of a foreign state Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as police investigate why they were so…
-
-Link: https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police
-
-### 2. Florida seeks a ban on ChatGPT acting like a person [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from "giving ChatGPT false human attributes," a few months after Florida sued the AI company over safety concerns.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids
-
-### 3. FBI co-deputy director Andrew Bailey steps down amid agency shake-up [10/10]
+### 1. School Girls; Or, The African Mean Girls Play review – comedy makes a near-flawless Broadway debut [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Bailey, who oversaw some of Trump’s election crackdown investigations, to resign about a year after assuming role Andrew Bailey, a deputy director of the FBI who has been overseeing some of Trump’s election-related investigations, will…
+Nearly a decade after it was first staged, Jocelyn Bioh’s study of girlhood in 1980s Ghana is better than ever in irresistible new production After its 2017 premiere off-Broadway, School Girls; Or, the African Mean Girls Play transferred…
 
-Link: https://www.theguardian.com/us-news/2026/sep/28/fbi-co-deputy-director-steps-down
+Link: https://www.theguardian.com/stage/2026/sep/28/school-african-mean-girls-play-review
 
-### 4. Investigation of alleged gang-rape at Cornell University fraternity house reopened [10/10]
+### 2. ‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+One in 60 adults Fiji lives with HIV but a recent emergency declaration may help address key issues such as syringe sharing On a recent Friday night, Dr Kesaia Tuidraki’s medical team parked its mobile clinic outside McDonald’s in downtown…
+
+Link: https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid
+
+### 3. Investigation of alleged gang-rape at Cornell University fraternity house reopened [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,43 +60,61 @@ Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has 
 
 Link: https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape
 
-### 5. OpenAI keeps bulldozing mathematicians [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group
-
-### 6. OpenAI halts frontier-model training amid string of agent misalignment incidents [10/10]
+### 4. Florida invokes extinction fears in legal bid to halt OpenAI development [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-US Government websites among "dozens of third parties" OpenAI has recently notified.
+State says LLMs threaten civilization as "the greatest public nuisance ever created."
 
-Link: https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/
+Link: https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/
 
-### 7. Nvidia unveils security platform to rein in AI agents and $150bn stock buyback [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 5. Florida seeks a ban on ChatGPT acting like a person [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue.
+Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from "giving ChatGPT false human attributes," a few months after Florida sued the AI company over safety concerns.
 
-Link: https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback
+Link: https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids
 
-### 8. How a $60 loaf of rye bread went viral in New York City: ‘It’s a conversation piece’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 6. OpenAI’s AI agents need to catch up [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Bread experts weigh in on whether the rye sourdough that bakers ‘feed every day’ is worth that much A loaf of bread has become New York City’s latest viral hit and, somehow, status symbol.
+OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.
 
-Link: https://www.theguardian.com/us-news/2026/sep/28/rye-bread-viral-new-york-city
+Link: https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent
 
-### 9. SEED Act Gives Early Educators the Same Tax Break Long Available in K-12 [10/10]
+### 7. Fewer Students, Too Many Schools: Communities Confront Closures, Consolidations [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Declining birth rates mean fewer students. And that means more districts grappling with whether to close or merge schools.
+
+Link: https://www.the74million.org/article/fewer-students-too-many-schools-communities-confront-closures-consolidations/
+
+### 8. Chatbots are becoming a new reality for renters [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Landlords are using AI chatbots to manage interactions with their tenants. We hear from one renter who just wants help from a human.
+
+Link: https://www.npr.org/2026/09/28/nx-s1-5974078/chatbots-are-becoming-a-new-reality-for-renters
+
+### 9. Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Double Fine's wasted no time at all as an independent game studio (again) after splitting from former owner Xbox earlier this summer.
+
+Link: https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date
+
+### 10. SEED Act Gives Early Educators the Same Tax Break Long Available in K-12 [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,38 +123,64 @@ Educators often end up spending their own money on the kids they teach, despite 
 
 Link: https://www.the74million.org/zero2eight/seed-act-gives-early-educators-the-same-tax-break-long-available-in-k-12/
 
-### 10. Schools are experimenting with AI with little evidence or policy to guide them [10/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Teachers are using AI to develop lesson plans, and in some districts, AI chatbots give students feedback on their work. Meanwhile, the research around how AI can help students is extremely limited.
-
-Link: https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research
-
-### 11. Humans Are Reading Copilot Prompts — And They're Horrified [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Human contractors are reviewing Copilot users’ prompts and uploaded images, according to internal documents obtained by 404 Media. The contractors are also bombarded with users’ requests for sexual AI images.
-
-Link: https://www.404media.co/humans-reading-copilot-prompts-images/
-
-### 12. AI assessors says current science hasn't caught up to the safety measures people want [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Anthropic and OpenAI say they are working with third-party evaluators to make sure their products are safe. Some evaluators caution that current AI science lags behind what people are calling for.
-
-Link: https://www.npr.org/2026/09/28/nx-s1-5974206/ai-assessors-says-current-science-hasnt-caught-up-to-the-safety-measures-people-want
-
-### 13. 5 tips for parents worried about their kids' screen time and online safety [7/10]
+### 11. Tennessee's failed execution ignites a medical ethics debate [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnerable.
+After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, ever. No matter the method.
 
-Link: https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety
+Link: https://www.npr.org/2026/09/28/nx-s1-5980299/tennessees-failed-execution-ignites-a-medical-ethics-debate
+
+### 12. FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data.
+
+Link: https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/
+
+### 13. Martha Wells Book Club: The Wizard Hunters [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Ile-Rien is on its last legs, and invasion is a near certainty... The post Martha Wells Book Club: The Wizard Hunters appeared first on Reactor .
+
+Link: https://reactormag.com/martha-wells-book-club-the-wizard-hunters/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
