@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-29T09:00:25.926315Z
+Generated: 2026-09-29T14:00:01.435048Z
 
-Today's sweep leans toward Science / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are OpenAI stops training latests models, citing safety concerns, Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot, and OpenAI delays latest model over security concerns, as industry faces pressure.
+Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Former special counsel Jack Smith accused of targeting ‘entire Republican party’ in heated Senate hearing – US politics live, These Tech Workers Made ChatGPT Drive a Toyota Corolla, and What's the intended difficulty for Gears of War: E-Day? "I can tell you right now, it's Hardcore" says The Coalition creative director.
 
 ## Briefing
 
@@ -33,7 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. OpenAI stops training latests models, citing safety concerns [10/10]
+### 1. Former special counsel Jack Smith accused of targeting ‘entire Republican party’ in heated Senate hearing – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Chuck Grassley, Republican chair of Senate judiciary committee, accuses Smith over criminal investigations into Donald Trump Sign up to the US Breaking News email For some context, it’s worth remembering that Smith had a two-volume report…
+
+Link: https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates
+
+### 2. These Tech Workers Made ChatGPT Drive a Toyota Corolla [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The team used frontier LLMs with no prior training data navigate a simple parking lot course.
+
+Link: https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/
+
+### 3. What's the intended difficulty for Gears of War: E-Day? "I can tell you right now, it's Hardcore" says The Coalition creative director [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox and The Coalition are making a big deal about Gears of War: E-Day's campaign, ahead of its Xbox and PC launch on 1st October.
+
+Link: https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore
+
+### 4. Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could "further increase…
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat
+
+### 5. "A quite beautiful compromise": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+LEGO Skylines is the new plastic city- builder from Cities: Skylines 2 and Surviving the Aftermath developers Iceflake Studios, published by Paradox Interactive.
+
+Link: https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players
+
+### 6. For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Missouri has spent the last several years overhauling its approach to teaching reading. State leaders have invested millions in teacher training, evidence-based instruction, literacy screening and interventions for struggling readers.
+
+Link: https://www.the74million.org/article/for-kids-with-challenges-these-missouri-schools-are-bright-spots-for-reading/
+
+### 7. Making AI an asset, not an expense [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily.
+
+Link: https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
+
+### 8. Three deaths, three states, 24 hours: one day in ICE’s quiet but ‘gruesome’ surge [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+These men in Maine, Georgia and Florida shared no ties – until they became casualties in the latest phase of Trump’s anti-immigration campaign Gone in 90 seconds: an ‘invisibilized’ ICE is arresting more people than ever It was 7am on 13…
+
+Link: https://www.theguardian.com/us-news/2026/sep/29/deaths-one-day-ice-immigration
+
+### 9. As Cornell’s Rape Case Draws National Attention, Students Want Accountability. [10/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Jeannine Chiang A new lawsuit alleging that a former student was drugged and gang-raped by Chi Phi fraternity members is sparking outrage in the Cornell community.
+
+Link: https://www.thenation.com/article/society/cornell-rape-case-chi-phi-fraternity-accountability/
+
+### 10. OpenAI stops training latests models, citing safety concerns [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -42,61 +123,7 @@ NPR's Steve Inskeep speaks with AI security expert Helen Toner about OpenAI's de
 
 Link: https://www.npr.org/2026/09/29/nx-s1-5983549/openai-stops-training-latests-models-citing-safety-concerns
 
-### 2. Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US secretary of state, who offered no evidence for claims, also says many people ‘disturbed’ that five suspects released on bail A counter-terrorism operation near RAF Fairford in the UK was mired in confusion on Tuesday after police…
-
-Link: https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor
-
-### 3. OpenAI delays latest model over security concerns, as industry faces pressure [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.
-
-Link: https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model
-
-### 4. UN warns of ‘narrowing window’ to restore world’s forests [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Food and Agriculture Organization urges governments to make forest restoration a national priority The world faces a “narrowing window” to restore forests essential for food security and resistance to the climate emergency, a United…
-
-Link: https://www.theguardian.com/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests
-
-### 5. As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too late OpenAI scraps release of new model over safety concerns in internal testing Fool me once, shame on you.
-
-Link: https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security
-
-### 6. Investigation of alleged gang-rape at Cornell University fraternity house reopened [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made public Sign up for the Breaking News US newsletter email Prosecutors in New York said on Monday that they have reopened an…
-
-Link: https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape
-
-### 7. Florida invokes extinction fears in legal bid to halt OpenAI development [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-State says LLMs threaten civilization as "the greatest public nuisance ever created."
-
-Link: https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/
-
-### 8. Fewer Students, Too Many Schools: Communities Confront Closures, Consolidations [9/10]
+### 11. Fewer Students, Too Many Schools: Communities Confront Closures, Consolidations [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,25 +132,7 @@ Declining birth rates mean fewer students. And that means more districts grappli
 
 Link: https://www.the74million.org/article/fewer-students-too-many-schools-communities-confront-closures-consolidations/
 
-### 9. SEED Act Gives Early Educators the Same Tax Break Long Available in K-12 [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Educators often end up spending their own money on the kids they teach, despite being in a profession that rarely leaves them with enough disposable income to do so comfortably.
-
-Link: https://www.the74million.org/zero2eight/seed-act-gives-early-educators-the-same-tax-break-long-available-in-k-12/
-
-### 10. "We didn't want to demonise fetish or BDSM": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Early in horror game Clive Barker's Hellraiser: Revival, the character you play, Aidan, and his partner Sunny, are pushing the bounds of the sex they enjoy together.
-
-Link: https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom
-
-### 11. Tennessee's failed execution ignites a medical ethics debate [8/10]
+### 12. Tennessee's failed execution ignites a medical ethics debate [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-
 After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, ever. No matter the method.
 
 Link: https://www.npr.org/2026/09/28/nx-s1-5980299/tennessees-failed-execution-ignites-a-medical-ethics-debate
-
-### 12. FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data.
-
-Link: https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/
 
 ### 13. Dan Trachtenberg Turning From Predator to Princess With Sleeping Beauty Movie [7/10]
 **Source:** Reactor  
@@ -179,9 +179,9 @@ Kai Cenat visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=tnGWKS9Kkz0
 
-### Madonna wins big as Taylor Swift sets a new record at MTV’s VMAs [7/10]
+### Madonna wins big as Taylor Swift sets a new record at MTV’s VMAs [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Last night, in Los Angeles, singer Taylor Swift set a new record for the artist with the most MTV Video Music Awards, with 33, surpassing her own previous record of 30 — a tie with Beyoncé.
@@ -287,9 +287,18 @@ Link: https://www.youtube.com/watch?v=BbcFMz9lCD8
 
 Link: https://www.youtube.com/watch?v=EoEQbw9U3OY
 
-### The Anime is Strong With DragonSword : Awakening | Hot Monday Energy [7/10]
+### Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century.
+
+Link: https://www.youtube.com/watch?v=RX01KVvPOAw
+
+### The Anime is Strong With DragonSword : Awakening | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, Jess and KC play DragonSword : Awakening -- https://store.steampowered.com/app/4570720/DragonSword__Awakening/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -550,6 +559,24 @@ Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
 
+### The One About Matthew Perry, an intimate documentary series, premieres October 27 [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Matthew Perry’s sister and friends remember the generous, funny and larger than life man who rose to global superstardom — and share how the actor’s honesty became his greatest legacy.
+
+Link: https://www.youtube.com/watch?v=DrwwE1ppTVs
+
+### The One About Matthew Perry | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon.
+
+Link: https://www.youtube.com/watch?v=_iM1AOFxoDI
+
 ### Michael Che: Shot in Minnesota | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -658,23 +685,14 @@ Legendary "SCTV" cast members reunite in this documentary for a funny and heartf
 
 Link: https://www.youtube.com/watch?v=24skSoZsJv0
 
-### Black Doves: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
+### Nocturne — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Back with a bang, darling. Black Doves returns for season 2 on November 5th, only on Netflix. Watch on Netflix: https://www.netflix.
+Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.
 
-Link: https://www.youtube.com/watch?v=MOU2thjq6Z0
-
-### Nobody Wants This | Season 3 Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-It’s time to take the next step. The popular rom-com series, Nobody Wants This, starring Kristen Bell and Adam Brody returns for a third season, premiering October 22 only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=XETbiJM2LZ0
+Link: https://www.youtube.com/watch?v=AaEy1f2Dgys
 
 ### Slow Horses — Missed Call | Season 6 Scene | Apple TV [10/10]
 **Source:** Apple TV  
@@ -702,12 +720,3 @@ Link: https://www.youtube.com/watch?v=9lQi6B4i4rk
 This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
 
 Link: https://www.youtube.com/watch?v=qQYUYMnu49o
-
-### Slow Horses — She's Back [SPOILER WARNING] | Season 6 Episode 2 Ending Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=hLwCFXfng1U

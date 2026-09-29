@@ -1,11 +1,101 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-29T09:00:25.926315Z",
-  "generatedAtDisplay": "2026-09-29 05:00 AM EDT",
+  "generatedAt": "2026-09-29T14:00:01.435048Z",
+  "generatedAtDisplay": "2026-09-29 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Science / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are OpenAI stops training latests models, citing safety concerns, Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot, and OpenAI delays latest model over security concerns, as industry faces pressure.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Former special counsel Jack Smith accused of targeting ‘entire Republican party’ in heated Senate hearing – US politics live, These Tech Workers Made ChatGPT Drive a Toyota Corolla, and What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director.",
   "mainItems": [
+    {
+      "title": "Former special counsel Jack Smith accused of targeting ‘entire Republican party’ in heated Senate hearing – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+      "published": "2026-09-29T13:55:31+00:00",
+      "summary": "Chuck Grassley, Republican chair of Senate judiciary committee, accuses Smith over criminal investigations into Donald Trump Sign up to the US Breaking News email For some context, it’s worth remembering that Smith had a two-volume report…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "These Tech Workers Made ChatGPT Drive a Toyota Corolla",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/",
+      "published": "2026-09-29T13:06:01+00:00",
+      "summary": "The team used frontier LLMs with no prior training data navigate a simple parking lot course.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore",
+      "published": "2026-09-29T11:59:15+00:00",
+      "summary": "Xbox and The Coalition are making a big deal about Gears of War: E-Day's campaign, ahead of its Xbox and PC launch on 1st October.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "published": "2026-09-29T11:48:27+00:00",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
+      "published": "2026-09-29T11:06:25+00:00",
+      "summary": "LEGO Skylines is the new plastic city- builder from Cities: Skylines 2 and Surviving the Aftermath developers Iceflake Studios, published by Paradox Interactive.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/for-kids-with-challenges-these-missouri-schools-are-bright-spots-for-reading/",
+      "published": "2026-09-29T11:00:00+00:00",
+      "summary": "Missouri has spent the last several years overhauling its approach to teaching reading. State leaders have invested millions in teacher training, evidence-based instruction, literacy screening and interventions for struggling readers.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "published": "2026-09-29T10:43:45+00:00",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Three deaths, three states, 24 hours: one day in ICE’s quiet but ‘gruesome’ surge",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/deaths-one-day-ice-immigration",
+      "published": "2026-09-29T10:00:49+00:00",
+      "summary": "These men in Maine, Georgia and Florida shared no ties – until they became casualties in the latest phase of Trump’s anti-immigration campaign Gone in 90 seconds: an ‘invisibilized’ ICE is arresting more people than ever It was 7am on 13…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "As Cornell’s Rape Case Draws National Attention, Students Want Accountability.",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/society/cornell-rape-case-chi-phi-fraternity-accountability/",
+      "published": "2026-09-29T09:00:00+00:00",
+      "summary": "Jeannine Chiang A new lawsuit alleging that a former student was drugged and gang-raped by Chi Phi fraternity members is sparking outrage in the Cornell community.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "OpenAI stops training latests models, citing safety concerns",
       "source": "NPR Tech",
@@ -14,66 +104,6 @@
       "published": "2026-09-29T08:46:33+00:00",
       "summary": "NPR's Steve Inskeep speaks with AI security expert Helen Toner about OpenAI's decision to halt training of its latest models, after discovering more instances of its agents behaving unexpectedly.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor",
-      "published": "2026-09-29T06:41:12+00:00",
-      "summary": "US secretary of state, who offered no evidence for claims, also says many people ‘disturbed’ that five suspects released on bail A counter-terrorism operation near RAF Fairford in the UK was mired in confusion on Tuesday after police…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
-      "published": "2026-09-29T06:34:43+00:00",
-      "summary": "OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "UN warns of ‘narrowing window’ to restore world’s forests",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests",
-      "published": "2026-09-29T06:00:56+00:00",
-      "summary": "Food and Agriculture Organization urges governments to make forest restoration a national priority The world faces a “narrowing window” to restore forests essential for food security and resistance to the climate emergency, a United…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
-      "published": "2026-09-29T05:00:54+00:00",
-      "summary": "The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too late OpenAI scraps release of new model over safety concerns in internal testing Fool me once, shame on you.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "Investigation of alleged gang-rape at Cornell University fraternity house reopened",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape",
-      "published": "2026-09-28T22:03:26+00:00",
-      "summary": "Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made public Sign up for the Breaking News US newsletter email Prosecutors in New York said on Monday that they have reopened an…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "published": "2026-09-28T20:49:39+00:00",
-      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -87,42 +117,12 @@
       "score": 9
     },
     {
-      "title": "SEED Act Gives Early Educators the Same Tax Break Long Available in K-12",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/seed-act-gives-early-educators-the-same-tax-break-long-available-in-k-12/",
-      "published": "2026-09-28T14:30:00+00:00",
-      "summary": "Educators often end up spending their own money on the kids they teach, despite being in a profession that rarely leaves them with enough disposable income to do so comfortably.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
-      "published": "2026-09-28T12:40:00+00:00",
-      "summary": "Early in horror game Clive Barker's Hellraiser: Revival, the character you play, Aidan, and his partner Sunny, are pushing the bounds of the sex they enjoy together.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Tennessee's failed execution ignites a medical ethics debate",
       "source": "NPR Health",
       "category": "Science / health",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5980299/tennessees-failed-execution-ignites-a-medical-ethics-debate",
       "published": "2026-09-28T22:26:33+00:00",
       "summary": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, ever. No matter the method.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
-      "published": "2026-09-28T19:17:06+00:00",
-      "summary": "ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -179,8 +179,8 @@
       "published": "2026-09-28T21:30:23+00:00",
       "summary": "Last night, in Los Angeles, singer Taylor Swift set a new record for the artist with the most MTV Video Music Awards, with 33, surpassing her own previous record of 30 — a tie with Beyoncé.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Giant pandas Ping Ping, Fu Shuang arrive in Atlanta",
@@ -304,6 +304,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=RX01KVvPOAw",
+      "published": "2026-09-29T13:09:54+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Anime is Strong With DragonSword : Awakening | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -311,8 +322,8 @@
       "published": "2026-09-29T01:12:15+00:00",
       "summary": "🎮 This week on Hidden Gems, Jess and KC play DragonSword : Awakening -- https://store.steampowered.com/app/4570720/DragonSword__Awakening/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast",
@@ -592,6 +603,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The One About Matthew Perry, an intimate documentary series, premieres October 27",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DrwwE1ppTVs",
+      "published": "2026-09-29T12:00:00+00:00",
+      "summary": "Matthew Perry’s sister and friends remember the generous, funny and larger than life man who rose to global superstardom — and share how the actor’s honesty became his greatest legacy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The One About Matthew Perry | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_iM1AOFxoDI",
+      "published": "2026-09-29T12:00:00+00:00",
+      "summary": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Michael Che: Shot in Minnesota | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -724,23 +757,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Black Doves: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Nocturne — Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=MOU2thjq6Z0",
-      "published": "2026-09-24T15:45:00+00:00",
-      "summary": "Back with a bang, darling. Black Doves returns for season 2 on November 5th, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Nobody Wants This | Season 3 Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=XETbiJM2LZ0",
-      "published": "2026-09-24T14:00:02+00:00",
-      "summary": "It’s time to take the next step. The popular rom-com series, Nobody Wants This, starring Kristen Bell and Adam Brody returns for a third season, premiering October 22 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=AaEy1f2Dgys",
+      "published": "2026-09-29T12:59:57+00:00",
+      "summary": "Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -773,17 +795,6 @@
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=qQYUYMnu49o",
       "published": "2026-09-24T02:00:05+00:00",
-      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Slow Horses — She's Back [SPOILER WARNING] | Season 6 Episode 2 Ending Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=hLwCFXfng1U",
-      "published": "2026-09-24T01:11:33+00:00",
       "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
@@ -901,8 +912,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
+    "youtubeCount": 22,
     "trailerCount": 38,
-    "sourceCount": 20
+    "sourceCount": 23
   }
 }
