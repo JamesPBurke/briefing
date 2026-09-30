@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-30T09:01:07.373526Z",
-  "generatedAtDisplay": "2026-09-30 05:01 AM EDT",
+  "generatedAt": "2026-09-30T14:00:02.967037Z",
+  "generatedAtDisplay": "2026-09-30 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump says top tech firms have signed accord to 'self-police' AI development, Sam Altman says OpenAI won’t go public until its models are safe, and Suspected ShinyHunters leader arrested in the Netherlands.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade, Here’s how tech leaders will self-police AI safety under Trump’s deal, and As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint.",
   "mainItems": [
     {
-      "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
-      "source": "NPR Tech",
+      "title": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
+      "published": "2026-09-30T14:00:00+00:00",
+      "summary": "It has perhaps never been easier to join a witch or wizard school without being a Guy Who Rhymes With Bally Trotter. Academies of the occult abound in videogames.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-      "published": "2026-09-30T06:54:43+00:00",
-      "summary": "President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "published": "2026-09-30T13:35:45+00:00",
+      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
+      "published": "2026-09-30T13:22:13+00:00",
+      "summary": "Control Resonant is one of the few modern open-world games which doesn't always point you to where you should go next.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Abducted, renamed, but still here – the art of the first Native New Yorkers and their fight for their land",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
+      "published": "2026-09-30T13:00:41+00:00",
+      "summary": "The US tried to forcibly assimilate the Lenape in brutal boarding schools, but a new exhibit proves their modern-day culture is vibrant and alive During the 19th century, the US government funded more than 500 “Indian boarding schools”…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+      "published": "2026-09-30T12:15:00+00:00",
+      "summary": "Arc Raiders developers Embark heavily underestimated the challenges of creating a full-blown live service game, executive producer Aleksander Grøndal has conceded in a new interview.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -21,30 +61,30 @@
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "published": "2026-09-30T00:26:57+00:00",
+      "published": "2026-09-30T09:31:38+00:00",
       "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
-      "published": "2026-09-29T23:30:47+00:00",
-      "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The secret lives of men who read romance books: ‘My life is full of love, so I’m drawn to them’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/sep/30/secret-lives-of-men-who-read-romance-books",
+      "published": "2026-09-30T09:00:21+00:00",
+      "summary": "It’s often assumed straight men are not interested in romantic fiction – but many are sharing their passion in forums online After a tiring day as a school maintenance worker, 28-year-old Paul loves nothing more than unwinding with a good…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Former American Idol contestant found guilty of killing wife during affair",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder",
-      "published": "2026-09-29T21:45:45+00:00",
-      "summary": "Caleb Flynn convicted of aggravated murder in shooting of Ashley Flynn, a schoolteacher and volleyball coach Caleb Flynn , the former Ohio music pastor and one-time American Idol contestant accused of killing his wife to pursue a lover,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+      "published": "2026-09-30T09:00:00+00:00",
+      "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "The federal law aimed at protecting college students from sexual abuse",
@@ -54,76 +94,36 @@
       "published": "2026-09-29T21:29:21+00:00",
       "summary": "The lawsuit by a former Cornell University student, alleging she was raped in 2024 by seven male students, has renewed long-standing concerns about how colleges deal with sexual assault.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-      "published": "2026-09-29T17:29:14+00:00",
-      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-      "published": "2026-09-29T19:09:06+00:00",
-      "summary": "Go ahead and boot up Steam for me. Underneath the ad banner for whoever paid to be there for that day and the featured and recommended sections, you'll find a section titled discounts and events.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Texts about alleged Cornell gang-rape released after investigation reopened",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation",
-      "published": "2026-09-29T19:01:12+00:00",
-      "summary": "Texts, including unnamed male defendant appearing to apologize, reportedly sent days after alleged 2024 assault Excerpts of text messages reportedly exchanged by a defendant in the Cornell University gang-rape case and the woman who claims…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "These Tech Workers Made ChatGPT Drive a Toyota Corolla",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/",
-      "published": "2026-09-29T13:06:01+00:00",
-      "summary": "The team used frontier LLMs with no prior training data navigate a simple parking lot course.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading",
+      "title": "Opinion: Teach For America: A 35-Year Bet, Generation After Generation",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/for-kids-with-challenges-these-missouri-schools-are-bright-spots-for-reading/",
-      "published": "2026-09-29T11:00:00+00:00",
-      "summary": "Missouri has spent the last several years overhauling its approach to teaching reading. State leaders have invested millions in teacher training, evidence-based instruction, literacy screening and interventions for struggling readers.",
+      "url": "https://www.the74million.org/article/teach-for-america-a-35-year-bet-generation-after-generation/",
+      "published": "2026-09-30T12:30:00+00:00",
+      "summary": "“Why aren’t we being recruited as aggressively to commit two years to teach in urban and rural schools as we are being recruited to work two years on Wall Street?” That was the question Teach For America founder Wendy Kopp remembers asking…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Rural voters support MAHA movement, but feel little impact, poll finds",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5980339/rural-voters-support-maha-movement-but-feel-little-impact-poll-finds",
-      "published": "2026-09-30T08:41:12+00:00",
-      "summary": "A new poll from KFF-AP shows that rural voters support the Make America Healthy Again movement, but they don't think it's had a positive impact on their lives.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Trump hosts tech executives as administration doubles down on AI",
+      "title": "Takeaways from Trump's summit with AI leaders",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5984657/trump-hosts-tech-executives-as-administration-doubles-down-on-ai",
-      "published": "2026-09-29T20:59:31+00:00",
-      "summary": "President Trump met with AI CEOs at the White House on Tuesday and promoted a new government AI tool even as concerns about the technology's risks grow.",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984944/takeaways-from-trumps-summit-with-ai-leaders",
+      "published": "2026-09-30T10:46:21+00:00",
+      "summary": "NPR's Michel Martin speaks with AI policy expert Aalok Mehta about President Trump's AI Summit with tech industry leaders.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Two New Birds Louder Than Jackhammers Just Dropped",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/loudest-birds-in-the-world/",
+      "published": "2026-09-29T17:04:37+00:00",
+      "summary": "The bare-throated bellbird and the red-legged seriema join the white bellbird in the winner’s circle of the loudest birds on Earth, with calls exceeding 120 decibels—louder than a chainsaw or jackhammer.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "Implementing Undo - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+      "published": "2026-09-30T13:00:36+00:00",
+      "summary": "We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Biomedical Scientist Schools AI On Probiotics",
       "source": "WIRED",
@@ -205,6 +216,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "For Hollywood agent Ari Emanuel, success is all about 'being relentless'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=L75VWpaQxr0",
+      "published": "2026-09-30T13:00:03+00:00",
+      "summary": "“Are you happy?” Hollywood agent Ari Emanuel says agents often pose that question to actors, directors and writers. And people rarely say “Yes” — putting them on the road to a new agent.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "In new book, Princess Diana's brother remembers her as unforgettable",
       "source": "NPR",
       "category": "News / analysis",
@@ -212,8 +234,8 @@
       "published": "2026-09-29T22:30:38+00:00",
       "summary": "In his new book, Charles Spencer, Princess Diana's younger brother, writes about their childhood and the love she had for her two sons.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "For people from South Asia, mornings are often powered by chai. But, why?",
@@ -269,17 +291,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Prosecutors reopen a Cornell University sexual assault case involving seven fraternity members",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=WZvSfHPul6g",
-      "published": "2026-09-29T14:30:26+00:00",
-      "summary": "New York prosecutors are reopening a criminal investigation into an alleged sexual assault two years ago involving students at Cornell University after the alleged victim, a former student at Cornell, filed a lawsuit against the university…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
     },
     {
       "title": "Silent Hill Townfall: PS5/PS5 Pro Tested",
@@ -636,6 +647,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Collision Course | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8hVLhaK619k",
+      "published": "2026-09-30T13:00:00+00:00",
+      "summary": "What begins as a flawless heist in the very heart of Madrid is thrown into chaos by a brutal car accident.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The New Stanford Prison Experiment | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -779,12 +801,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "5 days until LEGO ONE PIECE!",
-      "source": "Netflix",
+      "title": "Small Prophets — Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ubj67MCgUuY",
-      "published": "2026-09-25T02:00:00+00:00",
-      "summary": "5 DAYS. The crew is coming together. The adventure is ours to build. LEGO ONE PIECE is almost here. 🏴‍☠️ Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=W7vdQWnaZts",
+      "published": "2026-09-30T12:59:51+00:00",
+      "summary": "Small Prophets is a comic tale of the eccentric Michael Sleep who sets out to create homunculi — magical spirits that can predict the future. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -808,7 +830,7 @@
       "published": "2026-09-29T12:59:57+00:00",
       "summary": "Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -818,17 +840,6 @@
       "url": "https://www.youtube.com/watch?v=YTl3QzVj2eI",
       "published": "2026-09-28T19:59:46+00:00",
       "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.co/slowhorses Next time, pick up.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 205 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=9lQi6B4i4rk",
-      "published": "2026-09-25T00:59:53+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter: The Official Podcast is an Apple TV podcast produced by Sony Pictures Television.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -945,8 +956,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 27,
+    "youtubeCount": 28,
     "trailerCount": 36,
-    "sourceCount": 22
+    "sourceCount": 23
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-30T09:01:07.373526Z
+Generated: 2026-09-30T14:00:02.967037Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump says top tech firms have signed accord to 'self-police' AI development, Sam Altman says OpenAI won’t go public until its models are safe, and Suspected ShinyHunters leader arrested in the Netherlands.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade, Here’s how tech leaders will self-police AI safety under Trump’s deal, and As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a "conscious decision" not to use yellow paint.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump says top tech firms have signed accord to 'self-police' AI development [10/10]
-**Source:** NPR Tech  
+### 1. Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It has perhaps never been easier to join a witch or wizard school without being a Guy Who Rhymes With Bally Trotter. Academies of the occult abound in videogames.
+
+Link: https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade
+
+### 2. Here’s how tech leaders will self-police AI safety under Trump’s deal [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.
+We now have the full details of the "morally binding" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.
 
-Link: https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development
+Link: https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs
 
-### 2. Sam Altman says OpenAI won’t go public until its models are safe [10/10]
+### 3. As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a "conscious decision" not to use yellow paint [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Control Resonant is one of the few modern open-world games which doesn't always point you to where you should go next.
+
+Link: https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine
+
+### 4. Abducted, renamed, but still here – the art of the first Native New Yorkers and their fight for their land [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The US tried to forcibly assimilate the Lenape in brutal boarding schools, but a new exhibit proves their modern-day culture is vibrant and alive During the 19th century, the US government funded more than 500 “Indian boarding schools”…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit
+
+### 5. "Ultimately, we asked 'why are we doing this?'": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Arc Raiders developers Embark heavily underestimated the challenges of creating a full-blown live service game, executive producer Aleksander Grøndal has conceded in a new interview.
+
+Link: https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game
+
+### 6. Sam Altman says OpenAI won’t go public until its models are safe [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,25 +87,25 @@ For months, people have wondered when OpenAI will go public. CEO Sam Altman says
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety
 
-### 3. Suspected ShinyHunters leader arrested in the Netherlands [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI.
-
-Link: https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested
-
-### 4. Former American Idol contestant found guilty of killing wife during affair [10/10]
+### 7. The secret lives of men who read romance books: ‘My life is full of love, so I’m drawn to them’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Caleb Flynn convicted of aggravated murder in shooting of Ashley Flynn, a schoolteacher and volleyball coach Caleb Flynn , the former Ohio music pastor and one-time American Idol contestant accused of killing his wife to pursue a lover,…
+It’s often assumed straight men are not interested in romantic fiction – but many are sharing their passion in forums online After a tiring day as a school maintenance worker, 28-year-old Paul loves nothing more than unwinding with a good…
 
-Link: https://www.theguardian.com/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder
+Link: https://www.theguardian.com/books/2026/sep/30/secret-lives-of-men-who-read-romance-books
 
-### 5. The federal law aimed at protecting college students from sexual abuse [10/10]
+### 8. What's behind HHS claims that gender-affirming care 'may' radicalize [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.
+
+Link: https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context
+
+### 9. The federal law aimed at protecting college students from sexual abuse [9/10]
 **Source:** NPR Education  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,68 +114,32 @@ The lawsuit by a former Cornell University student, alleging she was raped in 20
 
 Link: https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus
 
-### 6. Apple pressured to explain Trump role in ICE-tracking app removals [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.
-
-Link: https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/
-
-### 7. Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Go ahead and boot up Steam for me. Underneath the ad banner for whoever paid to be there for that day and the featured and recommended sections, you'll find a section titled discounts and events.
-
-Link: https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games
-
-### 8. Texts about alleged Cornell gang-rape released after investigation reopened [9/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Texts, including unnamed male defendant appearing to apologize, reportedly sent days after alleged 2024 assault Excerpts of text messages reportedly exchanged by a defendant in the Cornell University gang-rape case and the woman who claims…
-
-Link: https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation
-
-### 9. These Tech Workers Made ChatGPT Drive a Toyota Corolla [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The team used frontier LLMs with no prior training data navigate a simple parking lot course.
-
-Link: https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/
-
-### 10. For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading [9/10]
+### 10. Opinion: Teach For America: A 35-Year Bet, Generation After Generation [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Missouri has spent the last several years overhauling its approach to teaching reading. State leaders have invested millions in teacher training, evidence-based instruction, literacy screening and interventions for struggling readers.
+“Why aren’t we being recruited as aggressively to commit two years to teach in urban and rural schools as we are being recruited to work two years on Wall Street?” That was the question Teach For America founder Wendy Kopp remembers asking…
 
-Link: https://www.the74million.org/article/for-kids-with-challenges-these-missouri-schools-are-bright-spots-for-reading/
+Link: https://www.the74million.org/article/teach-for-america-a-35-year-bet-generation-after-generation/
 
-### 11. Rural voters support MAHA movement, but feel little impact, poll finds [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-A new poll from KFF-AP shows that rural voters support the Make America Healthy Again movement, but they don't think it's had a positive impact on their lives.
-
-Link: https://www.npr.org/2026/09/30/nx-s1-5980339/rural-voters-support-maha-movement-but-feel-little-impact-poll-finds
-
-### 12. Trump hosts tech executives as administration doubles down on AI [8/10]
+### 11. Takeaways from Trump's summit with AI leaders [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-President Trump met with AI CEOs at the White House on Tuesday and promoted a new government AI tool even as concerns about the technology's risks grow.
+NPR's Michel Martin speaks with AI policy expert Aalok Mehta about President Trump's AI Summit with tech industry leaders.
 
-Link: https://www.npr.org/2026/09/29/nx-s1-5984657/trump-hosts-tech-executives-as-administration-doubles-down-on-ai
+Link: https://www.npr.org/2026/09/30/nx-s1-5984944/takeaways-from-trumps-summit-with-ai-leaders
+
+### 12. Two New Birds Louder Than Jackhammers Just Dropped [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The bare-throated bellbird and the red-legged seriema join the white bellbird in the winner’s circle of the loudest birds on Earth, with calls exceeding 120 decibels—louder than a chainsaw or jackhammer.
+
+Link: https://www.404media.co/loudest-birds-in-the-world/
 
 ### 13. Less Heinlein, More Mind Games: A Princess of the Aerie by John Barnes [8/10]
 **Source:** Reactor  
@@ -151,6 +151,15 @@ While the first volume felt very much like a Heinlein juvenile, this one has a d
 Link: https://reactormag.com/less-heinlein-more-mind-games-a-princess-of-the-aerie-by-john-barnes/
 
 ## YouTube
+
+### Implementing Undo - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…
+
+Link: https://www.youtube.com/watch?v=S6PqsZ65Mg4
 
 ### Biomedical Scientist Schools AI On Probiotics [8/10]
 **Creator:** WIRED  
@@ -206,9 +215,18 @@ Kai Cenat visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=tnGWKS9Kkz0
 
-### In new book, Princess Diana's brother remembers her as unforgettable [7/10]
+### For Hollywood agent Ari Emanuel, success is all about 'being relentless' [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+“Are you happy?” Hollywood agent Ari Emanuel says agents often pose that question to actors, directors and writers. And people rarely say “Yes” — putting them on the road to a new agent.
+
+Link: https://www.youtube.com/watch?v=L75VWpaQxr0
+
+### In new book, Princess Diana's brother remembers her as unforgettable [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 In his new book, Charles Spencer, Princess Diana's younger brother, writes about their childhood and the love she had for her two sons.
@@ -259,15 +277,6 @@ Link: https://www.youtube.com/watch?v=hobvii7HL8g
 Did Thomas Jefferson father children with Sally Hemings? “Yes,” said Richard Kurin, author of “History by a Hair,” a new book detailing the complicated process behind answering this question.
 
 Link: https://www.youtube.com/watch?v=iEtYmAMXutY
-
-### Prosecutors reopen a Cornell University sexual assault case involving seven fraternity members [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-New York prosecutors are reopening a criminal investigation into an alleged sexual assault two years ago involving students at Cornell University after the alleged victim, a former student at Cornell, filed a lawsuit against the university…
-
-Link: https://www.youtube.com/watch?v=WZvSfHPul6g
 
 ### Silent Hill Townfall: PS5/PS5 Pro Tested [7/10]
 **Creator:** Digital Foundry  
@@ -586,6 +595,15 @@ Hunting a serial killer through prophetic kisses. Romantic.
 
 Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
 
+### Collision Course | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+What begins as a flawless heist in the very heart of Madrid is thrown into chaos by a brutal car accident.
+
+Link: https://www.youtube.com/watch?v=8hVLhaK619k
+
 ### The New Stanford Prison Experiment | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -703,14 +721,14 @@ The countdown begins! The official music video for ‘Born for This’ is here. 
 
 Link: https://www.youtube.com/watch?v=nRU2GZd6b6Y
 
-### 5 days until LEGO ONE PIECE! [9/10]
-**Source:** Netflix  
+### Small Prophets — Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-5 DAYS. The crew is coming together. The adventure is ours to build. LEGO ONE PIECE is almost here. 🏴‍☠️ Watch on Netflix: https://www.netflix.
+Small Prophets is a comic tale of the eccentric Michael Sleep who sets out to create homunculi — magical spirits that can predict the future. https://apple.
 
-Link: https://www.youtube.com/watch?v=ubj67MCgUuY
+Link: https://www.youtube.com/watch?v=W7vdQWnaZts
 
 ### Dark Matter — Jason Finds Himself | Season 2 Scene | Apple TV [10/10]
 **Source:** Apple TV  
@@ -721,7 +739,7 @@ Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of
 
 Link: https://www.youtube.com/watch?v=Y9qGY7NmbF4
 
-### Nocturne — Official Trailer | Apple TV [10/10]
+### Nocturne — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -738,12 +756,3 @@ Link: https://www.youtube.com/watch?v=AaEy1f2Dgys
 This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.co/slowhorses Next time, pick up.
 
 Link: https://www.youtube.com/watch?v=YTl3QzVj2eI
-
-### Dark Matter — The Official Podcast: Episode 205 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter: The Official Podcast is an Apple TV podcast produced by Sony Pictures Television.
-
-Link: https://www.youtube.com/watch?v=9lQi6B4i4rk
