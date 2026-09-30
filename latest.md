@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-09-30T05:00:02.922813Z
+Generated: 2026-09-30T09:01:07.373526Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Sam Altman says OpenAI won’t go public until its models are safe, Suspected ShinyHunters leader arrested in the Netherlands, and Former American Idol contestant found guilty of killing wife during affair.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump says top tech firms have signed accord to 'self-police' AI development, Sam Altman says OpenAI won’t go public until its models are safe, and Suspected ShinyHunters leader arrested in the Netherlands.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Sam Altman says OpenAI won’t go public until its models are safe [10/10]
+### 1. Trump says top tech firms have signed accord to 'self-police' AI development [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.
+
+Link: https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development
+
+### 2. Sam Altman says OpenAI won’t go public until its models are safe [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,7 +51,7 @@ For months, people have wondered when OpenAI will go public. CEO Sam Altman says
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety
 
-### 2. Suspected ShinyHunters leader arrested in the Netherlands [10/10]
+### 3. Suspected ShinyHunters leader arrested in the Netherlands [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +60,7 @@ Dutch police say they arrested a 24-year-old Amsterdam man in connection with Sh
 
 Link: https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested
 
-### 3. Former American Idol contestant found guilty of killing wife during affair [10/10]
+### 4. Former American Idol contestant found guilty of killing wife during affair [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,7 +69,7 @@ Caleb Flynn convicted of aggravated murder in shooting of Ashley Flynn, a school
 
 Link: https://www.theguardian.com/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder
 
-### 4. The federal law aimed at protecting college students from sexual abuse [10/10]
+### 5. The federal law aimed at protecting college students from sexual abuse [10/10]
 **Source:** NPR Education  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,43 +78,25 @@ The lawsuit by a former Cornell University student, alleging she was raped in 20
 
 Link: https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus
 
-### 5. OpenAI launches Dots, its Muse competitor [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 6. Apple pressured to explain Trump role in ICE-tracking app removals [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots.
+Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor
+Link: https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/
 
-### 6. AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"The chance of human extinction is about a coin flip, in my view," Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews
-
-### 7. After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library [10/10]
+### 7. Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-"At the time, I didn't immediately think my boss was filling the walls of our place of business with corpses," so opens the reveal trailer for Something is Wrong with the Library, the latest game from the studio that is most hard to pin…
+Go ahead and boot up Steam for me. Underneath the ad banner for whoever paid to be there for that day and the featured and recommended sections, you'll find a section titled discounts and events.
 
-Link: https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library
+Link: https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games
 
-### 8. OpenAI stops training latests models, citing safety concerns [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-NPR's Steve Inskeep speaks with AI security expert Helen Toner about OpenAI's decision to halt training of its latest models, after discovering more instances of its agents behaving unexpectedly.
-
-Link: https://www.npr.org/2026/09/29/nx-s1-5983549/openai-stops-training-latests-models-citing-safety-concerns
-
-### 9. Texts about alleged Cornell gang-rape released after investigation reopened [9/10]
+### 8. Texts about alleged Cornell gang-rape released after investigation reopened [9/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -114,7 +105,7 @@ Texts, including unnamed male defendant appearing to apologize, reportedly sent 
 
 Link: https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation
 
-### 10. These Tech Workers Made ChatGPT Drive a Toyota Corolla [9/10]
+### 9. These Tech Workers Made ChatGPT Drive a Toyota Corolla [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +114,7 @@ The team used frontier LLMs with no prior training data navigate a simple parkin
 
 Link: https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/
 
-### 11. For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading [9/10]
+### 10. For Kids With Challenges, These Missouri Schools Are Bright Spots for Reading [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -132,38 +123,218 @@ Missouri has spent the last several years overhauling its approach to teaching r
 
 Link: https://www.the74million.org/article/for-kids-with-challenges-these-missouri-schools-are-bright-spots-for-reading/
 
-### 12. Lili Reinhart Wants to Adapt a Certain Lesbian Vampire Book [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The Riverdale and Love Hypothesis actor, however, is coy on which lesbian vampire book she’s thinking of The post Lili Reinhart Wants to Adapt a Certain Lesbian Vampire Book appeared first on Reactor .
-
-Link: https://reactormag.com/lili-reinhart-wants-to-adapt-a-certain-lesbian-vampire-book/
-
-### 13. This startup wants to prove gene-editing embryos is safe for making healthy babies [8/10]
+### 11. Rural voters support MAHA movement, but feel little impact, poll finds [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.
+A new poll from KFF-AP shows that rural voters support the Make America Healthy Again movement, but they don't think it's had a positive impact on their lives.
 
-Link: https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech
+Link: https://www.npr.org/2026/09/30/nx-s1-5980339/rural-voters-support-maha-movement-but-feel-little-impact-poll-finds
+
+### 12. Trump hosts tech executives as administration doubles down on AI [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+President Trump met with AI CEOs at the White House on Tuesday and promoted a new government AI tool even as concerns about the technology's risks grow.
+
+Link: https://www.npr.org/2026/09/29/nx-s1-5984657/trump-hosts-tech-executives-as-administration-doubles-down-on-ai
+
+### 13. Less Heinlein, More Mind Games: A Princess of the Aerie by John Barnes [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+While the first volume felt very much like a Heinlein juvenile, this one has a different vibe... The post Less Heinlein, More Mind Games: A Princess of the Aerie by John Barnes appeared first on Reactor .
+
+Link: https://reactormag.com/less-heinlein-more-mind-games-a-princess-of-the-aerie-by-john-barnes/
 
 ## YouTube
 
-### Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast [7/10]
-**Creator:** Second Wind  
+### Biomedical Scientist Schools AI On Probiotics [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.
+
+Link: https://www.youtube.com/watch?v=d7r1EjcGW0Q
+
+### Biomedical Scientist Debunks 5 Cancer-Causing Myths [7/10]
+**Creator:** WIRED  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.
+
+Link: https://www.youtube.com/watch?v=8meBOVJM6xU
+
+### History Professor Answers Capitalism Questions [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.
+
+Link: https://www.youtube.com/watch?v=4GRVWIBYvOM
+
+### Who Wins? Kai Cenat vs. iShowSpeed [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Kai Cenat visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=lSdhJqBKJ1c
+
+### Will Kai Cenat Be In GTA 6? [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Kai Cenat visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=EAK4Y_wPSlY
+
+### Kai Cenat Answers The Web’s Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Kai Cenat visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=tnGWKS9Kkz0
+
+### In new book, Princess Diana's brother remembers her as unforgettable [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In his new book, Charles Spencer, Princess Diana's younger brother, writes about their childhood and the love she had for her two sons.
+
+Link: https://www.youtube.com/watch?v=wbmQlP9l9Uc
+
+### For people from South Asia, mornings are often powered by chai. But, why? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People in South Asia, like India and Pakistan, power through their morning with chai, which is tea boiled in milk with sugar. But, do you know of its surprising origin?
+
+Link: https://www.youtube.com/watch?v=QuGgp_lMC2U
+
+### Journalist recounts his Russian imprisonment on false espionage charges in new memoir [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Images of Wall Street Journal reporter, Evan Gershkovich, inside of a glass cage in a Russian court circulated on the internet two years ago.
+
+Link: https://www.youtube.com/watch?v=MxgqNIkWfLA
+
+### Europe on edge from threats of Russia's growing escalation. Can NATO defend itself? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Russia threatens attacks beyond Ukraine's border and rattles Europe.
+
+Link: https://www.youtube.com/watch?v=WhwpZcT-Zkg
+
+### Can we find ways to address climate change that also make us happier? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.
+
+Link: https://www.youtube.com/watch?v=hobvii7HL8g
+
+### Did Thomas Jefferson father children with Sally Hemings? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Did Thomas Jefferson father children with Sally Hemings? “Yes,” said Richard Kurin, author of “History by a Hair,” a new book detailing the complicated process behind answering this question.
+
+Link: https://www.youtube.com/watch?v=iEtYmAMXutY
+
+### Prosecutors reopen a Cornell University sexual assault case involving seven fraternity members [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+New York prosecutors are reopening a criminal investigation into an alleged sexual assault two years ago involving students at Cornell University after the alleged victim, a former student at Cornell, filed a lawsuit against the university…
+
+Link: https://www.youtube.com/watch?v=WZvSfHPul6g
+
+### Silent Hill Townfall: PS5/PS5 Pro Tested [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=0_oOq7RhWmk
+
+### Halo Moving To Activision, 343i/Halo Studios Suffer Lay-Offs [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=f4pgTcbmOXU
+
+### Silent Hill Townfall on PC: Good Baseline Performance, Terrible Stuttering [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=LjK9OfTzpz8
+
+### Is Current Hardware Good Enough To Justify Delaying Next-Gen GPUs/Consoles? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=ricpBDl2ge8
+
+### Would Photo-Realistic Graphics Mean The End of Digital Foundry? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/NHTMBTW8lyI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=z0Q-6YEwccc
+
+### What Is "Frame Health" And Why Does DF Think It's So Important? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=hDCh_3T5SDs
+
+### Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century.
 
 Link: https://www.youtube.com/watch?v=RX01KVvPOAw
 
-### The Blood of Dawnwalker’s Interesting Solution to Urgency in RPGs [7/10]
+### The Blood of Dawnwalker’s Interesting Solution to Urgency in RPGs [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The Blood of Dawnwalker asks, "what if we actually added some urgency to our urgent plotline?". Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -253,4 +424,326 @@ Link: https://www.youtube.com/watch?v=8FYuIEAE2xk
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Meet the Megalodon. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=MYeWOm3eC1g
+
+### Every move counts. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=nIov4O7ve28
+
+### Whatever it takes. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=mYeCHJmSrtI
+
+### Whalefall | First Look | In Theaters October 16 [6/10]
+**Source:** 20th Century Studios  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+"To survive, he must rely on the very lessons his father taught him." #Whalefall is only in theaters October 16.
+
+Link: https://www.youtube.com/watch?v=YtJMd3XXgkM
+
+### Whalefall | Official Trailer | In Theaters October 16 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.
+
+Link: https://www.youtube.com/watch?v=Dw-5ZGapGTQ
+
+### Misty Green | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=5SohUK9E_eo
+
+### You Can See Everything | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.
+
+Link: https://www.youtube.com/watch?v=HvW_N5p1q44
+
+### Primetime | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=C0NZa01qTRU
+
+### Paper Tiger - Official Trailer - In Theaters November [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
+
+Link: https://www.youtube.com/watch?v=MLwTyQOhBkw
+
+### Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
+
+Link: https://www.youtube.com/watch?v=WMjGxEqK9lQ
+
+### All of a Sudden - Official Trailer - In Theaters November [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff.
+
+Link: https://www.youtube.com/watch?v=2AxtdPvDojA
+
+### The Cycle | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=m8vcBN8uza8
+
+### V/H/S/MIXTAPE | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Listen if you dare. Your favorite found footage franchise is back. V/H/S/MIXTAPE premieres October 9 on Shudder. #Shudder #VHSMIXTAPE Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=GrIouRKyPDw
+
+### HALLOWARRIOR | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Desperate for companionship on a post apocalyptic Halloween night, the Last Girl on Earth gets more than she bargained for. HALLOWARRIOR premieres October 16 on Shudder.
+
+Link: https://www.youtube.com/watch?v=ORjn6ox53_U
+
+### Season of Screams 2026 | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your home for horror is right here. 🔪 Four months of terror, packed with exclusive Originals and new premieres every Friday. Welcome to #SeasonOfScreams on Shudder. #Shudder Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=68hRE2ehY3M
+
+### INFIRMARY | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A rookie security guard named Edward works his first night shift at the crumbling, abandoned Wilshire psychiatric hospital and uncovers terrifying, unexplainable forces. INFIRMARY drops October 2 on Shudder.
+
+Link: https://www.youtube.com/watch?v=gN1LMAwyvGY
+
+### Other Mommy | Official Trailer 2 [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+All you have to do is say yes.
+
+Link: https://www.youtube.com/watch?v=avXdGfYmRhM
+
+### The Last Kiss | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Hunting a serial killer through prophetic kisses. Romantic.
+
+Link: https://www.youtube.com/watch?v=lAKtuOVkAgU
+
+### The New Stanford Prison Experiment | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In this bold reimagining of one of history’s most controversial social experiments, thirty willing participants enter a real prison and are randomly assigned as guards or prisoners.
+
+Link: https://www.youtube.com/watch?v=L1aOgRKwi5Q
+
+### Wonka’s The Golden Ticket | Finale Sneak Peek | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The competition in the factory is heating up, and relationships are being put to the test.
+
+Link: https://www.youtube.com/watch?v=havC_fvJMQE
+
+### The One About Matthew Perry, an intimate documentary series, premieres October 27 [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Matthew Perry’s sister and friends remember the generous, funny and larger than life man who rose to global superstardom — and share how the actor’s honesty became his greatest legacy.
+
+Link: https://www.youtube.com/watch?v=DrwwE1ppTVs
+
+### The One About Matthew Perry | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon.
+
+Link: https://www.youtube.com/watch?v=_iM1AOFxoDI
+
+### Michael Che: Shot in Minnesota | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Michael Che brings his next hour-long stand-up special to Netflix, taped at First Avenue in Minneapolis. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=YsVV-btDjqc
+
+### LA BOLA NEGRA | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Love leaves a legacy. LA BOLA NEGRA - In theaters October 16. LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.
+
+Link: https://www.youtube.com/watch?v=lBVxKt0gKDY
+
+### LA BOLA NEGRA | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Love leaves a legacy. LA BOLA NEGRA - In theatres October 23. LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.
+
+Link: https://www.youtube.com/watch?v=tEedXFbON4M
+
+### Paralyzed by Hope: The Maria Bamford Story | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Beloved for blurring performance and personal crisis, Maria Bamford unpacks the mental health journey behind her fearless comedy in this documentary. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=36ZEt48kU7k
+
+### ICEBREAKER fans, meet your Anastasia “Stassie” Allen and Nate Hawkins. #Icebreaker #Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Meet your Anastasia “Stassie” Allen and Nate Hawkins. ICEBREAKER, a new series based on the best-selling novel by Hannah Grace, is coming soon to Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Mbz2ElQiB_0
+
+### Love is Blind S11: Boston | Meet The Singles | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+These Boston singles don’t do small talk.
+
+Link: https://www.youtube.com/watch?v=DNLJwFOqfZE
+
+### Haunted Hotel | Abaddon's Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Haunted Hotel Season 2 premiere date is October 9, so here's a refresher on the Season 1 story so far... voiced by none other than Abaddon (Jimmi Simpson). Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Xb6CRNM31Ic
+
+### Hollywood Arts premieres October 15th on Netflix! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The countdown begins! The official music video for 'Born for This' is here. Hollywood Arts premieres October 15th on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=A-yE45ar1U8
+
+### Hollywood Arts | Born for This | Music Video | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The countdown begins! The official music video for ‘Born for This’ is here. Hollywood Arts premieres October 15th on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=nRU2GZd6b6Y
+
+### 5 days until LEGO ONE PIECE! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+5 DAYS. The crew is coming together. The adventure is ours to build. LEGO ONE PIECE is almost here. 🏴‍☠️ Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=ubj67MCgUuY
+
+### Dark Matter — Jason Finds Himself | Season 2 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=Y9qGY7NmbF4
+
+### Nocturne — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=AaEy1f2Dgys
+
+### Slow Horses — Missed Call | Season 6 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.co/slowhorses Next time, pick up.
+
+Link: https://www.youtube.com/watch?v=YTl3QzVj2eI
+
+### Dark Matter — The Official Podcast: Episode 205 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter: The Official Podcast is an Apple TV podcast produced by Sony Pictures Television.
+
+Link: https://www.youtube.com/watch?v=9lQi6B4i4rk
