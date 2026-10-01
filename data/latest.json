@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-01T05:00:03.621177Z",
-  "generatedAtDisplay": "2026-10-01 01:00 AM EDT",
+  "generatedAt": "2026-10-01T09:00:33.067105Z",
+  "generatedAtDisplay": "2026-10-01 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Steve Hilton, Xavier Becerra clash in testy California governor’s race debate, This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1, and Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Tech / media. The strongest items in this run are Steve Hilton, Xavier Becerra clash in testy California governor’s race debate, This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1, and Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet.",
   "mainItems": [
     {
       "title": "Steve Hilton, Xavier Becerra clash in testy California governor’s race debate",
@@ -24,26 +24,6 @@
       "published": "2026-10-01T04:01:00+00:00",
       "summary": "This story is published in partnership with The Associated Press. It’s almost noon, and after playing on the playground, working with clay and washing their hands, the 2-year-olds are ready for lunch.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-      "published": "2026-10-01T03:53:11+00:00",
-      "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike, media witnesses said Wednesday,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Kristi Noem, former Trump homeland security chief, files for divorce",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
-      "published": "2026-09-30T23:58:01+00:00",
-      "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandal Kristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -77,24 +57,24 @@
       "score": 10
     },
     {
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "published": "2026-09-30T17:04:55+00:00",
-      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+      "published": "2026-09-30T17:49:27+00:00",
+      "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates An internal watchdog said the Federal Reserve mismanaged costs associated with a $2.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "How do you cope when your sacred land becomes Times Square? The art of the first Native New Yorkers",
+      "title": "Kristi Noem, former Trump homeland security chief, files for divorce",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
-      "published": "2026-09-30T13:00:41+00:00",
-      "summary": "A new exhibit of Lenape paintings, traditional dress and music proves their modern-day culture is vibrant and alive During the 19th century, the US government funded more than 500 “Indian boarding schools” aimed at forcibly assimilating…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
+      "published": "2026-09-30T23:58:01+00:00",
+      "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandal Kristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Meta's Muse: Killer app? Security nightmare? Both?",
@@ -114,6 +94,26 @@
       "published": "2026-09-30T20:44:48+00:00",
       "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "published": "2026-09-30T17:04:55+00:00",
+      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Rural Missouri Literacy Coaching Program Boosts Scores, Inspires Statewide Model",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/rural-missouri-literacy-coaching-program-boosts-scores-inspires-statewide-model/",
+      "published": "2026-09-30T10:30:00+00:00",
+      "summary": "Kindergarten teacher Wittney Swyers knew it was impossible when her colleagues said her students should be entering first grade prepared to write sentences independently.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -137,8 +137,725 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Implementing Undo - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+      "published": "2026-09-30T13:00:36+00:00",
+      "summary": "We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Biomedical Scientist Schools AI On Probiotics",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=d7r1EjcGW0Q",
+      "published": "2026-09-29T22:20:03+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Biomedical Scientist Debunks 5 Cancer-Causing Myths",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=8meBOVJM6xU",
+      "published": "2026-09-29T18:40:02+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "History Professor Answers Capitalism Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=4GRVWIBYvOM",
+      "published": "2026-09-29T16:00:17+00:00",
+      "summary": "Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Who Wins? Kai Cenat vs. iShowSpeed",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=lSdhJqBKJ1c",
+      "published": "2026-09-28T23:35:03+00:00",
+      "summary": "Kai Cenat visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Will Kai Cenat Be In GTA 6?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=EAK4Y_wPSlY",
+      "published": "2026-09-28T19:20:02+00:00",
+      "summary": "Kai Cenat visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Kai Cenat Answers The Web’s Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=tnGWKS9Kkz0",
+      "published": "2026-09-28T16:00:07+00:00",
+      "summary": "Kai Cenat visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "In new book, Princess Diana's brother remembers her as unforgettable",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nGS3NnA2PaA",
+      "published": "2026-09-30T21:15:07+00:00",
+      "summary": "Princess Diana's brother Charles Spencer is out with a new memoir and it's making some waves for the House of Windsor.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Journalist recounts his Russian imprisonment on false espionage charges in new memoir",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=hfguZYMnzAw",
+      "published": "2026-09-30T19:00:25+00:00",
+      "summary": "Images of Wall Street Journal reporter, Evan Gershkovich, inside of a glass cage in a Russian court circulated on the internet two years ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Startup seeks to build a nuclear-powered data center on public land in Utah",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=bXrT7YLaU3g",
+      "published": "2026-09-30T16:15:28+00:00",
+      "summary": "NPR has learned of a plan for a massive new data center and hundreds of nuclear reactors on federal land in Utah. The proposal seen by NPR came from the company Valar Atomics.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump says tech firms have signed an ‘accord’ to ‘self-police’ AI development",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=yp7U4w9WOIA",
+      "published": "2026-09-30T15:00:30+00:00",
+      "summary": "President Trump says major tech companies have agreed to come together and “self-police” their AI products. The voluntary agreement comes after about 30-executives from the biggest U.S. tech companies gathered at the White House.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Rwanda is a world leader in using drones for healthcare. But drones can't do it all",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=HT84KnkoNn0",
+      "published": "2026-09-30T14:00:19+00:00",
+      "summary": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to expand Zipline's work in Rwanda and four other African countries.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "For Hollywood agent Ari Emanuel, success is all about 'being relentless'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=L75VWpaQxr0",
+      "published": "2026-09-30T13:00:03+00:00",
+      "summary": "“Are you happy?” Hollywood agent Ari Emanuel says agents often pose that question to actors, directors and writers. And people rarely say “Yes” — putting them on the road to a new agent.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "In new book, Princess Diana's brother remembers her as unforgettable",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=wbmQlP9l9Uc",
+      "published": "2026-09-29T22:30:38+00:00",
+      "summary": "In his new book, Charles Spencer, Princess Diana's younger brother, writes about their childhood and the love she had for her two sons.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Control Resonant: Best Non-RT Rasterised Settings - Digital Foundry Optimised",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=MJz2kPpQnM8",
+      "published": "2026-09-30T17:00:01+00:00",
+      "summary": "► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "007 First Light PC Path Tracing Performance Is Dramatically Improved!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jbgqKd9hpI4",
+      "published": "2026-09-30T16:00:21+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Silent Hill Townfall: PS5/PS5 Pro Tested",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=0_oOq7RhWmk",
+      "published": "2026-09-29T17:00:15+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Halo Moving To Activision, 343i/Halo Studios Suffer Lay-Offs",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=f4pgTcbmOXU",
+      "published": "2026-09-29T16:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Silent Hill Townfall on PC: Good Baseline Performance, Terrible Stuttering",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LjK9OfTzpz8",
+      "published": "2026-09-28T17:00:38+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Is Current Hardware Good Enough To Justify Delaying Next-Gen GPUs/Consoles?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=ricpBDl2ge8",
+      "published": "2026-09-28T16:00:09+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Monowave and Nivalis Nights",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=1uMjmWMUT1A",
+      "published": "2026-09-30T22:12:32+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Monowave and Nivalis Nights. https://store.steampowered.com/app/2680440/MONOWAVE/ https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee and JM8 Discuss Marvel's Wolverine | Post-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=oaLrcO0aAwQ",
+      "published": "2026-09-30T18:00:33+00:00",
+      "summary": "[FREE EPISODE] This week we're releasing an episode of Post-Ramblomatic on YouTube to make sure our audience knows it exists! Get a new episode every week over on our Patreon at the $5 tier along with a number of other benefits all while…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Marvel's Wolverine | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=fhoXm4fIvaQ",
+      "published": "2026-09-30T16:00:16+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Marvel's Wolverine. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=RX01KVvPOAw",
+      "published": "2026-09-29T20:01:10+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Blood of Dawnwalker’s Interesting Solution to Urgency in RPGs",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=KsZJEJ4xjsc",
+      "published": "2026-09-29T19:00:20+00:00",
+      "summary": "The Blood of Dawnwalker asks, \"what if we actually added some urgency to our urgent plotline?\". Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "I Rewatched All of Paul W.S. Anderson's Resident Evil Films | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=fZ4qRmA-bBM",
+      "published": "2026-09-29T15:00:30+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Anime is Strong With DragonSword : Awakening | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=O5Z_Uh5G3gM",
+      "published": "2026-09-29T01:12:15+00:00",
+      "summary": "🎮 This week on Hidden Gems, Jess and KC play DragonSword : Awakening -- https://store.steampowered.com/app/4570720/DragonSword__Awakening/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=9b-Q254ZV24",
+      "published": "2026-09-28T18:12:33+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty take a look at the upcoming Legend of Zelda movie, and what it would need to do in order to be an actually good video game adaptation.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Meet the Megalodon. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYeWOm3eC1g",
+      "published": "2026-09-23T23:48:44+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Every move counts. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nIov4O7ve28",
+      "published": "2026-09-16T17:08:01+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whatever it takes. #GhostSoldierMovie",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mYeCHJmSrtI",
+      "published": "2026-09-10T22:38:20+00:00",
+      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | First Look | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=YtJMd3XXgkM",
+      "published": "2026-09-21T16:00:05+00:00",
+      "summary": "\"To survive, he must rely on the very lessons his father taught him.\" #Whalefall is only in theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Whalefall | Official Trailer | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
+      "published": "2026-09-10T16:00:23+00:00",
+      "summary": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Misty Green | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5SohUK9E_eo",
+      "published": "2026-09-24T13:00:23+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "You Can See Everything | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "published": "2026-09-23T13:00:14+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C0NZa01qTRU",
+      "published": "2026-09-15T13:00:07+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MLwTyQOhBkw",
+      "published": "2026-09-22T16:00:25+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WMjGxEqK9lQ",
+      "published": "2026-09-14T13:00:31+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "All of a Sudden - Official Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=2AxtdPvDojA",
+      "published": "2026-09-10T16:01:14+00:00",
+      "summary": "Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Cycle | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=m8vcBN8uza8",
+      "published": "2026-09-28T17:53:12+00:00",
+      "summary": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "V/H/S/MIXTAPE | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GrIouRKyPDw",
+      "published": "2026-09-24T15:00:26+00:00",
+      "summary": "Listen if you dare. Your favorite found footage franchise is back. V/H/S/MIXTAPE premieres October 9 on Shudder. #Shudder #VHSMIXTAPE Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HALLOWARRIOR | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ORjn6ox53_U",
+      "published": "2026-09-23T18:19:33+00:00",
+      "summary": "Desperate for companionship on a post apocalyptic Halloween night, the Last Girl on Earth gets more than she bargained for. HALLOWARRIOR premieres October 16 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Season of Screams 2026 | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=68hRE2ehY3M",
+      "published": "2026-09-22T15:24:40+00:00",
+      "summary": "Your home for horror is right here. 🔪 Four months of terror, packed with exclusive Originals and new premieres every Friday. Welcome to #SeasonOfScreams on Shudder. #Shudder Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INFIRMARY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gN1LMAwyvGY",
+      "published": "2026-09-10T17:00:03+00:00",
+      "summary": "A rookie security guard named Edward works his first night shift at the crumbling, abandoned Wilshire psychiatric hospital and uncovers terrifying, unexplainable forces. INFIRMARY drops October 2 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Other Mommy | Official Trailer 2",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=avXdGfYmRhM",
+      "published": "2026-09-15T15:00:11+00:00",
+      "summary": "All you have to do is say yes.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Last Kiss | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lAKtuOVkAgU",
+      "published": "2026-09-10T19:03:09+00:00",
+      "summary": "Hunting a serial killer through prophetic kisses. Romantic.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The stars of East of Eden stun on the black carpet at the series' NYC premiere #EastofEden #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tpK0D4_MF58",
+      "published": "2026-10-01T03:56:58+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A TYSON FURY AND ANTHONY JOSHUA FACE OFF TEN YEARS IN THE MAKING",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=hbbWEVn1mOk",
+      "published": "2026-09-30T20:11:50+00:00",
+      "summary": "#furyjoshua Friday December 11 Live from the UK, only on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "it's a family reunion for the tyler perry universe #TylerPerry",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=EvKsFOKPTwk",
+      "published": "2026-09-30T20:00:00+00:00",
+      "summary": "The casts of Beauty in Black, Why Did I Get Married Again, Doing Life, and Where There's Smoke play pass the phone. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyson Fury vs. Anthony Joshua | LIVE on Netflix | Launch Press Conference",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=v_WSnGUbNm4",
+      "published": "2026-09-30T18:19:41+00:00",
+      "summary": "Finally. After a decade in the making, Tyson Fury and Anthony Joshua finally meet and face off for the first time at the Launch Press Conference for FURY vs. JOSHUA, LIVE on Netflix on Friday, December 11.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Night Agent Wraps on Final Season | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NKfXbu1S_z8",
+      "published": "2026-09-30T18:00:00+00:00",
+      "summary": "Production of the fourth and final season of The Night Agent has officially wrapped. Season 4 arrives in 2027 on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Love is Blind S11: Boston | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=-wg0ReRw_cM",
+      "published": "2026-09-30T15:00:00+00:00",
+      "summary": "Hosts Nick and Vanessa Lachey are headed to Boston with a new group of singles ready to fall for someone sight unseen and pour their hearts out in the pods.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Collision Course | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8hVLhaK619k",
+      "published": "2026-09-30T13:00:00+00:00",
+      "summary": "What begins as a flawless heist in the very heart of Madrid is thrown into chaos by a brutal car accident.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The New Stanford Prison Experiment | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=L1aOgRKwi5Q",
+      "published": "2026-09-29T17:00:00+00:00",
+      "summary": "In this bold reimagining of one of history’s most controversial social experiments, thirty willing participants enter a real prison and are randomly assigned as guards or prisoners.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wonka’s The Golden Ticket | Finale Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=havC_fvJMQE",
+      "published": "2026-09-29T15:00:00+00:00",
+      "summary": "The competition in the factory is heating up, and relationships are being put to the test.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The One About Matthew Perry, an intimate documentary series, premieres October 27",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DrwwE1ppTVs",
+      "published": "2026-09-29T12:00:00+00:00",
+      "summary": "Matthew Perry’s sister and friends remember the generous, funny and larger than life man who rose to global superstardom — and share how the actor’s honesty became his greatest legacy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The One About Matthew Perry | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_iM1AOFxoDI",
+      "published": "2026-09-29T12:00:00+00:00",
+      "summary": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Michael Che: Shot in Minnesota | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YsVV-btDjqc",
+      "published": "2026-09-28T16:30:00+00:00",
+      "summary": "Michael Che brings his next hour-long stand-up special to Netflix, taped at First Avenue in Minneapolis. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LA BOLA NEGRA | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
+      "published": "2026-09-28T15:00:00+00:00",
+      "summary": "Love leaves a legacy. LA BOLA NEGRA - In theaters October 16. LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LA BOLA NEGRA | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tEedXFbON4M",
+      "published": "2026-09-28T15:00:00+00:00",
+      "summary": "Love leaves a legacy. LA BOLA NEGRA - In theatres October 23. LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paralyzed by Hope: The Maria Bamford Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=36ZEt48kU7k",
+      "published": "2026-09-28T14:00:00+00:00",
+      "summary": "Beloved for blurring performance and personal crisis, Maria Bamford unpacks the mental health journey behind her fearless comedy in this documentary. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Small Prophets — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=W7vdQWnaZts",
+      "published": "2026-09-30T12:59:51+00:00",
+      "summary": "Small Prophets is a comic tale of the eccentric Michael Sleep who sets out to create homunculi — magical spirits that can predict the future. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Jason Finds Himself | Season 2 Episode 5 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Y9qGY7NmbF4",
+      "published": "2026-09-30T02:30:25+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Nocturne — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=AaEy1f2Dgys",
+      "published": "2026-09-29T12:59:57+00:00",
+      "summary": "Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Slow Horses — Missed Call | Season 6 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YTl3QzVj2eI",
+      "published": "2026-09-28T19:59:46+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.co/slowhorses Next time, pick up.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +967,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 28,
+    "trailerCount": 37,
+    "sourceCount": 22
   }
 }
