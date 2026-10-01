@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-01T09:00:33.067105Z
+Generated: 2026-10-01T14:00:04.290292Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Tech / media. The strongest items in this run are Steve Hilton, Xavier Becerra clash in testy California governor’s race debate, This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1, and Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet.
+Today's sweep leans toward Games / criticism, CS education / AI policy, Democracy / press freedom. The strongest items in this run are I'm not sure the "AI" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine, Samsung raised prices on the Galaxy S26 by $100, and In Long Awaited Rules for Tax Credit Scholarships, Feds Stress Neediest Students.
 
 ## Briefing
 
@@ -33,25 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Steve Hilton, Xavier Becerra clash in testy California governor’s race debate [10/10]
-**Source:** The Guardian US  
+### 1. I'm not sure the "AI" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+AI is everywhere, exhausting to keep up with, and increasingly perceived as harmful to games.
+
+Link: https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine
+
+### 2. Samsung raised prices on the Galaxy S26 by $100 [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The candidates running to replace Gavin Newsom sparred over taxes, immigration and regulating AI Xavier Becerra and Steve Hilton, the candidates running to be California’s next governor, clashed Wednesday over taxes, immigration and…
+The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports.
 
-Link: https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate
+Link: https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us
 
-### 2. This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1 [10/10]
+### 3. In Long Awaited Rules for Tax Credit Scholarships, Feds Stress Neediest Students [10/10]
 **Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This story is published in partnership with The Associated Press. It’s almost noon, and after playing on the playground, working with clay and washing their hands, the 2-year-olds are ready for lunch.
+Children who are already enrolled in a need-based program, like nutrition assistance, would automatically be eligible for scholarships funded by the nation’s taxpayers, according to Treasury Department regulations released Thursday morning.
 
-Link: https://www.the74million.org/zero2eight/this-head-start-center-teaches-in-2-languages-a-trump-rule-would-leave-only-1/
+Link: https://www.the74million.org/article/in-long-awaited-rules-for-tax-credit-scholarships-feds-stress-neediest-students/
 
-### 3. Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet [10/10]
+### 4. Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious "crossover" planned when the timelines collide [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Capcom have done a brisk trade in Resident Evil remakes this past decade.
+
+Link: https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide
+
+### 5. Opinion: Stronger States, Stronger Outcomes: Building the Capacity for States to Lead [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+I have spent more than three decades in education, moving from the classroom and the school board table to the state capitol and now Washington, D.C.
+
+Link: https://www.the74million.org/article/stronger-states-stronger-outcomes-building-the-capacity-for-states-to-lead/
+
+### 6. AI chatbots remove hijabs from images of Muslim women when prompted [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chat bots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common…
+
+Link: https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women
+
+### 7. Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -60,43 +96,25 @@ The "AI Torture Chamber" has opened an upsetting and absurd window into the effe
 
 Link: https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/
 
-### 4. Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now [10/10]
-**Source:** The Verge  
+### 8. Google figures out how to watermark AI-designed proteins [10/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon.
+Intended to help with biosecurity, it works with a popular AI protein design tool.
 
-Link: https://www.theverge.com/tech/1002980/google-gemini-4-argon
+Link: https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/
 
-### 5. The AI Tamagotchis are coming [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1 [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.
+This story is published in partnership with The Associated Press. It’s almost noon, and after playing on the playground, working with clay and washing their hands, the 2-year-olds are ready for lunch.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices
+Link: https://www.the74million.org/zero2eight/this-head-start-center-teaches-in-2-languages-a-trump-rule-would-leave-only-1/
 
-### 6. Federal Reserve watchdog finds no criminal violations for building renovation cost overruns [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates An internal watchdog said the Federal Reserve mismanaged costs associated with a $2.
-
-Link: https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation
-
-### 7. Kristi Noem, former Trump homeland security chief, files for divorce [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandal Kristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband,…
-
-Link: https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce
-
-### 8. Meta's Muse: Killer app? Security nightmare? Both? [9/10]
+### 10. Meta's Muse: Killer app? Security nightmare? Both? [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,7 +123,7 @@ Meta's AI Assistant has been downloaded millions of times. It could change the w
 
 Link: https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-security-nightmare-both
 
-### 9. Attackers have been exploiting critical Zimbra flaw to steal emails [9/10]
+### 11. Attackers have been exploiting critical Zimbra flaw to steal emails [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -113,24 +131,6 @@ Link: https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-securit
 A simple email gives the attackers the ability to remotely inject OS commands.
 
 Link: https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/
-
-### 10. GTA 6 completely "re-engineered" Rockstar's weather systems to "achieve a sense of scale we haven't felt before," adding hurricanes, rainbows and heavy rain [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and "re-engineered our weather system" for GTA 6 .
-
-Link: https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain
-
-### 11. Rural Missouri Literacy Coaching Program Boosts Scores, Inspires Statewide Model [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Kindergarten teacher Wittney Swyers knew it was impossible when her colleagues said her students should be entering first grade prepared to write sentences independently.
-
-Link: https://www.the74million.org/article/rural-missouri-literacy-coaching-program-boosts-scores-inspires-statewide-model/
 
 ### 12. After failed execution, health workers say Tennessee's method flouts medical ethics [8/10]
 **Source:** NPR Health  
@@ -152,14 +152,23 @@ Link: https://reactormag.com/reading-the-weird-h-g-wells-the-island-of-doctor-mo
 
 ## YouTube
 
-### Implementing Undo - Computerphile [8/10]
+### Implementing Undo - Computerphile [7/10]
 **Creator:** Computerphile  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…
 
 Link: https://www.youtube.com/watch?v=S6PqsZ65Mg4
+
+### America Used To Be Great at Taxing The Rich... [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.
+
+Link: https://www.youtube.com/watch?v=EE3UFgisH00
 
 ### Biomedical Scientist Schools AI On Probiotics [8/10]
 **Creator:** WIRED  
@@ -215,9 +224,9 @@ Kai Cenat visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=tnGWKS9Kkz0
 
-### In new book, Princess Diana's brother remembers her as unforgettable [8/10]
+### In new book, Princess Diana's brother remembers her as unforgettable [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Princess Diana's brother Charles Spencer is out with a new memoir and it's making some waves for the House of Windsor.
@@ -332,9 +341,9 @@ Link: https://www.youtube.com/watch?v=LjK9OfTzpz8
 
 Link: https://www.youtube.com/watch?v=ricpBDl2ge8
 
-### Yahtzee Tries... Monowave and Nivalis Nights [7/10]
+### Yahtzee Tries... Monowave and Nivalis Nights [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try Monowave and Nivalis Nights. https://store.steampowered.com/app/2680440/MONOWAVE/ https://store.steampowered.
@@ -720,15 +729,6 @@ Link: https://www.youtube.com/watch?v=lBVxKt0gKDY
 Love leaves a legacy. LA BOLA NEGRA - In theatres October 23. LA BOLA NEGRA tells the story of three generations of men whose lives are intimately connected through desire, pain, and love.
 
 Link: https://www.youtube.com/watch?v=tEedXFbON4M
-
-### Paralyzed by Hope: The Maria Bamford Story | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Beloved for blurring performance and personal crisis, Maria Bamford unpacks the mental health journey behind her fearless comedy in this documentary. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=36ZEt48kU7k
 
 ### Small Prophets — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  

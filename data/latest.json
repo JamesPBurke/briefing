@@ -1,29 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-01T09:00:33.067105Z",
-  "generatedAtDisplay": "2026-10-01 05:00 AM EDT",
+  "generatedAt": "2026-10-01T14:00:04.290292Z",
+  "generatedAtDisplay": "2026-10-01 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Tech / media. The strongest items in this run are Steve Hilton, Xavier Becerra clash in testy California governor’s race debate, This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1, and Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet.",
+  "summary": "Today's sweep leans toward Games / criticism, CS education / AI policy, Democracy / press freedom. The strongest items in this run are I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine, Samsung raised prices on the Galaxy S26 by $100, and In Long Awaited Rules for Tax Credit Scholarships, Feds Stress Neediest Students.",
   "mainItems": [
     {
-      "title": "Steve Hilton, Xavier Becerra clash in testy California governor’s race debate",
-      "source": "The Guardian US",
+      "title": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine",
+      "published": "2026-10-01T13:30:14+00:00",
+      "summary": "AI is everywhere, exhausting to keep up with, and increasingly perceived as harmful to games.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Samsung raised prices on the Galaxy S26 by $100",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
-      "published": "2026-10-01T04:02:58+00:00",
-      "summary": "The candidates running to replace Gavin Newsom sparred over taxes, immigration and regulating AI Xavier Becerra and Steve Hilton, the candidates running to be California’s next governor, clashed Wednesday over taxes, immigration and…",
+      "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+      "published": "2026-10-01T13:17:16+00:00",
+      "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1",
+      "title": "In Long Awaited Rules for Tax Credit Scholarships, Feds Stress Neediest Students",
       "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/this-head-start-center-teaches-in-2-languages-a-trump-rule-would-leave-only-1/",
-      "published": "2026-10-01T04:01:00+00:00",
-      "summary": "This story is published in partnership with The Associated Press. It’s almost noon, and after playing on the playground, working with clay and washing their hands, the 2-year-olds are ready for lunch.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/in-long-awaited-rules-for-tax-credit-scholarships-feds-stress-neediest-students/",
+      "published": "2026-10-01T13:01:00+00:00",
+      "summary": "Children who are already enrolled in a need-based program, like nutrition assistance, would automatically be eligible for scholarships funded by the nation’s taxpayers, according to Treasury Department regulations released Thursday morning.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious \"crossover\" planned when the timelines collide",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide",
+      "published": "2026-10-01T12:40:00+00:00",
+      "summary": "Capcom have done a brisk trade in Resident Evil remakes this past decade.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Stronger States, Stronger Outcomes: Building the Capacity for States to Lead",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/stronger-states-stronger-outcomes-building-the-capacity-for-states-to-lead/",
+      "published": "2026-10-01T12:30:00+00:00",
+      "summary": "I have spent more than three decades in education, moving from the classroom and the school board table to the state capitol and now Washington, D.C.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+      "published": "2026-10-01T10:00:34+00:00",
+      "summary": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chat bots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -37,43 +77,23 @@
       "score": 10
     },
     {
-      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "source": "The Verge",
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "published": "2026-09-30T20:41:41+00:00",
-      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon.",
+      "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "published": "2026-09-30T15:54:52+00:00",
+      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The AI Tamagotchis are coming",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "published": "2026-09-30T20:19:43+00:00",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
-      "published": "2026-09-30T17:49:27+00:00",
-      "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates An internal watchdog said the Federal Reserve mismanaged costs associated with a $2.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Kristi Noem, former Trump homeland security chief, files for divorce",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
-      "published": "2026-09-30T23:58:01+00:00",
-      "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandal Kristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "This Head Start Center Teaches in 2 Languages. A Trump Rule Would Leave Only 1",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/this-head-start-center-teaches-in-2-languages-a-trump-rule-would-leave-only-1/",
+      "published": "2026-10-01T04:01:00+00:00",
+      "summary": "This story is published in partnership with The Associated Press. It’s almost noon, and after playing on the playground, working with clay and washing their hands, the 2-year-olds are ready for lunch.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -94,26 +114,6 @@
       "published": "2026-09-30T20:44:48+00:00",
       "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "published": "2026-09-30T17:04:55+00:00",
-      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Rural Missouri Literacy Coaching Program Boosts Scores, Inspires Statewide Model",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/rural-missouri-literacy-coaching-program-boosts-scores-inspires-statewide-model/",
-      "published": "2026-09-30T10:30:00+00:00",
-      "summary": "Kindergarten teacher Wittney Swyers knew it was impossible when her colleagues said her students should be entering first grade prepared to write sentences independently.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -146,6 +146,17 @@
       "published": "2026-09-30T13:00:36+00:00",
       "summary": "We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "America Used To Be Great at Taxing The Rich...",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=EE3UFgisH00",
+      "published": "2026-10-01T13:15:02+00:00",
+      "summary": "Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -223,8 +234,8 @@
       "published": "2026-09-30T21:15:07+00:00",
       "summary": "Princess Diana's brother Charles Spencer is out with a new memoir and it's making some waves for the House of Windsor.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Journalist recounts his Russian imprisonment on false espionage charges in new memoir",
@@ -366,8 +377,8 @@
       "published": "2026-09-30T22:12:32+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Monowave and Nivalis Nights. https://store.steampowered.com/app/2680440/MONOWAVE/ https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee and JM8 Discuss Marvel's Wolverine | Post-Ramblomatic",
@@ -801,17 +812,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Paralyzed by Hope: The Maria Bamford Story | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=36ZEt48kU7k",
-      "published": "2026-09-28T14:00:00+00:00",
-      "summary": "Beloved for blurring performance and personal crisis, Maria Bamford unpacks the mental health journey behind her fearless comedy in this documentary. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Small Prophets — Official Trailer | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -967,8 +967,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 28,
-    "trailerCount": 37,
+    "youtubeCount": 29,
+    "trailerCount": 36,
     "sourceCount": 22
   }
 }
