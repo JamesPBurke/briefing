@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-02T09:01:06.427978Z
+Generated: 2026-10-02T14:00:02.162457Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops, After rape allegations at Cornell University, why are women again being urged to talk to their sons? Why not men? | Gaby Hinsliff, and Google’s new Guided Vision feature can help you read the fine print.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live, Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge, and Amazon writes scary blog warning communities not to block data centers.
 
 ## Briefing
 
@@ -33,52 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-After seeing open-world imm-sim No Law last month, I'm sure the developers would hope I was gripped by memories of missions you can approach stealthily or in all-out action , the sci-fi combat where you wield slow-time grenades and…
-
-Link: https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops
-
-### 2. After rape allegations at Cornell University, why are women again being urged to talk to their sons? Why not men? | Gaby Hinsliff [10/10]
+### 1. Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Boys learn by watching how the men they respect treat their partners, female colleagues, women on the street. Now is the time for those men to step up There were seven men in all, and it lasted almost seven hours.
+Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions ‘We just want to be listened to’: student protests shut schools across France Back to France , midday figures quoted by Le…
 
-Link: https://www.theguardian.com/commentisfree/2026/oct/02/cornell-university-allegations-rape-women-men-sons
+Link: https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates
 
-### 3. Google’s new Guided Vision feature can help you read the fine print [10/10]
+### 2. Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+We recently learned that Microsoft gave development of its next Halo game to Activision , where "a new purpose-built team" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward.
+
+Link: https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot
+
+### 3. Amazon writes scary blog warning communities not to block data centers [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.
+Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision
+Link: https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning
 
-### 4. DNC sues Trump administration over last-minute changes to overseas voting form [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 4. Star Wars: Galactic Racer review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-DNC accuses Pentagon of pushing through changes to how voters abroad request absentee ballots ahead of midterms The Trump administration broke the law when it pushed through a last-minute change to the form overseas citizens use to…
+A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the arcadey immediacy lay physics of rare nuance and beauty.
 
-Link: https://www.theguardian.com/us-news/2026/oct/01/dnc-lawsuit-trump-changes-overseas-voter-citizens
+Link: https://www.eurogamer.net/star-wars-galactic-racer-review
 
-### 5. ICE got ‘quieter’ – then killed a father in Maine. Now watch groups are shifting their tactics too [10/10]
+### 5. Police divers find body of person missing after helicopter crash near LA [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-ICE-watchers get creative after the killing of Johan Sebastián Durán Guerrero, as Trump’s immigration crackdown takes a more secretive approach Most of the time, the scene outside the Immigration and Customs Enforcement (ICE) facility in…
+Death toll of medical helicopter crash is now three people as two others continue to recover from injuries, authorities say Police divers have found the body of a patient who went missing after a medical helicopter crashed into the Pacific…
 
-Link: https://www.theguardian.com/us-news/2026/oct/01/ice-watch-maine-tactics
+Link: https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles
 
-### 6. Google launches satellite to test feasibility of building data centers in space [9/10]
+### 6. Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Parents should not need a degree in education policy or a spreadsheet full of state data to understand whether their child’s school is working. Schools are not in the dark about their performance.
+
+Link: https://www.the74million.org/article/missouris-a-f-school-grades-are-about-empowering-families-not-shaming-schools/
+
+### 7. The Download: a biological de-aging contest and why LLMs don’t reason [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
+
+### 8. Google launches satellite to test feasibility of building data centers in space [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -87,41 +105,23 @@ Google has launched an experimental satellite that will test the feasibility of 
 
 Link: https://www.npr.org/2026/10/02/nx-s1-5988044/google-launches-satellite-to-test-feasibility-of-building-data-centers-in-space
 
-### 7. Don’t be fooled—LLMs don’t reason [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.
+The court acknowledges AI search comes with consequences, but it's not an antitrust issue.
 
-Link: https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
+Link: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
 
-### 8. Experience: I’m allergic to the cold [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-My condition is severe, so I have to a keep close watch on my body temperature and can’t eat chilled foods In 2012, when I was 37, I started noticing that my fingers would get swollen and red whenever I held an iced drink.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold
-
-### 9. Hitting the sweet spot: bear treats itself to baked goods at Colorado farmers’ market [9/10]
+### 10. US added just 29,000 jobs in September in sharp drop from last month’s gains [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Shoppers and vendors in Aspen surprised by unusual customer as it stretched to sample stall offerings Farmers’ market shoppers might not usually pay much attention to the local resident devouring fresh bread and pastries at one of the…
+Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.
 
-Link: https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market
-
-### 10. Many of California’s Youngest Students Keep Missing Weeks of School, Data Show [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-When kids start attending school, the youngest tend to get sick their first year. Some may have a tough time adjusting to a new school routine.
-
-Link: https://www.the74million.org/article/many-of-californias-youngest-students-keep-missing-weeks-of-school-data-show/
+Link: https://www.theguardian.com/business/2026/oct/02/september-jobs-report
 
 ### 11. 'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy [8/10]
 **Source:** NPR Health  
@@ -197,18 +197,18 @@ Historian of American capitalism Professor Eli Cook joins WIRED to answer the in
 
 Link: https://www.youtube.com/watch?v=4GRVWIBYvOM
 
-### Iraq withdrawal / America's Mideast footprint / Hegseth's Pentagon overhaul [9/10]
+### Iraq withdrawal / America's Mideast footprint / Hegseth's Pentagon overhaul | Sources & Methods [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 For the second time since the 2003 invasion, the last American troops have left Iraq. Host Mary Louise Kelly speaks with NPR International Correspondent Jane Arraf who is in Baghdad to see how Iraqis are greeting the moment.
 
 Link: https://www.youtube.com/watch?v=RHJAnXAk7BI
 
-### Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military [8/10]
+### Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 This week Secretary of Defense Pete Hegseth delivered a "State of the Force" address to hundreds of junior military leaders at a Virginia military base. Hegseth touted what he sees as the successes of his first year and a half in office.
@@ -323,9 +323,9 @@ Link: https://www.youtube.com/watch?v=0_oOq7RhWmk
 
 Link: https://www.youtube.com/watch?v=f4pgTcbmOXU
 
-### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [8/10]
+### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [9/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.
