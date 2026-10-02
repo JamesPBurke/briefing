@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-02T14:00:02.162457Z
+Generated: 2026-10-02T18:00:38.043063Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live, Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge, and Amazon writes scary blog warning communities not to block data centers.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Beehiiv creators are buzzing about a new price increase, Nacon’s new PS5 controller can mix audio from your phone and console, and Woman in alleged Cornell gang-rape case was ‘failed’ by system, New York governor says.
 
 ## Briefing
 
@@ -33,52 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions ‘We just want to be listened to’: student protests shut schools across France Back to France , midday figures quoted by Le…
-
-Link: https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates
-
-### 2. Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We recently learned that Microsoft gave development of its next Halo game to Activision , where "a new purpose-built team" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward.
-
-Link: https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot
-
-### 3. Amazon writes scary blog warning communities not to block data centers [10/10]
+### 1. Beehiiv creators are buzzing about a new price increase [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security.
+Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy.
 
-Link: https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning
+Link: https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions
 
-### 4. Star Wars: Galactic Racer review [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 2. Nacon’s new PS5 controller can mix audio from your phone and console [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the arcadey immediacy lay physics of rare nuance and beauty.
+Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad.
 
-Link: https://www.eurogamer.net/star-wars-galactic-racer-review
+Link: https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller
 
-### 5. Police divers find body of person missing after helicopter crash near LA [10/10]
+### 3. Woman in alleged Cornell gang-rape case was ‘failed’ by system, New York governor says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Death toll of medical helicopter crash is now three people as two others continue to recover from injuries, authorities say Police divers have found the body of a patient who went missing after a medical helicopter crashed into the Pacific…
+Kathy Hochul briefs journalists with state attorney general Letitia James, who will be taking over the entire case Letitia James appointed special prosecutor in alleged gang-rape at Cornell Kathy Hochul, New York’s governor, said on Friday…
 
-Link: https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles
+Link: https://www.theguardian.com/us-news/2026/oct/02/new-york-cornell-alleged-gang-rape-kathy-hochul
 
-### 6. Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools [10/10]
+### 4. Redefining enterprise intelligence with autonomous AI [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall.
+
+Link: https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/
+
+### 5. The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.
+
+Link: https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/
+
+### 6. Fires, fury and hundreds of arrests as France gripped by student protests [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Government struggling to deal with worst crisis in months after being taken by surprise by massive demonstrations As dozens of school pupils sat on top of a pile of wheelie bins blocking a high school entrance in north-eastern Paris,…
+
+Link: https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france
+
+### 7. Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -87,7 +96,7 @@ Parents should not need a degree in education policy or a spreadsheet full of st
 
 Link: https://www.the74million.org/article/missouris-a-f-school-grades-are-about-empowering-families-not-shaming-schools/
 
-### 7. The Download: a biological de-aging contest and why LLMs don’t reason [10/10]
+### 8. The Download: a biological de-aging contest and why LLMs don’t reason [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,7 +105,16 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
 
-### 8. Google launches satellite to test feasibility of building data centers in space [9/10]
+### 9. ‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded.
+
+Link: https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine
+
+### 10. Google launches satellite to test feasibility of building data centers in space [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,7 +123,7 @@ Google has launched an experimental satellite that will test the feasibility of 
 
 Link: https://www.npr.org/2026/10/02/nx-s1-5988044/google-launches-satellite-to-test-feasibility-of-building-data-centers-in-space
 
-### 9. Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search [9/10]
+### 11. Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -114,16 +132,7 @@ The court acknowledges AI search comes with consequences, but it's not an antitr
 
 Link: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
 
-### 10. US added just 29,000 jobs in September in sharp drop from last month’s gains [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.
-
-Link: https://www.theguardian.com/business/2026/oct/02/september-jobs-report
-
-### 11. 'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy [8/10]
+### 12. 'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,609 +141,11 @@ Starting Oct. 1, many immigrants who are here legally lose their Medicaid covera
 
 Link: https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee
 
-### 12. 'Everything but censorship' [8/10]
+### 13. Podcast: The FBI Was Hacked. We’ve Seen the Data [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A look at the state of student journalism in light of the Cornell sexual assault case, and much more.
+The massive FBI hack; a company wants to add facial recognition onto Flock; and Muse in some cases is actually just people.
 
-Link: https://www.404media.co/everything-but-censorship-cornell-seven-case/
-
-### 13. 12 Underrated Horror Movies to Stream This October [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-May I interest you in... THE CAR?!?! The post 12 Underrated Horror Movies to Stream This October appeared first on Reactor .
-
-Link: https://reactormag.com/underrated-horror-movies-streaming-october-2026/
-
-## YouTube
-
-### Implementing Undo - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…
-
-Link: https://www.youtube.com/watch?v=S6PqsZ65Mg4
-
-### America Used To Be Great at Taxing The Rich... [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.
-
-Link: https://www.youtube.com/watch?v=EE3UFgisH00
-
-### Biomedical Scientist Schools AI On Probiotics [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.
-
-Link: https://www.youtube.com/watch?v=d7r1EjcGW0Q
-
-### Biomedical Scientist Debunks 5 Cancer-Causing Myths [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Biomedical Scientist Andrea Love as we fact check the internet, pseudoscience edition.
-
-Link: https://www.youtube.com/watch?v=8meBOVJM6xU
-
-### History Professor Answers Capitalism Questions [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.
-
-Link: https://www.youtube.com/watch?v=4GRVWIBYvOM
-
-### Iraq withdrawal / America's Mideast footprint / Hegseth's Pentagon overhaul | Sources & Methods [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-For the second time since the 2003 invasion, the last American troops have left Iraq. Host Mary Louise Kelly speaks with NPR International Correspondent Jane Arraf who is in Baghdad to see how Iraqis are greeting the moment.
-
-Link: https://www.youtube.com/watch?v=RHJAnXAk7BI
-
-### Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-This week Secretary of Defense Pete Hegseth delivered a "State of the Force" address to hundreds of junior military leaders at a Virginia military base. Hegseth touted what he sees as the successes of his first year and a half in office.
-
-Link: https://www.youtube.com/watch?v=hIY4Y1R4Nsc
-
-### This startup wants to prove gene-editing embryos is safe for making healthy babies [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Origin Genomics is trying to convince Congress and regulators that making babies from genetically modified human embryos should be legal. NPR got exclusive access to its lab.
-
-Link: https://www.youtube.com/watch?v=DBUezhwN1-0
-
-### A midair stabbing on a flight to Israel is being investigated as possible terrorism [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Dozens of passengers are safely on the ground in Israel after a commercial flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia this morning.
-
-Link: https://www.youtube.com/watch?v=j6tAnR5Hcyg
-
-### Russia continues to attack Ukrainian capital, killing two people and injuring more than 20 [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Russia has been continuously attacking the Ukrainian capital for nearly a month.
-
-Link: https://www.youtube.com/watch?v=MnwR1gkvz9o
-
-### SNAP's new funding model shifts more of the burden to states [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-tarting today, states will be footing a larger share of the bill to run the food assistance program known as SNAP, as federal funding to pay for things like state SNAP workers shrinks by half.
-
-Link: https://www.youtube.com/watch?v=ztanxTjnPrs
-
-### Tennessee death row inmate Christa Pike survives two lethal injections in botched execution [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Tennessee failed to put a condemned prisoner to death Wednesday. Executioners gave inmate Christa Pike two separate lethal doses of the drug pentobarbital, and she survived both.
-
-Link: https://www.youtube.com/watch?v=FBeSZZXa9zQ
-
-### In new book, Princess Diana's brother remembers her as unforgettable [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Princess Diana's brother Charles Spencer is out with a new memoir and it's making some waves for the House of Windsor.
-
-Link: https://www.youtube.com/watch?v=nGS3NnA2PaA
-
-### Control Resonant - Best Ray Tracing/Path Tracing Settings - DF Optimised [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.
-
-Link: https://www.youtube.com/watch?v=v6hDhJqH5jE
-
-### Project Helix + PS6 GPU TFLOPs Leaked - But What Does It Mean? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=cS2_7cLxhgg
-
-### Control Resonant: Best Non-RT Rasterised Settings - Digital Foundry Optimised [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.
-
-Link: https://www.youtube.com/watch?v=MJz2kPpQnM8
-
-### 007 First Light PC Path Tracing Performance Is Dramatically Improved! [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jbgqKd9hpI4
-
-### Silent Hill Townfall: PS5/PS5 Pro Tested [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=0_oOq7RhWmk
-
-### Halo Moving To Activision, 343i/Halo Studios Suffer Lay-Offs [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=f4pgTcbmOXU
-
-### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.
-
-Link: https://www.youtube.com/watch?v=fE4OxMjHY0U
-
-### You Cannot Stop the Dark Souls Randomizer Train w/ Jack and Jess -- Part 8 [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack has played Dark Souls 1 a million times, so let's see how him and Jess handle the game when it's randomized. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=SLj8AELx4j8
-
-### Well Dweller Fills the Silksong-Shaped Hole in My Life [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you like Hollow Knight or Silksong, you owe it to yourself to check out Kyle Thompson's excellent Well Dweller. Marty's latest essay explains why it's such a great metroidvania to play this October.
-
-Link: https://www.youtube.com/watch?v=zvcgJiE-fBI
-
-### Yahtzee Tries... Monowave and Nivalis Nights [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty try Monowave and Nivalis Nights. https://store.steampowered.com/app/2680440/MONOWAVE/ https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=1uMjmWMUT1A
-
-### Yahtzee and JM8 Discuss Marvel's Wolverine | Post-Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-[FREE EPISODE] This week we're releasing an episode of Post-Ramblomatic on YouTube to make sure our audience knows it exists! Get a new episode every week over on our Patreon at the $5 tier along with a number of other benefits all while…
-
-Link: https://www.youtube.com/watch?v=oaLrcO0aAwQ
-
-### Marvel's Wolverine | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Marvel's Wolverine. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=fhoXm4fIvaQ
-
-### Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century.
-
-Link: https://www.youtube.com/watch?v=RX01KVvPOAw
-
-### The Blood of Dawnwalker’s Interesting Solution to Urgency in RPGs [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Blood of Dawnwalker asks, "what if we actually added some urgency to our urgent plotline?". Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=KsZJEJ4xjsc
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
-- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
-- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### Meet the Megalodon. #GhostSoldierMovie [10/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
-
-Link: https://www.youtube.com/watch?v=MYeWOm3eC1g
-
-### Every move counts. #GhostSoldierMovie [10/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
-
-Link: https://www.youtube.com/watch?v=nIov4O7ve28
-
-### Whalefall | First Look | In Theaters October 16 [6/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-"To survive, he must rely on the very lessons his father taught him." #Whalefall is only in theaters October 16.
-
-Link: https://www.youtube.com/watch?v=YtJMd3XXgkM
-
-### Misty Green | Official Trailer 2 HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
-
-Link: https://www.youtube.com/watch?v=5SohUK9E_eo
-
-### You Can See Everything | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.
-
-Link: https://www.youtube.com/watch?v=HvW_N5p1q44
-
-### Primetime | Official Trailer 2 HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
-
-Link: https://www.youtube.com/watch?v=C0NZa01qTRU
-
-### Clarissa - Official Trailer - In Select Theaters December [10/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.
-
-Link: https://www.youtube.com/watch?v=sJAqmdXaM8U
-
-### Paper Tiger - Official Trailer - In Theaters November [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
-
-Link: https://www.youtube.com/watch?v=MLwTyQOhBkw
-
-### Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
-
-Link: https://www.youtube.com/watch?v=WMjGxEqK9lQ
-
-### The Cycle | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=m8vcBN8uza8
-
-### V/H/S/MIXTAPE | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Listen if you dare. Your favorite found footage franchise is back. V/H/S/MIXTAPE premieres October 9 on Shudder. #Shudder #VHSMIXTAPE Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
-
-Link: https://www.youtube.com/watch?v=GrIouRKyPDw
-
-### HALLOWARRIOR | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Desperate for companionship on a post apocalyptic Halloween night, the Last Girl on Earth gets more than she bargained for. HALLOWARRIOR premieres October 16 on Shudder.
-
-Link: https://www.youtube.com/watch?v=ORjn6ox53_U
-
-### Season of Screams 2026 | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Your home for horror is right here. 🔪 Four months of terror, packed with exclusive Originals and new premieres every Friday. Welcome to #SeasonOfScreams on Shudder. #Shudder Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=68hRE2ehY3M
-
-### Other Mommy | Official Trailer 2 [9/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-All you have to do is say yes.
-
-Link: https://www.youtube.com/watch?v=avXdGfYmRhM
-
-### A Couple of Lies | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Every lie leaves a trace. Every secret has a price. A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.
-
-Link: https://www.youtube.com/watch?v=ARYGWtBnQEA
-
-### The Diplomat | Season 3 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Catch up on The Diplomat Season 3 before the new season premieres on October 15th. Watch The Diplomat, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=qznPddKgcS4
-
-### KPop Demon Hunters: The Immersive Experience Opens Soon! [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-for the fans! 💌 some HUNTR/X fan dreams are about to become very real. tickets to KPop Demon Hunters: The Immersive Experience at Netflix House Dallas and Philadelphia are now on sale. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=ff5FlfQKeFw
-
-### Gentle Monster | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Léa Seydoux stars in GENTLE MONSTER, directed by Marie Kreutzer. In select theaters October 30, on Netflix November 18. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=VZNH5XSIgD4
-
-### The stars of East of Eden stun on the black carpet at the series' NYC premiere #EastofEden #Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=tpK0D4_MF58
-
-### A TYSON FURY AND ANTHONY JOSHUA FACE OFF TEN YEARS IN THE MAKING [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#furyjoshua Friday December 11 Live from the UK, only on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…
-
-Link: https://www.youtube.com/watch?v=hbbWEVn1mOk
-
-### it's a family reunion for the tyler perry universe #TylerPerry [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The casts of Beauty in Black, Why Did I Get Married Again, Doing Life, and Where There's Smoke play pass the phone. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=EvKsFOKPTwk
-
-### Tyson Fury vs. Anthony Joshua | LIVE on Netflix | Launch Press Conference [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Finally. After a decade in the making, Tyson Fury and Anthony Joshua finally meet and face off for the first time at the Launch Press Conference for FURY vs. JOSHUA, LIVE on Netflix on Friday, December 11.
-
-Link: https://www.youtube.com/watch?v=v_WSnGUbNm4
-
-### The Night Agent Wraps on Final Season | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Production of the fourth and final season of The Night Agent has officially wrapped. Season 4 arrives in 2027 on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=NKfXbu1S_z8
-
-### Love is Blind S11: Boston | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Hosts Nick and Vanessa Lachey are headed to Boston with a new group of singles ready to fall for someone sight unseen and pour their hearts out in the pods.
-
-Link: https://www.youtube.com/watch?v=-wg0ReRw_cM
-
-### Collision Course | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-What begins as a flawless heist in the very heart of Madrid is thrown into chaos by a brutal car accident.
-
-Link: https://www.youtube.com/watch?v=8hVLhaK619k
-
-### The New Stanford Prison Experiment | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In this bold reimagining of one of history’s most controversial social experiments, thirty willing participants enter a real prison and are randomly assigned as guards or prisoners.
-
-Link: https://www.youtube.com/watch?v=L1aOgRKwi5Q
-
-### Wonka’s The Golden Ticket | Finale Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The competition in the factory is heating up, and relationships are being put to the test.
-
-Link: https://www.youtube.com/watch?v=havC_fvJMQE
-
-### The One About Matthew Perry, an intimate documentary series, premieres October 27 [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Matthew Perry’s sister and friends remember the generous, funny and larger than life man who rose to global superstardom — and share how the actor’s honesty became his greatest legacy.
-
-Link: https://www.youtube.com/watch?v=DrwwE1ppTVs
-
-### Not every door should be opened. A new episode of #DarkMatter is now streaming. [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=K5_P1op5ukA
-
-### Dark Matter — The Official Podcast: Episode 206 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. What the Universe is Made Of (With Mac Quayle) World X changes everything.
-
-Link: https://www.youtube.com/watch?v=xqeSrYpeNIg
-
-### New for October 2026 | Nocturne, Matchbox The Movie, & More | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Don't look away—more surprises arriving in October.
-
-Link: https://www.youtube.com/watch?v=95hZAWofyVY
-
-### Awkwafina: The Unlikely Cook — Official Trailer | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Awkwafina's reviving the family restaurant. Now she just needs to learn how to cook. Awkwafina: The Unlikely Cook premieres November 6 on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=uCAZET6TZ60
-
-### Small Prophets — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Small Prophets is a comic tale of the eccentric Michael Sleep who sets out to create homunculi — magical spirits that can predict the future. https://apple.
-
-Link: https://www.youtube.com/watch?v=W7vdQWnaZts
-
-### Dark Matter — Jason Finds Himself | Season 2 Episode 5 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
-
-Link: https://www.youtube.com/watch?v=Y9qGY7NmbF4
-
-### Nocturne — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Catching a killer means crossing the line. Liev Schreiber, Zazie Beetz, and Stephen Graham star in Nocturne, premiering October 30 on Apple TV. https://apple.co/_Nocturne Subscribe to Apple TV’s YouTube channel: https://apple.
-
-Link: https://www.youtube.com/watch?v=AaEy1f2Dgys
+Link: https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/
