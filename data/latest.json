@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-01T18:00:41.770903Z",
-  "generatedAtDisplay": "2026-10-01 02:00 PM EDT",
+  "generatedAt": "2026-10-02T05:00:03.633833Z",
+  "generatedAtDisplay": "2026-10-02 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, Education / pedagogy. The strongest items in this run are DNC sues Trump administration over last-minute changes to overseas voting form, Many of California’s Youngest Students Keep Missing Weeks of School, Data Show, and Judge dismisses antitrust lawsuits over Google’s AI Overviews.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are California outlaws child marriage, joining 17 other US states, Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search, and Google’s new Guided Vision feature can help you read the fine print.",
   "mainItems": [
+    {
+      "title": "California outlaws child marriage, joining 17 other US states",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage",
+      "published": "2026-10-02T01:43:23+00:00",
+      "summary": "Advocacy group that pushed for the legislation says 9,000 children are married in California every year California has outlawed child marriage, joining 17 other US states where the taboo practice is also banned.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "published": "2026-10-01T20:11:55+00:00",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "published": "2026-10-01T19:47:51+00:00",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "DNC sues Trump administration over last-minute changes to overseas voting form",
       "source": "The Guardian US",
@@ -17,6 +47,36 @@
       "score": 10
     },
     {
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "published": "2026-10-01T22:51:36+00:00",
+      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Hitting the sweet spot: bear treats itself to baked goods at Colorado farmers’ market",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market",
+      "published": "2026-10-01T21:23:55+00:00",
+      "summary": "Shoppers and vendors in Aspen surprised by unusual customer as it stretched to sample stall offerings Farmers’ market shoppers might not usually pay much attention to the local resident devouring fresh bread and pastries at one of the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+      "published": "2026-10-01T18:41:07+00:00",
+      "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
       "title": "Many of California’s Youngest Students Keep Missing Weeks of School, Data Show",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -24,47 +84,17 @@
       "published": "2026-10-01T17:30:00+00:00",
       "summary": "When kids start attending school, the youngest tend to get sick their first year. Some may have a tough time adjusting to a new school routine.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "published": "2026-10-01T17:17:36+00:00",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "UK-Iran national arrested under Terrorism Act over RAF Fairford incident",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
-      "published": "2026-10-01T17:02:01+00:00",
-      "summary": "Counter-terrorism police arrest 27-year-old in Westminster, while second man questioned under caution Detectives have arrested a dual UK-Iranian national on suspicion of terrorism offences as part of an investigation into a suspected plot…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Family of Renee Good sues ICE agent who shot her and top Trump officials",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/renee-good-family-lawsuit-ice",
-      "published": "2026-10-01T16:22:24+00:00",
-      "summary": "Wife and brother of Minneapolis woman killed in immigration crackdown allege wrongful death The family of Renee Good, the woman killed by immigration agents in January in Minneapolis , filed two federal lawsuits against the agent who shot…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Judge dismisses DC reflecting pool damage case against former Olympian",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/judge-dismisses-dc-reflecting-pool-damage-case",
-      "published": "2026-10-01T16:14:12+00:00",
-      "summary": "Judge barred further charges against David Hearn, whom Trump blamed for damage caused by flawed installation Federal prosecutors in Washington DC can never again charge the former Olympic canoeist David Hearn over damage to the Lincoln…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
+      "published": "2026-10-01T15:11:16+00:00",
+      "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "In Long Awaited Rules for Tax Credit Scholarships, Feds Stress Neediest Students",
@@ -72,68 +102,38 @@
       "category": "CS education / AI policy",
       "url": "https://www.the74million.org/article/in-long-awaited-rules-for-tax-credit-scholarships-feds-stress-neediest-students/",
       "published": "2026-10-01T13:01:00+00:00",
-      "summary": "Children who are already enrolled in a need-based program, like nutrition assistance, would automatically be eligible for scholarships funded by the nation’s taxpayers, according to Treasury Department regulations released Thursday morning.",
+      "summary": "Updated Children who are already enrolled in a need-based program, like nutrition assistance, would automatically be eligible for scholarships funded by the nation’s taxpayers, according to Treasury Department regulations released Thursday…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Trump officials abandon effort to investigate election threats, experts warn",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-us-election-threats",
-      "published": "2026-10-01T10:00:35+00:00",
-      "summary": "Credible threats appear to have been overlooked as administration focuses on unverified claims of voter fraud The Trump administration has abandoned key security bodies meant to investigate direct threats to US elections by foreign actors…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-      "published": "2026-09-30T21:23:11+00:00",
-      "summary": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "published": "2026-10-01T14:38:29+00:00",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Meta's Muse: Killer app? Security nightmare? Both?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-security-nightmare-both",
-      "published": "2026-09-30T21:59:43+00:00",
-      "summary": "Meta's AI Assistant has been downloaded millions of times. It could change the way we experience the internet, it'll just need a whole lot of your personal data first.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-      "published": "2026-09-30T20:44:48+00:00",
-      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Trump administration reverses stance on integration of people with disabilities",
+      "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
-      "published": "2026-10-01T09:00:00+00:00",
-      "summary": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integration.",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+      "published": "2026-10-01T19:49:45+00:00",
+      "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "'Everything but censorship'",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
+      "published": "2026-10-01T14:31:43+00:00",
+      "summary": "A look at the state of student journalism in light of the Cornell sexual assault case, and much more.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "12 Underrated Horror Movies to Stream This October",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/underrated-horror-movies-streaming-october-2026/",
+      "published": "2026-10-01T17:30:00+00:00",
+      "summary": "May I interest you in... THE CAR?!?! The post 12 Underrated Horror Movies to Stream This October appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }
