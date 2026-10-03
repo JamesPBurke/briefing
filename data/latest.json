@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-02T18:00:38.043063Z",
-  "generatedAtDisplay": "2026-10-02 02:00 PM EDT",
+  "generatedAt": "2026-10-03T05:00:02.829754Z",
+  "generatedAtDisplay": "2026-10-03 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Beehiiv creators are buzzing about a new price increase, Nacon’s new PS5 controller can mix audio from your phone and console, and Woman in alleged Cornell gang-rape case was ‘failed’ by system, New York governor says.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’, Childcare Workers in NC Struggle to Afford Care for Their Own Kids, and Why French Students Are Revolting.",
   "mainItems": [
     {
-      "title": "Beehiiv creators are buzzing about a new price increase",
-      "source": "The Verge",
+      "title": "Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws",
+      "published": "2026-10-02T18:49:33+00:00",
+      "summary": "After a Jane Doe claimed she was encouraged to take ketamine in an alleged gang rape, advocates are urging for tighter laws around the dissociative The effects of the drug ketamine have come into sharp focus after a former Cornell…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Childcare Workers in NC Struggle to Afford Care for Their Own Kids",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-      "published": "2026-10-02T17:35:38+00:00",
-      "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy.",
+      "url": "https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/",
+      "published": "2026-10-02T18:30:00+00:00",
+      "summary": "DURHAM — At Kate’s Korner, the day begins early — children arriving, classroom doors opening, small voices calling for teachers, parents saying quick goodbyes before heading to work.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Why French Students Are Revolting",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/world/france-student-protests-schools-education-macron/",
+      "published": "2026-10-02T18:07:27+00:00",
+      "summary": "June Loper, Harrison Stetler France’s education system is stretched to its limits, as student anger kicks off a hot fall protest season. The post Why French Students Are Revolting appeared first on The Nation .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -27,44 +47,34 @@
       "score": 10
     },
     {
-      "title": "Woman in alleged Cornell gang-rape case was ‘failed’ by system, New York governor says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/02/new-york-cornell-alleged-gang-rape-kathy-hochul",
-      "published": "2026-10-02T16:26:00+00:00",
-      "summary": "Kathy Hochul briefs journalists with state attorney general Letitia James, who will be taking over the entire case Letitia James appointed special prosecutor in alleged gang-rape at Cornell Kathy Hochul, New York’s governor, said on Friday…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "published": "2026-10-02T15:49:04+00:00",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "published": "2026-10-02T14:52:16+00:00",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "2026-10-02T23:03:16+00:00",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Fires, fury and hundreds of arrests as France gripped by student protests",
+      "title": "US sanctions three individuals and two charities over alleged Hamas financing",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
-      "published": "2026-10-02T14:10:21+00:00",
-      "summary": "Government struggling to deal with worst crisis in months after being taken by surprise by massive demonstrations As dozens of school pupils sat on top of a pile of wheelie bins blocking a high school entrance in north-eastern Paris,…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/us-sanctions-hamas-financing-network",
+      "published": "2026-10-02T22:24:45+00:00",
+      "summary": "The justice and treasury departments said they sent $2m to Hamas through charities and cryptocurrency, while six people were arrested across the US and France The Trump administration on Friday unveiled sanctions against three individuals…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "published": "2026-10-02T13:14:39+00:00",
+      "summary": "We recently learned that Microsoft gave development of its next Halo game to Activision , where \"a new purpose-built team\" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools",
@@ -74,27 +84,27 @@
       "published": "2026-10-02T12:30:00+00:00",
       "summary": "Parents should not need a degree in education policy or a spreadsheet full of state data to understand whether their child’s school is working. Schools are not in the dark about their performance.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "published": "2026-10-02T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
-      "published": "2026-10-02T14:50:59+00:00",
-      "summary": "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "Cornell Students Challenge University Power at a “Students vs. Billionaires” Town Hall",
+      "source": "The Nation",
+      "category": "CS education / AI policy",
+      "url": "https://www.thenation.com/article/society/cornell-aoc-students-billionaires-ithaca-sexual-assault/",
+      "published": "2026-10-02T09:00:00+00:00",
+      "summary": "Jeannine Chiang Representative Alexandria Ocasio-Cortez spoke to Ithaca students about tuition hikes, sexual violence, free speech, and university governance. The post Cornell Students Challenge University Power at a “Students vs.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+      "published": "2026-10-02T18:16:07+00:00",
+      "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Google launches satellite to test feasibility of building data centers in space",
@@ -104,26 +114,6 @@
       "published": "2026-10-02T08:45:13+00:00",
       "summary": "Google has launched an experimental satellite that will test the feasibility of putting AI data centers in space.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "published": "2026-10-01T20:11:55+00:00",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-      "published": "2026-10-01T19:49:45+00:00",
-      "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -135,9 +125,86 @@
       "summary": "The massive FBI hack; a company wants to add facial recognition onto Flock; and Muse in some cases is actually just people.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
+    },
+    {
+      "title": "What to Watch and Read This Weekend: How Do We Feel About the New Carrie?",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/what-to-watch-and-read-this-weekend-october-2-2026/",
+      "published": "2026-10-02T14:57:27+00:00",
+      "summary": "Plus: Please Send Electric Lizalfos Tails The post What to Watch and Read This Weekend: How Do We Feel About the New Carrie? appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Sony QSSR: PS5 AI Upscaling For Non-AI Hardware",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=20wkPXwmZgI",
+      "published": "2026-10-02T18:00:07+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/FQW6K7TLvQA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PS5 Emulation on PC: How Good Is It + Should Sony Be Worried?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LjfP2Ty93R8",
+      "published": "2026-10-02T16:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Control Resonant - Best Ray Tracing/Path Tracing Settings - DF Optimised",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=v6hDhJqH5jE",
+      "published": "2026-10-01T17:00:17+00:00",
+      "summary": "► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Project Helix + PS6 GPU TFLOPs Leaked - But What Does It Mean?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cS2_7cLxhgg",
+      "published": "2026-10-01T16:00:01+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Control Resonant: Best Non-RT Rasterised Settings - Digital Foundry Optimised",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=MJz2kPpQnM8",
+      "published": "2026-09-30T17:00:01+00:00",
+      "summary": "► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "007 First Light PC Path Tracing Performance Is Dramatically Improved!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jbgqKd9hpI4",
+      "published": "2026-09-30T16:00:21+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +317,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 6,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 11
   }
 }
