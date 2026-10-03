@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-03T09:00:16.740783Z
+Generated: 2026-10-03T14:00:05.347908Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are What we've been playing - "That's one of gaming's great cities, that is", ‘People are deserting it’: why are London mansions struggling to sell?, and ‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are ‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo, Soaring diesel prices take their toll on US farmers in midwest corn belt, and How community colleges are evolving to fill local data center jobs.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What we've been playing - "That's one of gaming's great cities, that is" [10/10]
+### 1. ‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As the university and local police defend their treatment of the alleged perpetrators, women decry a familiar story Student safety advocates in the US call the start of the fall semester at universities “the red zone”.
+
+Link: https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too
+
+### 2. Soaring diesel prices take their toll on US farmers in midwest corn belt [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Fuel costs are biting for crop growers, trucking firms and a host of other industries as Iran war stokes record prices Joe Hamilton farms corn and soybeans on 2,500 acres in Indiana’s Delaware county.
+
+Link: https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers
+
+### 3. How community colleges are evolving to fill local data center jobs [10/10]
+**Source:** NPR Education  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Community colleges are often charged with training students for the jobs that already exist in their communities. But what if the jobs that need filling are at a data center?
+
+Link: https://www.npr.org/2026/10/03/nx-s1-5955691/how-community-colleges-are-evolving-to-fill-local-data-center-jobs
+
+### 4. ‘It’s enraging’: lawmakers call for action after Guardian investigation into convenience store overcharges [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Congress members say pricing practices at 7-Eleven and Circle K stores underscore everyday Americans’ affordability struggles Five US House members have called out pricing practices at the US’s two largest convenience store chains in…
+
+Link: https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress
+
+### 5. We live in a rape-prone society. The horrific Cornell case reveals what that looks like | Rebecca Solnit [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Public outcry to punish the alleged perpetrators in the Cornell case misses the point – the only solution is political, legal and cultural equality of women Sometimes a story is so so appalling, it captures the public’s attention,…
+
+Link: https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy
+
+### 6. What we've been playing - "That's one of gaming's great cities, that is" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,25 +87,7 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is
 
-### 2. ‘People are deserting it’: why are London mansions struggling to sell? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-For decades, the capital’s house prices raced ahead of the national average – but now they are falling in prime areas An elegant Georgian facade, a full-width balcony and an exclusive address in South Kensington just steps from the Natural…
-
-Link: https://www.theguardian.com/money/2026/oct/03/london-mansions-sell-house-prices-prime-property
-
-### 3. ‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026 [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Movie about Nazi-collaborating administration strikes chord during what director calls ‘time of great uncertainty’ It is the story of how a lowly state administrator unthinkingly becomes a cog in the machine of an authoritarian regime,…
-
-Link: https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime
-
-### 4. Nacon’s new PS5 controller can mix audio from your phone and console [10/10]
+### 7. Nacon’s new PS5 controller can mix audio from your phone and console [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,34 +96,16 @@ Nacon announced what the company is claiming is the world's first officially lic
 
 Link: https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller
 
-### 5. What are we all playing this weekend? [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 8. The Year I Taught in a Former Coal Mining Town [9/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that much harder.
+Brianna Di Monda Teaching in the South of France, I learned that equality was just a story teachers told about themselves. The post The Year I Taught in a Former Coal Mining Town appeared first on The Nation .
 
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402
+Link: https://www.thenation.com/article/world/taught-the-miners-children-france-racism/
 
-### 6. Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hōlei sea arch, formed 550 years ago by erosion from ocean waves, no longer standing, National Park Service confirms A famed centuries-old sea arch on Hawaii’s remote and rugged coastline has collapsed into the Pacific Ocean, the National…
-
-Link: https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses
-
-### 7. Childcare Workers in NC Struggle to Afford Care for Their Own Kids [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-DURHAM — At Kate’s Korner, the day begins early — children arriving, classroom doors opening, small voices calling for teachers, parents saying quick goodbyes before heading to work.
-
-Link: https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/
-
-### 8. OpenAI’s Dot agent is enterprise software that can also order your dinner [9/10]
+### 9. OpenAI’s Dot agent is enterprise software that can also order your dinner [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,23 +114,14 @@ It's a tale as old as last week: OpenAI's new agent platform, called Dots, is fu
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
 
-### 9. RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Another day, another company declaring that the current memory crisis driving RAM prices through the roof is far from over.
-
-Link: https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money
-
-### 10. Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools [9/10]
+### 10. Opinion: How I Started My Path to a Career in Healthcare While Still in High School [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Parents should not need a degree in education policy or a spreadsheet full of state data to understand whether their child’s school is working. Schools are not in the dark about their performance.
+My interest in healthcare started when I was a kid. My cousin is a nurse, and seeing the work she did made me want to do the same. I also grew up helping my mom take care of my little sister, Lotus.
 
-Link: https://www.the74million.org/article/missouris-a-f-school-grades-are-about-empowering-families-not-shaming-schools/
+Link: https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-healthcare-while-still-in-high-school/
 
 ### 11. October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work? [8/10]
 **Source:** NPR Health  
@@ -132,14 +132,14 @@ The America First strategy asks for a Memorandum of Understanding as a condition
 
 Link: https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first
 
-### 12. Podcast: The FBI Was Hacked. We’ve Seen the Data [7/10]
+### 12. Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The massive FBI hack; a company wants to add facial recognition onto Flock; and Muse in some cases is actually just people.
+The estimated lifespan of the outer solar system has been downgraded from 100 billion years to just a few billion years, according to a study that probed “terminal instability” during the Sun’s death.
 
-Link: https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/
+Link: https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/
 
 ### 13. What to Watch and Read This Weekend: How Do We Feel About the New Carrie? [7/10]
 **Source:** Reactor  
@@ -151,15 +151,6 @@ Plus: Please Send Electric Lizalfos Tails The post What to Watch and Read This W
 Link: https://reactormag.com/what-to-watch-and-read-this-weekend-october-2-2026/
 
 ## YouTube
-
-### Implementing Undo - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…
-
-Link: https://www.youtube.com/watch?v=S6PqsZ65Mg4
 
 ### Biomedical Scientist Debunks The Biggest Peptide Myths on Reddit [7/10]
 **Creator:** WIRED  
@@ -314,9 +305,9 @@ This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelate
 
 Link: https://www.youtube.com/watch?v=w0ajrSHo380
 
-### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [8/10]
+### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.

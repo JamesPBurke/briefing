@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-03T09:00:16.740783Z",
-  "generatedAtDisplay": "2026-10-03 05:00 AM EDT",
+  "generatedAt": "2026-10-03T14:00:05.347908Z",
+  "generatedAtDisplay": "2026-10-03 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are What we've been playing - \"That's one of gaming's great cities, that is\", ‘People are deserting it’: why are London mansions struggling to sell?, and ‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are ‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo, Soaring diesel prices take their toll on US farmers in midwest corn belt, and How community colleges are evolving to fill local data center jobs.",
   "mainItems": [
+    {
+      "title": "‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too",
+      "published": "2026-10-03T13:00:01+00:00",
+      "summary": "As the university and local police defend their treatment of the alleged perpetrators, women decry a familiar story Student safety advocates in the US call the start of the fall semester at universities “the red zone”.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Soaring diesel prices take their toll on US farmers in midwest corn belt",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers",
+      "published": "2026-10-03T12:00:59+00:00",
+      "summary": "Fuel costs are biting for crop growers, trucking firms and a host of other industries as Iran war stokes record prices Joe Hamilton farms corn and soybeans on 2,500 acres in Indiana’s Delaware county.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How community colleges are evolving to fill local data center jobs",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5955691/how-community-colleges-are-evolving-to-fill-local-data-center-jobs",
+      "published": "2026-10-03T11:46:56+00:00",
+      "summary": "Community colleges are often charged with training students for the jobs that already exist in their communities. But what if the jobs that need filling are at a data center?",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘It’s enraging’: lawmakers call for action after Guardian investigation into convenience store overcharges",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress",
+      "published": "2026-10-03T10:00:56+00:00",
+      "summary": "Congress members say pricing practices at 7-Eleven and Circle K stores underscore everyday Americans’ affordability struggles Five US House members have called out pricing practices at the US’s two largest convenience store chains in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "We live in a rape-prone society. The horrific Cornell case reveals what that looks like | Rebecca Solnit",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy",
+      "published": "2026-10-03T10:00:55+00:00",
+      "summary": "Public outcry to punish the alleged perpetrators in the Cornell case misses the point – the only solution is political, legal and cultural equality of women Sometimes a story is so so appalling, it captures the public’s attention,…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "What we've been playing - \"That's one of gaming's great cities, that is\"",
       "source": "Eurogamer",
@@ -14,26 +64,6 @@
       "published": "2026-10-03T07:00:00+00:00",
       "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘People are deserting it’: why are London mansions struggling to sell?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/money/2026/oct/03/london-mansions-sell-house-prices-prime-property",
-      "published": "2026-10-03T06:00:50+00:00",
-      "summary": "For decades, the capital’s house prices raced ahead of the national average – but now they are falling in prime areas An elegant Georgian facade, a full-width balcony and an exclusive address in South Kensington just steps from the Natural…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
-      "published": "2026-10-03T04:00:48+00:00",
-      "summary": "Movie about Nazi-collaborating administration strikes chord during what director calls ‘time of great uncertainty’ It is the story of how a lowly state administrator unthinkingly becomes a cog in the machine of an authoritarian regime,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -47,33 +77,13 @@
       "score": 10
     },
     {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
-      "published": "2026-10-03T07:00:00+00:00",
-      "summary": "October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that much harder.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses",
-      "published": "2026-10-02T20:16:35+00:00",
-      "summary": "Hōlei sea arch, formed 550 years ago by erosion from ocean waves, no longer standing, National Park Service confirms A famed centuries-old sea arch on Hawaii’s remote and rugged coastline has collapsed into the Pacific Ocean, the National…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Childcare Workers in NC Struggle to Afford Care for Their Own Kids",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/",
-      "published": "2026-10-02T18:30:00+00:00",
-      "summary": "DURHAM — At Kate’s Korner, the day begins early — children arriving, classroom doors opening, small voices calling for teachers, parents saying quick goodbyes before heading to work.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The Year I Taught in a Former Coal Mining Town",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/world/taught-the-miners-children-france-racism/",
+      "published": "2026-10-03T09:30:00+00:00",
+      "summary": "Brianna Di Monda Teaching in the South of France, I learned that equality was just a story teachers told about themselves. The post The Year I Taught in a Former Coal Mining Town appeared first on The Nation .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -87,24 +97,14 @@
       "score": 9
     },
     {
-      "title": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
-      "source": "Rock Paper Shotgun",
-      "category": "AI / privacy",
-      "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
-      "published": "2026-10-02T14:09:50+00:00",
-      "summary": "Another day, another company declaring that the current memory crisis driving RAM prices through the roof is far from over.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Missouri’s A-F School Grades Are About Empowering Families, Not Shaming Schools",
+      "title": "Opinion: How I Started My Path to a Career in Healthcare While Still in High School",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/missouris-a-f-school-grades-are-about-empowering-families-not-shaming-schools/",
-      "published": "2026-10-02T12:30:00+00:00",
-      "summary": "Parents should not need a degree in education policy or a spreadsheet full of state data to understand whether their child’s school is working. Schools are not in the dark about their performance.",
+      "url": "https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-healthcare-while-still-in-high-school/",
+      "published": "2026-10-03T10:30:00+00:00",
+      "summary": "My interest in healthcare started when I was a kid. My cousin is a nurse, and seeing the work she did made me want to do the same. I also grew up helping my mom take care of my little sister, Lotus.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
@@ -117,12 +117,12 @@
       "score": 8
     },
     {
-      "title": "Podcast: The FBI Was Hacked. We’ve Seen the Data",
+      "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/",
-      "published": "2026-10-02T17:37:35+00:00",
-      "summary": "The massive FBI hack; a company wants to add facial recognition onto Flock; and Muse in some cases is actually just people.",
+      "url": "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
+      "published": "2026-10-03T11:00:34+00:00",
+      "summary": "The estimated lifespan of the outer solar system has been downgraded from 100 billion years to just a few billion years, according to a study that probed “terminal instability” during the Sun’s death.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
@@ -138,17 +138,6 @@
     }
   ],
   "youtube": [
-    {
-      "title": "Implementing Undo - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
-      "published": "2026-09-30T13:00:36+00:00",
-      "summary": "We use undo daily, but have you thought about what goes into making a functional undo in a program? Dr Steve Bagley takes us through some of the things we need to think about if we're implementing it ourselves! Computerphile is supported…",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "Biomedical Scientist Debunks The Biggest Peptide Myths on Reddit",
       "source": "WIRED",
@@ -344,8 +333,8 @@
       "published": "2026-10-02T12:47:17+00:00",
       "summary": "This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "You Cannot Stop the Dark Souls Randomizer Train w/ Jack and Jess -- Part 8",
@@ -890,7 +879,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 24,
     "trailerCount": 33,
     "sourceCount": 21
   }
