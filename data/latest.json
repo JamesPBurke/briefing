@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-04T14:00:03.876588Z",
-  "generatedAtDisplay": "2026-10-04 10:00 AM EDT",
+  "generatedAt": "2026-10-04T18:00:30.178384Z",
+  "generatedAtDisplay": "2026-10-04 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live, The MacBook Air M5 is $200 off for the first time in months, and The iPad Mini is slightly cheaper again during Prime Day.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles, Woman in Cornell rape allegations case targeted with threats, her lawyer says, and Before Cornell turmoil, successive US administrations seesawed in attitudes towards campus assaults.",
   "mainItems": [
     {
-      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+      "title": "School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/",
+      "published": "2026-10-04T16:30:00+00:00",
+      "summary": "Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Woman in Cornell rape allegations case targeted with threats, her lawyer says",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations",
+      "published": "2026-10-04T16:15:09+00:00",
+      "summary": "Attorney says people have threatened to silence or harm ‘Jane Doe’ if she does not withdraw civil lawsuit The woman who has alleged that ⁠ she was drugged ⁠and raped ​by Cornell University students has been the target of threats, her…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Before Cornell turmoil, successive US administrations seesawed in attitudes towards campus assaults",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-      "published": "2026-10-04T13:30:57+00:00",
-      "summary": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.",
+      "url": "https://www.theguardian.com/law/2026/oct/04/cornell-campus-sexual-assault-political-administrations",
+      "published": "2026-10-04T14:00:31+00:00",
+      "summary": "Democratic and Republican administrations have taken different tacks in addressing campus sexual assault Amid renewed concerns about sexual assault on US college campuses following allegations that a student was gang-raped at a Cornell…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "US marine arrested in Japan on suspicion of killing woman, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+      "published": "2026-10-04T13:46:19+00:00",
+      "summary": "Suspect allegedly killed woman at hotel in Okinawa as prime minister calls crime ‘exceptionally brutal and vicious’ A US marine stationed on Japan ’s southern island of Okinawa is accused of murdering a Japanese woman and has been arrested…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,34 +67,44 @@
       "score": 10
     },
     {
-      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
+      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview",
-      "published": "2026-10-04T10:00:24+00:00",
-      "summary": "Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "published": "2026-10-04T17:45:28+00:00",
+      "summary": "Calyton said AI was a ‘gamechanger’ but it also posed ‘a threat’ during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence , to serve also as the new White House AI czar.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations",
-      "published": "2026-10-04T09:43:26+00:00",
-      "summary": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "Dynasty Warriors producer would rather make new games than more remasters",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+      "published": "2026-10-04T17:07:59+00:00",
+      "summary": "Dynasty Warriors producer Tomohiko Sho says he'd rather spend what's left of his career making new games than more remasters of his old ones. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
       "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "published": "2026-10-04T16:47:17+00:00",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Saturday Night Live: Dakota Johnson struggles through weak episode as Taylor Swift gatecrashes",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "published": "2026-10-03T16:49:10+00:00",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+      "published": "2026-10-04T14:15:11+00:00",
+      "summary": "The Verity star’s awkwardness with live comedy is matched with similarly sub-par writing in an episode featuring a surprise cameo from her superstar friend Saturday Night Live kicks off the second episode of its new season at RNC…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\"",
@@ -74,16 +114,6 @@
       "published": "2026-10-04T13:37:29+00:00",
       "summary": "PlatinumGames president Atsushi Inaba has hinted he'd like to expand the character of Bayonetta and broaden her world. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-      "published": "2026-10-04T11:05:53+00:00",
-      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -97,43 +127,13 @@
       "score": 9
     },
     {
-      "title": "‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures",
+      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york",
-      "published": "2026-10-04T11:00:27+00:00",
-      "summary": "The exhibition Designed to Be Red: Native American & Indigenous Poster Works , at New York’s Poster House, places the history of Native graphic art at the forefront.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview",
+      "published": "2026-10-04T10:00:24+00:00",
+      "summary": "Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Why Schools Need a Phonics-Style Reckoning for Math",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/",
-      "published": "2026-10-04T10:30:00+00:00",
-      "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy At this point, everyone who cares about education policy at all has probably listened to Emily…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
-      "published": "2026-10-04T09:01:54+00:00",
-      "summary": "As I throw open the windows on my first day in Nivalis, breathing in the city's neon-streaked air and watching the smog roil across the blackened sky, my government-mandated AI automata informs me the district is in lockdown and a serial…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "published": "2026-10-04T07:48:54+00:00",
-      "summary": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     }
   ],
@@ -148,6 +148,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "FEMA program for last year's California wildfire victims running out of money",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=neA13fU9ojI",
+      "published": "2026-10-04T16:15:24+00:00",
+      "summary": "A FEMA-backed program that's helped hundreds of survivors of last year’s Los Angeles fires navigate the rebuilding process is running out of money — and California's leaders are accusing the Trump administration of playing politics.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "BTS singer RM unveils personal art collection at San Francisco museum",
@@ -216,13 +227,24 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "A midair stabbing on a flight to Israel is being investigated as possible terrorism",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=j6tAnR5Hcyg",
-      "published": "2026-10-01T19:30:01+00:00",
-      "summary": "Dozens of passengers are safely on the ground in Israel after a commercial flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia this morning.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "PS5 QSSR Performance: Does AI Upscaling Hit Your Frame-Rate?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KSaD6OTucD4",
+      "published": "2026-10-04T16:00:30+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/FQW6K7TLvQA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PS5 Pro: Could PSSR Be Combined With FSR Frame Generation?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=pMP9xcvwgAk",
+      "published": "2026-10-04T15:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -234,8 +256,8 @@
       "published": "2026-10-03T17:00:38+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/FQW6K7TLvQA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Blood of Dawnwalker PC Best Settings - Digital Foundry Optimised",
@@ -245,8 +267,8 @@
       "published": "2026-10-03T16:00:35+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/cyoW2Rzw8As ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Halo At Activision: Call of Duty Tech or Unreal Engine 5?",
@@ -256,8 +278,8 @@
       "published": "2026-10-03T15:00:07+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Sony QSSR: PS5 AI Upscaling For Non-AI Hardware",
@@ -282,26 +304,26 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Control Resonant - Best Ray Tracing/Path Tracing Settings - DF Optimised",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=v6hDhJqH5jE",
-      "published": "2026-10-01T17:00:17+00:00",
-      "summary": "► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "It's Street Fighter 6 Time | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=D3FRNqQyWlo",
+      "published": "2026-10-04T14:01:12+00:00",
+      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Project Helix + PS6 GPU TFLOPs Leaked - But What Does It Mean?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=cS2_7cLxhgg",
-      "published": "2026-10-01T16:00:01+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Knuckle Jet, Driving Rogue, Monowave, and Nivalis Nights | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4wNaL8NhpTY",
+      "published": "2026-10-04T16:36:06+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "So What Had Happened Was... | Adventure Is Nigh! - The Slow Walk Home | Ep. 11",
@@ -346,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Well Dweller Fills the Silksong-Shaped Hole in My Life",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=zvcgJiE-fBI",
-      "published": "2026-10-01T15:00:20+00:00",
-      "summary": "If you like Hollow Knight or Silksong, you owe it to yourself to check out Kyle Thompson's excellent Well Dweller. Marty's latest essay explains why it's such a great metroidvania to play this October.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -515,6 +526,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Something is in the water… Below premieres this Thursday",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PMaKQ8hgZOM",
+      "published": "2026-10-04T17:00:00+00:00",
+      "summary": "Something is in the water… Below premieres this Thursday Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Meet the ghosts of the Undervale. They’re nicer than they look! #HAUNTEDHOTEL returns Oct 9!",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -647,17 +669,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Love is Blind S11: Boston | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-wg0ReRw_cM",
-      "published": "2026-09-30T15:00:00+00:00",
-      "summary": "Hosts Nick and Vanessa Lachey are headed to Boston with a new group of singles ready to fall for someone sight unseen and pour their hearts out in the pods.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "There's potential for homunculi anywhere. #SmallProphets Season 1 premieres October 7",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -708,17 +719,6 @@
       "url": "https://www.youtube.com/watch?v=xqeSrYpeNIg",
       "published": "2026-10-02T00:59:47+00:00",
       "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. What the Universe is Made Of (With Mac Quayle) World X changes everything.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "New for October 2026 | Nocturne, Matchbox The Movie, & More | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=95hZAWofyVY",
-      "published": "2026-10-01T16:59:50+00:00",
-      "summary": "Don't look away—more surprises arriving in October.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -835,8 +835,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
-    "trailerCount": 33,
-    "sourceCount": 17
+    "youtubeCount": 21,
+    "trailerCount": 32,
+    "sourceCount": 16
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-04T14:00:03.876588Z
+Generated: 2026-10-04T18:00:30.178384Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live, The MacBook Air M5 is $200 off for the first time in months, and The iPad Mini is slightly cheaper again during Prime Day.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles, Woman in Cornell rape allegations case targeted with threats, her lawyer says, and Before Cornell turmoil, successive US administrations seesawed in attitudes towards campus assaults.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live [10/10]
+### 1. School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves.
+
+Link: https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/
+
+### 2. Woman in Cornell rape allegations case targeted with threats, her lawyer says [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Attorney says people have threatened to silence or harm ‘Jane Doe’ if she does not withdraw civil lawsuit The woman who has alleged that ⁠ she was drugged ⁠and raped ​by Cornell University students has been the target of threats, her…
+
+Link: https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations
+
+### 3. Before Cornell turmoil, successive US administrations seesawed in attitudes towards campus assaults [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.
+Democratic and Republican administrations have taken different tacks in addressing campus sexual assault Amid renewed concerns about sexual assault on US college campuses following allegations that a student was gang-raped at a Cornell…
 
-Link: https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates
+Link: https://www.theguardian.com/law/2026/oct/04/cornell-campus-sexual-assault-political-administrations
 
-### 2. The MacBook Air M5 is $200 off for the first time in months [10/10]
+### 4. US marine arrested in Japan on suspicion of killing woman, police say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Suspect allegedly killed woman at hotel in Okinawa as prime minister calls crime ‘exceptionally brutal and vicious’ A US marine stationed on Japan ’s southern island of Okinawa is accused of murdering a Japanese woman and has been arrested…
+
+Link: https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder
+
+### 5. The MacBook Air M5 is $200 off for the first time in months [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +78,7 @@ Amazon’s October Prime Day has effectively chopped off Apple’s June price in
 
 Link: https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale
 
-### 3. The iPad Mini is slightly cheaper again during Prime Day [10/10]
+### 6. The iPad Mini is slightly cheaper again during Prime Day [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,34 +87,43 @@ Apple bumped up prices on several of its devices in June, and we haven’t seen 
 
 Link: https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale
 
-### 4. Conservative US supreme court justice Samuel Alito hints at retirement in interview [10/10]
+### 7. Trump names intelligence chief Jay Clayton as new White House AI czar [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age.
+Calyton said AI was a ‘gamechanger’ but it also posed ‘a threat’ during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence , to serve also as the new White House AI czar.
 
-Link: https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview
+Link: https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar
 
-### 5. Cornell University to take ‘serious look’ at fraternities after rape allegations [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 8. Dynasty Warriors producer would rather make new games than more remasters [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling…
+Dynasty Warriors producer Tomohiko Sho says he'd rather spend what's left of his career making new games than more remasters of his old ones. Read more
 
-Link: https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations
+Link: https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters
 
-### 6. Capcom is preparing for a ‘future where we create games together with AI’ [10/10]
+### 9. An AI couldn’t beat humans at StarCraft, so it decided to cheat [9/10]
 **Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
+
+### 10. Saturday Night Live: Dakota Johnson struggles through weak episode as Taylor Swift gatecrashes [9/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.
+The Verity star’s awkwardness with live comedy is matched with similarly sub-par writing in an episode featuring a surprise cameo from her superstar friend Saturday Night Live kicks off the second episode of its new season at RNC…
 
-Link: https://www.theverge.com/games/1004418/capcom-ai-game-development
+Link: https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo
 
-### 7. PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" [9/10]
+### 11. PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,16 +132,7 @@ PlatinumGames president Atsushi Inaba has hinted he'd like to expand the charact
 
 Link: https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade
 
-### 8. All hail electrification. But let’s talk about the hard part. [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.
-
-Link: https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/
-
-### 9. Hegseth is obsessed with testosterone therapy. If anything, I’d like the opposite | Dave Schilling [9/10]
+### 12. Hegseth is obsessed with testosterone therapy. If anything, I’d like the opposite | Dave Schilling [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -114,41 +141,14 @@ Maybe the key to life is being able to bench press 300lb at 75. But do we need m
 
 Link: https://www.theguardian.com/commentisfree/2026/oct/04/hegseth-testosterone-replacement-therapy
 
-### 10. ‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures [9/10]
+### 13. Conservative US supreme court justice Samuel Alito hints at retirement in interview [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The exhibition Designed to Be Red: Native American & Indigenous Poster Works , at New York’s Poster House, places the history of Native graphic art at the forefront.
+Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age.
 
-Link: https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york
-
-### 11. Opinion: Why Schools Need a Phonics-Style Reckoning for Math [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy At this point, everyone who cares about education policy at all has probably listened to Emily…
-
-Link: https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/
-
-### 12. Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As I throw open the windows on my first day in Nivalis, breathing in the city's neon-streaked air and watching the smog roil across the blackened sky, my government-mandated AI automata informs me the district is in lockdown and a serial…
-
-Link: https://www.eurogamer.net/nivalis-nights-now-playing
-
-### 13. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly…
-
-Link: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+Link: https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-qu
 Are peptides legit? Biomedical scientist Dr. Andrea Love deep-dives into Reddit to break down peptides and separate fact from fiction.
 
 Link: https://www.youtube.com/watch?v=hQGvGkWIX94
+
+### FEMA program for last year's California wildfire victims running out of money [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A FEMA-backed program that's helped hundreds of survivors of last year’s Los Angeles fires navigate the rebuilding process is running out of money — and California's leaders are accusing the Trump administration of playing politics.
+
+Link: https://www.youtube.com/watch?v=neA13fU9ojI
 
 ### BTS singer RM unveils personal art collection at San Francisco museum [8/10]
 **Creator:** NPR  
@@ -215,36 +224,45 @@ Origin Genomics is trying to convince Congress and regulators that making babies
 
 Link: https://www.youtube.com/watch?v=DBUezhwN1-0
 
-### A midair stabbing on a flight to Israel is being investigated as possible terrorism [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### PS5 QSSR Performance: Does AI Upscaling Hit Your Frame-Rate? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Dozens of passengers are safely on the ground in Israel after a commercial flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia this morning.
+► Watch the Full Video Here: https://youtu.be/FQW6K7TLvQA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=j6tAnR5Hcyg
+Link: https://www.youtube.com/watch?v=KSaD6OTucD4
 
-### Sony QSSR: Marvel's Wolverine Upscaling Image Quality Tested + PSSR Comparisons [7/10]
+### PS5 Pro: Could PSSR Be Combined With FSR Frame Generation? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=pMP9xcvwgAk
+
+### Sony QSSR: Marvel's Wolverine Upscaling Image Quality Tested + PSSR Comparisons [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/FQW6K7TLvQA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=Z4p_YmJp8a0
 
-### The Blood of Dawnwalker PC Best Settings - Digital Foundry Optimised [7/10]
+### The Blood of Dawnwalker PC Best Settings - Digital Foundry Optimised [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/cyoW2Rzw8As ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=7adjEi_kuO0
 
-### Halo At Activision: Call of Duty Tech or Unreal Engine 5? [7/10]
+### Halo At Activision: Call of Duty Tech or Unreal Engine 5? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -269,23 +287,23 @@ Link: https://www.youtube.com/watch?v=20wkPXwmZgI
 
 Link: https://www.youtube.com/watch?v=LjfP2Ty93R8
 
-### Control Resonant - Best Ray Tracing/Path Tracing Settings - DF Optimised [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### It's Street Fighter 6 Time | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Get The At-A-Glance Settings List Here: https://www.digitalfoundry.net/reviews/control-resonant-an-impressive-pc-version-with-superb-scalability ► Watch the Full Video Here: https://youtu.
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=v6hDhJqH5jE
+Link: https://www.youtube.com/watch?v=D3FRNqQyWlo
 
-### Project Helix + PS6 GPU TFLOPs Leaked - But What Does It Mean? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Knuckle Jet, Driving Rogue, Monowave, and Nivalis Nights | Yahtzee Tries [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/19qyGXz5FUU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
 
-Link: https://www.youtube.com/watch?v=cS2_7cLxhgg
+Link: https://www.youtube.com/watch?v=4wNaL8NhpTY
 
 ### So What Had Happened Was... | Adventure Is Nigh! - The Slow Walk Home | Ep. 11 [7/10]
 **Creator:** Second Wind  
@@ -322,15 +340,6 @@ Link: https://www.youtube.com/watch?v=fE4OxMjHY0U
 Jack has played Dark Souls 1 a million times, so let's see how him and Jess handle the game when it's randomized. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=SLj8AELx4j8
-
-### Well Dweller Fills the Silksong-Shaped Hole in My Life [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you like Hollow Knight or Silksong, you owe it to yourself to check out Kyle Thompson's excellent Well Dweller. Marty's latest essay explains why it's such a great metroidvania to play this October.
-
-Link: https://www.youtube.com/watch?v=zvcgJiE-fBI
 
 ## Entertainment Recommendations
 
@@ -487,6 +496,15 @@ All you have to do is say yes.
 
 Link: https://www.youtube.com/watch?v=avXdGfYmRhM
 
+### Something is in the water… Below premieres this Thursday [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Something is in the water… Below premieres this Thursday Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=PMaKQ8hgZOM
+
 ### Meet the ghosts of the Undervale. They’re nicer than they look! #HAUNTEDHOTEL returns Oct 9! [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -595,15 +613,6 @@ Production of the fourth and final season of The Night Agent has officially wrap
 
 Link: https://www.youtube.com/watch?v=NKfXbu1S_z8
 
-### Love is Blind S11: Boston | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Hosts Nick and Vanessa Lachey are headed to Boston with a new group of singles ready to fall for someone sight unseen and pour their hearts out in the pods.
-
-Link: https://www.youtube.com/watch?v=-wg0ReRw_cM
-
 ### There's potential for homunculi anywhere. #SmallProphets Season 1 premieres October 7 [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -648,12 +657,3 @@ Link: https://www.youtube.com/watch?v=K5_P1op5ukA
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. What the Universe is Made Of (With Mac Quayle) World X changes everything.
 
 Link: https://www.youtube.com/watch?v=xqeSrYpeNIg
-
-### New for October 2026 | Nocturne, Matchbox The Movie, & More | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Don't look away—more surprises arriving in October.
-
-Link: https://www.youtube.com/watch?v=95hZAWofyVY
