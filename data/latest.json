@@ -1,69 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-03T18:00:19.891923Z",
-  "generatedAtDisplay": "2026-10-03 02:00 PM EDT",
+  "generatedAt": "2026-10-04T05:00:01.772078Z",
+  "generatedAtDisplay": "2026-10-04 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are US Coast Guard searches for missing air ambulance off coast of Massachusetts, Here’s What it Takes to Feed LAUSD Students Each Day, and An OpenAI safety employee has quit and is sounding the alarm.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Capcom is preparing for a ‘future where we create games together with AI’, We live in a rape-prone society. The horrific Cornell case reveals what that looks like | Rebecca Solnit, and OpenAI safety leader quits, warning AI company’s culture is ‘broken’.",
   "mainItems": [
     {
-      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
-      "published": "2026-10-03T17:03:54+00:00",
-      "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Federal Aviation…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Here’s What it Takes to Feed LAUSD Students Each Day",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/",
-      "published": "2026-10-03T16:30:00+00:00",
-      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "published": "2026-10-03T14:31:56+00:00",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Trump says US to send one-time $90 payment to 20m seniors enrolled in Medicare",
-      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare",
-      "published": "2026-10-03T13:48:21+00:00",
-      "summary": "President says payments, to be sent in early October, are meant to offset cost of monthly insurance premiums Donald ⁠Trump has said the US government will send a one-time $90 payment to more than 20 million Americans enrolled in Medicare ,…",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "published": "2026-10-03T16:49:10+00:00",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too",
-      "published": "2026-10-03T13:00:01+00:00",
-      "summary": "As the university and local police defend their treatment of the alleged perpetrators, women decry a familiar story Student safety advocates in the US call the start of the fall semester at universities “the red zone”.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How community colleges are evolving to fill local data center jobs",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5955691/how-community-colleges-are-evolving-to-fill-local-data-center-jobs",
-      "published": "2026-10-03T11:46:56+00:00",
-      "summary": "Community colleges are often charged with training students for the jobs that already exist in their communities. But what if the jobs that need filling are at a data center?",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -77,6 +27,46 @@
       "score": 10
     },
     {
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "published": "2026-10-03T19:41:21+00:00",
+      "summary": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Here’s What it Takes to Feed LAUSD Students Each Day",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/",
+      "published": "2026-10-03T16:30:00+00:00",
+      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "published": "2026-10-03T14:31:56+00:00",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "How community colleges are evolving to fill local data center jobs",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5955691/how-community-colleges-are-evolving-to-fill-local-data-center-jobs",
+      "published": "2026-10-03T11:46:56+00:00",
+      "summary": "Community colleges are often charged with training students for the jobs that already exist in their communities. But what if the jobs that need filling are at a data center?",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
       "title": "‘It’s enraging’: lawmakers call for action after Guardian investigation into convenience store overcharges",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -87,33 +77,33 @@
       "score": 9
     },
     {
-      "title": "The Year I Taught in a Former Coal Mining Town",
-      "source": "The Nation",
+      "title": "What we've been playing - \"That's one of gaming's great cities, that is\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "published": "2026-10-03T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Paw patrol: Mexico debuts tiniest national guard recruit",
+      "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/world/taught-the-miners-children-france-racism/",
-      "published": "2026-10-03T09:30:00+00:00",
-      "summary": "Brianna Di Monda Teaching in the South of France, I learned that equality was just a story teachers told about themselves. The post The Year I Taught in a Former Coal Mining Town appeared first on The Nation .",
+      "url": "https://www.theguardian.com/world/2026/oct/03/mexico-dog-comando-national-guard",
+      "published": "2026-10-03T21:29:58+00:00",
+      "summary": "Chihuahua Comando is being trained for search-and-rescue work, and helping bring a warm connection with the public Comando may be tiny, but Mexico’s national guard is giving him ⁠a very big role.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Childcare Workers in NC Struggle to Afford Care for Their Own Kids",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/",
-      "published": "2026-10-02T18:30:00+00:00",
-      "summary": "DURHAM — At Kate’s Korner, the day begins early — children arriving, classroom doors opening, small voices calling for teachers, parents saying quick goodbyes before heading to work.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-      "published": "2026-10-02T18:16:07+00:00",
-      "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Episcopal bishop who urged Trump to ‘have mercy’ to resign post in Washington DC",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump",
+      "published": "2026-10-03T21:21:18+00:00",
+      "summary": "Mariann Budde gained national attention for calling on US president to consider immigrants and LGBTQ+ people Rev Mariann Edgar Budde, the Episcopal bishop of Washington DC who gained national attention when she called on Donald Trump to “…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -134,6 +124,16 @@
       "published": "2026-10-03T10:30:00+00:00",
       "summary": "My interest in healthcare started when I was a kid. My cousin is a nurse, and seeing the work she did made me want to do the same. I also grew up helping my mom take care of my little sister, Lotus.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
+    },
+    {
+      "title": "4 ways to battle performance anxiety, according to a confidence coach",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+      "published": "2026-10-03T09:00:00+00:00",
+      "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
