@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-04T09:00:16.726713Z
+Generated: 2026-10-04T14:00:03.876588Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books, Polish activists launch abortion pill locker to bypass near-total ban, and ‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live, The MacBook Air M5 is $200 off for the first time in months, and The iPad Mini is slightly cheaper again during Prime Day.
 
 ## Briefing
 
@@ -33,34 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books [10/10]
+### 1. French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-A Ukrainian publishing boom sparked by the 2022 invasion is now under threat from the force and frequency of Russian attacks On a Saturday morning in August, Viktor Kruglov, the co-founder and chief executive of the publisher Ranok, was at…
+At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.
 
-Link: https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books
+Link: https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates
 
-### 2. Polish activists launch abortion pill locker to bypass near-total ban [10/10]
+### 2. The MacBook Air M5 is $200 off for the first time in months [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon.
+
+Link: https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale
+
+### 3. The iPad Mini is slightly cheaper again during Prime Day [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off.
+
+Link: https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale
+
+### 4. Conservative US supreme court justice Samuel Alito hints at retirement in interview [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-‘AbortOmat’ in Warsaw offers novel way to challenge country’s restrictions and allow women swift, anonymous access They call it the “world’s first parcel locker for abortion pills”.
+Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age.
 
-Link: https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban
+Link: https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview
 
-### 3. ‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court [10/10]
+### 5. Cornell University to take ‘serious look’ at fraternities after rape allegations [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Neighbours say crowds drawn by TikTok to Fabel Friet are clogging the picturesque canal street and attracting litter, gulls and rats People living in one of Amsterdam’s most exclusive neighbourhoods have taken the city to court for…
+Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling…
 
-Link: https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet
+Link: https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations
 
-### 4. Capcom is preparing for a ‘future where we create games together with AI’ [10/10]
+### 6. Capcom is preparing for a ‘future where we create games together with AI’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,16 +87,61 @@ Capcom's Pragmata might be all about the horrors of AI, but in practice the stud
 
 Link: https://www.theverge.com/games/1004418/capcom-ai-game-development
 
-### 5. We live in a rape-prone society. The horrific Cornell case reveals what that looks like | Rebecca Solnit [10/10]
+### 7. PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+PlatinumGames president Atsushi Inaba has hinted he'd like to expand the character of Bayonetta and broaden her world. Read more
+
+Link: https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade
+
+### 8. All hail electrification. But let’s talk about the hard part. [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.
+
+Link: https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/
+
+### 9. Hegseth is obsessed with testosterone therapy. If anything, I’d like the opposite | Dave Schilling [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Public outcry to punish the alleged perpetrators in the Cornell case misses the point – the only solution is political, legal and cultural equality of women Sometimes a story is so so appalling, it captures the public’s attention,…
+Maybe the key to life is being able to bench press 300lb at 75. But do we need more muscle-bound, angry guys around? I loathe going to the doctor.
 
-Link: https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy
+Link: https://www.theguardian.com/commentisfree/2026/oct/04/hegseth-testosterone-replacement-therapy
 
-### 6. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ [9/10]
+### 10. ‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The exhibition Designed to Be Red: Native American & Indigenous Poster Works , at New York’s Poster House, places the history of Native graphic art at the forefront.
+
+Link: https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york
+
+### 11. Opinion: Why Schools Need a Phonics-Style Reckoning for Math [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy At this point, everyone who cares about education policy at all has probably listened to Emily…
+
+Link: https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/
+
+### 12. Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As I throw open the windows on my first day in Nivalis, breathing in the city's neon-streaked air and watching the smog roil across the blackened sky, my government-mandated AI automata informs me the district is in lockdown and a serial…
+
+Link: https://www.eurogamer.net/nivalis-nights-now-playing
+
+### 13. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -86,69 +149,6 @@ Link: https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-ma
 David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly…
 
 Link: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
-
-### 7. Here’s What it Takes to Feed LAUSD Students Each Day [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation.
-
-Link: https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/
-
-### 8. An OpenAI safety employee has quit and is sounding the alarm [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
-
-### 9. How community colleges are evolving to fill local data center jobs [9/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Community colleges are often charged with training students for the jobs that already exist in their communities. But what if the jobs that need filling are at a data center?
-
-Link: https://www.npr.org/2026/10/03/nx-s1-5955691/how-community-colleges-are-evolving-to-fill-local-data-center-jobs
-
-### 10. ‘It’s enraging’: lawmakers call for action after Guardian investigation into convenience store overcharges [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Congress members say pricing practices at 7-Eleven and Circle K stores underscore everyday Americans’ affordability struggles Five US House members have called out pricing practices at the US’s two largest convenience store chains in…
-
-Link: https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress
-
-### 11. The Sunday Papers [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sundays are for having the first lie-in in a month. No trips to visit family, no waking in unfamiliar beds, and, best of all, no having to wait until the hosts are up before you can get started on breakfast.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-830
-
-### 12. Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The estimated lifespan of the outer solar system has been downgraded from 100 billion years to just a few billion years, according to a study that probed “terminal instability” during the Sun’s death.
-
-Link: https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/
-
-### 13. Opinion: How I Started My Path to a Career in Healthcare While Still in High School [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-My interest in healthcare started when I was a kid. My cousin is a nurse, and seeing the work she did made me want to do the same. I also grew up helping my mom take care of my little sister, Lotus.
-
-Link: https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-healthcare-while-still-in-high-school/
 
 ## YouTube
 
@@ -160,15 +160,6 @@ Link: https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-
 Are peptides legit? Biomedical scientist Dr. Andrea Love deep-dives into Reddit to break down peptides and separate fact from fiction.
 
 Link: https://www.youtube.com/watch?v=hQGvGkWIX94
-
-### America Used To Be Great at Taxing The Rich... [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Historian of American capitalism Professor Eli Cook joins WIRED to answer the internet’s burning questions about capitalism. Who invented capitalism? Do corporations have more power than governments? How would life in the U.S.
-
-Link: https://www.youtube.com/watch?v=EE3UFgisH00
 
 ### BTS singer RM unveils personal art collection at San Francisco museum [8/10]
 **Creator:** NPR  
@@ -232,15 +223,6 @@ Link: https://www.youtube.com/watch?v=DBUezhwN1-0
 Dozens of passengers are safely on the ground in Israel after a commercial flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia this morning.
 
 Link: https://www.youtube.com/watch?v=j6tAnR5Hcyg
-
-### Russia continues to attack Ukrainian capital, killing two people and injuring more than 20 [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Russia has been continuously attacking the Ukrainian capital for nearly a month.
-
-Link: https://www.youtube.com/watch?v=MnwR1gkvz9o
 
 ### Sony QSSR: Marvel's Wolverine Upscaling Image Quality Tested + PSSR Comparisons [7/10]
 **Creator:** Digital Foundry  
