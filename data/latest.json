@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-05T09:00:11.316622Z",
-  "generatedAtDisplay": "2026-10-05 05:00 AM EDT",
+  "generatedAt": "2026-10-05T14:00:01.258001Z",
+  "generatedAtDisplay": "2026-10-05 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are \"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077, People really hate AI, so why can’t they get enough?, and Andrew Mountbatten-Windsor launches legal action against police over Epstein raids.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Bringing predictive analytics to the agentic AI era, Metallica review – metal titans on fine form in spectacular rarities-focused show, and No 10 insists RAF Fairford is safe after US withdraws its bombers from base.",
   "mainItems": [
     {
-      "title": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
-      "published": "2026-10-05T08:30:00+00:00",
-      "summary": "If you've watched the trailers for No Law or the tech demo that developer Neon Giant showed off at Unreal Fest earlier this year, it would be easy to believe the game has a similar scope to CD Projekt Red's Cyberpunk 2077 .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
+      "title": "Bringing predictive analytics to the agentic AI era",
       "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "published": "2026-10-05T08:00:00+00:00",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "published": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Andrew Mountbatten-Windsor launches legal action against police over Epstein raids",
+      "title": "Metallica review – metal titans on fine form in spectacular rarities-focused show",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
-      "published": "2026-10-05T07:37:04+00:00",
-      "summary": "Former prince to challenge whether Thames Valley police acted lawfully over searches relating to his arrest Andrew Mountbatten-Windsor is taking legal action against Thames Valley police in an effort to quash search warrants that led to…",
+      "url": "https://www.theguardian.com/music/2026/oct/05/metallica-review-sphere-las-vegas",
+      "published": "2026-10-05T13:21:06+00:00",
+      "summary": "Sphere, Las Vegas The first night of a new residency is an immersive plunge into the band’s visual world that showcases the depth of their catalog Las Vegas’s Sphere takes on the characteristics of whatever it’s advertising on its exterior.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Suspending and Expelling Head Start Students Could Get Much Easier Under Trump",
+      "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+      "published": "2026-10-05T13:14:45+00:00",
+      "summary": "A dozen B-1 bombers stationed at Gloucestershire base were redeployed to US on Sunday amid concerns over possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "published": "2026-10-05T13:09:48+00:00",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+      "published": "2026-10-05T12:44:39+00:00",
+      "summary": "Behaviour Interactive, the Canadian studio mostly known for asymmetrical multiplayer horror survival game Dead by Daylight , is hiring for a new project that sounds altogether different. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Trust in Education Has Fallen. It’s Time to Bring Back Strong Accountability",
       "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/zero2eight/suspending-and-expelling-head-start-students-could-get-much-easier-under-trump/",
-      "published": "2026-10-05T04:01:00+00:00",
-      "summary": "This story is published in partnership with The Associated Press.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/trust-in-education-has-fallen-its-time-to-bring-back-strong-accountability/",
+      "published": "2026-10-05T12:30:00+00:00",
+      "summary": "The word “accountability” should be celebrated. Ensuring something that’s promised actually gets delivered builds trust and faith in a given system.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-      "published": "2026-10-05T04:00:52+00:00",
-      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
       "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "published": "2026-10-05T04:00:00+00:00",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "published": "2026-10-05T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "White House defends new press aide who posed with rifle in ‘Fuck Joe Biden’ shirt",
+      "title": "Christa Pike’s lawyers had warned execution would be ‘difficult and perhaps cruel’ due to her veins",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
-      "published": "2026-10-04T23:38:31+00:00",
-      "summary": "Beni Rae Harmony, 24, has been ‘a trusted voice for the MAGA movement as a White House correspondent’, White House says The White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a “Fuck Joe…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/christa-pike-lawyers-difficult-cruel-execution",
+      "published": "2026-10-05T11:00:55+00:00",
+      "summary": "Ex-lawyer for woman Tennessee attempted to execute says defense filings said she was at risk for ‘exactly what happened’ A former lawyer for Christa Pike says he was not surprised that Tennessee botched its attempt to execute her because…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Woman in Cornell rape allegations case targeted with threats, her lawyer says",
+      "title": "This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations",
-      "published": "2026-10-04T16:15:09+00:00",
-      "summary": "Attorney says people have threatened to silence or harm ‘Jane Doe’ if she does not withdraw civil lawsuit The woman who has alleged that ⁠ she was drugged ⁠and raped ​by Cornell University students has been the target of threats, her…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault",
+      "published": "2026-10-05T11:00:54+00:00",
+      "summary": "Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-      "published": "2026-10-04T12:31:50+00:00",
-      "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+      "published": "2026-10-05T10:58:22+00:00",
+      "summary": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Revealed: the methane mega-leaks from UN climate summit host Turkey",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey",
-      "published": "2026-10-05T05:00:49+00:00",
-      "summary": "Exclusive: Cop31 leader calling for global curbs on climate-heating gas has landfills producing some of world’s worst plumes Two or three nights each week, the smell descends.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "title": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
+      "published": "2026-10-05T10:56:57+00:00",
+      "summary": "Happy this week, all! I regret to inform you that the videogame developers have been at it again.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
     },
     {
       "title": "What does marathon training do to your body? A reporter becomes the test subject",
@@ -114,16 +124,6 @@
       "published": "2026-10-04T21:57:05+00:00",
       "summary": "Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/",
-      "published": "2026-10-04T16:30:00+00:00",
-      "summary": "Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "The Billion Dollar AI Advantage Is Disappearing",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "published": "2026-10-05T09:53:12+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Biomedical Scientist Debunks The Biggest Peptide Myths on Reddit",
       "source": "WIRED",
@@ -271,6 +282,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "When a Developer “Levels Up” | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0fA3SCMEWn4",
+      "published": "2026-10-05T13:31:20+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty use the 15th anniversary of Dark Souls to take a look at specific games throughout history where it felt like a given developer had “leveled up” at the time.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "It's Street Fighter 6 Time | Super Smash Sunday",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -310,17 +332,6 @@
       "url": "https://www.youtube.com/watch?v=w0ajrSHo380",
       "published": "2026-10-02T15:07:45+00:00",
       "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=fE4OxMjHY0U",
-      "published": "2026-10-02T12:47:17+00:00",
-      "summary": "This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -416,17 +427,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=WMjGxEqK9lQ",
-      "published": "2026-09-14T13:00:31+00:00",
-      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "The Cycle | Official Trailer | Shudder",
       "source": "Shudder",
       "category": "Film / trailer",
@@ -479,6 +479,17 @@
       "summary": "All you have to do is say yes.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "ChiaroScuro | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DKjB0JPhmYc",
+      "published": "2026-10-05T10:00:00+00:00",
+      "summary": "In Rome, surrounded by the city's most breathtaking palaces and churches, a serial killer is choosing victims inspired by famous works of art.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -598,17 +609,6 @@
       "url": "https://www.youtube.com/watch?v=EvKsFOKPTwk",
       "published": "2026-09-30T20:00:00+00:00",
       "summary": "The casts of Beauty in Black, Why Did I Get Married Again, Doing Life, and Where There's Smoke play pass the phone. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyson Fury vs. Anthony Joshua | LIVE on Netflix | Launch Press Conference",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=v_WSnGUbNm4",
-      "published": "2026-09-30T18:19:41+00:00",
-      "summary": "Finally. After a decade in the making, Tyson Fury and Anthony Joshua finally meet and face off for the first time at the Launch Press Conference for FURY vs. JOSHUA, LIVE on Netflix on Friday, December 11.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -780,8 +780,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
-    "trailerCount": 31,
-    "sourceCount": 20
+    "youtubeCount": 18,
+    "trailerCount": 30,
+    "sourceCount": 21
   }
 }

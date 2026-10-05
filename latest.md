@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-05T09:00:11.316622Z
+Generated: 2026-10-05T14:00:01.258001Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are "We opted out of some things really early on": How the small team making No Law plan to make it look as big as Cyberpunk 2077, People really hate AI, so why can’t they get enough?, and Andrew Mountbatten-Windsor launches legal action against police over Epstein raids.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Bringing predictive analytics to the agentic AI era, Metallica review – metal titans on fine form in spectacular rarities-focused show, and No 10 insists RAF Fairford is safe after US withdraws its bombers from base.
 
 ## Briefing
 
@@ -33,97 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. "We opted out of some things really early on": How the small team making No Law plan to make it look as big as Cyberpunk 2077 [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you've watched the trailers for No Law or the tech demo that developer Neon Giant showed off at Unreal Fest earlier this year, it would be easy to believe the game has a similar scope to CD Projekt Red's Cyberpunk 2077 .
-
-Link: https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077
-
-### 2. People really hate AI, so why can’t they get enough? [10/10]
+### 1. Bringing predictive analytics to the agentic AI era [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.
+In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.
 
-Link: https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/
+Link: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/
 
-### 3. Andrew Mountbatten-Windsor launches legal action against police over Epstein raids [10/10]
+### 2. Metallica review – metal titans on fine form in spectacular rarities-focused show [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Former prince to challenge whether Thames Valley police acted lawfully over searches relating to his arrest Andrew Mountbatten-Windsor is taking legal action against Thames Valley police in an effort to quash search warrants that led to…
+Sphere, Las Vegas The first night of a new residency is an immersive plunge into the band’s visual world that showcases the depth of their catalog Las Vegas’s Sphere takes on the characteristics of whatever it’s advertising on its exterior.
 
-Link: https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids
+Link: https://www.theguardian.com/music/2026/oct/05/metallica-review-sphere-las-vegas
 
-### 4. Suspending and Expelling Head Start Students Could Get Much Easier Under Trump [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This story is published in partnership with The Associated Press.
-
-Link: https://www.the74million.org/zero2eight/suspending-and-expelling-head-start-students-could-get-much-easier-under-trump/
-
-### 5. New forensic evidence supports Egyptian "retainer sacrifice" [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls
-
-Link: https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/
-
-### 6. EmTech Future 2026: When AI Meets Everything [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.
-
-Link: https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/
-
-### 7. White House defends new press aide who posed with rifle in ‘Fuck Joe Biden’ shirt [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Beni Rae Harmony, 24, has been ‘a trusted voice for the MAGA movement as a White House correspondent’, White House says The White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a “Fuck Joe…
-
-Link: https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony
-
-### 8. Woman in Cornell rape allegations case targeted with threats, her lawyer says [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Attorney says people have threatened to silence or harm ‘Jane Doe’ if she does not withdraw civil lawsuit The woman who has alleged that ⁠ she was drugged ⁠and raped ​by Cornell University students has been the target of threats, her…
-
-Link: https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations
-
-### 9. The iPad Mini is slightly cheaper again during Prime Day [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off.
-
-Link: https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale
-
-### 10. Revealed: the methane mega-leaks from UN climate summit host Turkey [9/10]
+### 3. No 10 insists RAF Fairford is safe after US withdraws its bombers from base [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Exclusive: Cop31 leader calling for global curbs on climate-heating gas has landfills producing some of world’s worst plumes Two or three nights each week, the smell descends.
+A dozen B-1 bombers stationed at Gloucestershire base were redeployed to US on Sunday amid concerns over possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen…
 
-Link: https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey
+Link: https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base
 
-### 11. What does marathon training do to your body? A reporter becomes the test subject [9/10]
+### 4. OpenAI is sticking more ads in ChatGPT [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+OpenAI's latest ad format will put images of sponsored products and services on your screen.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads
+
+### 5. Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with "a high realism bar" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Behaviour Interactive, the Canadian studio mostly known for asymmetrical multiplayer horror survival game Dead by Daylight , is hiring for a new project that sounds altogether different. Read more
+
+Link: https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter
+
+### 6. Opinion: Trust in Education Has Fallen. It’s Time to Bring Back Strong Accountability [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The word “accountability” should be celebrated. Ensuring something that’s promised actually gets delivered builds trust and faith in a given system.
+
+Link: https://www.the74million.org/article/trust-in-education-has-fallen-its-time-to-bring-back-strong-accountability/
+
+### 7. The Download: AI’s popularity paradox and EmTech Future 2026 [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/
+
+### 8. Christa Pike’s lawyers had warned execution would be ‘difficult and perhaps cruel’ due to her veins [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Ex-lawyer for woman Tennessee attempted to execute says defense filings said she was at risk for ‘exactly what happened’ A former lawyer for Christa Pike says he was not surprised that Tennessee botched its attempt to execute her because…
+
+Link: https://www.theguardian.com/us-news/2026/oct/05/christa-pike-lawyers-difficult-cruel-execution
+
+### 9. This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault
+
+### 10. Google admits not every Android app runs great on Intel Googlebooks [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps.
+
+Link: https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance
+
+### 11. This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Happy this week, all! I regret to inform you that the videogame developers have been at it again.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks
+
+### 12. What does marathon training do to your body? A reporter becomes the test subject [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-fro
 Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?
 
 Link: https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-do-to-your-body-a-reporter-becomes-the-test-subject
-
-### 12. School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves.
-
-Link: https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/
 
 ### 13. Trump names national intelligence chief Jay Clayton as new AI czar [8/10]
 **Source:** NPR Tech  
@@ -151,6 +151,15 @@ Trump said Clayton will lead the White House's new "Super Intelligence Force," w
 Link: https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump
 
 ## YouTube
+
+### The Billion Dollar AI Advantage Is Disappearing [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.
+
+Link: https://www.youtube.com/watch?v=ZHVNTTKu9fU
 
 ### Biomedical Scientist Debunks The Biggest Peptide Myths on Reddit [7/10]
 **Creator:** WIRED  
@@ -260,6 +269,15 @@ Link: https://www.youtube.com/watch?v=20wkPXwmZgI
 
 Link: https://www.youtube.com/watch?v=LjfP2Ty93R8
 
+### When a Developer “Levels Up” | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty use the 15th anniversary of Dark Souls to take a look at specific games throughout history where it felt like a given developer had “leveled up” at the time.
+
+Link: https://www.youtube.com/watch?v=0fA3SCMEWn4
+
 ### It's Street Fighter 6 Time | Super Smash Sunday [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -295,15 +313,6 @@ Link: https://www.youtube.com/watch?v=kBoazZJW8to
 This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=w0ajrSHo380
-
-### Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink Nick, KC, and Marty chat about the deluge of big games they've been playing, including Fire Emblem: Fortune's Weave, Silent Hill: Townfall, Control: Resonant, Gears of War: E-Day, and more.
-
-Link: https://www.youtube.com/watch?v=fE4OxMjHY0U
 
 ## Entertainment Recommendations
 
@@ -406,15 +415,6 @@ In James Gray’s deeply felt and intense drama, two brothers become entangled i
 
 Link: https://www.youtube.com/watch?v=MLwTyQOhBkw
 
-### Bad Lieutenant: Tokyo - Official Japanese Trailer - Coming Soon [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
-
-Link: https://www.youtube.com/watch?v=WMjGxEqK9lQ
-
 ### The Cycle | Official Trailer | Shudder [8/10]
 **Source:** Shudder  
 **Verdict:** Looks promising  
@@ -459,6 +459,15 @@ Link: https://www.youtube.com/watch?v=68hRE2ehY3M
 All you have to do is say yes.
 
 Link: https://www.youtube.com/watch?v=avXdGfYmRhM
+
+### ChiaroScuro | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In Rome, surrounded by the city's most breathtaking palaces and churches, a serial killer is choosing victims inspired by famous works of art.
+
+Link: https://www.youtube.com/watch?v=DKjB0JPhmYc
 
 ### Something is in the water… Below premieres this Thursday [9/10]
 **Source:** Netflix  
@@ -558,15 +567,6 @@ Link: https://www.youtube.com/watch?v=hbbWEVn1mOk
 The casts of Beauty in Black, Why Did I Get Married Again, Doing Life, and Where There's Smoke play pass the phone. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=EvKsFOKPTwk
-
-### Tyson Fury vs. Anthony Joshua | LIVE on Netflix | Launch Press Conference [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Finally. After a decade in the making, Tyson Fury and Anthony Joshua finally meet and face off for the first time at the Launch Press Conference for FURY vs. JOSHUA, LIVE on Netflix on Friday, December 11.
-
-Link: https://www.youtube.com/watch?v=v_WSnGUbNm4
 
 ### There's potential for homunculi anywhere. #SmallProphets Season 1 premieres October 7 [9/10]
 **Source:** Apple TV  
