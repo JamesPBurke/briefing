@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-06T09:00:23.615322Z
+Generated: 2026-10-06T14:00:03.442654Z
 
-Today's sweep leans toward Democracy / press freedom, Security / computing, AI / privacy. The strongest items in this run are Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa, ‘It could knock a whole street down’: the art of defusing a second world war bomb, and ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak, Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more, and Google is about to remove free access to Gemini Flash and Pro.
 
 ## Briefing
 
@@ -33,52 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa [10/10]
-**Source:** The Guardian US  
+### 1. Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Becoming a boost junkie in arcade racers that offer such potent bursts of extra oomph is usually only a matter of time. Star Wars: Galactic Racer is no different. The hooks have been in deep.
+
+Link: https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak
+
+### 2. Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Crimes involving US troops on Okinawa have been a constant source of tension between Tokyo and Washington Japan’s prime minister, Sanae Takaichi, has led public outcry over crimes committed by US servicemen after a marine suspected of…
+The unannounced but consistently leaked Xbox Elite Series 3 controller has, well, leaked again.
 
-Link: https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan
+Link: https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics
 
-### 2. ‘It could knock a whole street down’: the art of defusing a second world war bomb [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-On 14 January this year, army and navy squads faced an unprecedented challenge: one bomb on a Plymouth building site, another floating on a dredger in Exmouth.
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb
-
-### 3. ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-He has shot everyone from Madonna to Rihanna, Kate Moss and Frank Ocean.
-
-Link: https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life
-
-### 4. Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports [10/10]
+### 3. Google is about to remove free access to Gemini Flash and Pro [10/10]
 **Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only
+
+### 4. Veteran conservative lawyer quits Trump’s interior department and warns of ‘assault on the rule of law’ [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It’s a wild time for retro gaming.
+John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of Interior has resigned in protest from the sprawling…
 
-Link: https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports
+Link: https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department
 
-### 5. Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage [10/10]
-**Source:** The Verge  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 5. Former UN food agency official claims he was fired for highlighting hunger in Gaza [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it "can confirm that we have discovered some activity" by "rogue" OpenAI agents on…
+Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’ A former senior UN food agency official has alleged he was fired last week for his work highlighting hunger in Gaza,…
 
-Link: https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage
+Link: https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza
 
-### 6. Russian drones strike Ukraine’s data centers by exploiting air defense gaps [10/10]
+### 6. ‘This is state violence’: Paris students rage at politicians and heavy-handed policing [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in…
+
+Link: https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police
+
+### 7. Russian drones strike Ukraine’s data centers by exploiting air defense gaps [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,50 +96,41 @@ Russian attacks on Internet, phone services threaten Ukraine’s wartime economy
 
 Link: https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/
 
-### 7. This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault
-
-### 8. Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile? [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Who doesn't love a good top-down ARPG; a solid dungeon-crawler with visceral action and real punchy combat that sticks in your teeth like toffee? Aside from Diablo and Path of Exile , there aren't as many out there as I'd like.
-
-Link: https://www.eurogamer.net/tarae-the-unbound-preview
-
-### 9. The Matic is the first robovac to get an FCC ban waiver, not that it needs it [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with.
-
-Link: https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval
-
-### 10. Do Americans Worry About Schools Becoming Too White? Too Asian? [9/10]
+### 8. Opinion: Philanthropy Once Built Schools. Today, It Could Build a New Way to Learn Math [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Debates over the racial consequences of merit-based admissions are back in the news.
+This summer, Sarah Cone wrote a provocative essay asking why today’s billionaire philanthropists don’t build institutions the way their predecessors did.
 
-Link: https://www.the74million.org/article/do-americans-worry-about-schools-becoming-too-white-too-asian/
+Link: https://www.the74million.org/article/philanthropy-once-built-schools-today-it-could-build-a-new-way-to-learn-math/
 
-### 11. AI glasses face their first major government crackdown [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 9. Trump is fueling a culture of misogynistic impunity | Robert Reich [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Norway wants time to write permanent rules for glasses that can record bystanders.
+The allegations against seven men at Cornell University come amid a climate of belligerent sexism Last month, a young woman filed a lawsuit against Cornell University, alleging that two years ago the university had failed to protect her…
 
-Link: https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/
+Link: https://www.theguardian.com/commentisfree/2026/oct/06/trump-cornell-misogyny-sexism
+
+### 10. What happened during Christa Pike's failed execution [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard.
+
+Link: https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness
+
+### 11. Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.
+
+Link: https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai
 
 ### 12. Muse escapes containment [8/10]
 **Source:** 404 Media  
@@ -152,9 +152,9 @@ Link: https://reactormag.com/kyle-chandler-halogram-lanterns-explained/
 
 ## YouTube
 
-### The Billion Dollar AI Advantage Is Disappearing [8/10]
+### The Billion Dollar AI Advantage Is Disappearing [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.
@@ -269,9 +269,9 @@ Link: https://www.youtube.com/watch?v=7adjEi_kuO0
 
 Link: https://www.youtube.com/watch?v=8DLbjqpCRRs
 
-### Ground Zero Is a PS1-Era Survival-Horror Throwback | Hot Monday Energy [8/10]
+### Ground Zero Is a PS1-Era Survival-Horror Throwback | Hot Monday Energy [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, Jess, Jesse, and KC play Ground Zero -- https://store.steampowered.com/app/2340130/Ground_Zero/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -388,15 +388,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance 
 
 Link: https://www.youtube.com/watch?v=HvW_N5p1q44
 
-### Primetime | Official Trailer 2 HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
-
-Link: https://www.youtube.com/watch?v=C0NZa01qTRU
-
 ### Clarissa - Official Trailer - In Select Theaters December [9/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -459,6 +450,15 @@ Link: https://www.youtube.com/watch?v=68hRE2ehY3M
 All you have to do is say yes.
 
 Link: https://www.youtube.com/watch?v=avXdGfYmRhM
+
+### Heartland | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In this town, fame has a price.
+
+Link: https://www.youtube.com/watch?v=ziIz59enN1c
 
 ### Power can't protect you. ANIMALS, in select theaters and on Netflix October 9 [9/10]
 **Source:** Netflix  

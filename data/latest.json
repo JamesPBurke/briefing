@@ -1,59 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-06T09:00:23.615322Z",
-  "generatedAtDisplay": "2026-10-06 05:00 AM EDT",
+  "generatedAt": "2026-10-06T14:00:03.442654Z",
+  "generatedAtDisplay": "2026-10-06 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, AI / privacy. The strongest items in this run are Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa, ‘It could knock a whole street down’: the art of defusing a second world war bomb, and ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak, Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more, and Google is about to remove free access to Gemini Flash and Pro.",
   "mainItems": [
     {
-      "title": "Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa",
-      "source": "The Guardian US",
+      "title": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+      "published": "2026-10-06T14:00:00+00:00",
+      "summary": "Becoming a boost junkie in arcade racers that offer such potent bursts of extra oomph is usually only a matter of time. Star Wars: Galactic Racer is no different. The hooks have been in deep.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan",
-      "published": "2026-10-06T04:00:41+00:00",
-      "summary": "Crimes involving US troops on Okinawa have been a constant source of tension between Tokyo and Washington Japan’s prime minister, Sanae Takaichi, has led public outcry over crimes committed by US servicemen after a marine suspected of…",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "published": "2026-10-06T13:21:52+00:00",
+      "summary": "The unannounced but consistently leaked Xbox Elite Series 3 controller has, well, leaked again.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘It could knock a whole street down’: the art of defusing a second world war bomb",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "published": "2026-10-06T04:00:02+00:00",
-      "summary": "On 14 January this year, army and navy squads faced an unprecedented challenge: one bomb on a Plymouth building site, another floating on a dredger in Exmouth.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life",
-      "published": "2026-10-06T04:00:01+00:00",
-      "summary": "He has shot everyone from Madonna to Rihanna, Kate Moss and Frank Ocean.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
       "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "published": "2026-10-06T13:19:01+00:00",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Veteran conservative lawyer quits Trump’s interior department and warns of ‘assault on the rule of law’",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
-      "published": "2026-10-05T22:50:57+00:00",
-      "summary": "It’s a wild time for retro gaming.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department",
+      "published": "2026-10-06T13:00:15+00:00",
+      "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of Interior has resigned in protest from the sprawling…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "source": "The Verge",
-      "category": "Security / computing",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "published": "2026-10-05T22:22:32+00:00",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
+      "published": "2026-10-06T11:31:00+00:00",
+      "summary": "Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’ A former senior UN food agency official has alleged he was fired last week for his work highlighting hunger in Gaza,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+      "published": "2026-10-06T11:28:44+00:00",
+      "summary": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -67,54 +77,44 @@
       "score": 10
     },
     {
-      "title": "This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault",
-      "published": "2026-10-05T11:00:54+00:00",
-      "summary": "Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/tarae-the-unbound-preview",
-      "published": "2026-10-06T09:00:01+00:00",
-      "summary": "Who doesn't love a good top-down ARPG; a solid dungeon-crawler with visceral action and real punchy combat that sticks in your teeth like toffee? Aside from Diablo and Path of Exile , there aren't as many out there as I'd like.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
-      "published": "2026-10-06T06:03:46+00:00",
-      "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Do Americans Worry About Schools Becoming Too White? Too Asian?",
+      "title": "Opinion: Philanthropy Once Built Schools. Today, It Could Build a New Way to Learn Math",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/do-americans-worry-about-schools-becoming-too-white-too-asian/",
-      "published": "2026-10-05T16:30:00+00:00",
-      "summary": "Debates over the racial consequences of merit-based admissions are back in the news.",
+      "url": "https://www.the74million.org/article/philanthropy-once-built-schools-today-it-could-build-a-new-way-to-learn-math/",
+      "published": "2026-10-06T12:30:00+00:00",
+      "summary": "This summer, Sarah Cone wrote a provocative essay asking why today’s billionaire philanthropists don’t build institutions the way their predecessors did.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "AI glasses face their first major government crackdown",
-      "source": "Ars Technica",
-      "category": "Democracy / anti-fascism",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "published": "2026-10-05T13:39:30+00:00",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Trump is fueling a culture of misogynistic impunity | Robert Reich",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/trump-cornell-misogyny-sexism",
+      "published": "2026-10-06T10:00:52+00:00",
+      "summary": "The allegations against seven men at Cornell University come amid a climate of belligerent sexism Last month, a young woman filed a lawsuit against Cornell University, alleging that two years ago the university had failed to protect her…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
+    },
+    {
+      "title": "What happened during Christa Pike's failed execution",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+      "published": "2026-10-06T09:00:00+00:00",
+      "summary": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
+      "published": "2026-10-06T09:00:00+00:00",
+      "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Muse escapes containment",
@@ -146,8 +146,8 @@
       "published": "2026-10-05T09:53:12+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Why does the U.S. keep getting pulled back into the Middle East?",
@@ -289,8 +289,8 @@
       "published": "2026-10-06T01:12:01+00:00",
       "summary": "🎮 This week on Hidden Gems, Jess, Jesse, and KC play Ground Zero -- https://store.steampowered.com/app/2340130/Ground_Zero/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "When a Developer “Levels Up” | Windbreaker Podcast",
@@ -394,17 +394,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Primetime | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=C0NZa01qTRU",
-      "published": "2026-09-15T13:00:07+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Clarissa - Official Trailer - In Select Theaters December",
       "source": "NEON",
       "category": "Film / trailer",
@@ -479,6 +468,17 @@
       "summary": "All you have to do is say yes.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Heartland | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ziIz59enN1c",
+      "published": "2026-10-06T13:00:00+00:00",
+      "summary": "In this town, fame has a price.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -771,6 +771,6 @@
     "mainCount": 13,
     "youtubeCount": 18,
     "trailerCount": 29,
-    "sourceCount": 19
+    "sourceCount": 22
   }
 }
