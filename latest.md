@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-05T18:00:29.389331Z
+Generated: 2026-10-06T05:00:02.562734Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are US supreme court hears big oil’s bid to block climate damage lawsuits, Do Americans Worry About Schools Becoming Too White? Too Asian?, and France braces for national day of school protests as boy loses hand.
+Today's sweep leans toward Democracy / press freedom, Security / computing, AI / computing. The strongest items in this run are Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa, ‘It could knock a whole street down’: the art of defusing a second world war bomb, and ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain.
 
 ## Briefing
 
@@ -33,16 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US supreme court hears big oil’s bid to block climate damage lawsuits [10/10]
+### 1. Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Crimes involving US troops on Okinawa have been a constant source of tension between Tokyo and Washington Japan’s prime minister, Sanae Takaichi, has led public outcry over crimes committed by US servicemen after a marine suspected of…
+
+Link: https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan
+
+### 2. ‘It could knock a whole street down’: the art of defusing a second world war bomb [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+On 14 January this year, army and navy squads faced an unprecedented challenge: one bomb on a Plymouth building site, another floating on a dredger in Exmouth.
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb
+
+### 3. ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+He has shot everyone from Madonna to Rihanna, Kate Moss and Frank Ocean.
+
+Link: https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life
+
+### 4. Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It’s a wild time for retro gaming.
+
+Link: https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports
+
+### 5. Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage [10/10]
+**Source:** The Verge  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it "can confirm that we have discovered some activity" by "rogue" OpenAI agents on…
+
+Link: https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage
+
+### 6. OpenAI is adding text watermarking in ChatGPT and Codex [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act
+
+### 7. This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-How court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted…
+Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.
 
-Link: https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault
 
-### 2. Do Americans Worry About Schools Becoming Too White? Too Asian? [10/10]
+### 8. Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a…
+
+Link: https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory
+
+### 9. Noematica is a lucid dreamer's "n-dimensional" take on The Sims that proudly boasts it will never ever gouge you for DLC [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Over the course of my illustrious tenure as RPS news mangler, I have seen many Simslikes.
+
+Link: https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc
+
+### 10. Do Americans Worry About Schools Becoming Too White? Too Asian? [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -51,88 +123,7 @@ Debates over the racial consequences of merit-based admissions are back in the n
 
 Link: https://www.the74million.org/article/do-americans-worry-about-schools-becoming-too-white-too-asian/
 
-### 3. France braces for national day of school protests as boy loses hand [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Thousands expected to join marches of support on Tuesday across the country amid growing concerns over police response Europe live – latest updates France is bracing for a national day of protests and high-school blockades as a youth…
-
-Link: https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests
-
-### 4. Nvidia’s Shield TV Pro just got a $100 price hike [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles.
-
-Link: https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase
-
-### 5. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there.
-
-Link: https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption
-
-### 6. In both France and Spain, ruling parties must prove they can give young protesters hope [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Demonstrations over housing rights and crumbling schools are a sign the younger generation is withdrawing political consent Europe live – latest updates In Spain, tens of thousands of people in 50 cities have taken to the streets amid…
-
-Link: https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same
-
-### 7. CNN’s boss will remain as Paramount and WBD merge into Skydance [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week.
-
-Link: https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros
-
-### 8. MD School Officials Celebrate Drop in Chronic Absenteeism, but Are Still Shy of Goal [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Maryland school officials Tuesday celebrated a sharp drop in chronic absenteeism since the pandemic, despite uneven results across school districts and not reaching their goal of cutting post-pandemic rates in half.
-
-Link: https://www.the74million.org/article/school-officials-celebrate-drop-in-chronic-absenteeism-but-are-still-shy-of-goal/
-
-### 9. Snakes, bobcats, mountain lions: the secret animal world beneath the Hollywood sign [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-An international symbol for the city, the sign is also hallmark of the region’s environmental richness Atop Mount Lee, in the heart of Los Angeles, the wind is quiet.
-
-Link: https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign
-
-### 10. Bringing predictive analytics to the agentic AI era [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.
-
-Link: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/
-
-### 11. What does marathon training do to your body? A reporter becomes the test subject [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?
-
-Link: https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-do-to-your-body-a-reporter-becomes-the-test-subject
-
-### 12. Muse escapes containment [8/10]
+### 11. Muse escapes containment [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +132,55 @@ Link: https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-d
 
 Link: https://www.404media.co/muse-escapes-containment/
 
-### 13. Trump names national intelligence chief Jay Clayton as new AI czar [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 12. Republicans and Democrats find a unifying target: Pharmacy benefit managers [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Trump said Clayton will lead the White House's new "Super Intelligence Force," which will coordinate government engagement with artificial intelligence.
+Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.
 
-Link: https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump
+Link: https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation
+
+### 13. Kyle Chandler Says Hal and Halogram Were “Never Fully Separated” in Lanterns [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The actor digs into his final scene at a recent press conference The post Kyle Chandler Says Hal and Halogram Were “Never Fully Separated” in Lanterns appeared first on Reactor .
+
+Link: https://reactormag.com/kyle-chandler-halogram-lanterns-explained/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

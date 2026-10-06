@@ -1,20 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-05T18:00:29.389331Z",
-  "generatedAtDisplay": "2026-10-05 02:00 PM EDT",
+  "generatedAt": "2026-10-06T05:00:02.562734Z",
+  "generatedAtDisplay": "2026-10-06 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are US supreme court hears big oil’s bid to block climate damage lawsuits, Do Americans Worry About Schools Becoming Too White? Too Asian?, and France braces for national day of school protests as boy loses hand.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, AI / computing. The strongest items in this run are Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa, ‘It could knock a whole street down’: the art of defusing a second world war bomb, and ‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain.",
   "mainItems": [
     {
-      "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
+      "title": "Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan",
+      "published": "2026-10-06T04:00:41+00:00",
+      "summary": "Crimes involving US troops on Okinawa have been a constant source of tension between Tokyo and Washington Japan’s prime minister, Sanae Takaichi, has led public outcry over crimes committed by US servicemen after a marine suspected of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘It could knock a whole street down’: the art of defusing a second world war bomb",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "published": "2026-10-06T04:00:02+00:00",
+      "summary": "On 14 January this year, army and navy squads faced an unprecedented challenge: one bomb on a Plymouth building site, another floating on a dredger in Exmouth.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘I call them erotic landscapes’: fashion photographer Tim Walker on his powerful tapestry of queer Britain",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life",
+      "published": "2026-10-06T04:00:01+00:00",
+      "summary": "He has shot everyone from Madonna to Rihanna, Kate Moss and Frank Ocean.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+      "published": "2026-10-05T22:50:57+00:00",
+      "summary": "It’s a wild time for retro gaming.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "source": "The Verge",
+      "category": "Security / computing",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "published": "2026-10-05T22:22:32+00:00",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "published": "2026-10-05T18:08:39+00:00",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "This nurse was assaulted by ICE – and it was caught on video. Now she wants her day in court",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
-      "published": "2026-10-05T17:48:45+00:00",
-      "summary": "How court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/delaney-hall-nurse-ice-assault",
+      "published": "2026-10-05T11:00:54+00:00",
+      "summary": "Norma Bowe, 69, was flung to the ground at Delaney Hall, the infamous New Jersey detention center.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
+    },
+    {
+      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "published": "2026-10-05T20:06:18+00:00",
+      "summary": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+      "published": "2026-10-05T16:37:44+00:00",
+      "summary": "Over the course of my illustrious tenure as RPS news mangler, I have seen many Simslikes.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Do Americans Worry About Schools Becoming Too White? Too Asian?",
@@ -24,96 +104,6 @@
       "published": "2026-10-05T16:30:00+00:00",
       "summary": "Debates over the racial consequences of merit-based admissions are back in the news.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "France braces for national day of school protests as boy loses hand",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
-      "published": "2026-10-05T15:50:50+00:00",
-      "summary": "Thousands expected to join marches of support on Tuesday across the country amid growing concerns over police response Europe live – latest updates France is bracing for a national day of protests and high-school blockades as a youth…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-      "published": "2026-10-05T15:43:13+00:00",
-      "summary": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "published": "2026-10-05T15:38:07+00:00",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
-      "published": "2026-10-05T14:55:44+00:00",
-      "summary": "Demonstrations over housing rights and crumbling schools are a sign the younger generation is withdrawing political consent Europe live – latest updates In Spain, tens of thousands of people in 50 cities have taken to the streets amid…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "CNN’s boss will remain as Paramount and WBD merge into Skydance",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
-      "published": "2026-10-05T14:42:34+00:00",
-      "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "MD School Officials Celebrate Drop in Chronic Absenteeism, but Are Still Shy of Goal",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/school-officials-celebrate-drop-in-chronic-absenteeism-but-are-still-shy-of-goal/",
-      "published": "2026-10-05T14:30:00+00:00",
-      "summary": "Maryland school officials Tuesday celebrated a sharp drop in chronic absenteeism since the pandemic, despite uneven results across school districts and not reaching their goal of cutting post-pandemic rates in half.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Snakes, bobcats, mountain lions: the secret animal world beneath the Hollywood sign",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign",
-      "published": "2026-10-05T14:00:27+00:00",
-      "summary": "An international symbol for the city, the sign is also hallmark of the region’s environmental richness Atop Mount Lee, in the heart of Los Angeles, the wind is quiet.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "published": "2026-10-05T13:29:32+00:00",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "What does marathon training do to your body? A reporter becomes the test subject",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-do-to-your-body-a-reporter-becomes-the-test-subject",
-      "published": "2026-10-04T21:57:05+00:00",
-      "summary": "Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -127,14 +117,24 @@
       "score": 8
     },
     {
-      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-      "published": "2026-10-04T18:36:48+00:00",
-      "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+      "published": "2026-10-05T09:00:00+00:00",
+      "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Kyle Chandler Says Hal and Halogram Were “Never Fully Separated” in Lanterns",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/kyle-chandler-halogram-lanterns-explained/",
+      "published": "2026-10-05T21:05:38+00:00",
+      "summary": "The actor digs into his final scene at a recent press conference The post Kyle Chandler Says Hal and Halogram Were “Never Fully Separated” in Lanterns appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
