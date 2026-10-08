@@ -1,39 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-08T09:00:22.263649Z",
-  "generatedAtDisplay": "2026-10-08 05:00 AM EDT",
+  "generatedAt": "2026-10-08T14:00:03.229062Z",
+  "generatedAtDisplay": "2026-10-08 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Building a safer path to autonomous industrial AI, The dreadful decline of hosting at home: ‘I feel shame any time a friend comes over’, and This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live, GTA VI leaks continue with a lengthy (and very nude) gameplay video, and Joe Rogan and Spotify renew massive podcast deal.",
   "mainItems": [
     {
-      "title": "Building a safer path to autonomous industrial AI",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published": "2026-10-08T08:17:32+00:00",
-      "summary": "Industrial AI is entering a new phase.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The dreadful decline of hosting at home: ‘I feel shame any time a friend comes over’",
+      "title": "Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/08/dreadful-decline-hosting-home-shame-friendship",
-      "published": "2026-10-08T04:00:11+00:00",
-      "summary": "It used to be quite normal to pop next door for a coffee or invite friends over for dinner. But not any more.",
+      "url": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
+      "published": "2026-10-08T13:27:45+00:00",
+      "summary": "Brent crude tops $105 a barrel amid attacks on tankers and squeeze on US oil output in Gulf of Mexico as storm Isaias approaches Here’s our wrap of the moves in markets: The sell-off in bond markets has put the euro under pressure, pushing…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/norway-environment-nordic-mining-waste-pollution-fjord-dumping-salmon",
-      "published": "2026-10-08T04:00:09+00:00",
-      "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a supreme court ruling against it Shortly after the Norwegian stock market closed on 17 June…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
+      "published": "2026-10-08T13:22:35+00:00",
+      "summary": "The GTA VI leaks keep coming - and the latest is almost as long as the game's official \"extended look\" on Netflix.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Joe Rogan and Spotify renew massive podcast deal",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
+      "published": "2026-10-08T12:56:05+00:00",
+      "summary": "Spotify has renewed its licensing agreement with Joe Rogan, whose podcast remains the number one show on the platform - and in the world.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: America Is Ready for Family Math. Let’s Make It the Next Parenting Habit",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/america-is-ready-for-family-math-lets-make-it-the-next-parenting-habit/",
+      "published": "2026-10-08T12:30:00+00:00",
+      "summary": "Math learning begins while counting blocks on the living room floor, comparing ingredients while cooking dinner or gathering around a favorite board game.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
+      "published": "2026-10-08T12:12:45+00:00",
+      "summary": "Today, Microsoft announced it is setting up a new branch of the Xbox business named XP.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "published": "2026-10-08T11:15:33+00:00",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Despite Rise of AI, More Skilled Trades Training Needed, Industry Leaders Say",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/despite-rise-of-ai-more-skilled-trades-training-needed-industry-leaders-say/",
+      "published": "2026-10-08T10:30:00+00:00",
+      "summary": "Businesses, local government and schools need to do more to attract students to skilled trades — and work harder to keep them in those jobs, a coalition of major manufacturers led by the Ford Motor Co. reported last week.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -47,73 +87,33 @@
       "score": 10
     },
     {
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "published": "2026-10-07T22:15:22+00:00",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "I'm a fashion minimalist. This cozy cardigan makes the cut – and is now on sale",
+      "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale",
-      "published": "2026-10-07T19:15:22+00:00",
-      "summary": "PrettyGarden’s oversized cardigan, on Prime Day sale for just $25, is soft, stretchy and perfect for working from home The best Prime Day deals – and sales on home essentials Sign up for the Filter US newsletter, your weekly guide to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "published": "2026-10-07T19:10:42+00:00",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
-      "published": "2026-10-07T17:00:00+00:00",
-      "summary": "There was a time when open worlds made of flying islands really seemed like the New Hotness.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
+      "published": "2026-10-08T11:00:18+00:00",
+      "summary": "Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her experience Along the concrete streets of Chicago’s Pilsen neighborhood, a vividly colored home stands…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "After Years of Small Fixes, Big Ideas for Childcare Are Emerging",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/after-years-of-small-fixes-big-ideas-for-childcare-are-emerging/",
-      "published": "2026-10-07T16:30:00+00:00",
-      "summary": "For decades, teachers, leaders and supporters of early care and education have been trying to make do with a broken system, advocating for a little extra funding here, proposing a program improvement there and settling for stopgap…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Low Test Scores: For Hawaiʻi High Schoolers, The Math Isn’t Mathing",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/low-test-scores-for-hawai%ca%bbi-high-schoolers-the-math-isnt-mathing/",
-      "published": "2026-10-07T12:30:00+00:00",
-      "summary": "When Hawaiʻi elementary students are tested on division, multiplication and fractions — the fundamentals of math — about half of them score proficient on the state’s standardized tests.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+      "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5943557/republicans-and-democrats-find-a-unifying-target-pharmacy-benefit-managers",
-      "published": "2026-10-07T21:57:35+00:00",
-      "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating now them.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+      "published": "2026-10-08T09:00:00+00:00",
+      "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "How 'Musk' director Alex Gibney became a critic",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
+      "published": "2026-10-08T08:45:37+00:00",
+      "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -146,17 +146,17 @@
       "published": "2026-10-07T13:29:33+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "published": "2026-10-05T09:53:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Race Conditions on a Human Scale - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=W0jPTqIo5oE",
+      "published": "2026-10-08T13:00:25+00:00",
+      "summary": "When two threads or processes clash, a race condition can occur. Matt Godbolt demonstrates different kinds of race conditions by equating these to real-life human situations. Find out more about Matt from his blog: https://bit.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -190,8 +190,8 @@
       "published": "2026-10-07T21:00:28+00:00",
       "summary": "Jennifer Welch got her start on Bravo’s docuseries “Sweet Home Oklahoma.” On the show Welch was known as “The Sheriff” for her take-charge personality and progressive views in a traditionally conservative state.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "3 years after Hamas attack, Israel remembers those killed",
@@ -460,6 +460,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Murder in Galicia | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zD47pUZxaZE",
+      "published": "2026-10-08T09:00:00+00:00",
+      "summary": "The Galician town of Pazos is caught up in a wave of home burglaries, but alarm bells start ringing when Irene, one of the residents, suffers a brutal attack in her own home.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Haunted Hotel: Season 2 | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -567,17 +578,6 @@
       "summary": "In Rome, surrounded by the city's most breathtaking palaces and churches, a serial killer is choosing victims inspired by famous works of art.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Something is in the water… Below premieres this Thursday",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PMaKQ8hgZOM",
-      "published": "2026-10-04T17:00:00+00:00",
-      "summary": "Something is in the water… Below premieres this Thursday Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -705,6 +705,6 @@
     "mainCount": 13,
     "youtubeCount": 18,
     "trailerCount": 23,
-    "sourceCount": 20
+    "sourceCount": 22
   }
 }
