@@ -1,40 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-07T18:00:19.007541Z",
-  "generatedAtDisplay": "2026-10-07 02:00 PM EDT",
+  "generatedAt": "2026-10-08T05:00:03.163564Z",
+  "generatedAtDisplay": "2026-10-08 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Surface RTX Spark Dev Box is available for preorder for $5,999, Windows and Surface live blog: On the ground at Microsoft’s event, and Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are The dreadful decline of hosting at home: ‘I feel shame any time a friend comes over’, This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?, and Donald Trump’s Texas rally rocked by repeated protests.",
   "mainItems": [
     {
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "source": "The Verge",
+      "title": "The dreadful decline of hosting at home: ‘I feel shame any time a friend comes over’",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "published": "2026-10-07T17:46:44+00:00",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/08/dreadful-decline-hosting-home-shame-friendship",
+      "published": "2026-10-08T04:00:11+00:00",
+      "summary": "It used to be quite normal to pop next door for a coffee or invite friends over for dinner. But not any more.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Windows and Surface live blog: On the ground at Microsoft’s event",
+      "title": "This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/norway-environment-nordic-mining-waste-pollution-fjord-dumping-salmon",
+      "published": "2026-10-08T04:00:09+00:00",
+      "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a supreme court ruling against it Shortly after the Norwegian stock market closed on 17 June…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Donald Trump’s Texas rally rocked by repeated protests",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests",
+      "published": "2026-10-08T02:36:58+00:00",
+      "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
-      "published": "2026-10-07T16:49:50+00:00",
-      "summary": "We're in San Francisco today to hear what's next for Windows and Surface.",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "published": "2026-10-07T22:15:22+00:00",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio",
-      "source": "The Guardian US",
+      "title": "U.S. Dept of Education Broadens School Sex Abuse Probe, Cites The 74’s Reporting",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
-      "published": "2026-10-07T16:36:34+00:00",
-      "summary": "Texas attorney general acknowledged affordability was his party’s ‘biggest problem’ heading into the midterms US politics live – latest updates Ken Paxton, the Texas attorney general running as the Republican candidate in a competitive…",
+      "url": "https://www.the74million.org/article/u-s-dept-of-education-broadens-school-sex-abuse-probe-cites-the-74s-reporting/",
+      "published": "2026-10-07T20:55:32+00:00",
+      "summary": "The U.S. Department of Education announced this week that it had opened sexual misconduct investigations into multiple school districts, saying it was part of a larger crackdown on “passing the trash.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "I'm a fashion minimalist. This cozy cardigan makes the cut – and is now on sale",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale",
+      "published": "2026-10-07T19:15:22+00:00",
+      "summary": "PrettyGarden’s oversized cardigan, on Prime Day sale for just $25, is soft, stretchy and perfect for working from home The best Prime Day deals – and sales on home essentials Sign up for the Filter US newsletter, your weekly guide to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "published": "2026-10-07T19:10:42+00:00",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
+      "published": "2026-10-07T13:00:04+00:00",
+      "summary": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly deplore social media in conversation but…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+      "published": "2026-10-07T17:00:00+00:00",
+      "summary": "There was a time when open worlds made of flying islands really seemed like the New Hotness.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "After Years of Small Fixes, Big Ideas for Childcare Are Emerging",
@@ -44,87 +104,27 @@
       "published": "2026-10-07T16:30:00+00:00",
       "summary": "For decades, teachers, leaders and supporters of early care and education have been trying to make do with a broken system, advocating for a little extra funding here, proposing a program improvement there and settling for stopgap…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Disney Plus will stream Super Bowl LXI",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming",
-      "published": "2026-10-07T16:29:55+00:00",
-      "summary": "Next year's Super Bowl is headed to Disney Plus. On Wednesday, Disney announced that viewers will be able to tune in to Super Bowl LXI on its streaming service when the game kicks off on February 14th, 2027.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI’s release of mathematical findings draws concerns from experts",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
-      "published": "2026-10-07T15:40:51+00:00",
-      "summary": "Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren’t accessible to broader field of mathematicians OpenAI has astounded mathematicians after releasing hundreds of new mathematical findings on Tuesday.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
-      "published": "2026-10-07T15:03:26+00:00",
-      "summary": "After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian project Flávio’s surprise first-round win highlights rapid rise of Brazil’s House of Bolsonaro Flávio…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "published": "2026-10-07T14:12:37+00:00",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "published": "2026-10-07T14:00:08+00:00",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Low Test Scores: For Hawaiʻi High Schoolers, The Math Isn’t Mathing",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/low-test-scores-for-hawai%ca%bbi-high-schoolers-the-math-isnt-mathing/",
-      "published": "2026-10-07T12:30:00+00:00",
-      "summary": "When Hawaiʻi elementary students are tested on division, multiplication and fractions — the fundamentals of math — about half of them score proficient on the state’s standardized tests.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Cornell’s Jane Doe wants justice. Why is that so hard to get? – Stateside with Kai and Carter",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/07/cornell-title-ix-metoo-stateside-podcast",
-      "published": "2026-10-07T09:45:45+00:00",
-      "summary": "The internet is on fire with demands for justice for Jane Doe, the anonymous woman who alleges she was gang-raped at a Cornell fraternity house in 2024.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "5 things civil rights data says about public schools",
+      "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
-      "published": "2026-10-07T09:00:00+00:00",
-      "summary": "The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5943557/republicans-and-democrats-find-a-unifying-target-pharmacy-benefit-managers",
+      "published": "2026-10-07T21:57:35+00:00",
+      "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating now them.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "Lanterns: Aaron Pierre Explains What John Stewart’s Real Superpower Is",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/lanterns-aaron-pierre-john-stewart-superpower/",
+      "published": "2026-10-07T21:21:04+00:00",
+      "summary": "The actor shared his thoughts on his character in a recent press conference The post Lanterns : Aaron Pierre Explains What John Stewart’s Real Superpower Is appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "'Undue emotional weight'",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 7
   }
 }
