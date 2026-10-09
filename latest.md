@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-09T09:00:15.980790Z
+Generated: 2026-10-09T14:00:03.433983Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live, Microsoft 365 Family subscribers will finally be able to share AI benefits, and Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / public health. The strongest items in this run are More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title, ‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting, and Opinion: AI & Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches.
 
 ## Briefing
 
@@ -33,34 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live [10/10]
+### 1. More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been…
+
+Link: https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil
+
+### 2. ‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November Full story: Donald Trump has promised not to attack Iran before November’s US midterm elections,…
+US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests US politics live – latest updates Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs…
 
-Link: https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live
+Link: https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting
 
-### 2. Microsoft 365 Family subscribers will finally be able to share AI benefits [10/10]
-**Source:** The Verge  
+### 3. Opinion: AI & Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Back-to-school night at the middle school is always something of a sensory riot.
+
+Link: https://www.the74million.org/article/ai-back-to-school-night-anxious-parents-nervous-teachers-and-chill-coaches/
+
+### 4. The Download: AI’s refusal problem and weight-loss drug side effects [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / public health  
+**Why it matters:** High-signal for AI governance in high-stakes human contexts.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/
+
+### 5. Trump immigrant purge could cut social security for Americans by $2,000 a year [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits.
+New report on economic cost of anti-immigration campaign projects 8.6% reduction in retirement payments by 2034 Elderly Americans can expect to lose an average of $2,152 in annual social security benefits each, a projected 8.
 
-Link: https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes
+Link: https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security
 
-### 3. Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 6. We’re putting too much faith in AI’s ability to say no [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content Anthropic has barred users from exhibiting “sustained and needless abusive or cruel behavior” toward its models, as the…
+Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.
 
-Link: https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude
+Link: https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/
 
-### 4. Roundtables: A Conversation With the Creator of AI-Designed Viruses [10/10]
+### 7. ChatGPT for Teens has special safeguards. A watchdog group finds most don't work [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.
+
+Link: https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health
+
+### 8. Roundtables: A Conversation With the Creator of AI-Designed Viruses [10/10]
 **Source:** MIT Technology Review  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,43 +105,16 @@ Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford Univers
 
 Link: https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/
 
-### 5. Troye Sivan: She’s the Best review – a strange, singular pop star who deserves to be multiplatinum [10/10]
+### 9. UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-(Interscope) Adored by the A-list and filling arenas, but without huge smash hits, the Australian singer treads his own distinctive path through pop via shoegaze, Balearic and the Smiths A few years back, the New York Times reported on the…
+Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Pentagon says execution of Fort Hood shooter will be livestreamed Sign…
 
-Link: https://www.theguardian.com/music/2026/oct/09/troye-sivan-shes-the-best-album-review
+Link: https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates
 
-### 6. Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on…
-
-Link: https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck
-
-### 7. Seventh Grader wins student podcast challenge with dyslexia story [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Seventh grader Cora Walsh in Long Island, N.Y. is the middle school winner of this year's NPR Student Podcast Challenge with a story about her journey with dyslexia.
-
-Link: https://www.npr.org/2026/10/09/nx-s1-5977043/seventh-grader-wins-student-podcast-challenge-with-dyslexia-story
-
-### 8. Trump Mobile hack and apparent lack of FCC authorization raise security alarms [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.
-
-Link: https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/
-
-### 9. All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie [9/10]
+### 10. All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -114,7 +123,7 @@ Welp, Cyberpunk 2077 is getting a live-action adaptation! With the plethora of H
 
 Link: https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie
 
-### 10. Podcast: Leak Show Cops Can Break into Locked iPhones [9/10]
+### 11. Podcast: Leak Show Cops Can Break into Locked iPhones [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,15 +131,6 @@ Link: https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-
 Cops are getting around a very important iPhone security feature; someone made an LLM torture chamber; and lawyers going wild with ChatGPT.
 
 Link: https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/
-
-### 11. RFK Jr. touts vaccine injury initiative, worrying experts [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Heath Secretary Robert F. Kennedy Jr. announces new steps aimed at identifying and treating complications from vaccines.
-
-Link: https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts
 
 ### 12. Backlash as American tech giants look to build data centers in Australia [7/10]
 **Source:** NPR Tech  
@@ -188,9 +188,18 @@ Mechanic and host of @TheQuestionableGarage Jared Pink joins WIRED to answer the
 
 Link: https://www.youtube.com/watch?v=4BZpuTb6yIQ
 
-### Is social media a net-negative or net-positive for April Ryan? [7/10]
+### The key to negotiation? Knowing when to stop talking [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The key to negotiation? Knowing when to stop talking
+
+Link: https://www.youtube.com/watch?v=e5xIvXfAR7I
+
+### Is social media a net-negative or net-positive for April Ryan? [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The longest-serving Black White House correspondent tells NPR's Juana Summers what's most important to her in a media landscape that can feel overwhelming.
@@ -206,9 +215,9 @@ A German spy chief is arrested for treasonous espionage. What exactly is he accu
 
 Link: https://www.youtube.com/watch?v=AfkpmzLgops
 
-### How 'Musk' director Alex Gibney became a critic [7/10]
+### How 'Musk' director Alex Gibney became a critic [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Director Alex Gibney was once the “proud” owner of Tesla’s products — and maybe even an admirer of the company’s CEO, Elon Musk — until he began four years of research into Musk’s rise to fame and fortune for his new documentary, "Musk.
@@ -223,15 +232,6 @@ Link: https://www.youtube.com/watch?v=9cGt4tWMLB0
 An 87-year-old Spanish woman whose eviction from her longtime apartment in Madrid sparked nationwide protests and unleashed a political crisis died Wednesday.
 
 Link: https://www.youtube.com/watch?v=gJaN1Fbq4NU
-
-### Podcaster Jennifer Welch on her political evolution [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Jennifer Welch got her start on Bravo’s docuseries “Sweet Home Oklahoma.” On the show Welch was known as “The Sheriff” for her take-charge personality and progressive views in a traditionally conservative state.
-
-Link: https://www.youtube.com/watch?v=3XYCryqkxcA
 
 ### Gears of War E-Day PC Reaction + The Coalition's Console-Equivalent Settings [7/10]
 **Creator:** Digital Foundry  
@@ -540,15 +540,6 @@ Link: https://www.youtube.com/watch?v=uYLg76okvuY
 In this town, fame has a price.
 
 Link: https://www.youtube.com/watch?v=ziIz59enN1c
-
-### Power can't protect you. ANIMALS, in select theaters and on Netflix October 9 [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Power can't protect you. ANIMALS, in select theaters and on Netflix October 9 Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=aoqSUrq_hNI
 
 ### Dark Matter — The Official Podcast: Episode 207 | Apple TV [10/10]
 **Source:** Apple TV  

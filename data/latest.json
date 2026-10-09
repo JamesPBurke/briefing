@@ -1,39 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-09T09:00:15.980790Z",
-  "generatedAtDisplay": "2026-10-09 05:00 AM EDT",
+  "generatedAt": "2026-10-09T14:00:03.433983Z",
+  "generatedAtDisplay": "2026-10-09 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live, Microsoft 365 Family subscribers will finally be able to share AI benefits, and Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / public health. The strongest items in this run are More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title, ‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting, and Opinion: AI & Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches.",
   "mainItems": [
     {
-      "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-      "source": "The Guardian US",
+      "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "published": "2026-10-09T08:14:57+00:00",
-      "summary": "Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November Full story: Donald Trump has promised not to attack Iran before November’s US midterm elections,…",
+      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "published": "2026-10-09T13:27:34+00:00",
+      "summary": "British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-      "source": "The Verge",
+      "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-      "published": "2026-10-09T07:14:32+00:00",
-      "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+      "published": "2026-10-09T13:09:15+00:00",
+      "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests US politics live – latest updates Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+      "title": "Opinion: AI & Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/ai-back-to-school-night-anxious-parents-nervous-teachers-and-chill-coaches/",
+      "published": "2026-10-09T12:30:00+00:00",
+      "summary": "Back-to-school night at the middle school is always something of a sensory riot.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "source": "MIT Technology Review",
+      "category": "AI / public health",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "published": "2026-10-09T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "High-signal for AI governance in high-stakes human contexts.",
+      "score": 10
+    },
+    {
+      "title": "Trump immigrant purge could cut social security for Americans by $2,000 a year",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
-      "published": "2026-10-09T01:25:42+00:00",
-      "summary": "A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content Anthropic has barred users from exhibiting “sustained and needless abusive or cruel behavior” toward its models, as the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security",
+      "published": "2026-10-09T12:00:28+00:00",
+      "summary": "New report on economic cost of anti-immigration campaign projects 8.6% reduction in retirement payments by 2034 Elderly Americans can expect to lose an average of $2,152 in annual social security benefits each, a projected 8.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "published": "2026-10-09T09:00:00+00:00",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+      "published": "2026-10-09T09:00:00+00:00",
+      "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -47,43 +87,13 @@
       "score": 10
     },
     {
-      "title": "Troye Sivan: She’s the Best review – a strange, singular pop star who deserves to be multiplatinum",
+      "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/oct/09/troye-sivan-shes-the-best-album-review",
-      "published": "2026-10-08T23:00:32+00:00",
-      "summary": "(Interscope) Adored by the A-list and filling arenas, but without huge smash hits, the Australian singer treads his own distinctive path through pop via shoegaze, Balearic and the Smiths A few years back, the New York Times reported on the…",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+      "published": "2026-10-09T13:33:35+00:00",
+      "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Pentagon says execution of Fort Hood shooter will be livestreamed Sign…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck",
-      "published": "2026-10-08T23:00:32+00:00",
-      "summary": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Seventh Grader wins student podcast challenge with dyslexia story",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/seventh-grader-wins-student-podcast-challenge-with-dyslexia-story",
-      "published": "2026-10-09T08:25:33+00:00",
-      "summary": "Seventh grader Cora Walsh in Long Island, N.Y. is the middle school winner of this year's NPR Student Podcast Challenge with a story about her journey with dyslexia.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "published": "2026-10-08T20:39:31+00:00",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -105,16 +115,6 @@
       "summary": "Cops are getting around a very important iPhone security feature; someone made an LLM torture chamber; and lawyers going wild with ChatGPT.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
-    },
-    {
-      "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
-      "published": "2026-10-09T08:26:30+00:00",
-      "summary": "Heath Secretary Robert F. Kennedy Jr. announces new steps aimed at identifying and treating complications from vaccines.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
     },
     {
       "title": "Backlash as American tech giants look to build data centers in Australia",
@@ -183,6 +183,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "The key to negotiation? Knowing when to stop talking",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=e5xIvXfAR7I",
+      "published": "2026-10-09T12:00:32+00:00",
+      "summary": "The key to negotiation? Knowing when to stop talking",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Is social media a net-negative or net-positive for April Ryan?",
       "source": "NPR",
       "category": "News / analysis",
@@ -190,8 +201,8 @@
       "published": "2026-10-08T23:00:22+00:00",
       "summary": "The longest-serving Black White House correspondent tells NPR's Juana Summers what's most important to her in a media landscape that can feel overwhelming.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "German spymaster / U.K. drone fears / Musk on Pentagon project?",
@@ -212,8 +223,8 @@
       "published": "2026-10-08T21:00:21+00:00",
       "summary": "Director Alex Gibney was once the “proud” owner of Tesla’s products — and maybe even an admirer of the company’s CEO, Elon Musk — until he began four years of research into Musk’s rise to fame and fortune for his new documentary, \"Musk.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "87-year-old woman whose eviction shook Spain has died",
@@ -222,17 +233,6 @@
       "url": "https://www.youtube.com/watch?v=gJaN1Fbq4NU",
       "published": "2026-10-08T16:40:27+00:00",
       "summary": "An 87-year-old Spanish woman whose eviction from her longtime apartment in Madrid sparked nationwide protests and unleashed a political crisis died Wednesday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Podcaster Jennifer Welch on her political evolution",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3XYCryqkxcA",
-      "published": "2026-10-08T15:00:28+00:00",
-      "summary": "Jennifer Welch got her start on Bravo’s docuseries “Sweet Home Oklahoma.” On the show Welch was known as “The Sheriff” for her take-charge personality and progressive views in a traditionally conservative state.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -581,17 +581,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Power can't protect you. ANIMALS, in select theaters and on Netflix October 9",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aoqSUrq_hNI",
-      "published": "2026-10-05T14:00:01+00:00",
-      "summary": "Power can't protect you. ANIMALS, in select theaters and on Netflix October 9 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Dark Matter — The Official Podcast: Episode 207 | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -715,7 +704,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 19,
-    "trailerCount": 23,
-    "sourceCount": 22
+    "trailerCount": 22,
+    "sourceCount": 21
   }
 }
