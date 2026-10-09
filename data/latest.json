@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-09T05:00:03.818515Z",
-  "generatedAtDisplay": "2026-10-09 01:00 AM EDT",
+  "generatedAt": "2026-10-09T09:00:15.980790Z",
+  "generatedAtDisplay": "2026-10-09 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Egyptian journalists plan weekend protest over detention of six colleagues, ICE agent shoots man in New York City with five-year-old reportedly in car, and Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live, Microsoft 365 Family subscribers will finally be able to share AI benefits, and Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude.",
   "mainItems": [
     {
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "published": "2026-10-09T04:00:38+00:00",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism…",
+      "url": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "published": "2026-10-09T08:14:57+00:00",
+      "summary": "Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November Full story: Donald Trump has promised not to attack Iran before November’s US midterm elections,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "ICE agent shoots man in New York City with five-year-old reportedly in car",
-      "source": "The Guardian US",
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
-      "published": "2026-10-09T01:50:05+00:00",
-      "summary": "Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot and injured a man in New York City on Thursday afternoon during an…",
+      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "published": "2026-10-09T07:14:32+00:00",
+      "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,34 +47,44 @@
       "score": 10
     },
     {
-      "title": "Pentagon says execution of Fort Hood shooter will be livestreamed",
+      "title": "Troye Sivan: She’s the Best review – a strange, singular pop star who deserves to be multiplatinum",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/oct/09/troye-sivan-shes-the-best-album-review",
+      "published": "2026-10-08T23:00:32+00:00",
+      "summary": "(Interscope) Adored by the A-list and filling arenas, but without huge smash hits, the Australian singer treads his own distinctive path through pop via shoegaze, Balearic and the Smiths A few years back, the New York Times reported on the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
-      "published": "2026-10-08T23:18:29+00:00",
-      "summary": "Nidal Hasan, army psychiatrist who killed 13 people, will be executed by firing squad on 3 December Pete Hegseth has said the execution of Nidal Hasan, the former army psychiatrist who killed 13 people at Fort Hood, will be a public event…",
+      "url": "https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck",
+      "published": "2026-10-08T23:00:32+00:00",
+      "summary": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "published": "2026-10-08T21:54:31+00:00",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Seventh Grader wins student podcast challenge with dyslexia story",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/seventh-grader-wins-student-podcast-challenge-with-dyslexia-story",
+      "published": "2026-10-09T08:25:33+00:00",
+      "summary": "Seventh grader Cora Walsh in Long Island, N.Y. is the middle school winner of this year's NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
-      "title": "Paramount is making a Cyberpunk 2077 film",
-      "source": "The Verge",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-      "published": "2026-10-08T19:56:40+00:00",
-      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "published": "2026-10-08T20:39:31+00:00",
+      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
@@ -97,34 +107,24 @@
       "score": 9
     },
     {
-      "title": "Opinion: America Is Ready for Family Math. Let’s Make It the Next Parenting Habit",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/america-is-ready-for-family-math-lets-make-it-the-next-parenting-habit/",
-      "published": "2026-10-08T12:30:00+00:00",
-      "summary": "Math learning begins while counting blocks on the living room floor, comparing ingredients while cooking dinner or gathering around a favorite board game.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+      "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-      "published": "2026-10-08T09:00:00+00:00",
-      "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
+      "published": "2026-10-09T08:26:30+00:00",
+      "summary": "Heath Secretary Robert F. Kennedy Jr. announces new steps aimed at identifying and treating complications from vaccines.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "How 'Musk' director Alex Gibney became a critic",
+      "title": "Backlash as American tech giants look to build data centers in Australia",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
-      "published": "2026-10-08T08:45:37+00:00",
-      "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5993509/backlash-as-american-tech-giants-look-to-build-data-centers-in-australia",
+      "published": "2026-10-08T22:20:37+00:00",
+      "summary": "Facing legal challenges and public backlash at home, American tech giants are looking abroad for new opportunities in Australia. But the reception down under may not be quite as warm as they hope.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "The Biggest Changes Prime Video’s Carrie Makes to Stephen King’s Book",
@@ -238,6 +238,61 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Gears of War E-Day PC Reaction + The Coalition's Console-Equivalent Settings",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=26qkLl8Gofo",
+      "published": "2026-10-08T17:00:18+00:00",
+      "summary": "► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "STAR WARS: Galactic Racer - Inside The Tracks & Vehicles Creation Process [Sponsored]",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=SO-b6BvFqcY",
+      "published": "2026-10-08T16:00:19+00:00",
+      "summary": "► Content Sponsored By Secret Mode ► Watch the Full Video Here: https://youtu.be/EIPgivtETng ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Why Does Nintendo Continue To Avoid Using DLSS on Switch 2?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=phmPig5i_Fw",
+      "published": "2026-10-07T17:00:23+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/WNh70jJBfPk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "FSR 4 Ported To Non-AI Hardware: RDNA 1 Radeon RX 5070 XT Benched!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=S5aF_Q07StE",
+      "published": "2026-10-06T17:00:35+00:00",
+      "summary": "► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ghost of Yōtei QSSR Tested: Better - And Worse - Than FSR 3",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=F5qeWYCtn2c",
+      "published": "2026-10-06T16:00:23+00:00",
+      "summary": "► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
       "title": "Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -245,8 +300,8 @@
       "published": "2026-10-09T00:56:13+00:00",
       "summary": "0:00 -- Intro countdown 0:55 – We’re here, minus one Eric, plus one pneumonia 6:10 – Xbox XP + which first party had the best 2026 23:10 – What’s up with big games receiving post-launch patches that should’ve been addressed before launch?…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Discovering the Truth of False Hero w/ Jack and Jess",
@@ -256,8 +311,8 @@
       "published": "2026-10-08T19:27:49+00:00",
       "summary": "Jack and Jess are going to try out the new indie soulslike False Hero. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Triple-i Initiative Showcase Watchalong w/ Second Wind",
@@ -314,6 +369,61 @@
       "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Misty Green | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mkJVHTBuv9Y",
+      "published": "2026-10-08T14:00:17+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Misty Green | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5SohUK9E_eo",
+      "published": "2026-09-24T13:00:23+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "You Can See Everything | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "published": "2026-09-23T13:00:14+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Clarissa - Official Trailer - In Select Theaters December",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sJAqmdXaM8U",
+      "published": "2026-10-01T16:00:15+00:00",
+      "summary": "Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MLwTyQOhBkw",
+      "published": "2026-09-22T16:00:25+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -604,8 +714,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
-    "trailerCount": 18,
-    "sourceCount": 18
+    "youtubeCount": 19,
+    "trailerCount": 23,
+    "sourceCount": 22
   }
 }
