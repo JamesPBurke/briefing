@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-10T09:00:21.351936Z
+Generated: 2026-10-10T14:00:04.189931Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / public health. The strongest items in this run are ‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die, France’s dilemma: protesters demand spending as markets require fiscal restraint, and Expert tips to make you a better runner - start slow, enlist a friend, choose strength over stretches.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are New Orleans court deputy who handcuffed journalists disciplined – for violating etiquette, Opinion: Democracy Can Start With a Class Pet, and Zelenskyy furious as Trump announces deal to buy Russian diesel.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die [10/10]
+### 1. New Orleans court deputy who handcuffed journalists disciplined – for violating etiquette [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade.
+Herschel Green handcuffed WWL producer and lawyer for not leaving public space, but was only punished for arguing about it with administrator A New Orleans criminal court deputy who handcuffed a journalist covering July’s indictment of…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia
+Link: https://www.theguardian.com/us-news/2026/oct/10/new-orleans-court-deputy-handcuffed-journalists
 
-### 2. France’s dilemma: protesters demand spending as markets require fiscal restraint [10/10]
+### 2. Opinion: Democracy Can Start With a Class Pet [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+As students return to school in the nation’s 250th year, a useful lesson in democracy may begin with something as small as a guinea pig. That’s what Pennsylvania educator Lori McGarry told us.
+
+Link: https://www.the74million.org/article/democracy-can-start-with-a-class-pet/
+
+### 3. Zelenskyy furious as Trump announces deal to buy Russian diesel [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US president says agreement needed to lower fuel prices, but move likely to create fresh crisis with Ukraine and Nato allies Donald Trump is on a fresh collision course with Volodymyr Zelenskyy and European allies after his stunning…
+
+Link: https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine
+
+### 4. ‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan.
+Students say they are desperate to get back to class but conditions are so bad that the protests must continue On a normal school day, Mohammed, 17, wakes at 6am, cares for his younger siblings to help his single mother who works as a…
 
-Link: https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades
+Link: https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france
 
-### 3. Expert tips to make you a better runner - start slow, enlist a friend, choose strength over stretches [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Running is one of the easiest exercises to take up, but it can be easy to lose your mojo and get injured.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/10/strength-stretches-expert-tips-to-make-you-a-better-runner
-
-### 4. Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide [10/10]
+### 5. AI agent makers are promising privacy — will they deliver? [10/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.
+At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip
+Link: https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
 
-### 5. The Download: AI’s refusal problem and weight-loss drug side effects [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / public health  
-**Why it matters:** High-signal for AI governance in high-stakes human contexts.
+### 6. Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+Global Threads research project reveals how slavery hung ‘like a spectre’ over the Peterloo massacre and other Mancunian struggles for equality They were the killings that changed Britain, paving the way for working-class people’s right to…
 
-Link: https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/
+Link: https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean
 
-### 6. What we've been playing - "It's pure video game popcorn movie stuff" [9/10]
+### 7. Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more
 
-Link: https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff
+Link: https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting
 
-### 7. Blind date: ‘Most awkward moment? When she squished an insect that was on my forehead’ [9/10]
+### 8. Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+David Robinson is the latest tech industry employee to quit over AI safety concerns. He tells NPR's Scott Simon the "culture is broken" at OpenAI.
+
+Link: https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture
+
+### 9. One with the world? A new look at brains transformed by psychedelics. [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Participants meditated inside an MRI tube, with and without psilocybin.
+
+Link: https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/
+
+### 10. Blind date: ‘Most awkward moment? When she squished an insect that was on my forehead’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,50 +123,23 @@ Holly, 42, a horticulturist, meets Graeme, 47, a forest manager What were you ho
 
 Link: https://www.theguardian.com/lifeandstyle/2026/oct/10/blind-date-holly-graeme
 
-### 8. Kalshi taps former FBI agent to fight against money laundering [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.
-
-Link: https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering
-
-### 9. ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos
-
-### 10. SC Expanding Student Loan Forgiveness for Teachers [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-COLUMBIA. S.C. — South Carolina is spending $10 million to help more teachers pay off or erase their student loans. Legislators tucked the money in the latest state budget for the new program operated by South Carolina Student Loan Corp.
-
-Link: https://www.the74million.org/article/sc-expanding-student-loan-forgiveness-for-teachers/
-
-### 11. Behind the Blog: What Would the Pope Do? [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss AI and spirituality.
-
-Link: https://www.404media.co/behind-the-blog-what-would-the-pope-do/
-
-### 12. Did Russia play by the rules in reporting lab worker's death? [7/10]
+### 11. Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.
+Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.
 
-Link: https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague
+Link: https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic
+
+### 12. Scientists Detect Record-Breaking Radio Signal from the Ancient Universe [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+A fast radio burst that traveled across 10 billion light years reached Earth in 2024, doubling the distance record for these unexplained and energetic signals from space.
+
+Link: https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/
 
 ### 13. What to Watch and Read This Weekend: There’s Always Time for More Hobbits [6/10]
 **Source:** Reactor  
@@ -151,15 +151,6 @@ Plus: Josh Hartnett vs. the Ocean The post What to Watch and Read This Weekend: 
 Link: https://reactormag.com/what-to-watch-and-read-this-weekend-october-9-2026/
 
 ## YouTube
-
-### DeepMind's New AI Just Cracked The Code Of Life [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.
-
-Link: https://www.youtube.com/watch?v=Wkaw03p3BrM
 
 ### Race Conditions on a Human Scale - Computerphile [6/10]
 **Creator:** Computerphile  
@@ -179,9 +170,9 @@ AI slop is littering your feed and spreading misinformation, so WIRED’s here t
 
 Link: https://www.youtube.com/watch?v=LBSkh4vayTk
 
-### Suicide is up among Black Americans. We need to talk about it. [8/10]
+### Suicide is up among Black Americans. We need to talk about it. [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Suicide is a public health crisis for the country — but that crisis is becoming acute in the Black community. Black suicide rates are climbing, increasing more than 50% over about the past 10 years according to CDC data.
@@ -223,15 +214,6 @@ Link: https://www.youtube.com/watch?v=NZoALcXK3-w
 The key to negotiation? Knowing when to stop talking
 
 Link: https://www.youtube.com/watch?v=e5xIvXfAR7I
-
-### Is social media a net-negative or net-positive for April Ryan? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-The longest-serving Black White House correspondent tells NPR's Juana Summers what's most important to her in a media landscape that can feel overwhelming.
-
-Link: https://www.youtube.com/watch?v=MmfAtBl_lBg
 
 ### What Are Sony's Reasons For Making QSSR AI Upscaling For PS5? [8/10]
 **Creator:** Digital Foundry  

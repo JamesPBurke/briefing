@@ -1,69 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-10T09:00:21.351936Z",
-  "generatedAtDisplay": "2026-10-10 05:00 AM EDT",
+  "generatedAt": "2026-10-10T14:00:04.189931Z",
+  "generatedAtDisplay": "2026-10-10 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / public health. The strongest items in this run are ‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die, France’s dilemma: protesters demand spending as markets require fiscal restraint, and Expert tips to make you a better runner - start slow, enlist a friend, choose strength over stretches.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are New Orleans court deputy who handcuffed journalists disciplined – for violating etiquette, Opinion: Democracy Can Start With a Class Pet, and Zelenskyy furious as Trump announces deal to buy Russian diesel.",
   "mainItems": [
     {
-      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "title": "New Orleans court deputy who handcuffed journalists disciplined – for violating etiquette",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-      "published": "2026-10-10T05:00:48+00:00",
-      "summary": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/new-orleans-court-deputy-handcuffed-journalists",
+      "published": "2026-10-10T13:12:09+00:00",
+      "summary": "Herschel Green handcuffed WWL producer and lawyer for not leaving public space, but was only punished for arguing about it with administrator A New Orleans criminal court deputy who handcuffed a journalist covering July’s indictment of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
+      "title": "Opinion: Democracy Can Start With a Class Pet",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/democracy-can-start-with-a-class-pet/",
+      "published": "2026-10-10T10:30:00+00:00",
+      "summary": "As students return to school in the nation’s 250th year, a useful lesson in democracy may begin with something as small as a guinea pig. That’s what Pennsylvania educator Lori McGarry told us.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "published": "2026-10-10T10:09:46+00:00",
+      "summary": "US president says agreement needed to lower fuel prices, but move likely to create fresh crisis with Ukraine and Nato allies Donald Trump is on a fresh collision course with Volodymyr Zelenskyy and European allies after his stunning…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
-      "published": "2026-10-10T04:00:47+00:00",
-      "summary": "Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan.",
+      "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
+      "published": "2026-10-10T09:00:53+00:00",
+      "summary": "Students say they are desperate to get back to class but conditions are so bad that the protests must continue On a normal school day, Mohammed, 17, wakes at 6am, cares for his younger siblings to help his single mother who works as a…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Expert tips to make you a better runner - start slow, enlist a friend, choose strength over stretches",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/10/strength-stretches-expert-tips-to-make-you-a-better-runner",
-      "published": "2026-10-10T04:00:47+00:00",
-      "summary": "Running is one of the easiest exercises to take up, but it can be easy to lose your mojo and get injured.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "title": "AI agent makers are promising privacy — will they deliver?",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "published": "2026-10-09T23:45:03+00:00",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "published": "2026-10-09T21:26:33+00:00",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "source": "MIT Technology Review",
-      "category": "AI / public health",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "published": "2026-10-09T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "High-signal for AI governance in high-stakes human contexts.",
-      "score": 10
+      "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean",
+      "published": "2026-10-10T12:00:56+00:00",
+      "summary": "Global Threads research project reveals how slavery hung ‘like a spectre’ over the Peterloo massacre and other Mancunian struggles for equality They were the killings that changed Britain, paving the way for working-class people’s right to…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
     },
     {
-      "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
-      "published": "2026-10-10T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "published": "2026-10-10T11:44:06+00:00",
+      "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+      "published": "2026-10-10T11:40:46+00:00",
+      "summary": "David Robinson is the latest tech industry employee to quit over AI safety concerns. He tells NPR's Scott Simon the \"culture is broken\" at OpenAI.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "published": "2026-10-10T11:15:35+00:00",
+      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -77,54 +107,24 @@
       "score": 9
     },
     {
-      "title": "Kalshi taps former FBI agent to fight against money laundering",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-      "published": "2026-10-09T22:23:11+00:00",
-      "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "published": "2026-10-09T19:11:12+00:00",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "SC Expanding Student Loan Forgiveness for Teachers",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/sc-expanding-student-loan-forgiveness-for-teachers/",
-      "published": "2026-10-09T18:30:00+00:00",
-      "summary": "COLUMBIA. S.C. — South Carolina is spending $10 million to help more teachers pay off or erase their student loans. Legislators tucked the money in the latest state budget for the new program operated by South Carolina Student Loan Corp.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Behind the Blog: What Would the Pope Do?",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-what-would-the-pope-do/",
-      "published": "2026-10-09T15:44:32+00:00",
-      "summary": "This week, we discuss AI and spirituality.",
+      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Did Russia play by the rules in reporting lab worker's death?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-      "published": "2026-10-09T16:43:45+00:00",
-      "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
+      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "A fast radio burst that traveled across 10 billion light years reached Earth in 2024, doubling the distance record for these unexplained and energetic signals from space.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
       "title": "What to Watch and Read This Weekend: There’s Always Time for More Hobbits",
@@ -138,17 +138,6 @@
     }
   ],
   "youtube": [
-    {
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "published": "2026-10-07T13:29:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
     {
       "title": "Race Conditions on a Human Scale - Computerphile",
       "source": "Computerphile",
@@ -179,8 +168,8 @@
       "published": "2026-10-09T22:00:25+00:00",
       "summary": "Suicide is a public health crisis for the country — but that crisis is becoming acute in the Black community. Black suicide rates are climbing, increasing more than 50% over about the past 10 years according to CDC data.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "A podcast on dyslexia, produced by a middle schooler, won this year's Student Podcast Challenge",
@@ -222,17 +211,6 @@
       "url": "https://www.youtube.com/watch?v=e5xIvXfAR7I",
       "published": "2026-10-09T12:00:32+00:00",
       "summary": "The key to negotiation? Knowing when to stop talking",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Is social media a net-negative or net-positive for April Ryan?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=MmfAtBl_lBg",
-      "published": "2026-10-08T23:00:22+00:00",
-      "summary": "The longest-serving Black White House correspondent tells NPR's Juana Summers what's most important to her in a media landscape that can feel overwhelming.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -769,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
+    "youtubeCount": 19,
     "trailerCount": 26,
-    "sourceCount": 23
+    "sourceCount": 22
   }
 }
