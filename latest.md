@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-11T09:00:15.672643Z
+Generated: 2026-10-11T14:00:01.919223Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are ‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance, US justice department investigating TV networks over Trump pool coverage, and Satya Nadella says we should assume all AI models are ‘compromised’.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Middle East crisis live: Houthi media reports strike on airport in Sana’a after deadly Riyadh attack, Sweating the details: Sauna's potential health benefits draw scientists' interest, and "We have to go a different path" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance [10/10]
+### 1. Middle East crisis live: Houthi media reports strike on airport in Sana’a after deadly Riyadh attack [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Saudi-backed government forces earlier said they would ‘respond decisively’ to the attack on Riyadh airport terminals Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace.
+
+Link: https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates
+
+### 2. Sweating the details: Sauna's potential health benefits draw scientists' interest [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.
+
+Link: https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits
+
+### 3. "We have to go a different path" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Player Unknown's Battlegrounds is arguably one of the most important games to release in the past decade. If H1Z1 built the foundation of the battle royale genre, PUBG certainly shaped it into the form that remains hugely successful today.
+
+Link: https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale
+
+### 4. ‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +69,16 @@ David McCloskey’s new book depicts a calamitous collapse of the ‘special rel
 
 Link: https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer
 
-### 2. US justice department investigating TV networks over Trump pool coverage [10/10]
-**Source:** The Guardian US  
+### 5. Learning to use local AI is exciting, overwhelming, and frustrating [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Investigation launched after five broadcasters last month ceased presidential coverage after CNN, MS Now and Politico were barred from White House The US Department of Justice is investigating whether the decision of the White House…
+I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular.
 
-Link: https://www.theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage
+Link: https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
 
-### 3. Satya Nadella says we should assume all AI models are ‘compromised’ [10/10]
+### 6. Satya Nadella says we should assume all AI models are ‘compromised’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +87,7 @@ In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed 
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
 
-### 4. DistroKid has been quietly taking down songs in response to UMG lawsuit [10/10]
+### 7. DistroKid has been quietly taking down songs in response to UMG lawsuit [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,61 +96,52 @@ Artists are taking to social media to complain that DistroKid has unceremoniousl
 
 Link: https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
 
-### 5. Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Excitedly, I boot up the new demo for Militsioner , a game I've had a watchful eye on since its announcement. A phone rings, it's my lawyer.
-
-Link: https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial
-
-### 6. Trump says Ukraine needs a new leader after diesel deal with Russia [9/10]
-**Source:** The Guardian US  
+### 8. Why the LeapPad couldn’t survive the iPad [9/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US president suggests Ukrainian president, Volodymyr Zelenskyy, has not done enough to end war Donald Trump has said Ukraine needs “a new leader”, a day after making a deal with Vladimir Putin to buy large quantities of Russian diesel.
+For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read.
 
-Link: https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy
+Link: https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history
 
-### 7. US man shoots off-duty ICE agent who allegedly attacked him and daughter [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE ) official in California early on Friday…
-
-Link: https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty
-
-### 8. Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-David Robinson is the latest tech industry employee to quit over AI safety concerns. He tells NPR's Scott Simon the "culture is broken" at OpenAI.
-
-Link: https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture
-
-### 9. Opinion: Democracy Can Start With a Class Pet [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-As students return to school in the nation’s 250th year, a useful lesson in democracy may begin with something as small as a guinea pig. That’s what Pennsylvania educator Lori McGarry told us.
-
-Link: https://www.the74million.org/article/democracy-can-start-with-a-class-pet/
-
-### 10. Christian nationalism in Britain driven by people who seldom go to church, says report [8/10]
+### 9. Why Abdul El-Sayed might not be winning Black voters in Michigan [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned…
+The Michigan candidate for US Senate seat is running without directly acknowledging specific constituent groups Abdul El-Sayed has an impressive résumé: Rhodes scholar, professor of epidemiology at Columbia University, executive director…
 
-Link: https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report
+Link: https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters
 
-### 11. Anthropic is cutting off its internal evaluations from the internet [8/10]
+### 10. Don't be scared: Being afraid is outright fun, and maybe useful [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you.
+
+Link: https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful
+
+### 11. For reporters covering AI, keeping up with story is both tough and exciting [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+How NPR's team covering AI covers their increasingly important and fast moving beat.
+
+Link: https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting
+
+### 12. Embattled Northern California Charter School Files for Bankruptcy [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story was originally published by CalMatters. Sign up for their newsletters.
+
+Link: https://www.the74million.org/article/embattled-northern-california-charter-school-files-for-bankruptcy/
+
+### 13. Anthropic is cutting off its internal evaluations from the internet [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -132,34 +150,7 @@ After a recent spate of high-profile incidents in which AI agents escaped contai
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet
 
-### 12. Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.
-
-Link: https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic
-
-### 13. Scientists Detect Record-Breaking Radio Signal from the Ancient Universe [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-A fast radio burst that traveled across 10 billion light years reached Earth in 2024, doubling the distance record for these unexplained and energetic signals from space.
-
-Link: https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/
-
 ## YouTube
-
-### Race Conditions on a Human Scale - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-When two threads or processes clash, a race condition can occur. Matt Godbolt demonstrates different kinds of race conditions by equating these to real-life human situations. Find out more about Matt from his blog: https://bit.
-
-Link: https://www.youtube.com/watch?v=W0jPTqIo5oE
 
 ### Presidential Historian Fact Checks US History Slop [7/10]
 **Creator:** WIRED  
@@ -268,6 +259,15 @@ Link: https://www.youtube.com/watch?v=26qkLl8Gofo
 ► Content Sponsored By Secret Mode ► Watch the Full Video Here: https://youtu.be/EIPgivtETng ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
 
 Link: https://www.youtube.com/watch?v=SO-b6BvFqcY
+
+### Come Challenge Us in Street Fighter 6 | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=4p52F733znI
 
 ### Wrap Up Discussion | Adventure Is Nigh! - The Slow Walk Home [7/10]
 **Creator:** Second Wind  
