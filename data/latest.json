@@ -1,29 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T09:00:16.606691Z",
-  "generatedAtDisplay": "2026-10-12 05:00 AM EDT",
+  "generatedAt": "2026-10-12T14:00:02.627910Z",
+  "generatedAtDisplay": "2026-10-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live, iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone, and A college in Illinois tried to cancel its Flock contact and it refused.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Federal agents search Ilhan Omar’s home as part of fraud investigation, Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs, and Valor Mortis review.",
   "mainItems": [
     {
-      "title": "Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live",
+      "title": "Federal agents search Ilhan Omar’s home as part of fraud investigation",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-      "published": "2026-10-12T08:45:34+00:00",
-      "summary": "Ukrainian president tells Warsaw security conference that Putin ‘does not read Truth Social’ Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
+      "published": "2026-10-12T13:46:45+00:00",
+      "summary": "Video posted by Fox shows what appears to be law enforcement in HSI jackets at Omar’s DC residence Federal agents searched Representative Ilhan Omar’s home Monday morning as part of a criminal investigation, according to the department of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "published": "2026-10-12T13:33:06+00:00",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Valor Mortis review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/valor-mortis-review",
+      "published": "2026-10-12T13:00:58+00:00",
+      "summary": "Valor Mortis plays a bit of a sneaky trick. For a while it keeps it straight. 'Yes', it seems to say; 'I'm definitely a Soulslike. Look at my bonfire equivalents, my healing flasks, my corpse runs, even my early impossi-boss feints.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+      "published": "2026-10-12T13:00:26+00:00",
+      "summary": "Well, I say \"freshest.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
-      "published": "2026-10-12T06:00:47+00:00",
-      "summary": "A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to match Apple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a true two-day phone with new Siri AI and…",
+      "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "published": "2026-10-12T12:59:56+00:00",
+      "summary": "Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
+      "published": "2026-10-12T12:31:47+00:00",
+      "summary": "Edwin came up the ladder to my office last week to remind me that my quarterly Maw Safety Certification was up for renewal.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
+      "published": "2026-10-12T11:41:47+00:00",
+      "summary": "Squadron 42 , the singleplayer spinoff that Star Citizen devs Cloud Imperium Games have been teasing and promising and roadmapping for a loooooooooooooooooonnnnnnnnngggg while, now has a Steam page.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Fraternities are the most likely place for US campus rapes. Should they be shut down?",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/fraternities-greek-life-campus-rape",
+      "published": "2026-10-12T11:00:53+00:00",
+      "summary": "As an alleged 2024 gang-rape at Cornell comes to light, universities are grappling with a choice: student safety or alumni donations Daniel R Schwarz, an 85-year-old English literature emeritus professor, still works at Cornell University…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: 10 Potentially Uncomfortable Interview Questions For School Leaders",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/10-potentially-uncomfortable-interview-questions-for-school-leaders/",
+      "published": "2026-10-12T10:30:00+00:00",
+      "summary": "Permit me to begin with a confession. I’m partially responsible for the current teacher shortage. As a 30-year public high school teacher in New York state, I retired at first eligibility.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -37,103 +107,33 @@
       "score": 10
     },
     {
-      "title": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-      "published": "2026-10-12T08:35:00+00:00",
-      "summary": "In yet another surprising move for Call of Duty, Modern Warfare 4 studio Infinity Ward has announced that the game's extraction shooter mode, DMZ, will be released prior to the game's official launch.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Pennsylvania shooter who killed eight was a grandfather, says slain child’s dad",
-      "source": "The Guardian US",
+      "title": "Turkey Is Brutally Oppressing Queer People. Here’s What You Need to Know.",
+      "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather",
-      "published": "2026-10-11T23:48:23+00:00",
-      "summary": "Father of toddler killed in Erie mass shooting says reported gunman never seemed distressed or out of the ordinary The man who killed eight people, before turning the gun on himself, in a mass shooting in a home in Erie, Pennsylvania, on…",
+      "url": "https://www.thenation.com/article/world/turkey-lgbtq-crackdown-explainer/",
+      "published": "2026-10-12T09:00:00+00:00",
+      "summary": "Levent Pişkin The government’s sweeping crackdown on the LGBTQ community is an escalation of a decades-long pattern. The post Turkey Is Brutally Oppressing Queer People. Here’s What You Need to Know. appeared first on The Nation .",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/",
-      "published": "2026-10-11T16:30:00+00:00",
-      "summary": "The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "published": "2026-10-11T14:50:24+00:00",
-      "summary": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
-      "published": "2026-10-11T10:00:00+00:00",
-      "summary": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Do adults need another measles shot?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/do-adults-need-another-measles-shot",
-      "published": "2026-10-12T08:38:21+00:00",
-      "summary": "Vaccination is the best way to protect yourself against measles, one of the most contagious diseases known. For most adults, one shot of the MMR is considered enough protection.",
+      "title": "Cops can creep on Airbnb",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/cops-can-creep-on-airbnb/",
+      "published": "2026-10-12T13:54:30+00:00",
+      "summary": "That washer/dryer combo could be used by cops to identify a property.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-      "published": "2026-10-12T07:52:46+00:00",
-      "summary": "Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated than milk and washing machines, the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
-      "published": "2026-10-12T07:00:48+00:00",
-      "summary": "Exclusive: Finds suggest account in medieval folklore of a camp near Frenni Fawr hill was rooted in reality Magnus Maximus, the Roman emperor who ruled Britain in the fourth century, led his troops against the Picts and Scots, but a theory…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
-      "published": "2026-10-12T05:00:46+00:00",
-      "summary": "Accountancy firm Deloitte Cyprus among those that appear to have backdated records outlining the Russian billionaire’s assets Aides of Roman Abramovich – including staff at the global accountancy firm Deloitte – falsified paperwork mapping…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Treasure Island review – this TV stinker does its best to ruin a literary classic",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/12/treasure-island-review-paramount",
-      "published": "2026-10-12T04:00:45+00:00",
-      "summary": "Did Robert Louis Stevenson’s timeless swashbuckling tale need the addition of a superpower? Is it better for reducing its young hero to an afterthought? Nope A lever groans, a pipe judders and thunk: another unsolicited adaptation of a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Here's what to know if you're unsure about your measles immunity status",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+      "published": "2026-10-12T09:00:00+00:00",
+      "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -291,6 +291,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Horror Mechanics Need a Refresh | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=pznykkW7-q4",
+      "published": "2026-10-12T12:29:18+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, Marty, and Jesse G chat about the current state of horror games, and how they could use a mechanical refresh. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
+      "verdict": "Watch it"
     },
     {
       "title": "Come Challenge Us in Street Fighter 6 | Super Smash Sunday",
@@ -511,7 +522,7 @@
       "published": "2026-10-12T07:30:00+00:00",
       "summary": "Europe’s largest post-war prison riot breaks out in Poland. It’s a time of violence, political intrigue, and a fight for survival. When criminals take control of the prison, bloodshed seems inevitable.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -634,17 +645,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 207 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=vS_0J3IaHJI",
-      "published": "2026-10-09T00:59:52+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -758,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
-    "trailerCount": 28,
-    "sourceCount": 19
+    "youtubeCount": 19,
+    "trailerCount": 27,
+    "sourceCount": 21
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-12T09:00:16.606691Z
+Generated: 2026-10-12T14:00:02.627910Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live, iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone, and A college in Illinois tried to cancel its Flock contact and it refused.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Federal agents search Ilhan Omar’s home as part of fraud investigation, Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs, and Valor Mortis review.
 
 ## Briefing
 
@@ -33,25 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Ukrainian president tells Warsaw security conference that Putin ‘does not read Truth Social’ Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president…
-
-Link: https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates
-
-### 2. iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone [10/10]
+### 1. Federal agents search Ilhan Omar’s home as part of fraud investigation [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to match Apple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a true two-day phone with new Siri AI and…
+Video posted by Fox shows what appears to be law enforcement in HSI jackets at Omar’s DC residence Federal agents searched Representative Ilhan Omar’s home Monday morning as part of a criminal investigation, according to the department of…
 
-Link: https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone
+Link: https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid
 
-### 3. A college in Illinois tried to cancel its Flock contact and it refused [10/10]
+### 2. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services.
+
+Link: https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout
+
+### 3. Valor Mortis review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Valor Mortis plays a bit of a sneaky trick. For a while it keeps it straight. 'Yes', it seems to say; 'I'm definitely a Soulslike. Look at my bonfire equivalents, my healing flasks, my corpse runs, even my early impossi-boss feints.
+
+Link: https://www.eurogamer.net/valor-mortis-review
+
+### 4. Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Well, I say "freshest.
+
+Link: https://www.rockpapershotgun.com/valor-mortis-review
+
+### 5. NAZA: Netanyahu orders identification and prosecution of film’s interviewees [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet…
+
+Link: https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film
+
+### 6. This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Edwin came up the ladder to my office last week to remind me that my quarterly Maw Safety Certification was up for renewal.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis
+
+### 7. Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Squadron 42 , the singleplayer spinoff that Star Citizen devs Cloud Imperium Games have been teasing and promising and roadmapping for a loooooooooooooooooonnnnnnnnngggg while, now has a Steam page.
+
+Link: https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it
+
+### 8. Fraternities are the most likely place for US campus rapes. Should they be shut down? [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As an alleged 2024 gang-rape at Cornell comes to light, universities are grappling with a choice: student safety or alumni donations Daniel R Schwarz, an 85-year-old English literature emeritus professor, still works at Cornell University…
+
+Link: https://www.theguardian.com/us-news/2026/oct/12/fraternities-greek-life-campus-rape
+
+### 9. Opinion: 10 Potentially Uncomfortable Interview Questions For School Leaders [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Permit me to begin with a confession. I’m partially responsible for the current teacher shortage. As a 30-year public high school teacher in New York state, I retired at first eligibility.
+
+Link: https://www.the74million.org/article/10-potentially-uncomfortable-interview-questions-for-school-leaders/
+
+### 10. A college in Illinois tried to cancel its Flock contact and it refused [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,95 +123,32 @@ In April of 2025, Elgin Community College had six Flock safety cameras installed
 
 Link: https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras
 
-### 4. DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In yet another surprising move for Call of Duty, Modern Warfare 4 studio Infinity Ward has announced that the game's extraction shooter mode, DMZ, will be released prior to the game's official launch.
-
-Link: https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve
-
-### 5. Pennsylvania shooter who killed eight was a grandfather, says slain child’s dad [9/10]
-**Source:** The Guardian US  
+### 11. Turkey Is Brutally Oppressing Queer People. Here’s What You Need to Know. [9/10]
+**Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Father of toddler killed in Erie mass shooting says reported gunman never seemed distressed or out of the ordinary The man who killed eight people, before turning the gun on himself, in a mass shooting in a home in Erie, Pennsylvania, on…
+Levent Pişkin The government’s sweeping crackdown on the LGBTQ community is an escalation of a decades-long pattern. The post Turkey Is Brutally Oppressing Queer People. Here’s What You Need to Know. appeared first on The Nation .
 
-Link: https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather
+Link: https://www.thenation.com/article/world/turkey-lgbtq-crackdown-explainer/
 
-### 6. STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 12. Cops can creep on Airbnb [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers.
+That washer/dryer combo could be used by cops to identify a property.
 
-Link: https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/
+Link: https://www.404media.co/cops-can-creep-on-airbnb/
 
-### 7. Prime Video unveils Blade Runner 2099 full trailer at NYCC [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One
-
-Link: https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/
-
-### 8. Sweating the details: Sauna's potential health benefits draw scientists' interest [9/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.
-
-Link: https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits
-
-### 9. Do adults need another measles shot? [8/10]
+### 13. Here's what to know if you're unsure about your measles immunity status [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Vaccination is the best way to protect yourself against measles, one of the most contagious diseases known. For most adults, one shot of the MMR is considered enough protection.
+Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.
 
-Link: https://www.npr.org/2026/10/12/nx-s1-5991904/do-adults-need-another-measles-shot
-
-### 10. AI less regulated than milk, Microsoft president says in warning over safety [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated than milk and washing machines, the…
-
-Link: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
-
-### 11. Roman fort found in Wales could prove myth of emperor’s camp is real [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Exclusive: Finds suggest account in medieval folklore of a camp near Frenni Fawr hill was rooted in reality Magnus Maximus, the Roman emperor who ruled Britain in the fourth century, led his troops against the Picts and Scots, but a theory…
-
-Link: https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor
-
-### 12. Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Accountancy firm Deloitte Cyprus among those that appear to have backdated records outlining the Russian billionaire’s assets Aides of Roman Abramovich – including staff at the global accountancy firm Deloitte – falsified paperwork mapping…
-
-Link: https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest
-
-### 13. Treasure Island review – this TV stinker does its best to ruin a literary classic [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Did Robert Louis Stevenson’s timeless swashbuckling tale need the addition of a superpower? Is it better for reducing its young hero to an afterthought? Nope A lever groans, a pipe judders and thunk: another unsolicited adaptation of a…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/oct/12/treasure-island-review-paramount
+Link: https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose
 
 ## YouTube
 
@@ -277,6 +277,15 @@ Link: https://www.youtube.com/watch?v=Q8kQEb94O7c
 ► Content Sponsored By Secret Mode ► Watch the Full Video Here: https://youtu.be/EIPgivtETng ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
 
 Link: https://www.youtube.com/watch?v=IWzSQQO2Cx0
+
+### Horror Mechanics Need a Refresh | Windbreaker Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, Marty, and Jesse G chat about the current state of horror games, and how they could use a mechanical refresh. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.
+
+Link: https://www.youtube.com/watch?v=pznykkW7-q4
 
 ### Come Challenge Us in Street Fighter 6 | Super Smash Sunday [7/10]
 **Creator:** Second Wind  
@@ -478,7 +487,7 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
-### The Riot | Official Teaser | Netflix [10/10]
+### The Riot | Official Teaser | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -585,12 +594,3 @@ Link: https://www.youtube.com/watch?v=Rrg7p78KrBk
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
 
 Link: https://www.youtube.com/watch?v=5v-y35o7RYo
-
-### Dark Matter — The Official Podcast: Episode 207 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.
-
-Link: https://www.youtube.com/watch?v=vS_0J3IaHJI
