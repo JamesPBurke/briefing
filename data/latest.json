@@ -1,129 +1,129 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-13T09:00:18.710247Z",
-  "generatedAtDisplay": "2026-10-13 05:00 AM EDT",
+  "generatedAt": "2026-10-13T14:00:01.483906Z",
+  "generatedAtDisplay": "2026-10-13 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Latin American organised crime ‘may operate in 16 European countries’, Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage, and The pest I’ll never forget: the relentless pigeon who stared and stared and ruined my spring.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / open models. The strongest items in this run are DLSS 5 gets toned down for its Hogwarts Legacy debut next month, Discovery Plus is getting more expensive, and Katie Zacharia to address media in first briefing as White House press secretary – live.",
   "mainItems": [
     {
-      "title": "Latin American organised crime ‘may operate in 16 European countries’",
-      "source": "The Guardian US",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "source": "The Verge",
+      "category": "CS education / AI policy",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "published": "2026-10-13T13:58:28+00:00",
+      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Discovery Plus is getting more expensive",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-      "published": "2026-10-13T07:00:18+00:00",
-      "summary": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root.",
+      "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
+      "published": "2026-10-13T13:52:18+00:00",
+      "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage",
+      "title": "Katie Zacharia to address media in first briefing as White House press secretary – live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
-      "published": "2026-10-13T06:30:16+00:00",
-      "summary": "Marches in Delhi against changes to voting registration led to dragnets, internet blackouts – and questions about India’s electoral independence.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+      "published": "2026-10-13T13:35:12+00:00",
+      "summary": "Zacharia – who recently served as a communications adviser to parent company of Truth Social – has replaced Karoline Leavitt Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The pest I’ll never forget: the relentless pigeon who stared and stared and ruined my spring",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring",
-      "published": "2026-10-13T06:00:18+00:00",
-      "summary": "A living room encounter with a toast-loving pigeon proved a big mistake. It led to weeks of drawn curtains and crawling around on the floor to avoid its eerie and unerring gaze The pigeon landed on the windowsill.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry",
-      "source": "The Guardian US",
+      "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry",
-      "published": "2026-10-13T06:00:17+00:00",
-      "summary": "This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetry If you have been into a bookshop since 2022, or perhaps even just breathed in and out, you could…",
+      "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
+      "published": "2026-10-13T12:57:48+00:00",
+      "summary": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-      "published": "2026-10-13T04:29:46+00:00",
-      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "source": "MIT Technology Review",
+      "category": "AI / open models",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.",
+      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
       "score": 10
     },
     {
-      "title": "Europe’s big election season is about to kick off. It could change everything | Nathalie Tocci",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
-      "published": "2026-10-13T04:00:15+00:00",
-      "summary": "If far right nationalists gain power in four big countries simultaneously, we are in for a dramatic Trumpian tilt When it comes to Europe’s economy or its peace and security, it is obvious that decision-making has to be done largely at the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Teacher Pay & a Controversial Curriculum: Inside District’s 10th State Takeover",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/teacher-pay-a-controversial-curriculum-inside-districts-10th-state-takeover/",
+      "published": "2026-10-13T10:30:00+00:00",
+      "summary": "In Texas, a school system that fails to meet its students’ needs for five consecutive years faces daunting alternatives.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
-      "published": "2026-10-13T03:28:06+00:00",
-      "summary": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "published": "2026-10-13T03:15:12+00:00",
-      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "\"No more hand-written code\": Epic reportedly impose \"AI-first\" model on creators of new Disney shooter with Marvel and Star Wars characters",
+      "title": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters",
-      "published": "2026-10-12T22:29:01+00:00",
-      "summary": "The happy-go-lucky bigwigs at Epic Games have instructed the creators of an unannounced shooter that features Marvel and Star Wars characters to complete their project using an \"AI first\" production model, according to a report, with…",
+      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+      "published": "2026-10-13T10:03:04+00:00",
+      "summary": "Rose Belmont is not her father. Rose is something new: the next generation of the legendary vampire hunters spending her life trying to step out of Trevor's shadow, to be seen as the self-reliant woman she is.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "source": "Ars Technica",
+      "title": "‘No one’s here, no one knows’: north-east Ohio is ground zero for ICE flights",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/ohio-ice-deportation-flights",
+      "published": "2026-10-13T10:00:05+00:00",
+      "summary": "Away from the public eye, deportation planes at Youngstown-Warren and Akron-Canton airports carry hundreds of immigrants daily amid Trump’s ICE crackdown Just after 10.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Unfinished business’: the people who want their AI chatbots to ‘live on’ after they die",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "published": "2026-10-13T10:00:04+00:00",
+      "summary": "Humans bonded to AI companions are contemplating ways to keep their bots going – often in defiance of companies’ terms and services Death has always been around Alaina Winters.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "published": "2026-10-12T20:59:50+00:00",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "published": "2026-10-13T09:00:00+00:00",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Opinion: 10 Potentially Uncomfortable Interview Questions For School Leaders",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/10-potentially-uncomfortable-interview-questions-for-school-leaders/",
-      "published": "2026-10-12T10:30:00+00:00",
-      "summary": "Permit me to begin with a confession. I’m partially responsible for the current teacher shortage. As a 30-year public high school teacher in New York state, I retired at first eligibility.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "France’s Students Won’t Back Down",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/activism/france-student-protests-lyceens-banlieues/",
+      "published": "2026-10-13T09:00:00+00:00",
+      "summary": "Diana Sophia Cordoba Without full-time teachers, temperature-regulated classrooms, or school nurses, French students are turning their grievances into a national movement.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
     },
     {
-      "title": "Cops can creep on Airbnb",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/cops-can-creep-on-airbnb/",
-      "published": "2026-10-12T13:54:30+00:00",
-      "summary": "That washer/dryer combo could be used by cops to identify a property.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Indiana Starting Anonymous School Safety Tip Line in January",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/indiana-starting-anonymous-school-safety-tip-line-in-january/",
+      "published": "2026-10-12T16:30:00+00:00",
+      "summary": "State officials are planning to launch an anonymous tip line regarding safety concerns that will be available for all K-12 schools starting in January.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -159,6 +159,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Why are Americans so divided? | Voter Voices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5nAoYbbyDkI",
+      "published": "2026-10-13T11:00:15+00:00",
+      "summary": "“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Pediatricians warn of the dangers of unpasteurized milk",
@@ -271,6 +282,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Digger, Carrie, and the Lanterns Finale | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=TPoAqB8cUNs",
+      "published": "2026-10-13T13:22:32+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Force Is With Us in Star Wars: Galactic Racer | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -278,8 +300,8 @@
       "published": "2026-10-13T01:11:12+00:00",
       "summary": "🎮 This week on Hidden Gems, Jesse and KC play Star Wars: Galactic Racer -- https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Horror Mechanics Need a Refresh | Windbreaker Podcast",
@@ -515,6 +537,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The Child | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=vsXs3Km6UDw",
+      "published": "2026-10-13T10:00:00+00:00",
+      "summary": "Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Christmas Switch | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -633,17 +666,6 @@
       "summary": "The Galician town of Pazos is caught up in a wave of home burglaries, but alarm bells start ringing when Irene, one of the residents, suffers a brutal attack in her own home.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Haunted Hotel: Season 2 | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=RxlAdSgJB3A",
-      "published": "2026-10-07T19:00:00+00:00",
-      "summary": "Abaddon and Esther... in a fight? Surely this can't end well. Enjoy this sneak peek of HAUNTED HOTEL before Season 2 drops this Friday on October 9! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -802,8 +824,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
+    "youtubeCount": 19,
     "trailerCount": 33,
-    "sourceCount": 18
+    "sourceCount": 19
   }
 }

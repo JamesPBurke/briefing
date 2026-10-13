@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-13T09:00:18.710247Z
+Generated: 2026-10-13T14:00:01.483906Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Latin American organised crime ‘may operate in 16 European countries’, Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage, and The pest I’ll never forget: the relentless pigeon who stared and stared and ruined my spring.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / open models. The strongest items in this run are DLSS 5 gets toned down for its Hogwarts Legacy debut next month, Discovery Plus is getting more expensive, and Katie Zacharia to address media in first briefing as White House press secretary – live.
 
 ## Briefing
 
@@ -33,113 +33,113 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Latin American organised crime ‘may operate in 16 European countries’ [10/10]
+### 1. DLSS 5 gets toned down for its Hogwarts Legacy debut next month [10/10]
+**Source:** The Verge  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5.
+
+Link: https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements
+
+### 2. Discovery Plus is getting more expensive [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month.
+
+Link: https://www.theverge.com/streaming/1009994/discovery-plus-price-increase
+
+### 3. Katie Zacharia to address media in first briefing as White House press secretary – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root.
+Zacharia – who recently served as a communications adviser to parent company of Truth Social – has replaced Karoline Leavitt Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored…
 
-Link: https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe
+Link: https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates
 
-### 2. Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage [10/10]
-**Source:** The Guardian US  
+### 4. The new Apple Home Collection includes a video doorbell, smart lock, and more [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Marches in Delhi against changes to voting registration led to dragnets, internet blackouts – and questions about India’s electoral independence.
+Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use.
 
-Link: https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests
+Link: https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced
 
-### 3. The pest I’ll never forget: the relentless pigeon who stared and stared and ruined my spring [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 5. The Download: open model trade-offs and geothermal power’s promise [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
 
-A living room encounter with a toast-loving pigeon proved a big mistake. It led to weeks of drawn curtains and crawling around on the floor to avoid its eerie and unerring gaze The pigeon landed on the windowsill.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring
+Link: https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/
 
-### 4. Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Teacher Pay & a Controversial Curriculum: Inside District’s 10th State Takeover [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetry If you have been into a bookshop since 2022, or perhaps even just breathed in and out, you could…
+In Texas, a school system that fails to meet its students’ needs for five consecutive years faces daunting alternatives.
 
-Link: https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry
+Link: https://www.the74million.org/article/teacher-pay-a-controversial-curriculum-inside-districts-10th-state-takeover/
 
-### 5. Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,…
-
-Link: https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast
-
-### 6. Europe’s big election season is about to kick off. It could change everything | Nathalie Tocci [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If far right nationalists gain power in four big countries simultaneously, we are in for a dramatic Trumpian tilt When it comes to Europe’s economy or its peace and security, it is obvious that decision-making has to be done largely at the…
-
-Link: https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything
-
-### 7. Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York…
-
-Link: https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident
-
-### 8. Threat of AI share crash puts world financial stability at risk, says IMF [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across…
-
-Link: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
-
-### 9. "No more hand-written code": Epic reportedly impose "AI-first" model on creators of new Disney shooter with Marvel and Star Wars characters [10/10]
+### 7. Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-The happy-go-lucky bigwigs at Epic Games have instructed the creators of an unannounced shooter that features Marvel and Star Wars characters to complete their project using an "AI first" production model, according to a report, with…
+Rose Belmont is not her father. Rose is something new: the next generation of the legendary vampire hunters spending her life trying to step out of Trevor's shadow, to be seen as the self-reliant woman she is.
 
-Link: https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters
+Link: https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania
 
-### 10. Epic Games reportedly pivoting to "AI first" game development model [10/10]
-**Source:** Ars Technica  
+### 8. ‘No one’s here, no one knows’: north-east Ohio is ground zero for ICE flights [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Away from the public eye, deportation planes at Youngstown-Warren and Akron-Canton airports carry hundreds of immigrants daily amid Trump’s ICE crackdown Just after 10.
+
+Link: https://www.theguardian.com/us-news/2026/oct/13/ohio-ice-deportation-flights
+
+### 9. ‘Unfinished business’: the people who want their AI chatbots to ‘live on’ after they die [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Humans bonded to AI companions are contemplating ways to keep their bots going – often in defiance of companies’ terms and services Death has always been around Alaina Winters.
+
+Link: https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans
+
+### 10. AI labs are buying data from dead startups to train their models [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-"No more hand-written code" or AI-free art for delayed Marvel/Star Wars shooter.
+When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.
 
-Link: https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/
+Link: https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/
 
-### 11. Opinion: 10 Potentially Uncomfortable Interview Questions For School Leaders [9/10]
+### 11. France’s Students Won’t Back Down [10/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Diana Sophia Cordoba Without full-time teachers, temperature-regulated classrooms, or school nurses, French students are turning their grievances into a national movement.
+
+Link: https://www.thenation.com/article/activism/france-student-protests-lyceens-banlieues/
+
+### 12. Indiana Starting Anonymous School Safety Tip Line in January [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Permit me to begin with a confession. I’m partially responsible for the current teacher shortage. As a 30-year public high school teacher in New York state, I retired at first eligibility.
+State officials are planning to launch an anonymous tip line regarding safety concerns that will be available for all K-12 schools starting in January.
 
-Link: https://www.the74million.org/article/10-potentially-uncomfortable-interview-questions-for-school-leaders/
-
-### 12. Cops can creep on Airbnb [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-That washer/dryer combo could be used by cops to identify a property.
-
-Link: https://www.404media.co/cops-can-creep-on-airbnb/
+Link: https://www.the74million.org/article/indiana-starting-anonymous-school-safety-tip-line-in-january/
 
 ### 13. Sauna research gathers steam [7/10]
 **Source:** NPR Health  
@@ -169,6 +169,15 @@ Link: https://www.youtube.com/watch?v=z_sXLlLVUls
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.
 
 Link: https://www.youtube.com/watch?v=4fLVq6HJsKc
+
+### Why are Americans so divided? | Voter Voices [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.
+
+Link: https://www.youtube.com/watch?v=5nAoYbbyDkI
 
 ### Pediatricians warn of the dangers of unpasteurized milk [7/10]
 **Creator:** NPR  
@@ -260,9 +269,18 @@ Link: https://www.youtube.com/watch?v=Loi417Xo1JM
 
 Link: https://www.youtube.com/watch?v=ROXRBRyYHfM
 
-### The Force Is With Us in Star Wars: Galactic Racer | Hot Monday Energy [7/10]
+### Digger, Carrie, and the Lanterns Finale | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns.
+
+Link: https://www.youtube.com/watch?v=TPoAqB8cUNs
+
+### The Force Is With Us in Star Wars: Galactic Racer | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, Jesse and KC play Star Wars: Galactic Racer -- https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -487,6 +505,15 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### The Child | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.
+
+Link: https://www.youtube.com/watch?v=vsXs3Km6UDw
+
 ### The Christmas Switch | Sneak Peek | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -585,15 +612,6 @@ Link: https://www.youtube.com/watch?v=9aGeKSSyuhk
 The Galician town of Pazos is caught up in a wave of home burglaries, but alarm bells start ringing when Irene, one of the residents, suffers a brutal attack in her own home.
 
 Link: https://www.youtube.com/watch?v=zD47pUZxaZE
-
-### Haunted Hotel: Season 2 | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Abaddon and Esther... in a fight? Surely this can't end well. Enjoy this sneak peek of HAUNTED HOTEL before Season 2 drops this Friday on October 9! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=RxlAdSgJB3A
 
 ### Brothers — Matthew McConaughey and Woody Harrelson Perform an Original Song | Full Scene | Apple TV [10/10]
 **Source:** Apple TV  
