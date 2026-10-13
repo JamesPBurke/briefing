@@ -1,69 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T18:00:25.618194Z",
-  "generatedAtDisplay": "2026-10-12 02:00 PM EDT",
+  "generatedAt": "2026-10-13T05:00:01.497227Z",
+  "generatedAtDisplay": "2026-10-13 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are About 70 ultramarathon runners in Utah evacuated after being stranded by flooding, Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham, and Ilhan Omar says she will not be silenced after federal agents raid her home.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast, Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants, and Threat of AI share crash puts world financial stability at risk, says IMF.",
   "mainItems": [
     {
-      "title": "About 70 ultramarathon runners in Utah evacuated after being stranded by flooding",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
-      "published": "2026-10-12T17:36:18+00:00",
-      "summary": "Runners in Moab 240 successfully evacuated from race route after flooding from remnants of tropical storm Rachel About 70 runners participating in Utah ’s Moab 240 ultramarathon were successfully evacuated from the race route on Sunday…",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "published": "2026-10-13T04:29:46+00:00",
+      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham",
+      "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats",
-      "published": "2026-10-12T17:08:11+00:00",
-      "summary": "UK to bring further sanctions against Tehran and IRGC after assessment Iran was likely to have coordinated incident Andy Burnham said Iran’s Islamic Revolutionary Guard Corps were “almost certainly” behind threats to RAF Fairford, the…",
+      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "published": "2026-10-13T03:28:06+00:00",
+      "summary": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Ilhan Omar says she will not be silenced after federal agents raid her home",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-      "published": "2026-10-12T16:20:42+00:00",
-      "summary": "Trump and key allies have accused Omar of immigration fraud, and have called to expel her from the country Federal agents searched Representative Ilhan Omar ’s home on Monday morning as part of a criminal investigation, according to the…",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "published": "2026-10-13T03:15:12+00:00",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
-      "published": "2026-10-12T16:10:22+00:00",
-      "summary": "Ukrainian leader says he was surprised by Trump’s ‘energy ceasefire’ announcement, posted as Russian drones hit Kyiv Europe live – latest updates Volodymyr Zelenskyy has vowed to respond to Russia’s continuing attacks on the Ukrainian…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "\"No more hand-written code\": Epic reportedly impose \"AI-first\" model on creators of new Disney shooter with Marvel and Star Wars characters",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters",
+      "published": "2026-10-12T22:29:01+00:00",
+      "summary": "The happy-go-lucky bigwigs at Epic Games have instructed the creators of an unannounced shooter that features Marvel and Star Wars characters to complete their project using an \"AI first\" production model, according to a report, with…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "published": "2026-10-12T13:33:06+00:00",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "source": "The Verge",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "published": "2026-10-12T12:08:14+00:00",
-      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "published": "2026-10-12T20:59:50+00:00",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+      "published": "2026-10-12T19:11:39+00:00",
+      "summary": "Epic Games has reportedly turned to gen-AI to finish up development on a shooter that crosses over Star Wars and Marvel, which has been internally delayed. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "published": "2026-10-12T18:21:36+00:00",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
+      "published": "2026-10-12T18:20:50+00:00",
+      "summary": "Developer Hello Games has somehow managed to fit its universe-sized space sim No Man's Sky onto iPhone and iPad devices, and it's partly thanks to the studio's upcoming Light No Fire. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Christian Horner: ‘Not all teams act that way. You don’t see the same brutality as when I left’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/sport/2026/oct/12/christian-horner-red-bull-formula-one",
+      "published": "2026-10-12T18:00:01+00:00",
+      "summary": "The 52-year-old reflects on the pain of being sacked after two decades turning Red Bull into an F1 powerhouse, questioning his purpose in life and dealing with panic attacks Christian Horner should be in steamy Singapore, preparing for…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Fraternities are the most likely place for unwanted sexual contact. Should they be shut down?",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/fraternities-greek-life-campus-rape",
+      "published": "2026-10-12T11:00:53+00:00",
+      "summary": "As an alleged 2024 gang-rape at Cornell comes to light, universities are grappling with a choice: student safety or alumni donations Daniel R Schwarz, an 85-year-old English literature emeritus professor, still works at Cornell University…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -74,46 +114,6 @@
       "published": "2026-10-12T10:30:00+00:00",
       "summary": "Permit me to begin with a confession. I’m partially responsible for the current teacher shortage. As a 30-year public high school teacher in New York state, I retired at first eligibility.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Indiana Starting Anonymous School Safety Tip Line in January",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/indiana-starting-anonymous-school-safety-tip-line-in-january/",
-      "published": "2026-10-12T16:30:00+00:00",
-      "summary": "State officials are planning to launch an anonymous tip line regarding safety concerns that will be available for all K-12 schools starting in January.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Android is the best and worst thing about Googlebooks",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "published": "2026-10-12T15:04:23+00:00",
-      "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting",
-      "published": "2026-10-12T15:03:07+00:00",
-      "summary": "Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs Enforcement ( ICE )’s recent shooting of a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "published": "2026-10-12T13:00:52+00:00",
-      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 7
   }
 }
