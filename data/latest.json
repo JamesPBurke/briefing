@@ -1,70 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-14T09:00:12.385245Z",
-  "generatedAtDisplay": "2026-10-14 05:00 AM EDT",
+  "generatedAt": "2026-10-14T14:00:04.294454Z",
+  "generatedAtDisplay": "2026-10-14 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and Saudi OpenAI employee arrested after recording device found in headquarters.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Epic’s new games launcher is ‘vibe coded’, Epic is bringing Fortnite to Linux, and We might not have to wait 13 years for the next GTA.",
   "mainItems": [
     {
-      "title": "My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children",
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "published": "2026-10-14T13:55:02+00:00",
+      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Epic is bringing Fortnite to Linux",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
+      "published": "2026-10-14T13:54:58+00:00",
+      "summary": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "We might not have to wait 13 years for the next GTA",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
+      "published": "2026-10-14T13:46:22+00:00",
+      "summary": "Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Texas prosecutor considering felony charges for ICE agent who ran over man",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
-      "published": "2026-10-14T04:00:45+00:00",
-      "summary": "Gavin Guffey was 17 when he was targeted by a ‘sextortionist’ on Instagram.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge",
+      "published": "2026-10-14T13:40:57+00:00",
+      "summary": "A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he was considering felony assault charges for an Immigration and Customs Enforcement (ICE) officer…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
-      "published": "2026-10-14T04:00:44+00:00",
-      "summary": "Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this year Human rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Saudi OpenAI employee arrested after recording device found in headquarters",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
-      "published": "2026-10-13T22:59:55+00:00",
-      "summary": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
-      "source": "Rock Paper Shotgun",
+      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
-      "published": "2026-10-13T21:54:00+00:00",
-      "summary": "I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres.",
+      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+      "published": "2026-10-14T12:52:32+00:00",
+      "summary": "Max Payne 3 is a bit of a strange project. Unlike its two predecessors, the game wasn't developed by original creator Remedy Entertainment, rather it was the product of Grand Theft Auto and Red Dead Redemption studio Rockstar Games .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "published": "2026-10-13T21:36:13+00:00",
-      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Hochul Opts NY Into Federal School Choice Tax Credit Despite Union Opposition",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/hochul-opts-ny-into-federal-school-choice-tax-credit-despite-union-opposition/",
+      "published": "2026-10-14T12:30:00+00:00",
+      "summary": "New York will participate in the new federal scholarship tax credit in hopes of generating millions in new dollars for public school students, Gov. Kathy Hochul said Friday. Hochul becomes the second Democrat — following Colorado Gov.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "published": "2026-10-13T19:10:43+00:00",
-      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Immigration, climate, guns: key Trump policies to be tested at supreme court",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer",
+      "published": "2026-10-14T11:00:01+00:00",
+      "summary": "Conservative court asked to rule on several signature policies in 2026-27 term – will it rule in president’s favor? Several of Donald Trump’s second-term policies will be tested at the supreme court in the coming months: it is being asked…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
+    },
+    {
+      "title": "The Latest Wave of Trump’s Immigration Crackdown Is Again Being Felt in Schools",
+      "source": "The 74",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.the74million.org/article/the-latest-wave-of-trumps-immigration-crackdown-is-again-being-felt-in-schools/",
+      "published": "2026-10-14T10:30:00+00:00",
+      "summary": "The mother who arrived at an East Tennessee school the week of Sept. 21 to withdraw her son, a freshman, told staff they weren’t leaving right away. They planned to self-deport to Guatemala a week or so later.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+      "published": "2026-10-14T13:00:00+00:00",
+      "summary": "We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
     },
     {
       "title": "Cornell's Faculty Senate considers no-confidence vote for school's president",
@@ -77,34 +107,14 @@
       "score": 9
     },
     {
-      "title": "The Steps by Sylvester Stallone review – the inside story of Rocky",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky",
-      "published": "2026-10-14T06:00:47+00:00",
-      "summary": "The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by Picasso,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "published": "2026-10-13T18:23:33+00:00",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "source": "MIT Technology Review",
-      "category": "AI / open models",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.",
-      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
-      "score": 9
+      "title": "These workers help train robots who could one day steal their jobs",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+      "published": "2026-10-14T09:28:47+00:00",
+      "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
@@ -124,16 +134,6 @@
       "published": "2026-10-13T18:33:45+00:00",
       "summary": "Greta Gerwig has adapted C.S. Lewis’ book for the big screen The post Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
-      "published": "2026-10-13T17:41:07+00:00",
-      "summary": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night , she writes about two young prodigies in the late 18th and early 19th centuries.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -172,6 +172,28 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Why are Americans so divided?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=0zWnN9vg_dc",
+      "published": "2026-10-14T13:00:10+00:00",
+      "summary": "“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The skincare sample is free. What happens next can cost thousands.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Vaua8O8PtTY",
+      "published": "2026-10-14T09:00:28+00:00",
+      "summary": "The products promise younger-looking skin. The salespeople promise extraordinary deals.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Collin Gosselin on his new memoir",
       "source": "NPR",
       "category": "News / analysis",
@@ -179,8 +201,8 @@
       "published": "2026-10-13T23:00:36+00:00",
       "summary": "Reality TV fans may remember Collin Gosselin and his siblings from the popular 2000s TLC series \"Jon & Kate Plus 8.\" His new memoir, \"In the Shadow of Eight,\" details allegations of physical and emotional abuse by his mother, Kate Gosselin.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Debra Lee recalls navigating grief when her son Quinn Coleman took his own life in 2020",
@@ -190,8 +212,8 @@
       "published": "2026-10-13T22:00:22+00:00",
       "summary": "After her son Quinn Coleman took his own life in 2020, CEO emerita of BET Debra Lee credits an exercise suggested by her therapist with bringing her comfort while navigating grief.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Six Flags temporarily closes 9 coasters after rider death at Georgia amusement park",
@@ -233,17 +255,6 @@
       "url": "https://www.youtube.com/watch?v=KeYCnemTl3c",
       "published": "2026-10-12T16:00:35+00:00",
       "summary": "The American Academy of Pediatrics is warning unpasteurized milk and other raw dairy foods are unsafe to eat and can cause serious illness — especially for young children and those pregnant or breast-feeding.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "As obesity rates among children soar, WHO cautions against treating with GLP-1s",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mfxzum7TCJY",
-      "published": "2026-10-11T18:20:34+00:00",
-      "summary": "Obesity rates in children and adolescents have quadrupled to more than 170 million people since 1990.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -333,8 +344,8 @@
       "published": "2026-10-13T22:27:37+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Digger, Carrie, and the Lanterns Finale | The Rewind Podcast",
@@ -477,17 +488,6 @@
       "url": "https://www.youtube.com/watch?v=5SohUK9E_eo",
       "published": "2026-09-24T13:00:23+00:00",
       "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "You Can See Everything | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
-      "published": "2026-09-23T13:00:14+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -879,8 +879,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 33,
+    "youtubeCount": 25,
+    "trailerCount": 32,
     "sourceCount": 22
   }
 }

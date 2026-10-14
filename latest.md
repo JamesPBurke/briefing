@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-14T09:00:12.385245Z
+Generated: 2026-10-14T14:00:04.294454Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and Saudi OpenAI employee arrested after recording device found in headquarters.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Epic’s new games launcher is ‘vibe coded’, Epic is bringing Fortnite to Linux, and We might not have to wait 13 years for the next GTA.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children [10/10]
+### 1. Epic’s new games launcher is ‘vibe coded’ [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is "way faster" and now supports Linux.
+
+Link: https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux
+
+### 2. Epic is bringing Fortnite to Linux [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Epic is working on bringing Fortnite to Linux through its Epic Games Launcher.
+
+Link: https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat
+
+### 3. We might not have to wait 13 years for the next GTA [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto.
+
+Link: https://www.theverge.com/games/1011028/next-gta-faster-development
+
+### 4. Texas prosecutor considering felony charges for ICE agent who ran over man [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Gavin Guffey was 17 when he was targeted by a ‘sextortionist’ on Instagram.
+A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he was considering felony assault charges for an Immigration and Customs Enforcement (ICE) officer…
 
-Link: https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist
+Link: https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge
 
-### 2. Iranian woman handed death sentence for ‘blasphemy’ in social media post [10/10]
-**Source:** The Guardian US  
+### 5. Rockstar co-founder Dan Houser blames himself for Max Payne 3 - "a large amount of that failure was on me" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Max Payne 3 is a bit of a strange project. Unlike its two predecessors, the game wasn't developed by original creator Remedy Entertainment, rather it was the product of Grand Theft Auto and Red Dead Redemption studio Rockstar Games .
+
+Link: https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame
+
+### 6. Hochul Opts NY Into Federal School Choice Tax Credit Despite Union Opposition [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this year Human rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports…
+New York will participate in the new federal scholarship tax credit in hopes of generating millions in new dollars for public school students, Gov. Kathy Hochul said Friday. Hochul becomes the second Democrat — following Colorado Gov.
 
-Link: https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet
+Link: https://www.the74million.org/article/hochul-opts-ny-into-federal-school-choice-tax-credit-despite-union-opposition/
 
-### 3. Saudi OpenAI employee arrested after recording device found in headquarters [10/10]
+### 7. Immigration, climate, guns: key Trump policies to be tested at supreme court [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI.
+Conservative court asked to rule on several signature policies in 2026-27 term – will it rule in president’s favor? Several of Donald Trump’s second-term policies will be tested at the supreme court in the coming months: it is being asked…
 
-Link: https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device
+Link: https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer
 
-### 4. Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 8. The Latest Wave of Trump’s Immigration Crackdown Is Again Being Felt in Schools [10/10]
+**Source:** The 74  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres.
+The mother who arrived at an East Tennessee school the week of Sept. 21 to withdraw her son, a freshman, told staff they weren’t leaving right away. They planned to self-deport to Guatemala a week or so later.
 
-Link: https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game
+Link: https://www.the74million.org/article/the-latest-wave-of-trumps-immigration-crackdown-is-again-being-felt-in-schools/
 
-### 5. OpenAI employee arrested for allegedly planting a bug in a conference room [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.
+We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device
+Link: https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2
 
-### 6. Xbox is officially embracing the chaos of AI-powered game ports [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.
-
-Link: https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
-
-### 7. Cornell's Faculty Senate considers no-confidence vote for school's president [9/10]
+### 10. Cornell's Faculty Senate considers no-confidence vote for school's president [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,34 +123,16 @@ Cornell says it's making big changes on campus following the allegations of a ga
 
 Link: https://www.npr.org/2026/10/14/nx-s1-5996859/cornells-faculty-senate-considers-no-confidence-vote-for-schools-president
 
-### 8. The Steps by Sylvester Stallone review – the inside story of Rocky [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. These workers help train robots who could one day steal their jobs [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by Picasso,…
+Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
 
-Link: https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky
+Link: https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs
 
-### 9. Disney offers $20M for Character.AI’s scandal-plagued chatbot tech [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Disney may acquire tech from one of the first chatbot makers linked to child suicide.
-
-Link: https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
-
-### 10. The Download: open model trade-offs and geothermal power’s promise [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / open models  
-**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.
-
-Link: https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/
-
-### 11. Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work [8/10]
+### 12. Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ Character.ai enshittified its product but was still burning tons of cash, its ba
 
 Link: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/
 
-### 12. Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book [8/10]
+### 13. Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.404media.co/character-ais-bankruptcy-documents-show-the-econom
 Greta Gerwig has adapted C.S. Lewis’ book for the big screen The post Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book appeared first on Reactor .
 
 Link: https://reactormag.com/narnia-magicians-nephew-trailer-netflix/
-
-### 13. Writer Yiyun Li lost both of her sons. When words fell short, she turned to music [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night , she writes about two young prodigies in the late 18th and early 19th centuries.
-
-Link: https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night
 
 ## YouTube
 
@@ -179,18 +179,36 @@ Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s b
 
 Link: https://www.youtube.com/watch?v=dmyi8LO6CBo
 
-### Collin Gosselin on his new memoir [8/10]
+### Why are Americans so divided? [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.
+
+Link: https://www.youtube.com/watch?v=0zWnN9vg_dc
+
+### The skincare sample is free. What happens next can cost thousands. [10/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The products promise younger-looking skin. The salespeople promise extraordinary deals.
+
+Link: https://www.youtube.com/watch?v=Vaua8O8PtTY
+
+### Collin Gosselin on his new memoir [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Reality TV fans may remember Collin Gosselin and his siblings from the popular 2000s TLC series "Jon & Kate Plus 8." His new memoir, "In the Shadow of Eight," details allegations of physical and emotional abuse by his mother, Kate Gosselin.
 
 Link: https://www.youtube.com/watch?v=_d4JpBuetok
 
-### Debra Lee recalls navigating grief when her son Quinn Coleman took his own life in 2020 [8/10]
+### Debra Lee recalls navigating grief when her son Quinn Coleman took his own life in 2020 [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 After her son Quinn Coleman took his own life in 2020, CEO emerita of BET Debra Lee credits an exercise suggested by her therapist with bringing her comfort while navigating grief.
@@ -232,15 +250,6 @@ Link: https://www.youtube.com/watch?v=5nAoYbbyDkI
 The American Academy of Pediatrics is warning unpasteurized milk and other raw dairy foods are unsafe to eat and can cause serious illness — especially for young children and those pregnant or breast-feeding.
 
 Link: https://www.youtube.com/watch?v=KeYCnemTl3c
-
-### As obesity rates among children soar, WHO cautions against treating with GLP-1s [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Obesity rates in children and adolescents have quadrupled to more than 170 million people since 1990.
-
-Link: https://www.youtube.com/watch?v=mfxzum7TCJY
 
 ### Which Dead Franchises Have To Make A Comeback? [7/10]
 **Creator:** Digital Foundry  
@@ -305,9 +314,9 @@ Link: https://www.youtube.com/watch?v=cmpE0uMGJ9o
 
 Link: https://www.youtube.com/watch?v=GrfmHUguVGk
 
-### Jamming Through More Elden Ring Co-op w/ Jack and Jenna [7/10]
+### Jamming Through More Elden Ring Co-op w/ Jack and Jenna [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -459,15 +468,6 @@ Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
 SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
 
 Link: https://www.youtube.com/watch?v=5SohUK9E_eo
-
-### You Can See Everything | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.
-
-Link: https://www.youtube.com/watch?v=HvW_N5p1q44
 
 ### Clarissa - Official Trailer - In Select Theaters December [9/10]
 **Source:** NEON  
