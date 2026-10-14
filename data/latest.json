@@ -1,59 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-14T14:00:04.294454Z",
-  "generatedAtDisplay": "2026-10-14 10:00 AM EDT",
+  "generatedAt": "2026-10-14T18:00:29.432484Z",
+  "generatedAtDisplay": "2026-10-14 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Epic’s new games launcher is ‘vibe coded’, Epic is bringing Fortnite to Linux, and We might not have to wait 13 years for the next GTA.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Could AI ‘change the stakes’ in the development of bioweapons?, Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS, and Two container ships sink near strait of Hormuz amid surge in Iranian attacks.",
   "mainItems": [
     {
-      "title": "Epic’s new games launcher is ‘vibe coded’",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-      "published": "2026-10-14T13:55:02+00:00",
-      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Epic is bringing Fortnite to Linux",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
-      "published": "2026-10-14T13:54:58+00:00",
-      "summary": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "We might not have to wait 13 years for the next GTA",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
-      "published": "2026-10-14T13:46:22+00:00",
-      "summary": "Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Texas prosecutor considering felony charges for ICE agent who ran over man",
+      "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge",
-      "published": "2026-10-14T13:40:57+00:00",
-      "summary": "A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he was considering felony assault charges for an Immigration and Customs Enforcement (ICE) officer…",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+      "published": "2026-10-14T17:34:14+00:00",
+      "summary": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remain In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "published": "2026-10-14T12:52:32+00:00",
-      "summary": "Max Payne 3 is a bit of a strange project. Unlike its two predecessors, the game wasn't developed by original creator Remedy Entertainment, rather it was the product of Grand Theft Auto and Red Dead Redemption studio Rockstar Games .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
+      "published": "2026-10-14T17:13:27+00:00",
+      "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "published": "2026-10-14T17:05:42+00:00",
+      "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm elections Two container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharpest rise in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "published": "2026-10-14T16:43:24+00:00",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+      "published": "2026-10-14T16:30:10+00:00",
+      "summary": "Michael Kotlikoff addressed his administration’s handling of the 2024 allegations as he faces calls for his resignation Michael Kotlikoff, the president of Cornell University, has spoken to the New York Times about sexual assault…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Punishing Heat Waves Are Becoming More Common in California. Most Schools Aren’t Prepared",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/punishing-heat-waves-are-becoming-more-common-in-california-most-schools-arent-prepared/",
+      "published": "2026-10-14T16:30:00+00:00",
+      "summary": "At Parkway Elementary School in Sacramento, students climb on logs beneath 58 new trees, explore flowering plants and use outdoor spaces as an extension of their regular classrooms.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Repairing the iPhone Duo’s folding screen costs as much as a new iPhone",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "published": "2026-10-14T16:21:28+00:00",
+      "summary": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "published": "2026-10-14T16:05:21+00:00",
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -64,16 +94,6 @@
       "published": "2026-10-14T12:30:00+00:00",
       "summary": "New York will participate in the new federal scholarship tax credit in hopes of generating millions in new dollars for public school students, Gov. Kathy Hochul said Friday. Hochul becomes the second Democrat — following Colorado Gov.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Immigration, climate, guns: key Trump policies to be tested at supreme court",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer",
-      "published": "2026-10-14T11:00:01+00:00",
-      "summary": "Conservative court asked to rule on several signature policies in 2026-27 term – will it rule in president’s favor? Several of Donald Trump’s second-term policies will be tested at the supreme court in the coming months: it is being asked…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -92,19 +112,19 @@
       "category": "Science / computing",
       "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
       "published": "2026-10-14T13:00:00+00:00",
-      "summary": "We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+      "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
-      "title": "Cornell's Faculty Senate considers no-confidence vote for school's president",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5996859/cornells-faculty-senate-considers-no-confidence-vote-for-schools-president",
-      "published": "2026-10-14T08:50:48+00:00",
-      "summary": "Cornell says it's making big changes on campus following the allegations of a gang rape, but it remains under fire. The Faculty Senate is now discussing a no-confidence vote of the president.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Character.ai Bankruptcy Is First AI Bubble Domino to Fall",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall/",
+      "published": "2026-10-14T14:34:54+00:00",
+      "summary": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "These workers help train robots who could one day steal their jobs",
@@ -115,659 +135,10 @@
       "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "published": "2026-10-13T20:06:53+00:00",
-      "summary": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/narnia-magicians-nephew-trailer-netflix/",
-      "published": "2026-10-13T18:33:45+00:00",
-      "summary": "Greta Gerwig has adapted C.S. Lewis’ book for the big screen The post Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "published": "2026-10-13T08:56:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "published": "2026-10-11T16:53:17+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Indian Film Expert Answers Bollywood Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=dmyi8LO6CBo",
-      "published": "2026-10-13T16:00:08+00:00",
-      "summary": "Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why are Americans so divided?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=0zWnN9vg_dc",
-      "published": "2026-10-14T13:00:10+00:00",
-      "summary": "“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The skincare sample is free. What happens next can cost thousands.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Vaua8O8PtTY",
-      "published": "2026-10-14T09:00:28+00:00",
-      "summary": "The products promise younger-looking skin. The salespeople promise extraordinary deals.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Collin Gosselin on his new memoir",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_d4JpBuetok",
-      "published": "2026-10-13T23:00:36+00:00",
-      "summary": "Reality TV fans may remember Collin Gosselin and his siblings from the popular 2000s TLC series \"Jon & Kate Plus 8.\" His new memoir, \"In the Shadow of Eight,\" details allegations of physical and emotional abuse by his mother, Kate Gosselin.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Debra Lee recalls navigating grief when her son Quinn Coleman took his own life in 2020",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=W_3Lv9GD-Cs",
-      "published": "2026-10-13T22:00:22+00:00",
-      "summary": "After her son Quinn Coleman took his own life in 2020, CEO emerita of BET Debra Lee credits an exercise suggested by her therapist with bringing her comfort while navigating grief.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Six Flags temporarily closes 9 coasters after rider death at Georgia amusement park",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=BfEd2XfejoQ",
-      "published": "2026-10-13T17:00:32+00:00",
-      "summary": "The amusement park operator Six Flags says it’s temporarily closing nine of its roller coasters at half a dozen parks across the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Federal agents search Rep. Ilhan Omar's D.C. home as part of a criminal investigation",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9Y7S9oKwPsM",
-      "published": "2026-10-13T14:55:37+00:00",
-      "summary": "Minnesota Democratic Congresswoman Ilhan Omar says the Trump Administration is politically targeting her. Omar’s home in Washington, D.C., was searched by federal agents Monday morning.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Why are Americans so divided? | Voter Voices",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=5nAoYbbyDkI",
-      "published": "2026-10-13T11:00:15+00:00",
-      "summary": "“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Pediatricians warn of the dangers of unpasteurized milk",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=KeYCnemTl3c",
-      "published": "2026-10-12T16:00:35+00:00",
-      "summary": "The American Academy of Pediatrics is warning unpasteurized milk and other raw dairy foods are unsafe to eat and can cause serious illness — especially for young children and those pregnant or breast-feeding.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Which Dead Franchises Have To Make A Comeback?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nm8X2Lvf0qA",
-      "published": "2026-10-13T17:00:26+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Dragon's Dogma Switch 2 Port Tested vs Xbox Series S",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=ifEBstPd4Iw",
-      "published": "2026-10-13T16:00:01+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Could Project Helix Replace Both Your PC And Xbox Console?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Ev6lVSmH3ZA",
-      "published": "2026-10-12T17:00:11+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Which Games Will Benefit Most From PS5 QSSR Upscaling?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=BfUpde1Oxjk",
-      "published": "2026-10-12T16:00:08+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The Witcher 3 Remastered: Best PC Settings - DF Optimised",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=oRTcl1wj0VY",
-      "published": "2026-10-11T17:00:00+00:00",
-      "summary": "► Complete Settings List Here: https://www.digitalfoundry.net/features/the-witcher-3-wild-hunt-remastered-pc-represents-a-generational-shift-but-youll-need-optimised-settings ► Watch the Full Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer Review Reaction - Universal Praise But Do We Agree?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=cmpE0uMGJ9o",
-      "published": "2026-10-11T16:00:24+00:00",
-      "summary": "► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "10 Years On Since Our First 4K 60FPS Capture Project - PS4 Pro And Mantis Burn Racing",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=GrfmHUguVGk",
-      "published": "2026-10-11T15:00:16+00:00",
-      "summary": "► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Jamming Through More Elden Ring Co-op w/ Jack and Jenna",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=LdJj03eL4Ts",
-      "published": "2026-10-13T22:27:37+00:00",
-      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Digger, Carrie, and the Lanterns Finale | The Rewind Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=TPoAqB8cUNs",
-      "published": "2026-10-13T19:30:33+00:00",
-      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "In Lanterns, the Ring Is a Prize - and Trap | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8QWo_9Tp2IM",
-      "published": "2026-10-13T15:00:16+00:00",
-      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Force Is With Us in Star Wars: Galactic Racer | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pDgFvkQJQPQ",
-      "published": "2026-10-13T01:11:12+00:00",
-      "summary": "🎮 This week on Hidden Gems, Jesse and KC play Star Wars: Galactic Racer -- https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Horror Mechanics Need a Refresh | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pznykkW7-q4",
-      "published": "2026-10-12T18:19:10+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, Marty, and Jesse G chat about the current state of horror games, and how they could use a mechanical refresh. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Steam Frame and the Death Throes of VR | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=cNcQhCq-ztU",
-      "published": "2026-10-12T15:00:27+00:00",
-      "summary": "In today's episode, J & Ludo discuss their experiences with the Steam Frame and how this might be the beginning of the end for the VR hobby as a whole. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Come Challenge Us in Street Fighter 6 | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4p52F733znI",
-      "published": "2026-10-12T06:36:47+00:00",
-      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "River | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ox8lEnsxDag",
-      "published": "2026-10-12T15:00:02+00:00",
-      "summary": "RIVER \"will drown you in pure terror.\" (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Get Out | Chris Finally Escapes The Sunken Place and Armitage Family",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=eDoCI0WWJfU",
-      "published": "2026-10-10T19:00:09+00:00",
-      "summary": "Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Exorcist: Martyrs | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iIEYfH-jg1Y",
-      "published": "2026-10-09T22:31:45+00:00",
-      "summary": "Darkness must be hunted. Mike Flanagan’s The Exorcist: Martyrs is only in theaters March 12.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GSOcspZfk0w",
-      "published": "2026-10-06T18:11:13+00:00",
-      "summary": "The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Meet the Megalodon. #GhostSoldierMovie",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MYeWOm3eC1g",
-      "published": "2026-09-23T23:48:44+00:00",
-      "summary": "Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Misty Green | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=mkJVHTBuv9Y",
-      "published": "2026-10-08T14:00:17+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Misty Green | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5SohUK9E_eo",
-      "published": "2026-09-24T13:00:23+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Clarissa - Official Trailer - In Select Theaters December",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sJAqmdXaM8U",
-      "published": "2026-10-01T16:00:15+00:00",
-      "summary": "Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "VHS Mixtape | Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iZS2zDHidsk",
-      "published": "2026-10-13T16:10:10+00:00",
-      "summary": "Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Infirmary Trailer | Found Footage | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=STEprQnjfRo",
-      "published": "2026-10-09T15:47:10+00:00",
-      "summary": "The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Cycle | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=m8vcBN8uza8",
-      "published": "2026-09-28T17:53:12+00:00",
-      "summary": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "V/H/S/MIXTAPE | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GrIouRKyPDw",
-      "published": "2026-09-24T15:00:26+00:00",
-      "summary": "Listen if you dare. Your favorite found footage franchise is back. V/H/S/MIXTAPE premieres October 9 on Shudder. #Shudder #VHSMIXTAPE Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "HALLOWARRIOR | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ORjn6ox53_U",
-      "published": "2026-09-23T18:19:33+00:00",
-      "summary": "Desperate for companionship on a post apocalyptic Halloween night, the Last Girl on Earth gets more than she bargained for. HALLOWARRIOR premieres October 16 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "River | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=xrQwmYgCLRQ",
-      "published": "2026-10-12T15:00:13+00:00",
-      "summary": "Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Exorcist: Martyrs | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5knKQTEddik",
-      "published": "2026-10-09T22:38:27+00:00",
-      "summary": "Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Obsess | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=4mkoF6Xv5Zc",
-      "published": "2026-10-14T08:00:00+00:00",
-      "summary": "Obsess is a new Arabic horror series starring Haya Abdulsalam, Yaquob Alfarhan and Layla Abdullah.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=O8hR2dQGv0k",
-      "published": "2026-10-13T18:00:03+00:00",
-      "summary": "Only in theaters 11 February. Academy Award–nominated filmmaker Greta Gerwig brings C. S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
-      "published": "2026-10-13T18:00:00+00:00",
-      "summary": "Only in theaters February 12. Academy Award–nominated filmmaker Greta Gerwig brings C. S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Charli xcx stars as Mother Nature in #SacrificeMovie premiering in the US and France October 16",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KmzCZdpjWRk",
-      "published": "2026-10-13T17:00:00+00:00",
-      "summary": "Charli xcx stars as Mother Nature in #SacrificeMovie premiering in the US and France October 16 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Love Is Blind S11: Boston | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=DK__Vktf_ng",
-      "published": "2026-10-13T16:00:00+00:00",
-      "summary": "Gentle reminder to close your pod door before talking about your date! The first 5 episodes of Love Is Blind S11: Boston premiere tomorrow! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Child | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=vsXs3Km6UDw",
-      "published": "2026-10-13T10:00:00+00:00",
-      "summary": "Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Christmas Switch | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dBxrOZsMsrI",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Disciple: A Wu-Tang Fable | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pgXUkeU1BS8",
-      "published": "2026-10-12T16:00:00+00:00",
-      "summary": "The true story of an outsider whose relentless determination catapults him into the Wu-Tang Clan’s inner circle, where ambition and creativity converge to record an album poised to ignite global controversy. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Theo Von: I’m Doing Fine | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=r0H-oWUFJbk",
-      "published": "2026-10-12T15:30:00+00:00",
-      "summary": "Comedian and chart-topping podcaster Theo Von returns to Netflix with his third stand-up special and his first in five years.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Body | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wl7uj7n7DoY",
-      "published": "2026-10-12T15:00:04+00:00",
-      "summary": "They pray hard and sin harder. After a dance-team initiation goes very wrong, the whole town starts asking the same question: What happened to Grace? The Body premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A Dog’s Perfect Christmas | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=L18ih13Bf-U",
-      "published": "2026-10-12T14:00:00+00:00",
-      "summary": "From the beloved author of A Dog’s Purpose, A Dog’s Way Home, and A Dog’s Journey comes a heartfelt holiday story.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Riot | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oaHq9DQIxfI",
-      "published": "2026-10-12T07:30:00+00:00",
-      "summary": "Europe’s largest post-war prison riot breaks out in Poland. It’s a time of violence, political intrigue, and a fight for survival. When criminals take control of the prison, bloodshed seems inevitable.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Reasons We Love Morgan. NOBODY WANTS THIS returns Oct. 22, only on Netflix!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=QwGdHvxNDAs",
-      "published": "2026-10-11T19:00:00+00:00",
-      "summary": "Reasons We Love Morgan #NobodyWantsThis Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "12 12 12 — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pWdt8WMCqnc",
-      "published": "2026-10-13T13:59:52+00:00",
-      "summary": "Anthony Mackie and Jamie Dornan star in this heist drama. 12 months to plan. 12 hours to execute. 12 days to make it out alive. 12 12 12 premieres November 13 on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Brothers — Matthew McConaughey and Woody Harrelson Perform an Original Song | Full Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CEvfMPHqlQA",
-      "published": "2026-10-13T02:00:06+00:00",
-      "summary": "Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Remnants — Official Reaction Trailer | Apple Vision Pro",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=E_5HZBhf1eU",
-      "published": "2026-10-12T17:21:13+00:00",
-      "summary": "See real reactions from people experiencing, Remnants, Apple’s first immersive horror film. Watch as they step inside Woldmere Castle and enter the unsettling world created by writer and director Ti West.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Being Heumann — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CQp2pUXLvJk",
-      "published": "2026-10-12T16:00:00+00:00",
-      "summary": "Based on a true story about disability rights activist Judy Heumann, directed by CODA’s Siân Heder (Academy Award® Winner, Best Picture). Making the world better one federal building takeover at a time.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -879,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
-    "trailerCount": 32,
-    "sourceCount": 22
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 6
   }
 }
