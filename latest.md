@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-14T05:00:02.421629Z
+Generated: 2026-10-14T09:00:12.385245Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and OpenAI employee arrested after recording device found in office.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and Saudi OpenAI employee arrested after recording device found in headquarters.
 
 ## Briefing
 
@@ -51,7 +51,7 @@ Rights groups warn of Tehran regime’s increasing use of executions to suppress
 
 Link: https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet
 
-### 3. OpenAI employee arrested after recording device found in office [10/10]
+### 3. Saudi OpenAI employee arrested after recording device found in headquarters [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,16 +87,25 @@ Retro gaming is going through a wild time at the moment, thanks to decompilation
 
 Link: https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
 
-### 7. Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut [9/10]
+### 7. Cornell's Faculty Senate considers no-confidence vote for school's president [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Cornell says it's making big changes on campus following the allegations of a gang rape, but it remains under fire. The Faculty Senate is now discussing a no-confidence vote of the president.
+
+Link: https://www.npr.org/2026/10/14/nx-s1-5996859/cornells-faculty-senate-considers-no-confidence-vote-for-schools-president
+
+### 8. The Steps by Sylvester Stallone review – the inside story of Rocky [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Katie Zacharia’s maiden briefing was excruciating – at least her predecessor had delivered her propaganda hot Well, that was weird.
+The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by Picasso,…
 
-Link: https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing
+Link: https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky
 
-### 8. Disney offers $20M for Character.AI’s scandal-plagued chatbot tech [9/10]
+### 9. Disney offers $20M for Character.AI’s scandal-plagued chatbot tech [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -104,15 +113,6 @@ Link: https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press
 Disney may acquire tech from one of the first chatbot makers linked to child suicide.
 
 Link: https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
-
-### 9. Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Ohio’s chronic absenteeism rate has been trending downward in recent years, but still remains higher than it was pre-pandemic. The statewide chronic absenteeism rate — missing 10% or more of school hours for any reason — was 23.
-
-Link: https://www.the74million.org/article/ohios-chronic-absenteeism-rate-is-dropping-but-is-still-above-pre-pandemic-rates/
 
 ### 10. The Download: open model trade-offs and geothermal power’s promise [9/10]
 **Source:** MIT Technology Review  
@@ -152,7 +152,221 @@ Link: https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-ni
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### OpenAI’s New AI Is Doing Things We Barely Understand [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.
+
+Link: https://www.youtube.com/watch?v=z_sXLlLVUls
+
+### DeepSeek Solved AI’s Memory Problem [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.
+
+Link: https://www.youtube.com/watch?v=4fLVq6HJsKc
+
+### Indian Film Expert Answers Bollywood Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.
+
+Link: https://www.youtube.com/watch?v=dmyi8LO6CBo
+
+### Collin Gosselin on his new memoir [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Reality TV fans may remember Collin Gosselin and his siblings from the popular 2000s TLC series "Jon & Kate Plus 8." His new memoir, "In the Shadow of Eight," details allegations of physical and emotional abuse by his mother, Kate Gosselin.
+
+Link: https://www.youtube.com/watch?v=_d4JpBuetok
+
+### Debra Lee recalls navigating grief when her son Quinn Coleman took his own life in 2020 [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+After her son Quinn Coleman took his own life in 2020, CEO emerita of BET Debra Lee credits an exercise suggested by her therapist with bringing her comfort while navigating grief.
+
+Link: https://www.youtube.com/watch?v=W_3Lv9GD-Cs
+
+### Six Flags temporarily closes 9 coasters after rider death at Georgia amusement park [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The amusement park operator Six Flags says it’s temporarily closing nine of its roller coasters at half a dozen parks across the U.S.
+
+Link: https://www.youtube.com/watch?v=BfEd2XfejoQ
+
+### Federal agents search Rep. Ilhan Omar's D.C. home as part of a criminal investigation [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Minnesota Democratic Congresswoman Ilhan Omar says the Trump Administration is politically targeting her. Omar’s home in Washington, D.C., was searched by federal agents Monday morning.
+
+Link: https://www.youtube.com/watch?v=9Y7S9oKwPsM
+
+### Why are Americans so divided? | Voter Voices [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+“People are seeing this more as a competition of who’s right instead of a competition of what’s right.” That’s how one Michigan resident told NPR when describing the divide between the left and the right.
+
+Link: https://www.youtube.com/watch?v=5nAoYbbyDkI
+
+### Pediatricians warn of the dangers of unpasteurized milk [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The American Academy of Pediatrics is warning unpasteurized milk and other raw dairy foods are unsafe to eat and can cause serious illness — especially for young children and those pregnant or breast-feeding.
+
+Link: https://www.youtube.com/watch?v=KeYCnemTl3c
+
+### As obesity rates among children soar, WHO cautions against treating with GLP-1s [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Obesity rates in children and adolescents have quadrupled to more than 170 million people since 1990.
+
+Link: https://www.youtube.com/watch?v=mfxzum7TCJY
+
+### Which Dead Franchises Have To Make A Comeback? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=nm8X2Lvf0qA
+
+### Dragon's Dogma Switch 2 Port Tested vs Xbox Series S [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=ifEBstPd4Iw
+
+### Could Project Helix Replace Both Your PC And Xbox Console? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/kmzu_3HydI4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Ev6lVSmH3ZA
+
+### Which Games Will Benefit Most From PS5 QSSR Upscaling? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=BfUpde1Oxjk
+
+### The Witcher 3 Remastered: Best PC Settings - DF Optimised [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Complete Settings List Here: https://www.digitalfoundry.net/features/the-witcher-3-wild-hunt-remastered-pc-represents-a-generational-shift-but-youll-need-optimised-settings ► Watch the Full Video Here: https://youtu.
+
+Link: https://www.youtube.com/watch?v=oRTcl1wj0VY
+
+### STAR WARS: Galactic Racer Review Reaction - Universal Praise But Do We Agree? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=cmpE0uMGJ9o
+
+### 10 Years On Since Our First 4K 60FPS Capture Project - PS4 Pro And Mantis Burn Racing [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://www.youtube.com/watch?v=rd4n4fJ6M0c ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=GrfmHUguVGk
+
+### Jamming Through More Elden Ring Co-op w/ Jack and Jenna [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=LdJj03eL4Ts
+
+### Digger, Carrie, and the Lanterns Finale | The Rewind Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns.
+
+Link: https://www.youtube.com/watch?v=TPoAqB8cUNs
+
+### In Lanterns, the Ring Is a Prize - and Trap | The Backdrop [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=8QWo_9Tp2IM
+
+### The Force Is With Us in Star Wars: Galactic Racer | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+🎮 This week on Hidden Gems, Jesse and KC play Star Wars: Galactic Racer -- https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=pDgFvkQJQPQ
+
+### Horror Mechanics Need a Refresh | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, Marty, and Jesse G chat about the current state of horror games, and how they could use a mechanical refresh. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.
+
+Link: https://www.youtube.com/watch?v=pznykkW7-q4
+
+### Steam Frame and the Death Throes of VR | Design Delve [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In today's episode, J & Ludo discuss their experiences with the Steam Frame and how this might be the beginning of the end for the VR hobby as a whole. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=cNcQhCq-ztU
+
+### Come Challenge Us in Street Fighter 6 | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=4p52F733znI
 
 ## Entertainment Recommendations
 
@@ -183,4 +397,299 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### River | Official Trailer [10/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+RIVER "will drown you in pure terror." (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.
+
+Link: https://www.youtube.com/watch?v=ox8lEnsxDag
+
+### Get Out | Chris Finally Escapes The Sunken Place and Armitage Family [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.
+
+Link: https://www.youtube.com/watch?v=eDoCI0WWJfU
+
+### The Exorcist: Martyrs | Official Trailer [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Darkness must be hunted. Mike Flanagan’s The Exorcist: Martyrs is only in theaters March 12.
+
+Link: https://www.youtube.com/watch?v=iIEYfH-jg1Y
+
+### INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.
+
+Link: https://www.youtube.com/watch?v=GSOcspZfk0w
+
+### Meet the Megalodon. #GhostSoldierMovie [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to theatres. #GhostSoldierMovie https://www.instagram.com/ghostsoldiermovie/ https://x.com/GhostSoldierMov https://www.facebook.
+
+Link: https://www.youtube.com/watch?v=MYeWOm3eC1g
+
+### Misty Green | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
+
+### Misty Green | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=5SohUK9E_eo
+
+### You Can See Everything | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING – In theaters October 16.
+
+Link: https://www.youtube.com/watch?v=HvW_N5p1q44
+
+### Clarissa - Official Trailer - In Select Theaters December [9/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.
+
+Link: https://www.youtube.com/watch?v=sJAqmdXaM8U
+
+### VHS Mixtape | Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
+
+Link: https://www.youtube.com/watch?v=iZS2zDHidsk
+
+### Infirmary Trailer | Found Footage | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=STEprQnjfRo
+
+### The Cycle | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=m8vcBN8uza8
+
+### V/H/S/MIXTAPE | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Listen if you dare. Your favorite found footage franchise is back. V/H/S/MIXTAPE premieres October 9 on Shudder. #Shudder #VHSMIXTAPE Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=GrIouRKyPDw
+
+### HALLOWARRIOR | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Desperate for companionship on a post apocalyptic Halloween night, the Last Girl on Earth gets more than she bargained for. HALLOWARRIOR premieres October 16 on Shudder.
+
+Link: https://www.youtube.com/watch?v=ORjn6ox53_U
+
+### River | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
+
+### The Exorcist: Martyrs | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
+
+Link: https://www.youtube.com/watch?v=5knKQTEddik
+
+### Obsess | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Obsess is a new Arabic horror series starring Haya Abdulsalam, Yaquob Alfarhan and Layla Abdullah.
+
+Link: https://www.youtube.com/watch?v=4mkoF6Xv5Zc
+
+### NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Only in theaters 11 February. Academy Award–nominated filmmaker Greta Gerwig brings C. S.
+
+Link: https://www.youtube.com/watch?v=O8hR2dQGv0k
+
+### NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Only in theaters February 12. Academy Award–nominated filmmaker Greta Gerwig brings C. S.
+
+Link: https://www.youtube.com/watch?v=gDJ-ini7fF0
+
+### Charli xcx stars as Mother Nature in #SacrificeMovie premiering in the US and France October 16 [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Charli xcx stars as Mother Nature in #SacrificeMovie premiering in the US and France October 16 Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=KmzCZdpjWRk
+
+### Love Is Blind S11: Boston | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Gentle reminder to close your pod door before talking about your date! The first 5 episodes of Love Is Blind S11: Boston premiere tomorrow! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=DK__Vktf_ng
+
+### The Child | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.
+
+Link: https://www.youtube.com/watch?v=vsXs3Km6UDw
+
+### The Christmas Switch | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=dBxrOZsMsrI
+
+### The Disciple: A Wu-Tang Fable | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The true story of an outsider whose relentless determination catapults him into the Wu-Tang Clan’s inner circle, where ambition and creativity converge to record an album poised to ignite global controversy. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=pgXUkeU1BS8
+
+### Theo Von: I’m Doing Fine | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian and chart-topping podcaster Theo Von returns to Netflix with his third stand-up special and his first in five years.
+
+Link: https://www.youtube.com/watch?v=r0H-oWUFJbk
+
+### The Body | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+They pray hard and sin harder. After a dance-team initiation goes very wrong, the whole town starts asking the same question: What happened to Grace? The Body premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=wl7uj7n7DoY
+
+### A Dog’s Perfect Christmas | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+From the beloved author of A Dog’s Purpose, A Dog’s Way Home, and A Dog’s Journey comes a heartfelt holiday story.
+
+Link: https://www.youtube.com/watch?v=L18ih13Bf-U
+
+### The Riot | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Europe’s largest post-war prison riot breaks out in Poland. It’s a time of violence, political intrigue, and a fight for survival. When criminals take control of the prison, bloodshed seems inevitable.
+
+Link: https://www.youtube.com/watch?v=oaHq9DQIxfI
+
+### Reasons We Love Morgan. NOBODY WANTS THIS returns Oct. 22, only on Netflix! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Reasons We Love Morgan #NobodyWantsThis Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QwGdHvxNDAs
+
+### 12 12 12 — Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Anthony Mackie and Jamie Dornan star in this heist drama. 12 months to plan. 12 hours to execute. 12 days to make it out alive. 12 12 12 premieres November 13 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=pWdt8WMCqnc
+
+### Brothers — Matthew McConaughey and Woody Harrelson Perform an Original Song | Full Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.
+
+Link: https://www.youtube.com/watch?v=CEvfMPHqlQA
+
+### Remnants — Official Reaction Trailer | Apple Vision Pro [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+See real reactions from people experiencing, Remnants, Apple’s first immersive horror film. Watch as they step inside Woldmere Castle and enter the unsettling world created by writer and director Ti West.
+
+Link: https://www.youtube.com/watch?v=E_5HZBhf1eU
+
+### Being Heumann — Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on a true story about disability rights activist Judy Heumann, directed by CODA’s Siân Heder (Academy Award® Winner, Best Picture). Making the world better one federal building takeover at a time.
+
+Link: https://www.youtube.com/watch?v=CQp2pUXLvJk
