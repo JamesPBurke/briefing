@@ -1,20 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-13T18:00:21.726480Z",
-  "generatedAtDisplay": "2026-10-13 02:00 PM EDT",
+  "generatedAt": "2026-10-14T05:00:02.421629Z",
+  "generatedAtDisplay": "2026-10-14 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are I tried out Apple’s HomeView smart display, Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates, and Apple unveils new smart home devices that showcase upgraded Siri AI.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and OpenAI employee arrested after recording device found in office.",
   "mainItems": [
     {
-      "title": "I tried out Apple’s HomeView smart display",
-      "source": "The Verge",
+      "title": "My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
-      "published": "2026-10-13T17:40:16+00:00",
-      "summary": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI.",
+      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
+      "published": "2026-10-14T04:00:45+00:00",
+      "summary": "Gavin Guffey was 17 when he was targeted by a ‘sextortionist’ on Instagram.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "published": "2026-10-14T04:00:44+00:00",
+      "summary": "Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this year Human rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI employee arrested after recording device found in office",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
+      "published": "2026-10-13T22:59:55+00:00",
+      "summary": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
+      "published": "2026-10-13T21:54:00+00:00",
+      "summary": "I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "published": "2026-10-13T21:36:13+00:00",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "published": "2026-10-13T19:10:43+00:00",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
+      "published": "2026-10-13T19:22:02+00:00",
+      "summary": "Katie Zacharia’s maiden briefing was excruciating – at least her predecessor had delivered her propaganda hot Well, that was weird.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "published": "2026-10-13T18:23:33+00:00",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates",
@@ -24,87 +94,7 @@
       "published": "2026-10-13T16:30:00+00:00",
       "summary": "Ohio’s chronic absenteeism rate has been trending downward in recent years, but still remains higher than it was pre-pandemic. The statewide chronic absenteeism rate — missing 10% or more of school hours for any reason — was 23.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
-      "published": "2026-10-13T16:25:22+00:00",
-      "summary": "New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an iPad-like device dubbed the HomeView,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I will not be silenced’: Trump critic Ilhan Omar defiant after home raided - The Latest",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest",
-      "published": "2026-10-13T16:24:23+00:00",
-      "summary": "Democrats have described a raid on the home of Congresswoman Ilhan Omar as “deeply disturbing” and a “rogue abuse of power” by the Trump administration.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Texas man run over by ICE has never met the person agents were allegedly chasing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
-      "published": "2026-10-13T16:12:08+00:00",
-      "summary": "Miguel Parra-Hernandez suffers from serious hip and leg injuries in Houston and remains in ICE custody, according to his representatives US man shoots off-duty ICE agent who allegedly attacked him and daughter A Texas man whose leg was…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Hands-on with the Apple Home Collection",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "published": "2026-10-13T16:11:00+00:00",
-      "summary": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Companies rushed in on AI. Now some are pulling back",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-      "published": "2026-10-13T15:00:00+00:00",
-      "summary": "Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence tools.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/",
-      "published": "2026-10-13T14:51:11+00:00",
-      "summary": "A federal warrant application detailed how Tesla’s security protocols stopped agents from tracking a suspected drug trafficker’s car.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google finally releases Gemini 4 Argon",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "published": "2026-10-13T12:12:37+00:00",
-      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Teacher Pay and a Controversial Curriculum: Inside District’s 10th State Takeover",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/teacher-pay-a-controversial-curriculum-inside-districts-10th-state-takeover/",
-      "published": "2026-10-13T10:30:00+00:00",
-      "summary": "In Texas, a school system that fails to meet its students’ needs for five consecutive years faces daunting alternatives.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "The Download: open model trade-offs and geothermal power’s promise",
@@ -117,22 +107,32 @@
       "score": 9
     },
     {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "published": "2026-10-13T20:06:53+00:00",
+      "summary": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/narnia-magicians-nephew-trailer-netflix/",
+      "published": "2026-10-13T18:33:45+00:00",
+      "summary": "Greta Gerwig has adapted C.S. Lewis’ book for the big screen The post Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
       "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
       "source": "NPR Health",
       "category": "Science / health",
       "url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
       "published": "2026-10-13T17:41:07+00:00",
       "summary": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night , she writes about two young prodigies in the late 18th and early 19th centuries.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
-      "published": "2026-10-13T16:35:23+00:00",
-      "summary": "DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space,\" he said. \"I think that's a really beautiful thing.”",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-13T18:00:21.726480Z
+Generated: 2026-10-14T05:00:02.421629Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are I tried out Apple’s HomeView smart display, Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates, and Apple unveils new smart home devices that showcase upgraded Siri AI.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children, Iranian woman handed death sentence for ‘blasphemy’ in social media post, and OpenAI employee arrested after recording device found in office.
 
 ## Briefing
 
@@ -33,16 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. I tried out Apple’s HomeView smart display [10/10]
+### 1. My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Gavin Guffey was 17 when he was targeted by a ‘sextortionist’ on Instagram.
+
+Link: https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist
+
+### 2. Iranian woman handed death sentence for ‘blasphemy’ in social media post [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this year Human rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports…
+
+Link: https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet
+
+### 3. OpenAI employee arrested after recording device found in office [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI.
+
+Link: https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device
+
+### 4. Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres.
+
+Link: https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game
+
+### 5. OpenAI employee arrested for allegedly planting a bug in a conference room [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI.
+An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.
 
-Link: https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on
+Link: https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device
 
-### 2. Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates [10/10]
+### 6. Xbox is officially embracing the chaos of AI-powered game ports [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.
+
+Link: https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
+
+### 7. Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Katie Zacharia’s maiden briefing was excruciating – at least her predecessor had delivered her propaganda hot Well, that was weird.
+
+Link: https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing
+
+### 8. Disney offers $20M for Character.AI’s scandal-plagued chatbot tech [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Disney may acquire tech from one of the first chatbot makers linked to child suicide.
+
+Link: https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
+
+### 9. Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -51,79 +114,7 @@ Ohio’s chronic absenteeism rate has been trending downward in recent years, bu
 
 Link: https://www.the74million.org/article/ohios-chronic-absenteeism-rate-is-dropping-but-is-still-above-pre-pandemic-rates/
 
-### 3. Apple unveils new smart home devices that showcase upgraded Siri AI [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an iPad-like device dubbed the HomeView,…
-
-Link: https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai
-
-### 4. ‘I will not be silenced’: Trump critic Ilhan Omar defiant after home raided - The Latest [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Democrats have described a raid on the home of Congresswoman Ilhan Omar as “deeply disturbing” and a “rogue abuse of power” by the Trump administration.
-
-Link: https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest
-
-### 5. Texas man run over by ICE has never met the person agents were allegedly chasing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Miguel Parra-Hernandez suffers from serious hip and leg injuries in Houston and remains in ICE custody, according to his representatives US man shoots off-duty ICE agent who allegedly attacked him and daughter A Texas man whose leg was…
-
-Link: https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle
-
-### 6. Hands-on with the Apple Home Collection [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's "Welcome Home" event on Tuesday.
-
-Link: https://www.theverge.com/tech/1009899/apple-home-collection-hands-on
-
-### 7. Companies rushed in on AI. Now some are pulling back [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence tools.
-
-Link: https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
-
-### 8. Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A federal warrant application detailed how Tesla’s security protocols stopped agents from tracking a suspected drug trafficker’s car.
-
-Link: https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/
-
-### 9. Google finally releases Gemini 4 Argon [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon
-
-### 10. Teacher Pay and a Controversial Curriculum: Inside District’s 10th State Takeover [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In Texas, a school system that fails to meet its students’ needs for five consecutive years faces daunting alternatives.
-
-Link: https://www.the74million.org/article/teacher-pay-a-controversial-curriculum-inside-districts-10th-state-takeover/
-
-### 11. The Download: open model trade-offs and geothermal power’s promise [9/10]
+### 10. The Download: open model trade-offs and geothermal power’s promise [9/10]
 **Source:** MIT Technology Review  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -132,7 +123,25 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/
 
-### 12. Writer Yiyun Li lost both of her sons. When words fell short, she turned to music [8/10]
+### 11. Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.
+
+Link: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/
+
+### 12. Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Greta Gerwig has adapted C.S. Lewis’ book for the big screen The post Narnia: The Magician’s Nephew Trailer Reveals a Psychedelic Adaptation of C.S. Lewis’ Book appeared first on Reactor .
+
+Link: https://reactormag.com/narnia-magicians-nephew-trailer-netflix/
+
+### 13. Writer Yiyun Li lost both of her sons. When words fell short, she turned to music [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +150,37 @@ Li won a Pulitzer for her memoir about the suicides of her two sons. In her new 
 
 Link: https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night
 
-### 13. The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’ [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+## YouTube
 
-DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space," he said. "I think that's a really beautiful thing.”
+_No YouTube picks in this briefing._
 
-Link: https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
