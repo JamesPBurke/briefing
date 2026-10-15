@@ -1,69 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-15T09:00:27.547933Z",
-  "generatedAtDisplay": "2026-10-15 05:00 AM EDT",
+  "generatedAt": "2026-10-15T14:00:05.550974Z",
+  "generatedAtDisplay": "2026-10-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward CS education / AI policy, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Pakistan school roof collapse leaves at least 27 students dead, Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi, and Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It..",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists, GTA VI’s new trailer gives you one more look at Vice City, and \"I lost the concept of home, until my grandmother took me into these forests\" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales.",
   "mainItems": [
     {
-      "title": "Pakistan school roof collapse leaves at least 27 students dead",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
-      "published": "2026-10-15T08:25:33+00:00",
-      "summary": "Death toll likely to rise as rescuers in Peshawar work to find dozens of pupils still unaccounted for At ⁠least 27 students, most younger than 13, have been killed after ⁠a ​school roof collapsed during classes in Peshawar, north-west…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin",
-      "published": "2026-10-15T06:00:23+00:00",
-      "summary": "The late Christoph Schlingensief was one of German art’s great provocateurs.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It.",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/sold-a-story-season-2-teachers-and-schools-matter-we-should-act-like-it/",
-      "published": "2026-10-15T05:01:00+00:00",
-      "summary": "I think that Emily Hanford and I first connected about a decade ago — probably on Twitter.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "What is Starshield, SpaceX’s military-grade Starlink system, and how will its restriction affect Ukraine?",
-      "source": "The Guardian US",
+      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained",
-      "published": "2026-10-15T04:43:04+00:00",
-      "summary": "Zelenskyy frames sudden shift as a betrayal by Trump, as spotlight turns on how Elon Musk’s SpaceX and the Pentagon control the crucial service Volodymyr Zelenskyy has accused SpaceX of restricting access to its military-grade Starlink…",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "published": "2026-10-15T13:24:51+00:00",
+      "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The AI race is back on",
+      "title": "GTA VI’s new trailer gives you one more look at Vice City",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer",
+      "published": "2026-10-15T13:17:17+00:00",
+      "summary": "The day is almost here, as Grand Theft Auto VI is just about a month away from finally coming out. But before that there's still one more look from Rockstar Games, which just put out a brief \"launch\" trailer for the game.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"I lost the concept of home, until my grandmother took me into these forests\" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/i-lost-the-concept-of-home-until-my-grandmother-took-me-into-these-forests-trollheim-gnomes-is-a-survival-game-from-ex-dice-and-paradox-devs-that-channels-childhood-fairytales",
+      "published": "2026-10-15T13:00:00+00:00",
+      "summary": "Swedish studio Off-leash Interactive and Denshattack publishers Fireshine Games have announced Trollheim: Gnomes , a survival-crafting fairytale in which you, a three-inch-high gnome, explore a procedurally generated forest derived from…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Illinois man arrested over alleged plot to attack Hindu place of worship, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/man-arrested-chicago-suburb-plot-mass-shooting",
+      "published": "2026-10-15T12:20:36+00:00",
+      "summary": "Authorities say suspect, 19, was allegedly planning a mass shooting and had shared a white supremacist manifesto A man arrested in a Chicago suburb had shared a ⁠document expressing white supremacist views and outlined an alleged plan to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "published": "2026-10-15T00:16:12+00:00",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "published": "2026-10-15T11:23:42+00:00",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Student protests in Albania turn violent as demonstrators clash with police",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-      "published": "2026-10-14T23:19:43+00:00",
-      "summary": "Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "source": "NPR Health",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+      "published": "2026-10-15T11:06:21+00:00",
+      "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "League of Legends Classic will become a thing of the past in January 2027, though it may one day be resurrected as a limited-time event",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event",
+      "published": "2026-10-15T11:01:24+00:00",
+      "summary": "The classic mode rolled out in League of Legends earlier this year will cease to be a permanent addition once the calendar flips over into 2027, ending a fairly brief nostalgia run, devs Riot have announced.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -77,24 +87,34 @@
       "score": 10
     },
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "published": "2026-10-14T21:17:29+00:00",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It.",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/sold-a-story-season-2-teachers-and-schools-matter-we-should-act-like-it/",
+      "published": "2026-10-15T05:01:00+00:00",
+      "summary": "I think that Emily Hanford and I first connected about a decade ago — probably on Twitter.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
-      "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
-      "published": "2026-10-15T08:48:27+00:00",
-      "summary": "Big Walk developer House House has explained the lack of an Xbox version for the popular co-operative puzzle game, pointing to the ongoing BDS boycott as the core reason behind its decision. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Some Texas Colleges Get OK for New Workforce Pell That Pays for Job Training",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/some-texas-colleges-get-ok-for-new-workforce-pell-that-pays-for-job-training/",
+      "published": "2026-10-14T18:30:00+00:00",
+      "summary": "Students at five Texas community colleges can now seek the new Workforce Pell grants to pay for job training. The community colleges recently received the stamp of approval from the U.S.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
+    },
+    {
+      "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+      "published": "2026-10-15T13:25:19+00:00",
+      "summary": "Most ChatGPT users probably don’t know you can be specifically targeted on the platform by advertisers based on your email, phone number, or unique phone identifier.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "You Might Not Want to Go Home Again in the Trailer for the Final Season of Yellowjackets",
@@ -107,34 +127,14 @@
       "score": 8
     },
     {
-      "title": "Character.ai Bankruptcy Is First AI Bubble Domino to Fall",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall/",
-      "published": "2026-10-14T14:34:54+00:00",
-      "summary": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
-      "published": "2026-10-14T13:00:00+00:00",
-      "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "These workers help train robots who could one day steal their jobs",
+      "title": "Essential items to stock in your medicine cabinet for cold and flu season",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-      "published": "2026-10-14T09:28:47+00:00",
-      "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
+      "published": "2026-10-15T09:02:00+00:00",
+      "summary": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -146,6 +146,17 @@
       "published": "2026-10-13T08:56:12+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Multiplayer Gaming & Flight Simulation - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=WqrwAFs-fq0",
+      "published": "2026-10-15T13:30:19+00:00",
+      "summary": "Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -181,6 +192,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "In this political climate, what gives you hope for the future? | Voter Voices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6dHRdgT3znc",
+      "published": "2026-10-15T13:00:14+00:00",
+      "summary": "“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Zelenskyy defends Ukraine as a strong partner of the U.S.",
@@ -225,39 +247,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Pope Leo diagnosed with lung cancer after surgery to remove a growth",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=MSwC0TD_k3w",
-      "published": "2026-10-14T16:30:25+00:00",
-      "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "A pastor shares how opening up to his wife about his panic attacks helped him be more vulnerable",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=IPwUKI-Tjmg",
-      "published": "2026-10-14T15:15:35+00:00",
-      "summary": "Rev. Dr. Johnny Parker, a pastor and counselor, found power in opening up to his wife about needing her to accompany him to a dentist appointment due to his struggles with panic attacks during previous dental visits.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Thousands sue over possible GLP-1 side effects, including blindness, pancreatitis",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=dweZeWlM7WQ",
-      "published": "2026-10-14T14:40:32+00:00",
-      "summary": "More than 4,000 plaintiffs across the country are suing drugmakers, claiming serious harms from GLP-1 drugs, raising questions about how common such side effects are.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Ace Combat 8 Tested - Easily One Of The Best Games Of The Year",
@@ -330,11 +319,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=L0S2DwRXJqw",
-      "published": "2026-10-14T16:11:04+00:00",
+      "published": "2026-10-15T13:07:18+00:00",
       "summary": "KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Yahtzee Tries... Thank You Bus Driver and Valor Mortis",
@@ -344,8 +333,8 @@
       "published": "2026-10-14T22:09:05+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Thank You Bus Driver and Valor Mortis. https://store.steampowered.com/app/5067360/Thank_You_Bus_Driver/ https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Silent Hill: Townfall | Fully Ramblomatic",
@@ -493,17 +482,6 @@
       "verdict": "Optional"
     },
     {
-      "title": "Misty Green | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5SohUK9E_eo",
-      "published": "2026-09-24T13:00:23+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Clarissa - Official Trailer - In Select Theaters December",
       "source": "NEON",
       "category": "Film / trailer",
@@ -578,6 +556,28 @@
       "summary": "Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "STEPS | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+      "published": "2026-10-15T13:00:02+00:00",
+      "summary": "At midnight, we ride. Watch STEPS, only on Netflix, November 20. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Beat Luke Littler | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=-G8FapnfXPs",
+      "published": "2026-10-15T09:00:00+00:00",
+      "summary": "Twenty amateurs step onto the oche against the world champion, Luke Littler. One leg of 501. £501,000 on the line. 30th October, live on Netflix. They can't beat him… can they? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -697,28 +697,6 @@
       "url": "https://www.youtube.com/watch?v=DK__Vktf_ng",
       "published": "2026-10-13T16:00:00+00:00",
       "summary": "Gentle reminder to close your pod door before talking about your date! The first 5 episodes of Love Is Blind S11: Boston premiere tomorrow! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Child | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=vsXs3Km6UDw",
-      "published": "2026-10-13T10:00:00+00:00",
-      "summary": "Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Christmas Switch | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dBxrOZsMsrI",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -879,8 +857,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
-    "trailerCount": 32,
-    "sourceCount": 22
+    "youtubeCount": 24,
+    "trailerCount": 31,
+    "sourceCount": 23
   }
 }

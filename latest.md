@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-15T09:00:27.547933Z
+Generated: 2026-10-15T14:00:05.550974Z
 
-Today's sweep leans toward CS education / AI policy, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Pakistan school roof collapse leaves at least 27 students dead, Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi, and Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It..
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists, GTA VI’s new trailer gives you one more look at Vice City, and "I lost the concept of home, until my grandmother took me into these forests" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Pakistan school roof collapse leaves at least 27 students dead [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 1. Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Death toll likely to rise as rescuers in Peshawar work to find dozens of pupils still unaccounted for At ⁠least 27 students, most younger than 13, have been killed after ⁠a ​school roof collapsed during classes in Peshawar, north-west…
+Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more
 
-Link: https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead
+Link: https://www.eurogamer.net/grand-theft-auto-6-launch-trailer
 
-### 2. Her royal heilness: Berlin show revisits the artist who turned the Queen into a Nazi [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 2. GTA VI’s new trailer gives you one more look at Vice City [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The late Christoph Schlingensief was one of German art’s great provocateurs.
+The day is almost here, as Grand Theft Auto VI is just about a month away from finally coming out. But before that there's still one more look from Rockstar Games, which just put out a brief "launch" trailer for the game.
 
-Link: https://www.theguardian.com/artanddesign/2026/oct/15/the-queen-nazi-far-right-hamlet-christoph-schlingensief-berlin
+Link: https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer
 
-### 3. Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It. [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 3. "I lost the concept of home, until my grandmother took me into these forests" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I think that Emily Hanford and I first connected about a decade ago — probably on Twitter.
+Swedish studio Off-leash Interactive and Denshattack publishers Fireshine Games have announced Trollheim: Gnomes , a survival-crafting fairytale in which you, a three-inch-high gnome, explore a procedurally generated forest derived from…
 
-Link: https://www.the74million.org/article/sold-a-story-season-2-teachers-and-schools-matter-we-should-act-like-it/
+Link: https://www.rockpapershotgun.com/i-lost-the-concept-of-home-until-my-grandmother-took-me-into-these-forests-trollheim-gnomes-is-a-survival-game-from-ex-dice-and-paradox-devs-that-channels-childhood-fairytales
 
-### 4. What is Starshield, SpaceX’s military-grade Starlink system, and how will its restriction affect Ukraine? [10/10]
+### 4. Illinois man arrested over alleged plot to attack Hindu place of worship, police say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Zelenskyy frames sudden shift as a betrayal by Trump, as spotlight turns on how Elon Musk’s SpaceX and the Pentagon control the crucial service Volodymyr Zelenskyy has accused SpaceX of restricting access to its military-grade Starlink…
+Authorities say suspect, 19, was allegedly planning a mass shooting and had shared a white supremacist manifesto A man arrested in a Chicago suburb had shared a ⁠document expressing white supremacist views and outlined an alleged plan to…
 
-Link: https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained
+Link: https://www.theguardian.com/us-news/2026/oct/15/man-arrested-chicago-suburb-plot-mass-shooting
 
-### 5. The AI race is back on [10/10]
+### 5. Google launches its ‘universal’ online shopping cart ahead of the holidays [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.
+Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on
+Link: https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch
 
-### 6. Student protests in Albania turn violent as demonstrators clash with police [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 6. After booting 760K off ACA health plans, the Trump administration adds some people back [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting…
+The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.
 
-Link: https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes
+Link: https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance
 
-### 7. Fridge hack costing millions and sparking fires stemmed from poor security [10/10]
+### 7. League of Legends Classic will become a thing of the past in January 2027, though it may one day be resurrected as a limited-time event [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The classic mode rolled out in League of Legends earlier this year will cease to be a permanent addition once the calendar flips over into 2027, ending a fairly brief nostalgia run, devs Riot have announced.
+
+Link: https://www.rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event
+
+### 8. Fridge hack costing millions and sparking fires stemmed from poor security [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -96,25 +105,34 @@ Incident hitting 700 supermarkets exploited outdated devices exposed to the Inte
 
 Link: https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/
 
-### 8. Eight states sue OpenAI, saying ChatGPT isn’t safe for kids [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. Opinion: ‘Sold a Story’ Season 2: Teachers and Schools Matter. We Should Act Like It. [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters.
+I think that Emily Hanford and I first connected about a decade ago — probably on Twitter.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety
+Link: https://www.the74million.org/article/sold-a-story-season-2-teachers-and-schools-matter-we-should-act-like-it/
 
-### 9. Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Some Texas Colleges Get OK for New Workforce Pell That Pays for Job Training [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Big Walk developer House House has explained the lack of an Xbox version for the popular co-operative puzzle game, pointing to the ongoing BDS boycott as the core reason behind its decision. Read more
+Students at five Texas community colleges can now seek the new Workforce Pell grants to pay for job training. The community colleges recently received the stamp of approval from the U.S.
 
-Link: https://www.eurogamer.net/big-walk-xbox-version-bds-boycott
+Link: https://www.the74million.org/article/some-texas-colleges-get-ok-for-new-workforce-pell-that-pays-for-job-training/
 
-### 10. You Might Not Want to Go Home Again in the Trailer for the Final Season of Yellowjackets [8/10]
+### 11. How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Most ChatGPT users probably don’t know you can be specifically targeted on the platform by advertisers based on your email, phone number, or unique phone identifier.
+
+Link: https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/
+
+### 12. You Might Not Want to Go Home Again in the Trailer for the Final Season of Yellowjackets [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,32 +141,14 @@ It's like raaaaaaain on your rescue day The post You Might Not Want to Go Home A
 
 Link: https://reactormag.com/yellowjackets-season-4-teaser/
 
-### 11. Character.ai Bankruptcy Is First AI Bubble Domino to Fall [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.
-
-Link: https://www.404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall/
-
-### 12. Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.
-
-Link: https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2
-
-### 13. These workers help train robots who could one day steal their jobs [8/10]
+### 13. Essential items to stock in your medicine cabinet for cold and flu season [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?
+Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet.
 
-Link: https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs
+Link: https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.
 
 Link: https://www.youtube.com/watch?v=z_sXLlLVUls
+
+### Multiplayer Gaming & Flight Simulation - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.
+
+Link: https://www.youtube.com/watch?v=WqrwAFs-fq0
 
 ### ‘Abbott Elementary’ Cast Answer The 50 Most Searched Questions [7/10]
 **Creator:** WIRED  
@@ -187,6 +196,15 @@ Link: https://www.youtube.com/watch?v=84lXf5WMVJo
 Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.
 
 Link: https://www.youtube.com/watch?v=dmyi8LO6CBo
+
+### In this political climate, what gives you hope for the future? | Voter Voices [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.
+
+Link: https://www.youtube.com/watch?v=6dHRdgT3znc
 
 ### Zelenskyy defends Ukraine as a strong partner of the U.S. [7/10]
 **Creator:** NPR  
@@ -223,33 +241,6 @@ Link: https://www.youtube.com/watch?v=YLj-c1Hi8pg
 In an NPR interview, Ukrainian President Volodymyr Zelenskyy discusses tensions with Trump, U.S. sanctions relief for Russian oil and threats to intelligence-sharing as the war continues. • Read the full story here: https://www.npr.
 
 Link: https://www.youtube.com/watch?v=qABJBOGBVNo
-
-### Pope Leo diagnosed with lung cancer after surgery to remove a growth [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.
-
-Link: https://www.youtube.com/watch?v=MSwC0TD_k3w
-
-### A pastor shares how opening up to his wife about his panic attacks helped him be more vulnerable [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Rev. Dr. Johnny Parker, a pastor and counselor, found power in opening up to his wife about needing her to accompany him to a dentist appointment due to his struggles with panic attacks during previous dental visits.
-
-Link: https://www.youtube.com/watch?v=IPwUKI-Tjmg
-
-### Thousands sue over possible GLP-1 side effects, including blindness, pancreatitis [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-More than 4,000 plaintiffs across the country are suing drugmakers, claiming serious harms from GLP-1 drugs, raising questions about how common such side effects are.
-
-Link: https://www.youtube.com/watch?v=dweZeWlM7WQ
 
 ### Ace Combat 8 Tested - Easily One Of The Best Games Of The Year [8/10]
 **Creator:** Digital Foundry  
@@ -305,18 +296,18 @@ Link: https://www.youtube.com/watch?v=Ev6lVSmH3ZA
 
 Link: https://www.youtube.com/watch?v=BfUpde1Oxjk
 
-### Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty [7/10]
+### Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=L0S2DwRXJqw
 
-### Yahtzee Tries... Thank You Bus Driver and Valor Mortis [7/10]
+### Yahtzee Tries... Thank You Bus Driver and Valor Mortis [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try Thank You Bus Driver and Valor Mortis. https://store.steampowered.com/app/5067360/Thank_You_Bus_Driver/ https://store.steampowered.
@@ -469,15 +460,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starri
 
 Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
 
-### Misty Green | Official Trailer 2 HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
-
-Link: https://www.youtube.com/watch?v=5SohUK9E_eo
-
 ### Clarissa - Official Trailer - In Select Theaters December [9/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -540,6 +522,24 @@ Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
 Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
+
+### STEPS | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+At midnight, we ride. Watch STEPS, only on Netflix, November 20. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=tNV4i3BqUGY
+
+### Beat Luke Littler | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Twenty amateurs step onto the oche against the world champion, Luke Littler. One leg of 501. £501,000 on the line. 30th October, live on Netflix. They can't beat him… can they? Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=-G8FapnfXPs
 
 ### Hollywood Arts | Here to Stay | Music Video | Netflix [10/10]
 **Source:** Netflix  
@@ -639,24 +639,6 @@ Link: https://www.youtube.com/watch?v=KmzCZdpjWRk
 Gentle reminder to close your pod door before talking about your date! The first 5 episodes of Love Is Blind S11: Boston premiere tomorrow! Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=DK__Vktf_ng
-
-### The Child | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Mariaje and Nicasio, a mother and a grandfather whose lives were forever marked by loss, seek, each in their own way, a way to live with the memory and the pain.
-
-Link: https://www.youtube.com/watch?v=vsXs3Km6UDw
-
-### The Christmas Switch | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=dBxrOZsMsrI
 
 ### 12 12 12 — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  
