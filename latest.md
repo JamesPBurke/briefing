@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-16T14:00:02.570018Z
+Generated: 2026-10-16T18:00:17.353779Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine, For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster, and Opinion: Can ‘Sold a Story’ Change How America Teaches?.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Amber Guyger, police officer who murdered black neighbor in his home, released from prison, Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste, and Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here.
 
 ## Briefing
 
@@ -33,70 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux.
-
-Link: https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development
-
-### 2. For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster [10/10]
+### 1. Amber Guyger, police officer who murdered black neighbor in his home, released from prison [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Low-interest loans kept many eateries afloat.
+Guyger, convicted of murder of Botham Jean in Dallas in 2018, served seven years of 10-year sentence The former Dallas police officer who was convicted of murdering Botham Jean after entering his apartment and shooting him in 2018 was…
 
-Link: https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans
+Link: https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released
 
-### 3. Opinion: Can ‘Sold a Story’ Change How America Teaches? [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A version of this essay originally appeared on “The Next 30 Years” Substack. By a considerable margin, Emily Hanford is our most consequential education journalist. This is not idle praise.
-
-Link: https://www.the74million.org/article/can-sold-a-story-change-how-america-teaches/
-
-### 4. Shooter kills three children and one teacher at Oregon elementary school [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far Schools in Bend, Oregon , will be closed on Friday after a 16-year-old shooter…
-
-Link: https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting
-
-### 5. Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets [10/10]
+### 2. Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Steam has a new feature in beta aimed at helping completionists feel like they've got a bit more of a handle on their never-ending quests to 100% games whose trophy lists keep on growing and evolving.
+After enjoying Echo Weaver last week, I'm in the market for games that gaze with utmost scorn upon the concept of unlockable abilities, smugly declaring that everything you need to complete them is available to you from the word go.
 
-Link: https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets
+Link: https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste
 
-### 6. Jon Ossoff’s rise to US Senate was meteoric – how high can he go? [10/10]
+### 3. Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+While most Hawaiʻi students were relaxing on fall break, it was crunch time for teens at Nalukai Academy in Hilo.
+
+Link: https://www.the74million.org/article/hawai%ca%bbis-youth-are-leaving-meet-the-people-keeping-talent-here/
+
+### 4. Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.
+
+Link: https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/
+
+### 5. Starlink access still not fully restored for Ukraine’s military, says Zelenskyy [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The media-savvy Democratic senator is defying predictions of a tight re-election battle.
+Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said the Ukrainian military’s access to the…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms
+Link: https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy
 
-### 7. Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator [9/10]
+### 6. Tesla turns to 50-year-old stunt technology as it tries to Roadster again [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+If you want to make a car spin in the air, compressed gas is a good way to do it.
+
+Link: https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/
+
+### 7. Trump says he told Katie Zacharia she should ‘reconsider’ role as White House press secretary – live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Zacharia has been on the defense since her shaky debut before reporters and a semantics battle over whether or not she is a lawyer Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and…
+
+Link: https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates
+
+### 8. Behind the Blog: Doing Whatever [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Christopher Thomas Mertens, a high school maintenance worker, was arrested after attempting to meet up with an AI persona that he thought was a 15 year old boy.
+This week, we discuss a new pod setup, video games, and Elon's spending habits.
 
-Link: https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/
+Link: https://www.404media.co/behind-the-blog-doing-whatever/
 
-### 8. Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day [9/10]
+### 9. Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day [9/10]
 **Source:** Eurogamer  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,16 +114,7 @@ The launch of a new live season is hard, and subtle changes to a game can have m
 
 Link: https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks
 
-### 9. The Download: failed social media bans, and extending pets’ lives [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.
-
-Link: https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/
-
-### 10. Can Educational TV Help Early Learners Love Reading? [9/10]
+### 10. Can Educational TV Help Early Learners Love Reading? [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -132,7 +132,16 @@ Men and women across India are being paid to record themselves doing domestic jo
 
 Link: https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores
 
-### 12. You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer [8/10]
+### 12. Hit a midlife wall? Here's how to rediscover your strengths [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Health and science correspondent Allison Aubrey talks with Ailsa Chang about her new podcast Your Turn with Allison Aubrey — and they share a survey that can help us identify our most positive character traits.
+
+Link: https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide
+
+### 13. You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-
 What exactly you're running from, or what the plot is, however, remains a mystery The post You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer appeared first on Reactor .
 
 Link: https://reactormag.com/cyberpunk-edgerunners-2-trailer/
-
-### 13. Public health nurse talks about the moment she learned to ask for help [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-For StoryCorps, a public health nurse in Minnesota speaks with her college mentor about a moment when she almost gave up on her career aspirations.
-
-Link: https://www.npr.org/2026/10/16/nx-s1-5998634/public-health-nurse-talks-about-the-moment-she-learned-to-ask-for-help
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.npr.org/2026/10/16/nx-s1-5998634/public-health-nurse-talks-abo
 Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.
 
 Link: https://www.youtube.com/watch?v=WqrwAFs-fq0
+
+### Historian Fact Checks Gilded Age Slop [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Historian Carl Raymond as we fact check the internet, Gilded Age edition.
+
+Link: https://www.youtube.com/watch?v=OxxOEUHfzw4
 
 ### Mr. Johnson: Abbott Elementary's Many-Faced God [7/10]
 **Creator:** WIRED  
@@ -188,14 +197,32 @@ Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s b
 
 Link: https://www.youtube.com/watch?v=84lXf5WMVJo
 
-### Indian Film Expert Answers Bollywood Questions [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
+### Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks [10/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
 
-Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.
+Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including an American photojournalist.
 
-Link: https://www.youtube.com/watch?v=dmyi8LO6CBo
+Link: https://www.youtube.com/watch?v=aCW3VOdMiAg
+
+### In this political climate, what gives you hope for the future? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.
+
+Link: https://www.youtube.com/watch?v=mRcSs5LZ1OI
+
+### 3 children, teacher killed in Oregon school shooting [10/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Three children and a teacher are dead after a 16-year-old gunman forced his way into an elementary school and opened fire Thursday in Bend, Oregon. Bend Police Chief Mike Krantz says the children killed were aged 5, 8 and 11.
+
+Link: https://www.youtube.com/watch?v=zJmXpdPScDs
 
 ### Factory workers in India are being asked to wear GoPro cameras to train robots. Will it work?⁠ [7/10]
 **Creator:** NPR  
@@ -224,36 +251,45 @@ Archaeologists say they’ve found the world’s oldest shipwreck.⁠ ⁠ It’s
 
 Link: https://www.youtube.com/watch?v=Lh0o16AHLaA
 
-### Roof collapse at school kills more than 30 children in Pakistan [9/10]
+### Roof collapse at school kills more than 30 children in Pakistan [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Authorities in Pakistan say a roof collapse at a school has left more more than 30 children and at least one teacher dead.
 
 Link: https://www.youtube.com/watch?v=AlwTLwwVegk
 
-### In this political climate, what gives you hope for the future? | Voter Voices [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.
-
-Link: https://www.youtube.com/watch?v=6dHRdgT3znc
-
-### Why Doesn't The Witcher 3 Remastered on Switch 2 Support VRR? [7/10]
+### Why Doesn't DLSS and FSR Fully Support Dynamic Resolution Scaling? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/QTF65B5CeDk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=bYT6GrSG6jc
+
+### Sony Sells VR Patents To Meta... Is This The End Of PSVR? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2bj9Vk4zHWQ
+
+### Why Doesn't The Witcher 3 Remastered on Switch 2 Support VRR? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=ngJrprxPRdw
 
-### Hideo Kojima's P.T Gets A Native PC Port... With Ray Tracing, Frame Gen + DLSS/FSR Support [7/10]
+### Hideo Kojima's P.T Gets A Native PC Port... With Ray Tracing, Frame Gen + DLSS/FSR Support [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,23 +314,14 @@ Link: https://www.youtube.com/watch?v=yFqu6YwYpus
 
 Link: https://www.youtube.com/watch?v=Ftxmkh6qtMA
 
-### Which Dead Franchises Have To Make A Comeback? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Apparently "Programming Is Hard" for Epic Games | Unpacked [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Epic Games' Tim Sweeney wants to push the company into an AI-first future. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
-Link: https://www.youtube.com/watch?v=nm8X2Lvf0qA
-
-### Dragon's Dogma Switch 2 Port Tested vs Xbox Series S [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=ifEBstPd4Iw
+Link: https://www.youtube.com/watch?v=nMf5GDIiDkk
 
 ### Player Dynamics and How to Manage Them | RPG Help Desk [7/10]
 **Creator:** Second Wind  
@@ -358,15 +385,6 @@ Link: https://www.youtube.com/watch?v=nLErESyDcuU
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=LdJj03eL4Ts
-
-### Digger, Carrie, and the Lanterns Finale | The Rewind Podcast [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns.
-
-Link: https://www.youtube.com/watch?v=TPoAqB8cUNs
 
 ## Entertainment Recommendations
 
@@ -523,6 +541,33 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=D1FVJzVVdMw
+
+### Tyler Perry's The Gospel of Christmas premieres November 11 #TylerPerry [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=bxTTWZsx3QY
+
+### Tyler Perry’s The Gospel of Christmas | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=lXh2rNl2wdQ
+
 ### High risk. High reward. Dead-End Job premieres October 30. [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -613,23 +658,14 @@ Starring Academy Award nominee, Brian Tyree Henry & Grammy Award nominee Janelle
 
 Link: https://www.youtube.com/watch?v=jjr5mf9i42Q
 
-### Chris evans in #SACRIFICE premiering October 16 [9/10]
-**Source:** Netflix  
+### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-It’s ok, he’s famous SACRIFICE premieres October 16 in the US and France. Watch on Netflix: https://www.netflix.
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
 
-Link: https://www.youtube.com/watch?v=MRuKWpb1h8Q
-
-### Guarding Stars | Leighton Meester & Jared Padalecki | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-She’s a no-nonsense bodyguard. He’s a charming action star. Protecting him over the holidays is her job. Falling for him? That’s where things get complicated. ’Tis the season to let your guard down.
-
-Link: https://www.youtube.com/watch?v=mFvtVPMa5ak
+Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
 
 ### Dark Matter — The Official Podcast: Episode 208 | Apple TV [10/10]
 **Source:** Apple TV  
