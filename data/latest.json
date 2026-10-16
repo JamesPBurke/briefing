@@ -1,30 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-15T18:00:24.487201Z",
-  "generatedAtDisplay": "2026-10-15 02:00 PM EDT",
+  "generatedAt": "2026-10-16T05:00:03.083832Z",
+  "generatedAtDisplay": "2026-10-16 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live, FBI investigates letters with ‘unknown substance’ sent to US election officials, and Opinion: Male Teachers Say Mentors Got Them There. For Black Men, the Need’s Even Greater.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Is JD Vance campaigning for the midterms … or 2028? – podcast, ‘I need to prove my family’s sacrifice was worth it’: how pop auteur Shygirl slogged her way to the top, and Shooter kills three children and one teacher at Oregon elementary school.",
   "mainItems": [
     {
-      "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
+      "title": "Is JD Vance campaigning for the midterms … or 2028? – podcast",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-      "published": "2026-10-15T17:48:57+00:00",
-      "summary": "The high cost of living has Americans angrier than ever.",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+      "published": "2026-10-16T04:00:52+00:00",
+      "summary": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+      "title": "‘I need to prove my family’s sacrifice was worth it’: how pop auteur Shygirl slogged her way to the top",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-      "published": "2026-10-15T17:06:53+00:00",
-      "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country…",
+      "url": "https://www.theguardian.com/music/2026/oct/16/how-pop-auteur-shygirl-slogged-her-way-to-top",
+      "published": "2026-10-16T04:00:50+00:00",
+      "summary": "Adored by Madonna and Charli xcx and buoyed by finding true love, the Londoner is branching out into rock and breaking the mainstream.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Shooter kills three children and one teacher at Oregon elementary school",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+      "published": "2026-10-16T01:53:19+00:00",
+      "summary": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far A 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Police reveal identity of man found in a barrel in drought-stricken Lake Mead",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
+      "published": "2026-10-16T01:34:53+00:00",
+      "summary": "The remains of Edward Lelburian Jackson were first discovered in 2022, and an initial autopsy revealed he was killed decades ago After four years, a piece of the haunting mystery uncovered in the waning waters of drought-stricken Lake Mead…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "published": "2026-10-15T22:43:23+00:00",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Urine Trouble: PEE V PEE, a multiplayer game about hiding from the cops while you take a whizz on public property, takes the trophy for punniest title of the year",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/urine-trouble-pee-v-pee-a-multiplayer-game-about-hiding-from-the-cops-while-you-take-a-whizz-on-public-property-takes-the-trophy-for-punniest-title-of-the-year",
+      "published": "2026-10-15T18:59:01+00:00",
+      "summary": "I've been doing this whole games journalism for over five years now, and I've seen a lot of different kinds of games in that time. I've written about plenty of them too, with a fair few being plenty weird.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Opinion: Male Teachers Say Mentors Got Them There. For Black Men, the Need’s Even Greater",
@@ -34,96 +74,56 @@
       "published": "2026-10-15T16:30:00+00:00",
       "summary": "Men now make up about 23% of the nation’s elementary and secondary teachers, down from 30% in 1988, according to the National Center for Education Statistics.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "published": "2026-10-15T15:43:24+00:00",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
-      "source": "NPR Health",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
-      "published": "2026-10-15T11:06:21+00:00",
-      "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Trump should fear the BBC. Instead he’s picked a fight – and he seems to be losing | Emma Brockes",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
-      "published": "2026-10-15T10:00:09+00:00",
-      "summary": "The president is used to bullying his media targets.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-      "published": "2026-10-14T21:35:09+00:00",
-      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
-      "published": "2026-10-15T17:51:21+00:00",
-      "summary": "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Google is making inline links more prominent in AI responses",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-      "published": "2026-10-15T17:22:15+00:00",
-      "summary": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+      "title": "ChatGPT Ads Target Your Phone Number, Email",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-      "published": "2026-10-15T16:31:30+00:00",
-      "summary": "\"Historically, decompilation has been a brutally difficult, time consuming task.\" Now, AI is trivially doing it.",
+      "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
+      "published": "2026-10-15T14:31:09+00:00",
+      "summary": "OpenAI's ads targeting is pretty creepy, and new research confirms spyware companies are delivering potent malware through advertising networks.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "Some Texas Colleges Get OK for New Workforce Pell That Pays for Job Training",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/some-texas-colleges-get-ok-for-new-workforce-pell-that-pays-for-job-training/",
-      "published": "2026-10-14T18:30:00+00:00",
-      "summary": "Students at five Texas community colleges can now seek the new Workforce Pell grants to pay for job training. The community colleges recently received the stamp of approval from the U.S.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+      "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
-      "published": "2026-10-15T16:45:02+00:00",
-      "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores",
+      "published": "2026-10-15T21:41:19+00:00",
+      "summary": "Men and women across India are being paid to record themselves doing domestic jobs as developers train AI robots to do household chores.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "published": "2026-10-15T20:32:41+00:00",
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
+    },
+    {
+      "title": "James Spader Explains Why Ultron is a Different Kind of Villain in VisionQuest",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/james-spader-ultron-villain-visionquest/",
+      "published": "2026-10-15T18:36:15+00:00",
+      "summary": "“He's more acute, more developed, and he's older and more mature.” The post James Spader Explains Why Ultron is a Different Kind of Villain in VisionQuest appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+      "published": "2026-10-15T20:50:53+00:00",
+      "summary": "As part of her new podcast and newsletter Your Turn with Allison Aubrey, NPR's Allison Aubrey went in search of tools to help navigate midlife — starting with this survey to rank one's character strengths.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
     {
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 10
   }
 }
