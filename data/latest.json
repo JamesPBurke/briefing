@@ -1,39 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-16T09:00:29.477361Z",
-  "generatedAtDisplay": "2026-10-16 05:00 AM EDT",
+  "generatedAt": "2026-10-16T14:00:02.570018Z",
+  "generatedAtDisplay": "2026-10-16 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are CD Projekt is in \"a really dangerous place\", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality, Calling the shots: what NAZA says about perpetrator cinema, and French police accused over war-like injuries to teenagers in school protests.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine, For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster, and Opinion: Can ‘Sold a Story’ Change How America Teaches?.",
   "mainItems": [
     {
-      "title": "CD Projekt is in \"a really dangerous place\", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality",
-      "source": "Rock Paper Shotgun",
+      "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "published": "2026-10-16T13:46:23+00:00",
+      "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality",
-      "published": "2026-10-16T08:15:00+00:00",
-      "summary": "\"The triple-A industry has become over-specialised, specialised to the point of hyper-fragility,\" Mark Darrah states in a foreboding interview found deep in the pages of the Summer Eternal Anthology, recently covered by Edwin .",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+      "published": "2026-10-16T13:00:11+00:00",
+      "summary": "Low-interest loans kept many eateries afloat.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Calling the shots: what NAZA says about perpetrator cinema",
-      "source": "The Guardian US",
+      "title": "Opinion: Can ‘Sold a Story’ Change How America Teaches?",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/oct/16/calling-the-shots-what-naza-says-about-perpetrator-cinema",
-      "published": "2026-10-16T07:00:53+00:00",
-      "summary": "The documentary detailing Israel’s mass killing of civilians in Gaza is the latest film to give a voice to those who carry out atrocities – confronting viewers with some of the most difficult questions of all Are we still talking about the…",
+      "url": "https://www.the74million.org/article/can-sold-a-story-change-how-america-teaches/",
+      "published": "2026-10-16T12:30:00+00:00",
+      "summary": "A version of this essay originally appeared on “The Next 30 Years” Substack. By a considerable margin, Emily Hanford is our most consequential education journalist. This is not idle praise.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "French police accused over war-like injuries to teenagers in school protests",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
-      "published": "2026-10-16T04:00:49+00:00",
-      "summary": "Four children allegedly ‘mutilated’ by explosive weapons and lawyers say unprecedented number held in custody French lawyers and rights groups have said that several teenagers have suffered war-like injuries from police weapons used during…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -41,59 +41,69 @@
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-      "published": "2026-10-16T01:53:19+00:00",
-      "summary": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far A 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on…",
+      "published": "2026-10-16T11:25:44+00:00",
+      "summary": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far Schools in Bend, Oregon , will be closed on Friday after a 16-year-old shooter…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "published": "2026-10-15T22:43:23+00:00",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+      "published": "2026-10-16T10:23:52+00:00",
+      "summary": "Steam has a new feature in beta aimed at helping completionists feel like they've got a bit more of a handle on their never-ending quests to 100% games whose trophy lists keep on growing and evolving.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
-      "published": "2026-10-16T08:37:38+00:00",
-      "summary": "Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions - new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "Jon Ossoff’s rise to US Senate was meteoric – how high can he go?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms",
+      "published": "2026-10-16T09:00:56+00:00",
+      "summary": "The media-savvy Democratic senator is defying predictions of a tight re-election battle.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "‘The Simpsons’ Confirms Two Horror-Themed Episodes This Month With Official Photos",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/news/3972185/the-simpsons-halloween-special-treehouse-of-horror-the-revengening/",
-      "published": "2026-10-15T22:51:59+00:00",
-      "summary": "There’s few Halloween traditions as beloved as The Simpsons‘ annual “Treehouse of Horror” specials, despite the fact that these episodes might not debut until November.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Male Teachers Say Mentors Got Them There. For Black Men, the Need’s Even Greater",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/male-teachers-say-mentors-got-them-there-for-black-men-the-needs-even-greater/",
-      "published": "2026-10-15T16:30:00+00:00",
-      "summary": "Men now make up about 23% of the nation’s elementary and secondary teachers, down from 30% in 1988, according to the National Center for Education Statistics.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "ChatGPT Ads Target Your Phone Number, Email",
+      "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
-      "published": "2026-10-15T14:31:09+00:00",
-      "summary": "OpenAI's ads targeting is pretty creepy, and new research confirms spyware companies are delivering potent malware through advertising networks.",
+      "url": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+      "published": "2026-10-16T13:57:18+00:00",
+      "summary": "Christopher Thomas Mertens, a high school maintenance worker, was arrested after attempting to meet up with an AI persona that he thought was a 15 year old boy.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+      "published": "2026-10-16T13:41:05+00:00",
+      "summary": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "published": "2026-10-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Can Educational TV Help Early Learners Love Reading?",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/can-educational-tv-help-early-learners-love-reading/",
+      "published": "2026-10-16T10:30:00+00:00",
+      "summary": "In 2015, the University of Iowa analyzed the impact of educational television for toddlers and whether it was an effective way to promote literacy skills among the earliest learners.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -107,13 +117,13 @@
       "score": 8
     },
     {
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "published": "2026-10-15T20:32:41+00:00",
-      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "title": "You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/cyberpunk-edgerunners-2-trailer/",
+      "published": "2026-10-15T18:13:58+00:00",
+      "summary": "What exactly you're running from, or what the plot is, however, remains a mystery The post You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -124,16 +134,6 @@
       "published": "2026-10-16T08:48:52+00:00",
       "summary": "For StoryCorps, a public health nurse in Minnesota speaks with her college mentor about a moment when she almost gave up on her career aspirations.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "What are flour enzymes?: Understanding a common flour ingredient.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/15/flour-enzymes",
-      "published": "2026-10-15T14:00:00+00:00",
-      "summary": "If you look closely at a bag of King Arthur flour, you may see an unfamiliar ingredient listed there: enzyme . We’re extremely thoughtful about every ingredient we use, across all King Arthur products and recipes.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
@@ -201,8 +201,8 @@
       "published": "2026-10-15T23:15:23+00:00",
       "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?⁠",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Key comms cut-off in Ukraine / Zelenskyy sit-down / Russian diesel",
@@ -315,6 +315,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Player Dynamics and How to Manage Them | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=GXNBs9qSxF0",
+      "published": "2026-10-16T09:45:00+00:00",
+      "summary": "Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -324,17 +335,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "Player Dynamics and How to Manage Them | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=GXNBs9qSxF0",
-      "published": "2026-10-15T19:10:23+00:00",
-      "summary": "Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Soaking in the PS1 JRPG Vibes of Full Circle w/ Jack and Marty",
@@ -566,7 +566,7 @@
       "published": "2026-10-16T00:00:02+00:00",
       "summary": "High risk. High reward. Dead-End Job premieres October 30. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -577,7 +577,7 @@
       "published": "2026-10-15T22:00:03+00:00",
       "summary": "Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 24,
     "trailerCount": 31,
-    "sourceCount": 24
+    "sourceCount": 22
   }
 }

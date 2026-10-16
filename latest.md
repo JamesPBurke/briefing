@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-16T09:00:29.477361Z
+Generated: 2026-10-16T14:00:02.570018Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are CD Projekt is in "a really dangerous place", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality, Calling the shots: what NAZA says about perpetrator cinema, and French police accused over war-like injuries to teenagers in school protests.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine, For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster, and Opinion: Can ‘Sold a Story’ Change How America Teaches?.
 
 ## Briefing
 
@@ -33,88 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. CD Projekt is in "a really dangerous place", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-"The triple-A industry has become over-specialised, specialised to the point of hyper-fragility," Mark Darrah states in a foreboding interview found deep in the pages of the Summer Eternal Anthology, recently covered by Edwin .
+Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux.
 
-Link: https://www.rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality
+Link: https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development
 
-### 2. Calling the shots: what NAZA says about perpetrator cinema [10/10]
+### 2. For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The documentary detailing Israel’s mass killing of civilians in Gaza is the latest film to give a voice to those who carry out atrocities – confronting viewers with some of the most difficult questions of all Are we still talking about the…
+Low-interest loans kept many eateries afloat.
 
-Link: https://www.theguardian.com/film/2026/oct/16/calling-the-shots-what-naza-says-about-perpetrator-cinema
+Link: https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans
 
-### 3. French police accused over war-like injuries to teenagers in school protests [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 3. Opinion: Can ‘Sold a Story’ Change How America Teaches? [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Four children allegedly ‘mutilated’ by explosive weapons and lawyers say unprecedented number held in custody French lawyers and rights groups have said that several teenagers have suffered war-like injuries from police weapons used during…
+A version of this essay originally appeared on “The Next 30 Years” Substack. By a considerable margin, Emily Hanford is our most consequential education journalist. This is not idle praise.
 
-Link: https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody
+Link: https://www.the74million.org/article/can-sold-a-story-change-how-america-teaches/
 
 ### 4. Shooter kills three children and one teacher at Oregon elementary school [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far A 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on…
+Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far Schools in Bend, Oregon , will be closed on Friday after a 16-year-old shooter…
 
 Link: https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting
 
-### 5. ChatGPT can peek at your Chrome tabs now [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs
-
-### 6. Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were "unintended" [9/10]
-**Source:** Eurogamer  
+### 5. Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions - new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI…
+Steam has a new feature in beta aimed at helping completionists feel like they've got a bit more of a handle on their never-ending quests to 100% games whose trophy lists keep on growing and evolving.
 
-Link: https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted
+Link: https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets
 
-### 7. ‘The Simpsons’ Confirms Two Horror-Themed Episodes This Month With Official Photos [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 6. Jon Ossoff’s rise to US Senate was meteoric – how high can he go? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-There’s few Halloween traditions as beloved as The Simpsons‘ annual “Treehouse of Horror” specials, despite the fact that these episodes might not debut until November.
+The media-savvy Democratic senator is defying predictions of a tight re-election battle.
 
-Link: https://bloody-disgusting.com/news/3972185/the-simpsons-halloween-special-treehouse-of-horror-the-revengening/
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms
 
-### 8. Opinion: Male Teachers Say Mentors Got Them There. For Black Men, the Need’s Even Greater [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Men now make up about 23% of the nation’s elementary and secondary teachers, down from 30% in 1988, according to the National Center for Education Statistics.
-
-Link: https://www.the74million.org/article/male-teachers-say-mentors-got-them-there-for-black-men-the-needs-even-greater/
-
-### 9. ChatGPT Ads Target Your Phone Number, Email [9/10]
+### 7. Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-OpenAI's ads targeting is pretty creepy, and new research confirms spyware companies are delivering potent malware through advertising networks.
+Christopher Thomas Mertens, a high school maintenance worker, was arrested after attempting to meet up with an AI persona that he thought was a 15 year old boy.
 
-Link: https://www.404media.co/chatgpt-ads-target-your-phone-number-email/
+Link: https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/
 
-### 10. To train robots, AI companies are paying people in India to film themselves doing chores [8/10]
+### 8. Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day [9/10]
+**Source:** Eurogamer  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it.
+
+Link: https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks
+
+### 9. The Download: failed social media bans, and extending pets’ lives [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.
+
+Link: https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/
+
+### 10. Can Educational TV Help Early Learners Love Reading? [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In 2015, the University of Iowa analyzed the impact of educational television for toddlers and whether it was an effective way to promote literacy skills among the earliest learners.
+
+Link: https://www.the74million.org/article/can-educational-tv-help-early-learners-love-reading/
+
+### 11. To train robots, AI companies are paying people in India to film themselves doing chores [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -123,16 +132,16 @@ Men and women across India are being paid to record themselves doing domestic jo
 
 Link: https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores
 
-### 11. Targeted ads delivered 0-click exploits to install mercenary malware [8/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 12. You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.
+What exactly you're running from, or what the plot is, however, remains a mystery The post You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer appeared first on Reactor .
 
-Link: https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/
+Link: https://reactormag.com/cyberpunk-edgerunners-2-trailer/
 
-### 12. Public health nurse talks about the moment she learned to ask for help [7/10]
+### 13. Public health nurse talks about the moment she learned to ask for help [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-ex
 For StoryCorps, a public health nurse in Minnesota speaks with her college mentor about a moment when she almost gave up on her career aspirations.
 
 Link: https://www.npr.org/2026/10/16/nx-s1-5998634/public-health-nurse-talks-about-the-moment-she-learned-to-ask-for-help
-
-### 13. What are flour enzymes?: Understanding a common flour ingredient. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-If you look closely at a bag of King Arthur flour, you may see an unfamiliar ingredient listed there: enzyme . We’re extremely thoughtful about every ingredient we use, across all King Arthur products and recipes.
-
-Link: https://www.kingarthurbaking.com/blog/2026/10/15/flour-enzymes
 
 ## YouTube
 
@@ -197,9 +197,9 @@ Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s b
 
 Link: https://www.youtube.com/watch?v=dmyi8LO6CBo
 
-### Factory workers in India are being asked to wear GoPro cameras to train robots. Will it work?⁠ [8/10]
+### Factory workers in India are being asked to wear GoPro cameras to train robots. Will it work?⁠ [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?⁠
@@ -296,6 +296,15 @@ Link: https://www.youtube.com/watch?v=nm8X2Lvf0qA
 
 Link: https://www.youtube.com/watch?v=ifEBstPd4Iw
 
+### Player Dynamics and How to Manage Them | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.
+
+Link: https://www.youtube.com/watch?v=GXNBs9qSxF0
+
 ### Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -304,15 +313,6 @@ Link: https://www.youtube.com/watch?v=ifEBstPd4Iw
 This week on Firelink Nick, KC, and Marty chat about just how many times game companies can step in the AI pile in one week. Apparently, it's a lot. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
 
 Link: https://www.youtube.com/watch?v=AwCmHQjOd8s
-
-### Player Dynamics and How to Manage Them | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.
-
-Link: https://www.youtube.com/watch?v=GXNBs9qSxF0
 
 ### Soaking in the PS1 JRPG Vibes of Full Circle w/ Jack and Marty [6/10]
 **Creator:** Second Wind  
@@ -523,7 +523,7 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
-### High risk. High reward. Dead-End Job premieres October 30. [10/10]
+### High risk. High reward. Dead-End Job premieres October 30. [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -532,7 +532,7 @@ High risk. High reward. Dead-End Job premieres October 30. Watch on Netflix: htt
 
 Link: https://www.youtube.com/watch?v=zFEin88PoUo
 
-### Noah's hotter older brother has some zingers. NOBODY WANTS THIS returns Oct. 22! [10/10]
+### Noah's hotter older brother has some zingers. NOBODY WANTS THIS returns Oct. 22! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
