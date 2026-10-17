@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-16T18:00:17.353779Z
+Generated: 2026-10-17T05:00:02.468544Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Amber Guyger, police officer who murdered black neighbor in his home, released from prison, Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste, and Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here.
+Today's sweep leans toward CS education / AI policy, AI / computing, Democracy / press freedom. The strongest items in this run are Shooter in fatal Bend, Oregon, school shooting was former student there, OpenAI models hacked a crypto wallet and breached more websites, and I travel 200,000 miles a year. These are the five carry-on suitcases I actually trust.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Amber Guyger, police officer who murdered black neighbor in his home, released from prison [10/10]
+### 1. Shooter in fatal Bend, Oregon, school shooting was former student there [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+One teacher and three children killed after Griffin J John II, 16, barged into elementary school and began shooting Oregon elementary school shooting: what we know so far The 16-year-old who barged into an elementary school in Bend,…
+
+Link: https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest
+
+### 2. OpenAI models hacked a crypto wallet and breached more websites [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The actions could have resulted in criminal charges had humans been behind the keyboard.
+
+Link: https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/
+
+### 3. I travel 200,000 miles a year. These are the five carry-on suitcases I actually trust [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Guyger, convicted of murder of Botham Jean in Dallas in 2018, served seven years of 10-year sentence The former Dallas police officer who was convicted of murdering Botham Jean after entering his apartment and shooting him in 2018 was…
+In an endless sea of suitcase options, these are the best to save you time and money, including a top pick made of recycled plastic The best travel backpack Sign up for the Filter US newsletter, your weekly guide to buying fewer, better…
 
-Link: https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released
+Link: https://www.theguardian.com/thefilter-us/best-carry-on-luggage
 
-### 2. Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste [10/10]
+### 4. Roundtables: A Conversation With the Creator of AI-Designed Viruses [10/10]
+**Source:** MIT Technology Review  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic…
+
+Link: https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/
+
+### 5. Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The bug is fixed, but privacy concerns remain.
+
+Link: https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/
+
+### 6. Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,52 +87,34 @@ After enjoying Echo Weaver last week, I'm in the market for games that gaze with
 
 Link: https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste
 
-### 3. Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-While most Hawaiʻi students were relaxing on fall break, it was crunch time for teens at Nalukai Academy in Hilo.
-
-Link: https://www.the74million.org/article/hawai%ca%bbis-youth-are-leaving-meet-the-people-keeping-talent-here/
-
-### 4. Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.
-
-Link: https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/
-
-### 5. Starlink access still not fully restored for Ukraine’s military, says Zelenskyy [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said the Ukrainian military’s access to the…
-
-Link: https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy
-
-### 6. Tesla turns to 50-year-old stunt technology as it tries to Roadster again [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-If you want to make a car spin in the air, compressed gas is a good way to do it.
-
-Link: https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/
-
-### 7. Trump says he told Katie Zacharia she should ‘reconsider’ role as White House press secretary – live [9/10]
+### 7. The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Zacharia has been on the defense since her shaky debut before reporters and a semantics battle over whether or not she is a lawyer Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and…
+Tech billionaires have raised more than $340m to defeat Prop 40, a one-time 5% wealth tax that will fund healthcare and education Tech billionaires have been dumping hundreds of millions of dollars into the fight against a wealth tax in…
 
-Link: https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates
+Link: https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40
 
-### 8. Behind the Blog: Doing Whatever [9/10]
+### 8. At SF Tech Week, a vibe check on how people in Silicon Valley feel about the AI boom [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+In Silicon Valley, the AI boom means a lot of people are excited about this new technology, but concerned about when the music might stop. NPR went to San Francisco Tech Week to take the pulse.
+
+Link: https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-on-how-people-in-silicon-valley-feel-about-the-ai-boom
+
+### 9. About 80,000 Kentuckians Have Lost Access to Food Aid Under Federal Rule Changes [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Some 80,000 Kentuckians have lost access to the food benefits known as SNAP because of federal changes to the program, Gov. Andy Beshear said in a letter sent to U.S.
+
+Link: https://www.the74million.org/article/about-80000-kentuckians-have-lost-access-to-food-aid-under-federal-rule-changes/
+
+### 10. Behind the Blog: Doing Whatever [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -105,7 +123,7 @@ This week, we discuss a new pod setup, video games, and Elon's spending habits.
 
 Link: https://www.404media.co/behind-the-blog-doing-whatever/
 
-### 9. Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day [9/10]
+### 11. Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day [8/10]
 **Source:** Eurogamer  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -114,277 +132,27 @@ The launch of a new live season is hard, and subtle changes to a game can have m
 
 Link: https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks
 
-### 10. Can Educational TV Help Early Learners Love Reading? [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-In 2015, the University of Iowa analyzed the impact of educational television for toddlers and whether it was an effective way to promote literacy skills among the earliest learners.
-
-Link: https://www.the74million.org/article/can-educational-tv-help-early-learners-love-reading/
-
-### 11. To train robots, AI companies are paying people in India to film themselves doing chores [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Men and women across India are being paid to record themselves doing domestic jobs as developers train AI robots to do household chores.
-
-Link: https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores
-
-### 12. Hit a midlife wall? Here's how to rediscover your strengths [8/10]
+### 12. Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Health and science correspondent Allison Aubrey talks with Ailsa Chang about her new podcast Your Turn with Allison Aubrey — and they share a survey that can help us identify our most positive character traits.
+For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.
 
-Link: https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide
+Link: https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia
 
-### 13. You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer [8/10]
+### 13. The Fourth Wing Series Has Found Its Violet and Xaden [6/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-What exactly you're running from, or what the plot is, however, remains a mystery The post You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer appeared first on Reactor .
+Important dragon casting yet to be announced The post The Fourth Wing Series Has Found Its Violet and Xaden appeared first on Reactor .
 
-Link: https://reactormag.com/cyberpunk-edgerunners-2-trailer/
+Link: https://reactormag.com/fourth-wing-adaptation-casting/
 
 ## YouTube
 
-### Multiplayer Gaming & Flight Simulation - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.
-
-Link: https://www.youtube.com/watch?v=WqrwAFs-fq0
-
-### Historian Fact Checks Gilded Age Slop [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Historian Carl Raymond as we fact check the internet, Gilded Age edition.
-
-Link: https://www.youtube.com/watch?v=OxxOEUHfzw4
-
-### Mr. Johnson: Abbott Elementary's Many-Faced God [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-WIRED tasks William Stanford Davis (Mr.
-
-Link: https://www.youtube.com/watch?v=l0ZhENzV_14
-
-### ‘Abbott Elementary’ Cast Answer The 50 Most Searched Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-WIRED tasks William Stanford Davis (Mr.
-
-Link: https://www.youtube.com/watch?v=xjQGFaiClGA
-
-### The Real Reason Bollywood Movies Have Songs [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.
-
-Link: https://www.youtube.com/watch?v=84lXf5WMVJo
-
-### Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks [10/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including an American photojournalist.
-
-Link: https://www.youtube.com/watch?v=aCW3VOdMiAg
-
-### In this political climate, what gives you hope for the future? [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.
-
-Link: https://www.youtube.com/watch?v=mRcSs5LZ1OI
-
-### 3 children, teacher killed in Oregon school shooting [10/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-Three children and a teacher are dead after a 16-year-old gunman forced his way into an elementary school and opened fire Thursday in Bend, Oregon. Bend Police Chief Mike Krantz says the children killed were aged 5, 8 and 11.
-
-Link: https://www.youtube.com/watch?v=zJmXpdPScDs
-
-### Factory workers in India are being asked to wear GoPro cameras to train robots. Will it work?⁠ [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?⁠
-
-Link: https://www.youtube.com/watch?v=GfoXkQtt0xA
-
-### Key comms cut-off in Ukraine / Zelenskyy sit-down / Russian diesel [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-A crucial military communication system was disrupted in Ukraine this week, as Russian attacks pounded energy sites.
-
-Link: https://www.youtube.com/watch?v=kUM5eTNANRg
-
-### World's oldest shipwreck found off the coast of Turkey [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Archaeologists say they’ve found the world’s oldest shipwreck.⁠ ⁠ It’s off the coast of Turkey. ​and it could be well over 4,000 years old, dating back to the early Bronze Age. Most of the structure of the ship has disintegrated.
-
-Link: https://www.youtube.com/watch?v=Lh0o16AHLaA
-
-### Roof collapse at school kills more than 30 children in Pakistan [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Authorities in Pakistan say a roof collapse at a school has left more more than 30 children and at least one teacher dead.
-
-Link: https://www.youtube.com/watch?v=AlwTLwwVegk
-
-### Why Doesn't DLSS and FSR Fully Support Dynamic Resolution Scaling? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/QTF65B5CeDk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=bYT6GrSG6jc
-
-### Sony Sells VR Patents To Meta... Is This The End Of PSVR? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=2bj9Vk4zHWQ
-
-### Why Doesn't The Witcher 3 Remastered on Switch 2 Support VRR? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=ngJrprxPRdw
-
-### Hideo Kojima's P.T Gets A Native PC Port... With Ray Tracing, Frame Gen + DLSS/FSR Support [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=za5DW6Df2Jk
-
-### Ace Combat 8 Tested - Easily One Of The Best Games Of The Year [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/mbTc_AUkVFk?si=VWa54NxusQ6ytACZ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=yFqu6YwYpus
-
-### STAR WARS: Galactic Racer's PC Port - Performant But It's Not DLSS-Friendly [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Ftxmkh6qtMA
-
-### Apparently "Programming Is Hard" for Epic Games | Unpacked [10/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Epic Games' Tim Sweeney wants to push the company into an AI-first future. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=nMf5GDIiDkk
-
-### Player Dynamics and How to Manage Them | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.
-
-Link: https://www.youtube.com/watch?v=GXNBs9qSxF0
-
-### Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink Nick, KC, and Marty chat about just how many times game companies can step in the AI pile in one week. Apparently, it's a lot. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
-
-Link: https://www.youtube.com/watch?v=AwCmHQjOd8s
-
-### Soaking in the PS1 JRPG Vibes of Full Circle w/ Jack and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=01siwOuJqEw
-
-### Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=L0S2DwRXJqw
-
-### Yahtzee Tries... Thank You Bus Driver and Valor Mortis [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty try Thank You Bus Driver and Valor Mortis. https://store.steampowered.com/app/5067360/Thank_You_Bus_Driver/ https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=iiJRO6Q81EY
-
-### Silent Hill: Townfall | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Silent Hill: Townfall. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=nLErESyDcuU
-
-### Jamming Through More Elden Ring Co-op w/ Jack and Jenna [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=LdJj03eL4Ts
+_No YouTube picks in this briefing._
 
 ## Entertainment Recommendations
 
@@ -415,299 +183,4 @@ Link: https://www.youtube.com/watch?v=LdJj03eL4Ts
 
 ## Trailers / Previews
 
-### River | Official Trailer [10/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-RIVER "will drown you in pure terror." (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.
-
-Link: https://www.youtube.com/watch?v=ox8lEnsxDag
-
-### Get Out | Chris Finally Escapes The Sunken Place and Armitage Family [9/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.
-
-Link: https://www.youtube.com/watch?v=eDoCI0WWJfU
-
-### The Exorcist: Martyrs | Official Trailer [9/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Darkness must be hunted. Mike Flanagan’s The Exorcist: Martyrs is only in theaters March 12.
-
-Link: https://www.youtube.com/watch?v=iIEYfH-jg1Y
-
-### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.
-
-Link: https://www.youtube.com/watch?v=AYkPRN874m8
-
-### TRAILER TOMORROW. [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie
-
-Link: https://www.youtube.com/watch?v=I6WuD0p7XVU
-
-### GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K) [10/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.
-
-Link: https://www.youtube.com/watch?v=UKaWzMf9Ybc
-
-### INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview [10/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.
-
-Link: https://www.youtube.com/watch?v=GSOcspZfk0w
-
-### Misty Green | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
-
-Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
-
-### Clarissa - Official Trailer - In Select Theaters December [9/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.
-
-Link: https://www.youtube.com/watch?v=sJAqmdXaM8U
-
-### VHS Mixtape | Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
-
-Link: https://www.youtube.com/watch?v=iZS2zDHidsk
-
-### Infirmary Trailer | Found Footage | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
-
-Link: https://www.youtube.com/watch?v=STEprQnjfRo
-
-### The Cycle | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=m8vcBN8uza8
-
-### River | Official Trailer [9/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
-
-Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
-
-### The Exorcist: Martyrs | Official Trailer [9/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
-
-Link: https://www.youtube.com/watch?v=5knKQTEddik
-
-### Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=D1FVJzVVdMw
-
-### Tyler Perry's The Gospel of Christmas premieres November 11 #TylerPerry [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=bxTTWZsx3QY
-
-### Tyler Perry’s The Gospel of Christmas | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=lXh2rNl2wdQ
-
-### High risk. High reward. Dead-End Job premieres October 30. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-High risk. High reward. Dead-End Job premieres October 30. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=zFEin88PoUo
-
-### Noah's hotter older brother has some zingers. NOBODY WANTS THIS returns Oct. 22! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=7RXOdXNWHDE
-
-### CYBERPUNK: EDGERUNNERS 2 in 5 more days! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Most chooms would drop the camera and run. Roman keeps rolling. 5 more days! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=85YfVrlmtus
-
-### The Fall of El Mayo | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Co-founder of the Sinaloa Cartel, longtime partner of "El Chapo", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall. The Fall of El Mayo — October 29, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=e5ExUsk6-OE
-
-### STEPS | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-At midnight, we ride. Watch STEPS, only on Netflix, November 20. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=tNV4i3BqUGY
-
-### Beat Luke Littler | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Twenty amateurs step onto the oche against the world champion, Luke Littler. One leg of 501. £501,000 on the line. 30th October, live on Netflix. They can't beat him… can they? Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=-G8FapnfXPs
-
-### Hollywood Arts | Here to Stay | Music Video | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The official music video for 'Here to Stay' has arrived. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=aqGYA4OxTLY
-
-### Allen | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Something extraordinary is coming back. Allen, premiering on Netflix November 12. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=ptDdR2BMmsA
-
-### Cyberpunk: Edgerunners 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The Anime of the Year returns in Cyberpunk: Edgerunners 2. A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=urV5GzXcXsQ
-
-### Bass X Machina | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring Academy Award nominee, Brian Tyree Henry & Grammy Award nominee Janelle Monáe. Bass X Machina premieres November 3rd, only on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=jjr5mf9i42Q
-
-### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
-
-### Dark Matter — The Official Podcast: Episode 208 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.
-
-Link: https://www.youtube.com/watch?v=zXC7HfjHo30
-
-### 12 12 12 — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Anthony Mackie and Jamie Dornan star in this heist drama. 12 months to plan. 12 hours to execute. 12 days to make it out alive. 12 12 12 premieres November 13 on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=pWdt8WMCqnc
-
-### Brothers — Matthew McConaughey and Woody Harrelson Perform an Original Song | Full Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.
-
-Link: https://www.youtube.com/watch?v=CEvfMPHqlQA
-
-### Remnants — Official Reaction Trailer | Apple Vision Pro [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-See real reactions from people experiencing, Remnants, Apple’s first immersive horror film. Watch as they step inside Woldmere Castle and enter the unsettling world created by writer and director Ti West.
-
-Link: https://www.youtube.com/watch?v=E_5HZBhf1eU
-
-### Being Heumann — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on a true story about disability rights activist Judy Heumann, directed by CODA’s Siân Heder (Academy Award® Winner, Best Picture). Making the world better one federal building takeover at a time.
-
-Link: https://www.youtube.com/watch?v=CQp2pUXLvJk
+_No trailer picks in this briefing._

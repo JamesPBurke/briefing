@@ -1,20 +1,60 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-16T18:00:17.353779Z",
-  "generatedAtDisplay": "2026-10-16 02:00 PM EDT",
+  "generatedAt": "2026-10-17T05:00:02.468544Z",
+  "generatedAtDisplay": "2026-10-17 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Amber Guyger, police officer who murdered black neighbor in his home, released from prison, Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste, and Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here.",
+  "summary": "Today's sweep leans toward CS education / AI policy, AI / computing, Democracy / press freedom. The strongest items in this run are Shooter in fatal Bend, Oregon, school shooting was former student there, OpenAI models hacked a crypto wallet and breached more websites, and I travel 200,000 miles a year. These are the five carry-on suitcases I actually trust.",
   "mainItems": [
     {
-      "title": "Amber Guyger, police officer who murdered black neighbor in his home, released from prison",
+      "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "published": "2026-10-16T23:03:42+00:00",
+      "summary": "One teacher and three children killed after Griffin J John II, 16, barged into elementary school and began shooting Oregon elementary school shooting: what we know so far The 16-year-old who barged into an elementary school in Bend,…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "I travel 200,000 miles a year. These are the five carry-on suitcases I actually trust",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released",
-      "published": "2026-10-16T17:45:58+00:00",
-      "summary": "Guyger, convicted of murder of Botham Jean in Dallas in 2018, served seven years of 10-year sentence The former Dallas police officer who was convicted of murdering Botham Jean after entering his apartment and shooting him in 2018 was…",
+      "url": "https://www.theguardian.com/thefilter-us/best-carry-on-luggage",
+      "published": "2026-10-16T20:56:10+00:00",
+      "summary": "In an endless sea of suitcase options, these are the best to save you time and money, including a top pick made of recycled plastic The best travel backpack Sign up for the Filter US newsletter, your weekly guide to buying fewer, better…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "category": "CS education / AI policy",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "published": "2026-10-16T19:11:50+00:00",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste",
@@ -24,57 +64,37 @@
       "published": "2026-10-16T17:44:15+00:00",
       "summary": "After enjoying Echo Weaver last week, I'm in the market for games that gaze with utmost scorn upon the concept of unlockable abilities, smugly declaring that everything you need to complete them is available to you from the word go.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Hawaii’s Youth Are Leaving. Meet The People Keeping Talent Here",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/hawai%ca%bbis-youth-are-leaving-meet-the-people-keeping-talent-here/",
-      "published": "2026-10-16T16:30:00+00:00",
-      "summary": "While most Hawaiʻi students were relaxing on fall break, it was crunch time for teens at Nalukai Academy in Hilo.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "published": "2026-10-16T15:41:00+00:00",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
-      "published": "2026-10-16T15:39:41+00:00",
-      "summary": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said the Ukrainian military’s access to the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-      "published": "2026-10-16T14:03:25+00:00",
-      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Trump says he told Katie Zacharia she should ‘reconsider’ role as White House press secretary – live",
+      "title": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-      "published": "2026-10-16T17:48:43+00:00",
-      "summary": "Zacharia has been on the defense since her shaky debut before reporters and a semantics battle over whether or not she is a lawyer Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
+      "published": "2026-10-16T13:00:11+00:00",
+      "summary": "Tech billionaires have raised more than $340m to defeat Prop 40, a one-time 5% wealth tax that will fund healthcare and education Tech billionaires have been dumping hundreds of millions of dollars into the fight against a wealth tax in…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "At SF Tech Week, a vibe check on how people in Silicon Valley feel about the AI boom",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-on-how-people-in-silicon-valley-feel-about-the-ai-boom",
+      "published": "2026-10-16T20:56:06+00:00",
+      "summary": "In Silicon Valley, the AI boom means a lot of people are excited about this new technology, but concerned about when the music might stop. NPR went to San Francisco Tech Week to take the pulse.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "About 80,000 Kentuckians Have Lost Access to Food Aid Under Federal Rule Changes",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/about-80000-kentuckians-have-lost-access-to-food-aid-under-federal-rule-changes/",
+      "published": "2026-10-16T18:30:00+00:00",
+      "summary": "Some 80,000 Kentuckians have lost access to the food benefits known as SNAP because of federal changes to the program, Gov. Andy Beshear said in a letter sent to U.S.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "Behind the Blog: Doing Whatever",
@@ -84,7 +104,7 @@
       "published": "2026-10-16T16:43:19+00:00",
       "summary": "This week, we discuss a new pod setup, video games, and Elon's spending habits.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
@@ -94,702 +114,31 @@
       "published": "2026-10-16T13:41:05+00:00",
       "summary": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Can Educational TV Help Early Learners Love Reading?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/can-educational-tv-help-early-learners-love-reading/",
-      "published": "2026-10-16T10:30:00+00:00",
-      "summary": "In 2015, the University of Iowa analyzed the impact of educational television for toddlers and whether it was an effective way to promote literacy skills among the earliest learners.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
-      "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores",
-      "published": "2026-10-15T21:41:19+00:00",
-      "summary": "Men and women across India are being paid to record themselves doing domestic jobs as developers train AI robots to do household chores.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Hit a midlife wall? Here's how to rediscover your strengths",
+      "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
-      "published": "2026-10-15T20:50:53+00:00",
-      "summary": "Health and science correspondent Allison Aubrey talks with Ailsa Chang about her new podcast Your Turn with Allison Aubrey — and they share a survey that can help us identify our most positive character traits.",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
+      "published": "2026-10-16T17:45:16+00:00",
+      "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer",
+      "title": "The Fourth Wing Series Has Found Its Violet and Xaden",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/cyberpunk-edgerunners-2-trailer/",
-      "published": "2026-10-15T18:13:58+00:00",
-      "summary": "What exactly you're running from, or what the plot is, however, remains a mystery The post You Can’t Outrun Your Mind in Cyberpunk: Edgerunners 2 Trailer appeared first on Reactor .",
+      "url": "https://reactormag.com/fourth-wing-adaptation-casting/",
+      "published": "2026-10-16T15:35:08+00:00",
+      "summary": "Important dragon casting yet to be announced The post The Fourth Wing Series Has Found Its Violet and Xaden appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 6
     }
   ],
-  "youtube": [
-    {
-      "title": "Multiplayer Gaming & Flight Simulation - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=WqrwAFs-fq0",
-      "published": "2026-10-15T13:30:19+00:00",
-      "summary": "Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Historian Fact Checks Gilded Age Slop",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=OxxOEUHfzw4",
-      "published": "2026-10-16T16:02:03+00:00",
-      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Historian Carl Raymond as we fact check the internet, Gilded Age edition.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Mr. Johnson: Abbott Elementary's Many-Faced God",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=l0ZhENzV_14",
-      "published": "2026-10-15T15:45:03+00:00",
-      "summary": "WIRED tasks William Stanford Davis (Mr.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "‘Abbott Elementary’ Cast Answer The 50 Most Searched Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=xjQGFaiClGA",
-      "published": "2026-10-14T16:01:57+00:00",
-      "summary": "WIRED tasks William Stanford Davis (Mr.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Real Reason Bollywood Movies Have Songs",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=84lXf5WMVJo",
-      "published": "2026-10-14T15:20:04+00:00",
-      "summary": "Arts and life reporter Aparita Bhandari joins WIRED to answer the internet’s burning Bollywood questions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=aCW3VOdMiAg",
-      "published": "2026-10-16T17:10:35+00:00",
-      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including an American photojournalist.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "In this political climate, what gives you hope for the future?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mRcSs5LZ1OI",
-      "published": "2026-10-16T16:00:15+00:00",
-      "summary": "“I hope that more common sense is coming around and less: blue side, red side, my side, your side.” That’s how one North Carolina resident described what he hopes to see in the future.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "3 children, teacher killed in Oregon school shooting",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=zJmXpdPScDs",
-      "published": "2026-10-16T15:09:54+00:00",
-      "summary": "Three children and a teacher are dead after a 16-year-old gunman forced his way into an elementary school and opened fire Thursday in Bend, Oregon. Bend Police Chief Mike Krantz says the children killed were aged 5, 8 and 11.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Factory workers in India are being asked to wear GoPro cameras to train robots. Will it work?⁠",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GfoXkQtt0xA",
-      "published": "2026-10-15T23:15:23+00:00",
-      "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?⁠",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Key comms cut-off in Ukraine / Zelenskyy sit-down / Russian diesel",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kUM5eTNANRg",
-      "published": "2026-10-15T21:19:11+00:00",
-      "summary": "A crucial military communication system was disrupted in Ukraine this week, as Russian attacks pounded energy sites.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "World's oldest shipwreck found off the coast of Turkey",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Lh0o16AHLaA",
-      "published": "2026-10-15T19:35:27+00:00",
-      "summary": "Archaeologists say they’ve found the world’s oldest shipwreck.⁠ ⁠ It’s off the coast of Turkey. ​and it could be well over 4,000 years old, dating back to the early Bronze Age. Most of the structure of the ship has disintegrated.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Roof collapse at school kills more than 30 children in Pakistan",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=AlwTLwwVegk",
-      "published": "2026-10-15T15:00:32+00:00",
-      "summary": "Authorities in Pakistan say a roof collapse at a school has left more more than 30 children and at least one teacher dead.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why Doesn't DLSS and FSR Fully Support Dynamic Resolution Scaling?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=bYT6GrSG6jc",
-      "published": "2026-10-16T17:00:14+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/QTF65B5CeDk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Sony Sells VR Patents To Meta... Is This The End Of PSVR?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2bj9Vk4zHWQ",
-      "published": "2026-10-16T16:00:16+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Why Doesn't The Witcher 3 Remastered on Switch 2 Support VRR?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=ngJrprxPRdw",
-      "published": "2026-10-15T17:00:32+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UsFBZjdrh8Q ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Hideo Kojima's P.T Gets A Native PC Port... With Ray Tracing, Frame Gen + DLSS/FSR Support",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=za5DW6Df2Jk",
-      "published": "2026-10-15T16:00:26+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Ace Combat 8 Tested - Easily One Of The Best Games Of The Year",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=yFqu6YwYpus",
-      "published": "2026-10-14T17:00:15+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mbTc_AUkVFk?si=VWa54NxusQ6ytACZ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer's PC Port - Performant But It's Not DLSS-Friendly",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Ftxmkh6qtMA",
-      "published": "2026-10-14T16:00:11+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Apparently \"Programming Is Hard\" for Epic Games | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=nMf5GDIiDkk",
-      "published": "2026-10-16T15:00:26+00:00",
-      "summary": "Epic Games' Tim Sweeney wants to push the company into an AI-first future. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Player Dynamics and How to Manage Them | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=GXNBs9qSxF0",
-      "published": "2026-10-16T09:45:00+00:00",
-      "summary": "Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=AwCmHQjOd8s",
-      "published": "2026-10-16T00:45:20+00:00",
-      "summary": "This week on Firelink Nick, KC, and Marty chat about just how many times game companies can step in the AI pile in one week. Apparently, it's a lot. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Soaking in the PS1 JRPG Vibes of Full Circle w/ Jack and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=01siwOuJqEw",
-      "published": "2026-10-15T19:12:52+00:00",
-      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=L0S2DwRXJqw",
-      "published": "2026-10-15T13:07:18+00:00",
-      "summary": "KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... Thank You Bus Driver and Valor Mortis",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=iiJRO6Q81EY",
-      "published": "2026-10-14T22:09:05+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try Thank You Bus Driver and Valor Mortis. https://store.steampowered.com/app/5067360/Thank_You_Bus_Driver/ https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Silent Hill: Townfall | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=nLErESyDcuU",
-      "published": "2026-10-14T16:00:05+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Silent Hill: Townfall. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Jamming Through More Elden Ring Co-op w/ Jack and Jenna",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=LdJj03eL4Ts",
-      "published": "2026-10-13T22:27:37+00:00",
-      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "River | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ox8lEnsxDag",
-      "published": "2026-10-12T15:00:02+00:00",
-      "summary": "RIVER \"will drown you in pure terror.\" (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Get Out | Chris Finally Escapes The Sunken Place and Armitage Family",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=eDoCI0WWJfU",
-      "published": "2026-10-10T19:00:09+00:00",
-      "summary": "Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Exorcist: Martyrs | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iIEYfH-jg1Y",
-      "published": "2026-10-09T22:31:45+00:00",
-      "summary": "Darkness must be hunted. Mike Flanagan’s The Exorcist: Martyrs is only in theaters March 12.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AYkPRN874m8",
-      "published": "2026-10-15T14:00:39+00:00",
-      "summary": "From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TRAILER TOMORROW.",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=I6WuD0p7XVU",
-      "published": "2026-10-14T16:14:59+00:00",
-      "summary": "Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
-      "published": "2026-10-14T16:00:40+00:00",
-      "summary": "Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GSOcspZfk0w",
-      "published": "2026-10-06T18:11:13+00:00",
-      "summary": "The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Misty Green | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=mkJVHTBuv9Y",
-      "published": "2026-10-08T14:00:17+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Clarissa - Official Trailer - In Select Theaters December",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sJAqmdXaM8U",
-      "published": "2026-10-01T16:00:15+00:00",
-      "summary": "Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "VHS Mixtape | Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iZS2zDHidsk",
-      "published": "2026-10-13T16:10:10+00:00",
-      "summary": "Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Infirmary Trailer | Found Footage | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=STEprQnjfRo",
-      "published": "2026-10-09T15:47:10+00:00",
-      "summary": "The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Cycle | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=m8vcBN8uza8",
-      "published": "2026-09-28T17:53:12+00:00",
-      "summary": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene. THE CYCLE premieres on Shudder this October. #Shudder #TheCycle Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "River | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=xrQwmYgCLRQ",
-      "published": "2026-10-12T15:00:13+00:00",
-      "summary": "Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Exorcist: Martyrs | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5knKQTEddik",
-      "published": "2026-10-09T22:38:27+00:00",
-      "summary": "Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=D1FVJzVVdMw",
-      "published": "2026-10-16T15:00:00+00:00",
-      "summary": "Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyler Perry's The Gospel of Christmas premieres November 11 #TylerPerry",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=bxTTWZsx3QY",
-      "published": "2026-10-16T14:00:01+00:00",
-      "summary": "This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyler Perry’s The Gospel of Christmas | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "High risk. High reward. Dead-End Job premieres October 30.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=zFEin88PoUo",
-      "published": "2026-10-16T00:00:02+00:00",
-      "summary": "High risk. High reward. Dead-End Job premieres October 30. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Noah's hotter older brother has some zingers. NOBODY WANTS THIS returns Oct. 22!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7RXOdXNWHDE",
-      "published": "2026-10-15T22:00:03+00:00",
-      "summary": "Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "CYBERPUNK: EDGERUNNERS 2 in 5 more days!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=85YfVrlmtus",
-      "published": "2026-10-15T19:30:00+00:00",
-      "summary": "Most chooms would drop the camera and run. Roman keeps rolling. 5 more days! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Fall of El Mayo | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=e5ExUsk6-OE",
-      "published": "2026-10-15T15:00:00+00:00",
-      "summary": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall. The Fall of El Mayo — October 29, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "STEPS | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
-      "published": "2026-10-15T13:00:02+00:00",
-      "summary": "At midnight, we ride. Watch STEPS, only on Netflix, November 20. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Beat Luke Littler | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-G8FapnfXPs",
-      "published": "2026-10-15T09:00:00+00:00",
-      "summary": "Twenty amateurs step onto the oche against the world champion, Luke Littler. One leg of 501. £501,000 on the line. 30th October, live on Netflix. They can't beat him… can they? Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Hollywood Arts | Here to Stay | Music Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aqGYA4OxTLY",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "The official music video for 'Here to Stay' has arrived. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Allen | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ptDdR2BMmsA",
-      "published": "2026-10-14T19:30:00+00:00",
-      "summary": "Something extraordinary is coming back. Allen, premiering on Netflix November 12. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=urV5GzXcXsQ",
-      "published": "2026-10-14T19:05:03+00:00",
-      "summary": "The Anime of the Year returns in Cyberpunk: Edgerunners 2. A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Bass X Machina | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jjr5mf9i42Q",
-      "published": "2026-10-14T19:04:00+00:00",
-      "summary": "Starring Academy Award nominee, Brian Tyree Henry & Grammy Award nominee Janelle Monáe. Bass X Machina premieres November 3rd, only on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Nx9u4E36f-M",
-      "published": "2026-10-16T16:59:56+00:00",
-      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 208 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=zXC7HfjHo30",
-      "published": "2026-10-16T00:59:46+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "12 12 12 — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pWdt8WMCqnc",
-      "published": "2026-10-13T13:59:52+00:00",
-      "summary": "Anthony Mackie and Jamie Dornan star in this heist drama. 12 months to plan. 12 hours to execute. 12 days to make it out alive. 12 12 12 premieres November 13 on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Brothers — Matthew McConaughey and Woody Harrelson Perform an Original Song | Full Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CEvfMPHqlQA",
-      "published": "2026-10-13T02:00:06+00:00",
-      "summary": "Real-life best friends Matthew McConaughey and Woody Harrelson play fictionalized versions of themselves in this comedy series, now streaming on Apple TV. https://apple.co/_Brothers Brotherhood was always in the picture.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Remnants — Official Reaction Trailer | Apple Vision Pro",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=E_5HZBhf1eU",
-      "published": "2026-10-12T17:21:13+00:00",
-      "summary": "See real reactions from people experiencing, Remnants, Apple’s first immersive horror film. Watch as they step inside Woldmere Castle and enter the unsettling world created by writer and director Ti West.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Being Heumann — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CQp2pUXLvJk",
-      "published": "2026-10-12T16:00:00+00:00",
-      "summary": "Based on a true story about disability rights activist Judy Heumann, directed by CODA’s Siân Heder (Academy Award® Winner, Best Picture). Making the world better one federal building takeover at a time.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -901,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
-    "trailerCount": 33,
-    "sourceCount": 22
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 10
   }
 }
