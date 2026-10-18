@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-18T09:00:45.061818Z
+Generated: 2026-10-18T14:00:02.928280Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are ‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina, ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations, and In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are What are self-replicating ‘AI worms’, and why is Anthropic worried about them?, Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live, and How overhead projectors took over your classroom.
 
 ## Briefing
 
@@ -33,25 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina [10/10]
+### 1. What are self-replicating ‘AI worms’, and why is Anthropic worried about them? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind…
+The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with…
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina
+Link: https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries
 
-### 2. ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations [10/10]
+### 2. Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Students say the school is more interested in scapegoating fraternities than in committing to institutional change In the wake of a lawsuit over an alleged gang-rape that took place at Cornell University in 2024, the school announced this…
+Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and…
 
-Link: https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations
+Link: https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news
 
-### 3. In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons [9/10]
+### 3. How overhead projectors took over your classroom [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+It used to be so easy to get away with things in school.
+
+Link: https://www.theverge.com/podcast/1013473/overhead-projector-version-history
+
+### 4. The University of Nevada now offers students the opportunity to minor in mariachi [10/10]
+**Source:** NPR Education  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The University of Nevada, Las Vegas, now offers a minor in teaching mariachi. The music remains popular among young people and someone's got to teach them how to play it.
+
+Link: https://www.npr.org/2026/10/18/nx-s1-5995179/the-university-of-nevada-now-offers-students-the-opportunity-to-minor-in-mariachi
+
+### 5. Virginia Sees Gains in Kindergarten Readiness, but Gaps Persist for Underserved Students [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+A new report shows Virginia students’ kindergarten readiness rose six percentage points to 57% over the past year, with underserved students making notable gains, according to the Department of Education.
+
+Link: https://www.the74million.org/zero2eight/virginia-sees-gains-in-kindergarten-readiness-but-gaps-persist-for-underserved-students/
+
+### 6. How Trump’s justice department is testing separation of powers before the US midterms [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating long-standing norms Donald Trump’s justice department has…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms
+
+### 7. World Bank says ‘small AI’ could transform developing countries [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with…
+
+Link: https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies
+
+### 8. Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Republican state attorney general appears uniquely ill-chosen as a candidate – but he is a political survivor who could yet frustrate Democratic dreams Depending how you look at the situation, it is either predictable that Ken Paxton,…
+
+Link: https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms
+
+### 9. Some conservative states aren’t using Medicaid hardship exemption – for political reasons [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+States like Missouri and Iowa are choosing to not take up exemption designed to help low-income people keep coverage during hardship Some conservative states that have rejected hardship exemptions for the new Medicaid requirements may be…
+
+Link: https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states
+
+### 10. In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -60,70 +123,25 @@ Link: https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-r
 
 Link: https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug
 
-### 4. Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live [9/10]
+### 11. ‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-France’s worst protests in years saw buildings set ablaze across the country and record numbers of people arrested It’s important to note that protests have also been taking place across Europe.
+Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind…
 
-Link: https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news
+Link: https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina
 
-### 5. ‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. Elon Musk settles lawsuits over $1 million voter giveaway [9/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in…
+In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state.
 
-Link: https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright
+Link: https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway
 
-### 6. New York City police seek suspect in fatal subway station shooting [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Suspect shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to NYPD A man was shot and killed in a New York City subway station Saturday afternoon, and the New York police department is…
-
-Link: https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting
-
-### 7. Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Picture this.
-
-Link: https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world
-
-### 8. RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself.
-
-Link: https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo
-
-### 9. Israeli settlers attack European diplomats in West Bank [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied…
-
-Link: https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank
-
-### 10. Opinion: Two Nonprofits Bring Career Education to Students With an Eye Toward the Future [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Career-connected learning is moving quickly into the mainstream. States and districts are expanding internships, apprenticeships, work-based learning and career pathways.
-
-Link: https://www.the74million.org/article/two-nonprofits-bring-career-education-to-students-with-an-eye-toward-the-future/
-
-### 11. Teacher Recruitment and Retention a Continuing Problem, Report Suggests [8/10]
+### 13. Teacher Recruitment and Retention a Continuing Problem, Report Suggests [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -132,34 +150,7 @@ To choose the teaching profession in New Hampshire is to navigate a series of fi
 
 Link: https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/
 
-### 12. Meta removes language that may have allowed it to scrape news sites [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.
-
-Link: https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-
-### 13. This Might Be the Earliest Known Spear Murder In Earth’s History [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Archaeologists have discovered a puncture wound from a spear in the shoulder blade of a Neanderthal that lived 75,000 years ago, offering a possible glimpse of early interpersonal violence.
-
-Link: https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/
-
 ## YouTube
-
-### Multiplayer Gaming & Flight Simulation - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.
-
-Link: https://www.youtube.com/watch?v=WqrwAFs-fq0
 
 ### Historian Fact Checks Gilded Age Slop [7/10]
 **Creator:** WIRED  
@@ -305,6 +296,15 @@ Link: https://www.youtube.com/watch?v=ngJrprxPRdw
 
 Link: https://www.youtube.com/watch?v=za5DW6Df2Jk
 
+### Street Fighter 6 Is Back on the Menu | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Ja4bDODiTp4
+
 ### Ranking the Dark Souls Bosses on Who Would Make the Best Roommate [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -349,15 +349,6 @@ Link: https://www.youtube.com/watch?v=AwCmHQjOd8s
 This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=01siwOuJqEw
-
-### Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=L0S2DwRXJqw
 
 ## Entertainment Recommendations
 
@@ -630,15 +621,6 @@ Link: https://www.youtube.com/watch?v=-G8FapnfXPs
 The official music video for 'Here to Stay' has arrived. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=aqGYA4OxTLY
-
-### Allen | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Something extraordinary is coming back. Allen, premiering on Netflix November 12. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=ptDdR2BMmsA
 
 ### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
 **Source:** Apple TV  

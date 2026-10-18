@@ -1,30 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-18T09:00:45.061818Z",
-  "generatedAtDisplay": "2026-10-18 05:00 AM EDT",
+  "generatedAt": "2026-10-18T14:00:02.928280Z",
+  "generatedAtDisplay": "2026-10-18 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are ‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina, ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations, and In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are What are self-replicating ‘AI worms’, and why is Anthropic worried about them?, Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live, and How overhead projectors took over your classroom.",
   "mainItems": [
     {
-      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
-      "published": "2026-10-18T04:00:49+00:00",
-      "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind…",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "published": "2026-10-18T13:30:00+00:00",
+      "summary": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations",
-      "published": "2026-10-17T11:00:30+00:00",
-      "summary": "Students say the school is more interested in scapegoating fraternities than in committing to institutional change In the wake of a lawsuit over an alleged gang-rape that took place at Cornell University in 2024, the school announced this…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "published": "2026-10-18T13:18:46+00:00",
+      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "How overhead projectors took over your classroom",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "published": "2026-10-18T12:55:01+00:00",
+      "summary": "It used to be so easy to get away with things in school.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The University of Nevada now offers students the opportunity to minor in mariachi",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5995179/the-university-of-nevada-now-offers-students-the-opportunity-to-minor-in-mariachi",
+      "published": "2026-10-18T12:00:52+00:00",
+      "summary": "The University of Nevada, Las Vegas, now offers a minor in teaching mariachi. The music remains popular among young people and someone's got to teach them how to play it.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Virginia Sees Gains in Kindergarten Readiness, but Gaps Persist for Underserved Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/zero2eight/virginia-sees-gains-in-kindergarten-readiness-but-gaps-persist-for-underserved-students/",
+      "published": "2026-10-18T10:30:00+00:00",
+      "summary": "A new report shows Virginia students’ kindergarten readiness rose six percentage points to 57% over the past year, with underserved students making notable gains, according to the Department of Education.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "How Trump’s justice department is testing separation of powers before the US midterms",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "published": "2026-10-18T10:00:57+00:00",
+      "summary": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating long-standing norms Donald Trump’s justice department has…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "World Bank says ‘small AI’ could transform developing countries",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "published": "2026-10-18T10:00:56+00:00",
+      "summary": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+      "published": "2026-10-18T09:00:56+00:00",
+      "summary": "The Republican state attorney general appears uniquely ill-chosen as a candidate – but he is a political survivor who could yet frustrate Democratic dreams Depending how you look at the situation, it is either predictable that Ken Paxton,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Some conservative states aren’t using Medicaid hardship exemption – for political reasons",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states",
+      "published": "2026-10-18T12:00:02+00:00",
+      "summary": "States like Missouri and Iowa are choosing to not take up exemption designed to help low-income people keep coverage during hardship Some conservative states that have rejected hardship exemptions for the new Medicaid requirements may be…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
@@ -37,73 +107,23 @@
       "score": 9
     },
     {
-      "title": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
+      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-      "published": "2026-10-18T08:44:21+00:00",
-      "summary": "France’s worst protests in years saw buildings set ablaze across the country and record numbers of people arrested It’s important to note that protests have also been taking place across Europe.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "published": "2026-10-18T04:00:49+00:00",
+      "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "published": "2026-10-18T02:50:29+00:00",
-      "summary": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "New York City police seek suspect in fatal subway station shooting",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
-      "published": "2026-10-17T22:45:48+00:00",
-      "summary": "Suspect shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to NYPD A man was shot and killed in a New York City subway station Saturday afternoon, and the New York police department is…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
-      "published": "2026-10-17T21:50:37+00:00",
-      "summary": "Picture this.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
-      "published": "2026-10-17T19:07:41+00:00",
-      "summary": "With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Israeli settlers attack European diplomats in West Bank",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-      "published": "2026-10-17T18:57:56+00:00",
-      "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Two Nonprofits Bring Career Education to Students With an Eye Toward the Future",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/two-nonprofits-bring-career-education-to-students-with-an-eye-toward-the-future/",
-      "published": "2026-10-17T10:30:00+00:00",
-      "summary": "Career-connected learning is moving quickly into the mainstream. States and districts are expanding internships, apprenticeships, work-based learning and career pathways.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "published": "2026-10-17T16:39:44+00:00",
+      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -115,40 +135,9 @@
       "summary": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "published": "2026-10-17T15:04:36+00:00",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "This Might Be the Earliest Known Spear Murder In Earth’s History",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
-      "published": "2026-10-17T13:36:29+00:00",
-      "summary": "Archaeologists have discovered a puncture wound from a spear in the shoulder blade of a Neanderthal that lived 75,000 years ago, offering a possible glimpse of early interpersonal violence.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Multiplayer Gaming & Flight Simulation - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=WqrwAFs-fq0",
-      "published": "2026-10-15T13:30:19+00:00",
-      "summary": "Using the example of a flight simulator to discuss the complexities of coding a multi-player game. What data do you send? When do you send it & how often? Dr Julian Onions talks about his experiences of working on a flight simulator.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "Historian Fact Checks Gilded Age Slop",
       "source": "WIRED",
@@ -326,6 +315,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Street Fighter 6 Is Back on the Menu | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Ja4bDODiTp4",
+      "published": "2026-10-18T13:26:21+00:00",
+      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Ranking the Dark Souls Bosses on Who Would Make the Best Roommate",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -379,17 +379,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Gears of War: E-Day Co-op Shootin' and Chainsawin' w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=L0S2DwRXJqw",
-      "published": "2026-10-15T13:07:18+00:00",
-      "summary": "KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -691,17 +680,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Allen | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ptDdR2BMmsA",
-      "published": "2026-10-14T19:30:00+00:00",
-      "summary": "Something extraordinary is coming back. Allen, premiering on Netflix November 12. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -846,8 +824,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
-    "trailerCount": 31,
-    "sourceCount": 19
+    "youtubeCount": 22,
+    "trailerCount": 30,
+    "sourceCount": 17
   }
 }
