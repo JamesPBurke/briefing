@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-17T18:07:27.952292Z
+Generated: 2026-10-18T05:00:02.070652Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Police clash with protesters as tens of thousands take to streets across France, Elon Musk settles lawsuits over $1 million voter giveaway, and Elon Musk agrees to settle lawsuits over 2024 election lottery.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’, ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations, and ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes.
 
 ## Briefing
 
@@ -33,34 +33,7 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Police clash with protesters as tens of thousands take to streets across France [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ Police have fired teargas and clashed with protesters supporting high school student grievances, as demonstrations…
-
-Link: https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes
-
-### 2. Elon Musk settles lawsuits over $1 million voter giveaway [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state.
-
-Link: https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway
-
-### 3. Elon Musk agrees to settle lawsuits over 2024 election lottery [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition Elon Musk and his ⁠America Pac political action committee said recently that they agreed to settle two ⁠proposed class ⁠actions…
-
-Link: https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit
-
-### 4. After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’ [10/10]
+### 1. After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,7 +42,7 @@ A shooting at an elementary school in Bend on Thursday left three children and o
 
 Link: https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting
 
-### 5. ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations [10/10]
+### 2. ‘Is this too little, too late?’: Cornell students on school’s response to gang-rape allegations [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,7 +51,61 @@ Students say the school is more interested in scapegoating fraternities than in 
 
 Link: https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations
 
-### 6. Opinion: Two Nonprofits Bring Career Education to Students With an Eye Toward the Future [10/10]
+### 3. ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock.
+
+Link: https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care
+
+### 4. ‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Incident at CFB Wainwright base in Alberta caused a ‘major fire’ that is spreading to the nearby town because of strong winds People have been killed and injured after an incident at one of Canada’s busiest military training bases in…
+
+Link: https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright
+
+### 5. New York City police seek suspect in fatal subway station shooting [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Suspect shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to NYPD A man was shot and killed in a New York City subway station Saturday afternoon, and the New York police department is…
+
+Link: https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting
+
+### 6. Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Picture this.
+
+Link: https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world
+
+### 7. RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself.
+
+Link: https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo
+
+### 8. Israeli settlers attack European diplomats in West Bank [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied…
+
+Link: https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank
+
+### 9. Opinion: Two Nonprofits Bring Career Education to Students With an Eye Toward the Future [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,34 +114,7 @@ Career-connected learning is moving quickly into the mainstream. States and dist
 
 Link: https://www.the74million.org/article/two-nonprofits-bring-career-education-to-students-with-an-eye-toward-the-future/
 
-### 7. French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-To protest against shameful conditions in schools is entirely legitimate.
-
-Link: https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools
-
-### 8. Websites are closing their doors to AI agents [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Autonomous agents are the hottest thing in AI.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
-
-### 9. OpenAI models hacked a crypto wallet and breached more websites [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The actions could have resulted in criminal charges had humans been behind the keyboard.
-
-Link: https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/
-
-### 10. Teacher Recruitment and Retention a Continuing Problem, Report Suggests [9/10]
+### 10. Teacher Recruitment and Retention a Continuing Problem, Report Suggests [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,7 +123,16 @@ To choose the teaching profession in New Hampshire is to navigate a series of fi
 
 Link: https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/
 
-### 11. Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital [8/10]
+### 11. Meta removes language that may have allowed it to scrape news sites [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.
+
+Link: https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+
+### 12. Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.the74million.org/article/teacher-recruitment-and-retention-a-c
 Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.
 
 Link: https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk
-
-### 12. At SF Tech Week, a vibe check on how people in Silicon Valley feel about the AI boom [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-In Silicon Valley, the AI boom means a lot of people are excited about this new technology, but concerned about when the music might stop. NPR went to San Francisco Tech Week to take the pulse.
-
-Link: https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-on-how-people-in-silicon-valley-feel-about-the-ai-boom
 
 ### 13. This Might Be the Earliest Known Spear Murder In Earth’s History [7/10]
 **Source:** 404 Media  
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-
 Archaeologists have discovered a puncture wound from a spear in the shoulder blade of a Neanderthal that lived 75,000 years ago, offering a possible glimpse of early interpersonal violence.
 
 Link: https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
