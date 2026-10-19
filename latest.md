@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-19T09:02:27.199827Z
+Generated: 2026-10-19T14:00:02.507567Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Macron refuses minister’s resignation after huge protests rock France – Europe live, ‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder, and A spy charge, a Russian jail and a swap for an assassin: the story of Evan Gershkovich – podcast.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A hacker broke into John Deere and SharkNinja with an army of AI agents, ICE agents broke US citizen’s arm as they detained him in California, officials say, and Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone.
 
 ## Briefing
 
@@ -33,61 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Macron refuses minister’s resignation after huge protests rock France – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France Protesters blocked entrances to the Louvre…
-
-Link: https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates
-
-### 2. ‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Amine Kessaci, 23, lives under constant threat as trial of five men becomes focus of nation’s battle with mafia-style crime At 23, he is one of the most heavily protected people in France, constantly sleeping in different locations to…
-
-Link: https://www.theguardian.com/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers
-
-### 3. A spy charge, a Russian jail and a swap for an assassin: the story of Evan Gershkovich – podcast [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-American journalist Evan Gershkovich talks about his arrest by the Russian intelligence services in 2023, his 16-month detention, and the swap deal that eventually took him home. Get in touch at tif.questions@theguardian.
-
-Link: https://www.theguardian.com/news/audio/2026/oct/19/a-spy-charge-a-russian-jail-and-a-swap-for-an-assassin-the-story-of-evan-gershkovich-podcast
-
-### 4. A Savannah police officer gave her Flock login to her ICE agent husband [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent.
-
-Link: https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband
-
-### 5. How Trump’s justice department is shattering practice of political neutrality as midterms loom [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating longstanding norms Donald Trump’s justice department has…
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms
-
-### 6. How overhead projectors took over your classroom [10/10]
+### 1. A hacker broke into John Deere and SharkNinja with an army of AI agents [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-It used to be so easy to get away with things in school.
+A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.
 
-Link: https://www.theverge.com/podcast/1013473/overhead-projector-version-history
+Link: https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
 
-### 7. AI models are changing how forecasters predict the paths of hurricanes [9/10]
+### 2. ICE agents broke US citizen’s arm as they detained him in California, officials say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ricardo Gonzalez was injured and taken to hospital after confrontation in Long Beach, according to officials Federal immigration agents broke the arm of a US citizen in what a Democratic congressman said was a “brutal attack” during a…
+
+Link: https://www.theguardian.com/us-news/2026/oct/19/ice-broke-us-citizen-arm-california
+
+### 3. Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In a metaphor far too on the nose to turn into any form of fiction, at least without the writer getting mercilessly cyberbullied, a game about finding a needle in a haystack has now become the genuine needle at the heart of a pile of…
+
+Link: https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone
+
+### 4. Star Wars Zero Company review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company.
+
+Link: https://www.eurogamer.net/star-wars-zero-company-review
+
+### 5. This week in PC games: build a better zombie in Stupid Never Dies, glue together houses in Cutout Village, and settle brave new worlds in Star Trek: Outposts Unknown [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello all! Welcome to another wonderful week of PC games, and mounting bloodlust. As I type these words, a neighbour has started using a leafblower. I hate leafblowers. They are mutant hairdryers from Hell.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-build-a-better-zombie-in-stupid-never-dies-glue-together-houses-in-cutout-village-and-settle-brave-new-worlds-in-star-trek-outposts-unknown
+
+### 6. Opinion: Lies, Damn Lies, and Statistics: Why Rising Graduation Rates May Not Be Good News [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+More is better: That is the conventional wisdom when it comes to graduating from high school. The more students get pushed across the finish line, the better for everyone. Policy has followed that principle — and it has worked.
+
+Link: https://www.the74million.org/article/lies-damn-lies-and-statistics-why-rising-graduation-rates-may-not-be-good-news/
+
+### 7. French prime minister calls for ‘local and partial’ curfews after riots [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to…
+
+Link: https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister
+
+### 8. Life has once again found a way in Athanasia, an "immersive" dinosaur FPS that feels like comfort food for Dino Crisis and System Shock players alike [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Good news, people who figure they are going to die of old age before they get another Dino Crisis ! Good news also, people who can't get enough throwback immersive sims! Even as Capcom forge ahead with their Resident Evil remake ouroboros…
+
+Link: https://www.rockpapershotgun.com/life-has-once-again-found-a-way-in-athanasia-an-immersive-dinosaur-fps-that-feels-like-comfort-food-for-dino-crisis-and-system-shock-players-alike
+
+### 9. HelloFresh workers claim physical abuse and denied bathroom breaks in class action suit [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey have claimed in court documents that they were verbally and physically…
+
+Link: https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit
+
+### 10. If Teachers Are the Most Important Thing, Why Don’t States Act Like it? [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+One of the most familiar claims in education is that teachers are the most important in-school factor for student learning. It also happens to be well-supported by research. But states aren’t acting on it.
+
+Link: https://www.the74million.org/article/if-teachers-are-the-most-important-thing-why-dont-states-act-like-it/
+
+### 11. Can countries deliver on a deal to save the world’s plants and animals? [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Four years ago nearly every government on Earth agreed to protect nature.
+
+Link: https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals
+
+### 12. AI models are changing how forecasters predict the paths of hurricanes [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -96,61 +141,25 @@ AI models are transforming hurricane forecasting. They provided some of the most
 
 Link: https://www.npr.org/2026/10/19/nx-s1-5996666/ai-models-are-changing-how-forecasters-predict-the-paths-of-hurricanes
 
-### 8. Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 13. How a Massive Chinese Crime Ring Hacked Staples to Steal Millions [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC , but the final game may have turned things around - so far, at least. Read more
+A sophisticated organized crime gang hacked into Staples, issued millions of dollars worth of gift cards, and went on a spending spree across the U.S.
 
-Link: https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating
-
-### 9. Other Desert Cities review – Julia Louis-Dreyfus and Ed Harris shine in timely Broadway revival [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Hudson Theatre, New York Allison Janney and Joe Keery co-star in a powerful drama about a family reunion turned political minefield Just in time for the holidays, Jon Robin Baitz’s family reunion drama, Other Desert Cities, is back with an…
-
-Link: https://www.theguardian.com/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway
-
-### 10. Colorado Officials Weighing Stricter Rules for Homeschool Enrichment Programs [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Over the summer, state officials said yes to only 14 of 54 homeschool enrichment programs that applied for approval.
-
-Link: https://www.the74million.org/article/co-rejected-38-homeschool-enrichment-programs-officials-to-weigh-stricter-rules/
-
-### 11. Video game ownership bill introduced in Congress [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week.
-
-Link: https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act
-
-### 12. The University of Nevada now offers students the opportunity to minor in mariachi [9/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The University of Nevada, Las Vegas, now offers a minor in teaching mariachi. The music remains popular among young people and someone's got to teach them how to play it.
-
-Link: https://www.npr.org/2026/10/18/nx-s1-5995179/the-university-of-nevada-now-offers-students-the-opportunity-to-minor-in-mariachi
-
-### 13. Virginia Sees Gains in Kindergarten Readiness, but Gaps Persist for Underserved Students [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-A new report shows Virginia students’ kindergarten readiness rose six percentage points to 57% over the past year, with underserved students making notable gains, according to the Department of Education.
-
-Link: https://www.the74million.org/zero2eight/virginia-sees-gains-in-kindergarten-readiness-but-gaps-persist-for-underserved-students/
+Link: https://www.404media.co/how-a-massive-chinese-crime-ring-hacked-staples-to-steal-millions/
 
 ## YouTube
+
+### Gemini 4 Argon Really Surprised Me [10/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.
+
+Link: https://www.youtube.com/watch?v=LWxX6vvHfrc
 
 ### Historian Fact Checks Gilded Age Slop [7/10]
 **Creator:** WIRED  
@@ -295,15 +304,6 @@ Link: https://www.youtube.com/watch?v=09j9N0BD-TQ
 Epic Games' Tim Sweeney wants to push the company into an AI-first future. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=nMf5GDIiDkk
-
-### Player Dynamics and How to Manage Them | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.
-
-Link: https://www.youtube.com/watch?v=GXNBs9qSxF0
 
 ## Entertainment Recommendations
 
@@ -582,6 +582,6 @@ Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).
 
 Link: https://www.youtube.com/watch?v=zXC7HfjHo30

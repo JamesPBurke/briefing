@@ -1,70 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-19T09:02:27.199827Z",
-  "generatedAtDisplay": "2026-10-19 05:02 AM EDT",
+  "generatedAt": "2026-10-19T14:00:02.507567Z",
+  "generatedAtDisplay": "2026-10-19 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Macron refuses minister’s resignation after huge protests rock France – Europe live, ‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder, and A spy charge, a Russian jail and a swap for an assassin: the story of Evan Gershkovich – podcast.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A hacker broke into John Deere and SharkNinja with an army of AI agents, ICE agents broke US citizen’s arm as they detained him in California, officials say, and Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone.",
   "mainItems": [
     {
-      "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "published": "2026-10-19T08:50:42+00:00",
-      "summary": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France Protesters blocked entrances to the Louvre…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers",
-      "published": "2026-10-19T04:00:19+00:00",
-      "summary": "Amine Kessaci, 23, lives under constant threat as trial of five men becomes focus of nation’s battle with mafia-style crime At 23, he is one of the most heavily protected people in France, constantly sleeping in different locations to…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "A spy charge, a Russian jail and a swap for an assassin: the story of Evan Gershkovich – podcast",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/19/a-spy-charge-a-russian-jail-and-a-swap-for-an-assassin-the-story-of-evan-gershkovich-podcast",
-      "published": "2026-10-19T02:00:15+00:00",
-      "summary": "American journalist Evan Gershkovich talks about his arrest by the Russian intelligence services in 2023, his 16-month detention, and the swap deal that eventually took him home. Get in touch at tif.questions@theguardian.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "published": "2026-10-18T22:20:53+00:00",
-      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How Trump’s justice department is shattering practice of political neutrality as midterms loom",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
-      "published": "2026-10-18T17:18:14+00:00",
-      "summary": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating longstanding norms Donald Trump’s justice department has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How overhead projectors took over your classroom",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
-      "published": "2026-10-18T12:55:01+00:00",
-      "summary": "It used to be so easy to get away with things in school.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "published": "2026-10-19T13:58:41+00:00",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "ICE agents broke US citizen’s arm as they detained him in California, officials say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/ice-broke-us-citizen-arm-california",
+      "published": "2026-10-19T13:28:37+00:00",
+      "summary": "Ricardo Gonzalez was injured and taken to hospital after confrontation in Long Beach, according to officials Federal immigration agents broke the arm of a US citizen in what a Democratic congressman said was a “brutal attack” during a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
+      "published": "2026-10-19T13:25:56+00:00",
+      "summary": "In a metaphor far too on the nose to turn into any form of fiction, at least without the writer getting mercilessly cyberbullied, a game about finding a needle in a haystack has now become the genuine needle at the heart of a pile of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Star Wars Zero Company review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-review",
+      "published": "2026-10-19T13:05:47+00:00",
+      "summary": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: build a better zombie in Stupid Never Dies, glue together houses in Cutout Village, and settle brave new worlds in Star Trek: Outposts Unknown",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-build-a-better-zombie-in-stupid-never-dies-glue-together-houses-in-cutout-village-and-settle-brave-new-worlds-in-star-trek-outposts-unknown",
+      "published": "2026-10-19T12:59:48+00:00",
+      "summary": "Hello all! Welcome to another wonderful week of PC games, and mounting bloodlust. As I type these words, a neighbour has started using a leafblower. I hate leafblowers. They are mutant hairdryers from Hell.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Lies, Damn Lies, and Statistics: Why Rising Graduation Rates May Not Be Good News",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/lies-damn-lies-and-statistics-why-rising-graduation-rates-may-not-be-good-news/",
+      "published": "2026-10-19T12:30:00+00:00",
+      "summary": "More is better: That is the conventional wisdom when it comes to graduating from high school. The more students get pushed across the finish line, the better for everyone. Policy has followed that principle — and it has worked.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "French prime minister calls for ‘local and partial’ curfews after riots",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "published": "2026-10-19T12:02:47+00:00",
+      "summary": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Life has once again found a way in Athanasia, an \"immersive\" dinosaur FPS that feels like comfort food for Dino Crisis and System Shock players alike",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/life-has-once-again-found-a-way-in-athanasia-an-immersive-dinosaur-fps-that-feels-like-comfort-food-for-dino-crisis-and-system-shock-players-alike",
+      "published": "2026-10-19T11:17:27+00:00",
+      "summary": "Good news, people who figure they are going to die of old age before they get another Dino Crisis ! Good news also, people who can't get enough throwback immersive sims! Even as Capcom forge ahead with their Resident Evil remake ouroboros…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class action suit",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+      "published": "2026-10-19T11:00:55+00:00",
+      "summary": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey have claimed in court documents that they were verbally and physically…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "If Teachers Are the Most Important Thing, Why Don’t States Act Like it?",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/if-teachers-are-the-most-important-thing-why-dont-states-act-like-it/",
+      "published": "2026-10-19T10:30:00+00:00",
+      "summary": "One of the most familiar claims in education is that teachers are the most important in-school factor for student learning. It also happens to be well-supported by research. But states aren’t acting on it.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Can countries deliver on a deal to save the world’s plants and animals?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals",
+      "published": "2026-10-19T10:16:09+00:00",
+      "summary": "Four years ago nearly every government on Earth agreed to protect nature.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "AI models are changing how forecasters predict the paths of hurricanes",
@@ -77,67 +127,28 @@
       "score": 9
     },
     {
-      "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-      "published": "2026-10-19T08:36:43+00:00",
-      "summary": "It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC , but the final game may have turned things around - so far, at least. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Other Desert Cities review – Julia Louis-Dreyfus and Ed Harris shine in timely Broadway revival",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway",
-      "published": "2026-10-19T04:01:18+00:00",
-      "summary": "Hudson Theatre, New York Allison Janney and Joe Keery co-star in a powerful drama about a family reunion turned political minefield Just in time for the holidays, Jon Robin Baitz’s family reunion drama, Other Desert Cities, is back with an…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Colorado Officials Weighing Stricter Rules for Homeschool Enrichment Programs",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/co-rejected-38-homeschool-enrichment-programs-officials-to-weigh-stricter-rules/",
-      "published": "2026-10-18T16:30:00+00:00",
-      "summary": "Over the summer, state officials said yes to only 14 of 54 homeschool enrichment programs that applied for approval.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Video game ownership bill introduced in Congress",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "published": "2026-10-18T16:27:51+00:00",
-      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The University of Nevada now offers students the opportunity to minor in mariachi",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5995179/the-university-of-nevada-now-offers-students-the-opportunity-to-minor-in-mariachi",
-      "published": "2026-10-18T12:00:52+00:00",
-      "summary": "The University of Nevada, Las Vegas, now offers a minor in teaching mariachi. The music remains popular among young people and someone's got to teach them how to play it.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Virginia Sees Gains in Kindergarten Readiness, but Gaps Persist for Underserved Students",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/zero2eight/virginia-sees-gains-in-kindergarten-readiness-but-gaps-persist-for-underserved-students/",
-      "published": "2026-10-18T10:30:00+00:00",
-      "summary": "A new report shows Virginia students’ kindergarten readiness rose six percentage points to 57% over the past year, with underserved students making notable gains, according to the Department of Education.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "How a Massive Chinese Crime Ring Hacked Staples to Steal Millions",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/how-a-massive-chinese-crime-ring-hacked-staples-to-steal-millions/",
+      "published": "2026-10-19T13:23:31+00:00",
+      "summary": "A sophisticated organized crime gang hacked into Staples, issued millions of dollars worth of gift cards, and went on a spending spree across the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "Gemini 4 Argon Really Surprised Me",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "published": "2026-10-19T08:49:21+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
     {
       "title": "Historian Fact Checks Gilded Age Slop",
       "source": "WIRED",
@@ -313,17 +324,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Player Dynamics and How to Manage Them | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=GXNBs9qSxF0",
-      "published": "2026-10-16T09:45:00+00:00",
-      "summary": "Having the good players isn't the only thing you need at the table. You need players who share expectations, goals, and play styles.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -630,7 +630,7 @@
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=zXC7HfjHo30",
       "published": "2026-10-16T00:59:46+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly.",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -749,6 +749,6 @@
     "mainCount": 13,
     "youtubeCount": 17,
     "trailerCount": 28,
-    "sourceCount": 18
+    "sourceCount": 20
   }
 }
