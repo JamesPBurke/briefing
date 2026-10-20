@@ -1,50 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-19T18:01:05.222342Z",
-  "generatedAtDisplay": "2026-10-19 02:01 PM EDT",
+  "generatedAt": "2026-10-20T05:00:02.714950Z",
+  "generatedAtDisplay": "2026-10-20 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are A hacker broke into John Deere and SharkNinja with an army of AI agents, Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited, and Police Say Scammers Used AI to Clone a Sheriff’s Voice.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are I tried a $99 plug that promises to track your car and send help when needed — without selling your data, They’re the best food storage containers we’ve used – on sale for the first time ever, and Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans.",
   "mainItems": [
     {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
       "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "published": "2026-10-19T23:29:22+00:00",
+      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "They’re the best food storage containers we’ve used – on sale for the first time ever",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale",
+      "published": "2026-10-19T21:36:45+00:00",
+      "summary": "Anyday’s Anydeli containers are 20% off through 22 October.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
+      "published": "2026-10-19T21:33:50+00:00",
+      "summary": "New details emerge about Kaylub Giamanco, who went on to elementary school campus and shot Bend suspect dead New details are emerging about the parent who fatally shot the 16-year-old shooter who killed three children and a teacher in…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Schools struggle to measure how much AI experiments are helping",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+      "published": "2026-10-19T20:59:57+00:00",
+      "summary": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+      "published": "2026-10-19T19:54:06+00:00",
+      "summary": "Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over \"games being reverse-engineered, cloned and published…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "published": "2026-10-19T17:33:16+00:00",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "2026-10-19T20:21:53+00:00",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "published": "2026-10-19T17:15:23+00:00",
-      "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
-      "published": "2026-10-19T16:16:17+00:00",
-      "summary": "The scammers used the voice of a specific sheriff to impersonate him.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "France protests escalate with riots, looting and 2,400 arrests - The Latest",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/video/2026/oct/19/france-protests-escalate-with-riots-looting-and-2400-arrests-the-latest",
-      "published": "2026-10-19T16:01:03+00:00",
-      "summary": "Last weekend there were mass protests across France, with more than half a million people estimated to have been involved.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -54,27 +74,7 @@
       "published": "2026-10-19T15:46:56+00:00",
       "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "published": "2026-10-19T14:45:43+00:00",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "published": "2026-10-19T14:42:13+00:00",
-      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Opinion: Lies, Damn Lies, and Statistics: Why Rising Graduation Rates May Not Be Good News",
@@ -84,61 +84,183 @@
       "published": "2026-10-19T12:30:00+00:00",
       "summary": "More is better: That is the conventional wisdom when it comes to graduating from high school. The more students get pushed across the finish line, the better for everyone. Policy has followed that principle — and it has worked.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "French prime minister calls for ‘local and partial’ curfews after riots",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "published": "2026-10-19T12:02:47+00:00",
-      "summary": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "If Teachers Are the Most Important Thing, Why Don’t States Act Like it?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/if-teachers-are-the-most-important-thing-why-dont-states-act-like-it/",
-      "published": "2026-10-19T10:30:00+00:00",
-      "summary": "One of the most familiar claims in education is that teachers are the most important in-school factor for student learning. It also happens to be well-supported by research. But states aren’t acting on it.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-      "published": "2026-10-19T17:37:45+00:00",
-      "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "AI models are changing how forecasters predict the paths of hurricanes",
+      "title": "In Dublin, tech workers raise concerns about AI",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5996666/ai-models-are-changing-how-forecasters-predict-the-paths-of-hurricanes",
-      "published": "2026-10-19T08:44:31+00:00",
-      "summary": "AI models are transforming hurricane forecasting. They provided some of the most accurate predictions of the track of Hurricane Isaias.",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai",
+      "published": "2026-10-19T22:20:52+00:00",
+      "summary": "Dublin, Ireland, is a longtime hub for American tech companies. A group of workers held a summit to discuss their concerns about AI in Irish workplaces and life.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "The Staples Gift Card Heist",
+      "title": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/the-staples-gift-card-heist/",
-      "published": "2026-10-19T14:59:51+00:00",
-      "summary": "A gang of hackers targets Staples, but not to buy things from Staples.",
+      "url": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
+      "published": "2026-10-19T21:40:42+00:00",
+      "summary": "“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause.\"",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Heavy cream vs. whipping cream: What's the difference?: Understanding the right cream for your baking.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/10/19/heavy-cream-vs-whipping-cream",
+      "published": "2026-10-19T14:00:00+00:00",
+      "summary": "If you’re baking a recipe that calls for heavy cream, or picking up a carton to turn into whipped cream to finish a dessert, you may be confused when you hit the dairy aisle.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 8
+    },
+    {
+      "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
+      "published": "2026-10-19T22:38:29+00:00",
+      "summary": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Five Horror Books Told From the Monster’s POV",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/five-horror-books-told-from-the-monsters-pov/",
+      "published": "2026-10-19T14:00:00+00:00",
+      "summary": "Stories about vampires, aliens, slashers, werewolves, and zombies — in their own words. The post Five Horror Books Told From the Monster’s POV appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VP9u2ACGojU",
+      "published": "2026-10-19T22:00:00+00:00",
+      "summary": "Cyberpunk: Edgerunners. Tomorrow. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Janelle James: How Romantic | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MeBysXIz-zM",
+      "published": "2026-10-19T17:00:00+00:00",
+      "summary": "In her debut hour-long stand-up special, Janelle James shares how fame changed her bank account and fan base but not her instincts or filter. Janelle James: How Romantic releases November 10, only on Netflix. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "10 Years of Netflix Korea",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=vYK8UzELUFg",
+      "published": "2026-10-19T03:00:02+00:00",
+      "summary": "Ten years of stories we've enjoyed together — stories that made us laugh and cry. All made possible by you, every step of the way. Netflix Korea turns 10. And our story continues.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 in 2 days",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Nog6oN3MEjs",
+      "published": "2026-10-18T14:00:00+00:00",
+      "summary": "Something’s eating at D. No amount of chrome’s gonna make it disappear. 2 days. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "All that chrome. Not an ounce of caution. Meet Talia in 3 days. #CyberpunkEdgerunners2",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NjwT28eNJY4",
+      "published": "2026-10-17T15:00:00+00:00",
+      "summary": "All that chrome. Not an ounce of caution. Meet Talia in 3 days. #CyberpunkEdgerunners2 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Hollywood Arts | Hold You Up | Music Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=sV9fMRcmdls",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "The girls did not come to play! The official music video for “Hold You Up” is here. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=D1FVJzVVdMw",
+      "published": "2026-10-16T15:00:00+00:00",
+      "summary": "Getting in King’s way? Gonk move. 4 days until Cyberpunk: Edgerunners Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry's The Gospel of Christmas premieres November 11 #TylerPerry",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=bxTTWZsx3QY",
+      "published": "2026-10-16T14:00:01+00:00",
+      "summary": "This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s The Gospel of Christmas | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "This holiday season, feel the excitement. Witness the wonder. Experience the miracle as some of gospel’s biggest voices come together in Tyler Perry’s The Gospel of Christmas. Only on Netflix, November 11. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "High risk. High reward. Dead-End Job premieres October 30.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zFEin88PoUo",
+      "published": "2026-10-16T00:00:02+00:00",
+      "summary": "High risk. High reward. Dead-End Job premieres October 30. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Noah's hotter older brother has some zingers. NOBODY WANTS THIS returns Oct. 22!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7RXOdXNWHDE",
+      "published": "2026-10-15T22:00:03+00:00",
+      "summary": "Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +373,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "trailerCount": 11,
+    "sourceCount": 12
   }
 }
