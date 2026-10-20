@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-20T05:00:02.714950Z
+Generated: 2026-10-20T14:00:04.828444Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are I tried a $99 plug that promises to track your car and send help when needed — without selling your data, They’re the best food storage containers we’ve used – on sale for the first time ever, and Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are France plans ‘massive’ police presence on weekend as more protests expected – Europe live, Discovery of North Carolina police officers’ alleged racist texts prompts review of arrest records, and People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so.
 
 ## Briefing
 
@@ -33,106 +33,115 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. I tried a $99 plug that promises to track your car and send help when needed — without selling your data [10/10]
-**Source:** The Verge  
+### 1. France plans ‘massive’ police presence on weekend as more protests expected – Europe live [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued.
+French PM addresses parliament as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister,…
 
-Link: https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date
+Link: https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates
 
-### 2. They’re the best food storage containers we’ve used – on sale for the first time ever [10/10]
+### 2. Discovery of North Carolina police officers’ alleged racist texts prompts review of arrest records [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Anyday’s Anydeli containers are 20% off through 22 October.
+‘Deeply troubling’ messages came to light during investigation into misuse of Flock camera system Five officers resigned recently from a North Carolina police agency – and a sixth remained suspended – after they allegedly exchanged racist…
 
-Link: https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale
+Link: https://www.theguardian.com/us-news/2026/oct/20/north-carolina-police-officers-alleged-racist-texts
 
-### 3. Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-New details emerge about Kaylub Giamanco, who went on to elementary school campus and shot Bend suspect dead New details are emerging about the parent who fatally shot the 16-year-old shooter who killed three children and a teacher in…
-
-Link: https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter
-
-### 4. Schools struggle to measure how much AI experiments are helping [10/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.
-
-Link: https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping
-
-### 5. Moonlighter dev delays Steam playtest for its "Tower Defensevania" ReVamp over concerns that AI copycats might clone it before launch [10/10]
+### 3. People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so [10/10]
 **Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over "games being reverse-engineered, cloned and published…
+The Call of Duty: Modern Warfare 4 campaign is currently available in early access , and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder,…
 
-Link: https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats
+Link: https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty
 
-### 6. Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-US fears Saudi government will help ex-OpenAI engineer flee spying charges.
-
-Link: https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
-
-### 7. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes [9/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.
-
-Link: https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws
-
-### 8. Opinion: Lies, Damn Lies, and Statistics: Why Rising Graduation Rates May Not Be Good News [9/10]
+### 4. Educators Ask FCC to ‘Preserve and Strengthen’ Broadband Discount Program [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-More is better: That is the conventional wisdom when it comes to graduating from high school. The more students get pushed across the finish line, the better for everyone. Policy has followed that principle — and it has worked.
+The Trump administration’s plan to revise, or potentially discontinue, broadband discounts for schools and libraries is overwhelmingly unpopular, judging by the thousands of comments submitted since August.
 
-Link: https://www.the74million.org/article/lies-damn-lies-and-statistics-why-rising-graduation-rates-may-not-be-good-news/
+Link: https://www.the74million.org/article/educators-ask-fcc-to-preserve-and-strengthen-broadband-discount-program/
 
-### 9. In Dublin, tech workers raise concerns about AI [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 5. FBI investigates misuse of medical records after alleged sexual abuse of child by classmate [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Dublin, Ireland, is a longtime hub for American tech companies. A group of workers held a summit to discuss their concerns about AI in Irish workplaces and life.
+Authorities examine potential Hipaa breach after Louisiana hospital counselor shared information with pre-school principal, her sister-in-law The FBI has launched a criminal investigation after a counselor at a premier Louisiana pediatric…
 
-Link: https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai
+Link: https://www.theguardian.com/us-news/2026/oct/20/fbi-new-orleans-investigation-child-medical-records
 
-### 10. 'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway [8/10]
+### 6. Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates.
+
+Link: https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics
+
+### 7. How to study a swiftly melting climate disaster [10/10]
+**Source:** MIT Technology Review  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.
+
+Link: https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/
+
+### 8. A visit to Samsung’s massive new semiconductor hub [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor.
+
+Link: https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/
+
+### 9. They’re the best food storage containers we’ve used – on sale for the first time ever [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Anyday’s Anydeli containers are 20% off through 22 October with our exclusive code.
+
+Link: https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale
+
+### 10. People Are Using 'AI Decompiling' to Hack Their Things [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause."
+A gang of hackers targets Staples, but not to buy things from Staples.
 
-Link: https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/
+Link: https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/
 
-### 11. Heavy cream vs. whipping cream: What's the difference?: Understanding the right cream for your baking. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 11. Revealing House of Salt by Shay Kauwe [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-If you’re baking a recipe that calls for heavy cream, or picking up a carton to turn into whipped cream to finish a dessert, you may be confused when you hit the dairy aisle.
+A gothic horror novel arriving August 2027 The post Revealing House of Salt by Shay Kauwe appeared first on Reactor .
 
-Link: https://www.kingarthurbaking.com/blog/2026/10/19/heavy-cream-vs-whipping-cream
+Link: https://reactormag.com/cover-reveal-house-of-salt-by-shay-kauwe/
 
-### 12. The Ebola crisis is far outpacing the response, Congo's IRC director says [7/10]
+### 12. What if an AI bubble bursts — and that accelerates AI job losses? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.
+
+Link: https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses
+
+### 13. The Ebola crisis is far outpacing the response, Congo's IRC director says [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,18 +150,160 @@ Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack
 
 Link: https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says
 
-### 13. Five Horror Books Told From the Monster’s POV [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Stories about vampires, aliens, slashers, werewolves, and zombies — in their own words. The post Five Horror Books Told From the Monster’s POV appeared first on Reactor .
-
-Link: https://reactormag.com/five-horror-books-told-from-the-monsters-pov/
-
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Gemini 4 Argon Is Not What I Expected [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.
+
+Link: https://www.youtube.com/watch?v=LWxX6vvHfrc
+
+### Do you feel like the government is helping you? | Voter Voices [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.
+
+Link: https://www.youtube.com/watch?v=bkfboXMIU3E
+
+### What is a Solar Superflare and should you be worried? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Superflares from the Sun could happen but should you worry?⁠
+
+Link: https://www.youtube.com/watch?v=OIocXv4t4yQ
+
+### 'You Can See Everything' to expand after posting the second-best opening for a documentary [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+"You Can See Everything" posted the second-best opening ever for a documentary. The film will expand its run next weekend.⁠ Produced in secret, "You Can See Everything" was on no one’s radar until two months ago.
+
+Link: https://www.youtube.com/watch?v=jElzqONoXaM
+
+### Aaron Sorkin on revisiting Facebook's world in his latest film “The Social Reckoning” [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Aaron Sorkin won an Oscar for the 2010 screenplay "The Social Network” — 16 years later, he’s taking a second look at the company in his latest film “The Social Reckoning.
+
+Link: https://www.youtube.com/watch?v=3O6l8kydo4I
+
+### Democratic fundraisers and Elon Musk drive record midterm donations [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The 2026 midterms are on track to be the most expensive on record. According to the latest campaign finance filings, Democratic candidates and trillionaire Elon Musk dominated the last fundraising period.
+
+Link: https://www.youtube.com/watch?v=TTwX-f2lcDk
+
+### NASA's Perseverance Mars rover breaks distance record [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Mars rover Perseverance set a new record for the longest distance traveled by an off-Earth vehicle.
+
+Link: https://www.youtube.com/watch?v=iO22clAGKww
+
+### France investigates cyberattack that hacked retailers' refrigeration systems [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+France has opened an investigation into a cyberattack that hit hundreds of food retailers, causing refrigerators to malfunction across the country.
+
+Link: https://www.youtube.com/watch?v=IRbk3fSCU3M
+
+### Why Can't Nintendo Force VRR Support Into Existing Games [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5Y7I2aOpit4
+
+### PS5 Pro Year 2: Has PSSR2 Has Completely Changed Our Opinion? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=i80k7hBuC9Q
+
+### What Are The Chances That PS5 QSSR Will Fail To Get Support? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=E1wRDrBqyeU
+
+### What Can Sony Actually Do About The PS5/PS5 Pro Jailbreak? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=899CAdFvJHo
+
+### Behind The Scenes Of Our STAR WARS: Galactic Racer Developer Documentary [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=bmfghp98ydU
+
+### GTA 6: Will AI Decompilation Enable "Pirate" PC Ports? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5VmcieXfmlk
+
+### The Spooky Streams are Here with Tenebris Somnia | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+🎮 This week on Hidden Gems, Jesse and KC play Tenebris Somnia -- https://store.steampowered.com/app/2121510/Tenebris_Somnia/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=RdUdVA5SMh4
+
+### Street Fighter 6 Is Back on the Menu | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Ja4bDODiTp4
+
+### Ranking the Dark Souls Bosses on Who Would Make the Best Roommate [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Which Dark Souls boss would you wanna roomie with? Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=09j9N0BD-TQ
 
 ## Entertainment Recommendations
 
@@ -183,7 +334,133 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-### Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow. [10/10]
+### River | Official Trailer [10/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+RIVER "will drown you in pure terror." (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.
+
+Link: https://www.youtube.com/watch?v=ox8lEnsxDag
+
+### Get Out | Chris Finally Escapes The Sunken Place and Armitage Family [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.
+
+Link: https://www.youtube.com/watch?v=eDoCI0WWJfU
+
+### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.
+
+Link: https://www.youtube.com/watch?v=AYkPRN874m8
+
+### TRAILER TOMORROW. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie
+
+Link: https://www.youtube.com/watch?v=I6WuD0p7XVU
+
+### GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K) [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.
+
+Link: https://www.youtube.com/watch?v=UKaWzMf9Ybc
+
+### INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.
+
+Link: https://www.youtube.com/watch?v=GSOcspZfk0w
+
+### Slayground | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
+
+Link: https://www.youtube.com/watch?v=XsReYk7AqPg
+
+### Misty Green | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
+
+### Clarissa - Official Trailer - In Select Theaters December [9/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.
+
+Link: https://www.youtube.com/watch?v=sJAqmdXaM8U
+
+### VHS Mixtape | Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
+
+Link: https://www.youtube.com/watch?v=iZS2zDHidsk
+
+### Infirmary Trailer | Found Footage | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=STEprQnjfRo
+
+### Rainmaker | Mousetrap Monologue [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
+
+### River | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
+
+### The Exorcist: Martyrs | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
+
+Link: https://www.youtube.com/watch?v=5knKQTEddik
+
+### Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow. [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -281,3 +558,21 @@ Link: https://www.youtube.com/watch?v=zFEin88PoUo
 Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=7RXOdXNWHDE
+
+### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
+
+### Dark Matter — The Official Podcast: Episode 208 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).
+
+Link: https://www.youtube.com/watch?v=zXC7HfjHo30

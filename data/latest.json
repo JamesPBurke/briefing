@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-20T05:00:02.714950Z",
-  "generatedAtDisplay": "2026-10-20 01:00 AM EDT",
+  "generatedAt": "2026-10-20T14:00:04.828444Z",
+  "generatedAtDisplay": "2026-10-20 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are I tried a $99 plug that promises to track your car and send help when needed — without selling your data, They’re the best food storage containers we’ve used – on sale for the first time ever, and Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are France plans ‘massive’ police presence on weekend as more protests expected – Europe live, Discovery of North Carolina police officers’ alleged racist texts prompts review of arrest records, and People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so.",
   "mainItems": [
     {
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-      "source": "The Verge",
+      "title": "France plans ‘massive’ police presence on weekend as more protests expected – Europe live",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-      "published": "2026-10-19T23:29:22+00:00",
-      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "published": "2026-10-20T13:35:54+00:00",
+      "summary": "French PM addresses parliament as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Discovery of North Carolina police officers’ alleged racist texts prompts review of arrest records",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/north-carolina-police-officers-alleged-racist-texts",
+      "published": "2026-10-20T13:28:04+00:00",
+      "summary": "‘Deeply troubling’ messages came to light during investigation into misuse of Flock camera system Five officers resigned recently from a North Carolina police agency – and a sixth remained suspended – after they allegedly exchanged racist…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+      "published": "2026-10-20T12:57:42+00:00",
+      "summary": "The Call of Duty: Modern Warfare 4 campaign is currently available in early access , and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Educators Ask FCC to ‘Preserve and Strengthen’ Broadband Discount Program",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/educators-ask-fcc-to-preserve-and-strengthen-broadband-discount-program/",
+      "published": "2026-10-20T12:30:00+00:00",
+      "summary": "The Trump administration’s plan to revise, or potentially discontinue, broadband discounts for schools and libraries is overwhelmingly unpopular, judging by the thousands of comments submitted since August.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "FBI investigates misuse of medical records after alleged sexual abuse of child by classmate",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/fbi-new-orleans-investigation-child-medical-records",
+      "published": "2026-10-20T11:00:36+00:00",
+      "summary": "Authorities examine potential Hipaa breach after Louisiana hospital counselor shared information with pre-school principal, her sister-in-law The FBI has launched a criminal investigation after a counselor at a premier Louisiana pediatric…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+      "published": "2026-10-20T11:00:28+00:00",
+      "summary": "Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "How to study a swiftly melting climate disaster",
+      "source": "MIT Technology Review",
+      "category": "CS education / AI policy",
+      "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "published": "2026-10-20T09:00:00+00:00",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -22,98 +92,38 @@
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale",
       "published": "2026-10-19T21:36:45+00:00",
-      "summary": "Anyday’s Anydeli containers are 20% off through 22 October.",
+      "summary": "Anyday’s Anydeli containers are 20% off through 22 October with our exclusive code.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
-      "published": "2026-10-19T21:33:50+00:00",
-      "summary": "New details emerge about Kaylub Giamanco, who went on to elementary school campus and shot Bend suspect dead New details are emerging about the parent who fatally shot the 16-year-old shooter who killed three children and a teacher in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Schools struggle to measure how much AI experiments are helping",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
-      "published": "2026-10-19T20:59:57+00:00",
-      "summary": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
-      "published": "2026-10-19T19:54:06+00:00",
-      "summary": "Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over \"games being reverse-engineered, cloned and published…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "published": "2026-10-19T20:21:53+00:00",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "published": "2026-10-19T15:46:56+00:00",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Lies, Damn Lies, and Statistics: Why Rising Graduation Rates May Not Be Good News",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/lies-damn-lies-and-statistics-why-rising-graduation-rates-may-not-be-good-news/",
-      "published": "2026-10-19T12:30:00+00:00",
-      "summary": "More is better: That is the conventional wisdom when it comes to graduating from high school. The more students get pushed across the finish line, the better for everyone. Policy has followed that principle — and it has worked.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "In Dublin, tech workers raise concerns about AI",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai",
-      "published": "2026-10-19T22:20:52+00:00",
-      "summary": "Dublin, Ireland, is a longtime hub for American tech companies. A group of workers held a summit to discuss their concerns about AI in Irish workplaces and life.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
+      "title": "People Are Using 'AI Decompiling' to Hack Their Things",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
-      "published": "2026-10-19T21:40:42+00:00",
-      "summary": "“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause.\"",
+      "url": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
+      "published": "2026-10-20T13:51:57+00:00",
+      "summary": "A gang of hackers targets Staples, but not to buy things from Staples.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Heavy cream vs. whipping cream: What's the difference?: Understanding the right cream for your baking.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/19/heavy-cream-vs-whipping-cream",
-      "published": "2026-10-19T14:00:00+00:00",
-      "summary": "If you’re baking a recipe that calls for heavy cream, or picking up a carton to turn into whipped cream to finish a dessert, you may be confused when you hit the dairy aisle.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "title": "Revealing House of Salt by Shay Kauwe",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/cover-reveal-house-of-salt-by-shay-kauwe/",
+      "published": "2026-10-20T13:30:00+00:00",
+      "summary": "A gothic horror novel arriving August 2027 The post Revealing House of Salt by Shay Kauwe appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "published": "2026-10-20T10:30:00+00:00",
+      "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -125,20 +135,352 @@
       "summary": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
-    },
-    {
-      "title": "Five Horror Books Told From the Monster’s POV",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/five-horror-books-told-from-the-monsters-pov/",
-      "published": "2026-10-19T14:00:00+00:00",
-      "summary": "Stories about vampires, aliens, slashers, werewolves, and zombies — in their own words. The post Five Horror Books Told From the Monster’s POV appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "published": "2026-10-19T08:49:21+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Do you feel like the government is helping you? | Voter Voices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=bkfboXMIU3E",
+      "published": "2026-10-20T13:00:13+00:00",
+      "summary": "“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "What is a Solar Superflare and should you be worried?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=OIocXv4t4yQ",
+      "published": "2026-10-20T10:30:35+00:00",
+      "summary": "Superflares from the Sun could happen but should you worry?⁠",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "'You Can See Everything' to expand after posting the second-best opening for a documentary",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=jElzqONoXaM",
+      "published": "2026-10-19T21:00:31+00:00",
+      "summary": "\"You Can See Everything\" posted the second-best opening ever for a documentary. The film will expand its run next weekend.⁠ Produced in secret, \"You Can See Everything\" was on no one’s radar until two months ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Aaron Sorkin on revisiting Facebook's world in his latest film “The Social Reckoning”",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3O6l8kydo4I",
+      "published": "2026-10-19T16:00:26+00:00",
+      "summary": "Aaron Sorkin won an Oscar for the 2010 screenplay \"The Social Network” — 16 years later, he’s taking a second look at the company in his latest film “The Social Reckoning.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Democratic fundraisers and Elon Musk drive record midterm donations",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=TTwX-f2lcDk",
+      "published": "2026-10-19T15:00:36+00:00",
+      "summary": "The 2026 midterms are on track to be the most expensive on record. According to the latest campaign finance filings, Democratic candidates and trillionaire Elon Musk dominated the last fundraising period.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "NASA's Perseverance Mars rover breaks distance record",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=iO22clAGKww",
+      "published": "2026-10-18T16:20:28+00:00",
+      "summary": "The Mars rover Perseverance set a new record for the longest distance traveled by an off-Earth vehicle.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "France investigates cyberattack that hacked retailers' refrigeration systems",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=IRbk3fSCU3M",
+      "published": "2026-10-17T16:30:27+00:00",
+      "summary": "France has opened an investigation into a cyberattack that hit hundreds of food retailers, causing refrigerators to malfunction across the country.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Why Can't Nintendo Force VRR Support Into Existing Games",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5Y7I2aOpit4",
+      "published": "2026-10-19T17:00:32+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PS5 Pro Year 2: Has PSSR2 Has Completely Changed Our Opinion?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=i80k7hBuC9Q",
+      "published": "2026-10-19T16:00:28+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Are The Chances That PS5 QSSR Will Fail To Get Support?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=E1wRDrBqyeU",
+      "published": "2026-10-18T16:00:27+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Can Sony Actually Do About The PS5/PS5 Pro Jailbreak?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=899CAdFvJHo",
+      "published": "2026-10-18T15:00:15+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Behind The Scenes Of Our STAR WARS: Galactic Racer Developer Documentary",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=bmfghp98ydU",
+      "published": "2026-10-17T16:00:21+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jngh-B6nlT0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "GTA 6: Will AI Decompilation Enable \"Pirate\" PC Ports?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5VmcieXfmlk",
+      "published": "2026-10-17T15:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Spooky Streams are Here with Tenebris Somnia | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=RdUdVA5SMh4",
+      "published": "2026-10-20T01:06:27+00:00",
+      "summary": "🎮 This week on Hidden Gems, Jesse and KC play Tenebris Somnia -- https://store.steampowered.com/app/2121510/Tenebris_Somnia/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Street Fighter 6 Is Back on the Menu | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Ja4bDODiTp4",
+      "published": "2026-10-19T06:39:57+00:00",
+      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Ranking the Dark Souls Bosses on Who Would Make the Best Roommate",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=09j9N0BD-TQ",
+      "published": "2026-10-17T17:00:35+00:00",
+      "summary": "Which Dark Souls boss would you wanna roomie with? Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
   "trailers": [
+    {
+      "title": "River | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ox8lEnsxDag",
+      "published": "2026-10-12T15:00:02+00:00",
+      "summary": "RIVER \"will drown you in pure terror.\" (TheWrap) Only in theaters January 15 The sun is down. The boat is dead. There’s no cell service. And there’s someone standing, staring, from the shore.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Get Out | Chris Finally Escapes The Sunken Place and Armitage Family",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eDoCI0WWJfU",
+      "published": "2026-10-10T19:00:09+00:00",
+      "summary": "Chris (Daniel Kaluuya) breaks free of the hypnotization of Rose (Allison Williams) and the Armitage family and manages to escape the Sunken Place after Rose is shot by Walter (Marcus Henderson). Buy/Rent Get Out! Amazon: https://www.amazon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AYkPRN874m8",
+      "published": "2026-10-15T14:00:39+00:00",
+      "summary": "From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TRAILER TOMORROW.",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=I6WuD0p7XVU",
+      "published": "2026-10-14T16:14:59+00:00",
+      "summary": "Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
+      "published": "2026-10-14T16:00:40+00:00",
+      "summary": "Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GSOcspZfk0w",
+      "published": "2026-10-06T18:11:13+00:00",
+      "summary": "The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Slayground | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=XsReYk7AqPg",
+      "published": "2026-10-20T13:00:34+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Misty Green | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mkJVHTBuv9Y",
+      "published": "2026-10-08T14:00:17+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Clarissa - Official Trailer - In Select Theaters December",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sJAqmdXaM8U",
+      "published": "2026-10-01T16:00:15+00:00",
+      "summary": "Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "VHS Mixtape | Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iZS2zDHidsk",
+      "published": "2026-10-13T16:10:10+00:00",
+      "summary": "Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Infirmary Trailer | Found Footage | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=STEprQnjfRo",
+      "published": "2026-10-09T15:47:10+00:00",
+      "summary": "The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Rainmaker | Mousetrap Monologue",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Vzly5YAYEhY",
+      "published": "2026-10-16T18:30:15+00:00",
+      "summary": "Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "River | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=xrQwmYgCLRQ",
+      "published": "2026-10-12T15:00:13+00:00",
+      "summary": "Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Exorcist: Martyrs | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5knKQTEddik",
+      "published": "2026-10-09T22:38:27+00:00",
+      "summary": "Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
     {
       "title": "Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow.",
       "source": "Netflix",
@@ -147,7 +489,7 @@
       "published": "2026-10-19T22:00:00+00:00",
       "summary": "Cyberpunk: Edgerunners. Tomorrow. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -258,6 +600,28 @@
       "summary": "Noah's hotter older brother sure has some zingers. NOBODY WANTS THIS returns Oct. 22, only on Netflix! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Nx9u4E36f-M",
+      "published": "2026-10-16T16:59:56+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Episode 208 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zXC7HfjHo30",
+      "published": "2026-10-16T00:59:46+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -372,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 11,
-    "sourceCount": 12
+    "youtubeCount": 17,
+    "trailerCount": 27,
+    "sourceCount": 21
   }
 }
