@@ -1,50 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-20T18:01:16.003606Z",
-  "generatedAtDisplay": "2026-10-20 02:01 PM EDT",
+  "generatedAt": "2026-10-21T05:00:03.525794Z",
+  "generatedAtDisplay": "2026-10-21 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live, Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president, and France’s culture of violent policing means the battle for its streets is far from over.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are A student protest movement has gripped Serbia for two years. This weekend it will try to take power, PHP warns it plans to release 2 emergency patches imminently, and University of Arizona sorority member alleges sexual assault at fraternity house.",
   "mainItems": [
     {
-      "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "published": "2026-10-20T17:41:17+00:00",
-      "summary": "The Ukrainian leader says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president",
+      "title": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter",
-      "published": "2026-10-20T17:29:44+00:00",
-      "summary": "The ex-student writes she wants to share information that ‘may be relevant’ to vote of no confidence The former Cornell University student who accused seven men of sexually assaulting her at a fraternity house in 2024 recently wrote a…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+      "published": "2026-10-21T04:00:07+00:00",
+      "summary": "Unorthodox campaign is challenging the ruling party’s 12-year reign with a bold democratic experiment On a cool autumn evening, a team of Serbian student volunteers went canvassing in the housing estates of Krnjača, a Belgrade suburb.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "France’s culture of violent policing means the battle for its streets is far from over",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "published": "2026-10-21T02:12:18+00:00",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
-      "published": "2026-10-20T16:49:44+00:00",
-      "summary": "French state places officers as agents of authority tasked with repressing, rather than managing, public dissent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
+      "published": "2026-10-21T02:04:27+00:00",
+      "summary": "Student told the university’s police department that assault by two men occurred in August during a night of drinking A sorority member at the University of Arizona has alleged she was sexually assaulted by two men at a fraternity house…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "published": "2026-10-20T23:37:55+00:00",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
-      "published": "2026-10-20T16:34:06+00:00",
-      "summary": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "published": "2026-10-20T22:20:11+00:00",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "published": "2026-10-20T22:42:47+00:00",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Americans, this is your chance to slap down the tech broligarchs",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
+      "published": "2026-10-20T19:16:05+00:00",
+      "summary": "The midterms will be a referendum on the GOP’s alignment with tech overlords over the public they’re meant to serve Welcome back to How We Win, a Guardian opinion series with leading thinkers, offering bold ideas for America’s political…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Daycare Strikes Almost Never Happen. Here’s What Drove These Workers Over the Edge.",
@@ -54,57 +84,27 @@
       "published": "2026-10-20T16:30:00+00:00",
       "summary": "The trouble at the Sprout School started when staff began to turn over faster than they could be replaced.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "published": "2026-10-20T16:13:25+00:00",
-      "summary": "Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state”…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-      "published": "2026-10-20T15:34:04+00:00",
-      "summary": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "School Test Scores Up, but Progress Slows in California K-12 Classes",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/school-test-scores-up-but-progress-slows-in-california-k-12-classes/",
-      "published": "2026-10-20T14:15:00+00:00",
-      "summary": "This story was originally published by CalMatters. Sign up for their newsletters.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Educators Ask FCC to ‘Preserve and Strengthen’ Broadband Discount Program",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/educators-ask-fcc-to-preserve-and-strengthen-broadband-discount-program/",
-      "published": "2026-10-20T12:30:00+00:00",
-      "summary": "The Trump administration’s plan to revise, or potentially discontinue, broadband discounts for schools and libraries is overwhelmingly unpopular, judging by the thousands of comments submitted since August.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
-      "published": "2026-10-20T17:09:06+00:00",
-      "summary": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
+    },
+    {
+      "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
+      "published": "2026-10-20T15:45:04+00:00",
+      "summary": "A former long-time Call of Duty developer has called out Activision executives profiteering from the re-release of games like Black Ops 1 and 2, whereas the developers who contributed \"blood, sweat, and tears\" to make them gained nothing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Crystal Lake‘s Project Argonaut Gives Jason Voorhees a Controversial Origin Story",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/crystal-lake-project-argonaut-jason-origin-story/",
+      "published": "2026-10-20T21:22:34+00:00",
+      "summary": "You can explain everything... The post Crystal Lake ‘s Project Argonaut Gives Jason Voorhees a Controversial Origin Story appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied",
@@ -127,12 +127,12 @@
       "score": 8
     },
     {
-      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-      "published": "2026-10-20T16:27:01+00:00",
-      "summary": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "published": "2026-10-20T20:19:16+00:00",
+      "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }

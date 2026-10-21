@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-20T18:01:16.003606Z
+Generated: 2026-10-21T05:00:03.525794Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live, Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president, and France’s culture of violent policing means the battle for its streets is far from over.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are A student protest movement has gripped Serbia for two years. This weekend it will try to take power, PHP warns it plans to release 2 emergency patches imminently, and University of Arizona sorority member alleges sexual assault at fraternity house.
 
 ## Briefing
 
@@ -33,43 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The Ukrainian leader says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian…
-
-Link: https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates
-
-### 2. Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president [10/10]
+### 1. A student protest movement has gripped Serbia for two years. This weekend it will try to take power [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The ex-student writes she wants to share information that ‘may be relevant’ to vote of no confidence The former Cornell University student who accused seven men of sexually assaulting her at a fraternity house in 2024 recently wrote a…
+Unorthodox campaign is challenging the ruling party’s 12-year reign with a bold democratic experiment On a cool autumn evening, a team of Serbian student volunteers went canvassing in the housing estates of Krnjača, a Belgrade suburb.
 
-Link: https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter
+Link: https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power
 
-### 3. France’s culture of violent policing means the battle for its streets is far from over [10/10]
+### 2. PHP warns it plans to release 2 emergency patches imminently [10/10]
+**Source:** Ars Technica  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.
+
+Link: https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/
+
+### 3. University of Arizona sorority member alleges sexual assault at fraternity house [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-French state places officers as agents of authority tasked with repressing, rather than managing, public dissent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified…
+Student told the university’s police department that assault by two men occurred in August during a night of drinking A sorority member at the University of Arizona has alleged she was sexually assaulted by two men at a fraternity house…
 
-Link: https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots
+Link: https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity
 
-### 4. AMD is bringing FSR 4.1 to Xbox consoles and handhelds [10/10]
+### 4. Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
+
+### 5. Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.
+Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud.
 
-Link: https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops
+Link: https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
 
-### 5. Daycare Strikes Almost Never Happen. Here’s What Drove These Workers Over the Edge. [10/10]
+### 6. Google’s more personalized Gemini AI is heading to your car [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google is bringing Personal Intelligence to Gemini AI in your car.
+
+Link: https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
+
+### 7. Americans, this is your chance to slap down the tech broligarchs [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The midterms will be a referendum on the GOP’s alignment with tech overlords over the public they’re meant to serve Welcome back to How We Win, a Guardian opinion series with leading thinkers, offering bold ideas for America’s political…
+
+Link: https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs
+
+### 8. Daycare Strikes Almost Never Happen. Here’s What Drove These Workers Over the Edge. [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,50 +105,23 @@ The trouble at the Sprout School started when staff began to turn over faster th
 
 Link: https://www.the74million.org/zero2eight/daycare-strikes-almost-never-happen-heres-what-drove-these-workers-over-the-edge/
 
-### 6. Italy to deploy 500 troops to Milan after days of protests and looting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Ex-Call of Duty designer "who survived the crunch" in order to launch Black Ops 1 & 2 calls out executives "raking it in" from sales of remasters [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state”…
+A former long-time Call of Duty developer has called out Activision executives profiteering from the re-release of games like Black Ops 1 and 2, whereas the developers who contributed "blood, sweat, and tears" to make them gained nothing.
 
-Link: https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe
+Link: https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy
 
-### 7. US judge dismisses sexual abuse lawsuit from Sam Altman’s sister [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 10. Crystal Lake‘s Project Argonaut Gives Jason Voorhees a Controversial Origin Story [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday.
+You can explain everything... The post Crystal Lake ‘s Project Argonaut Gives Jason Voorhees a Controversial Origin Story appeared first on Reactor .
 
-Link: https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit
-
-### 8. School Test Scores Up, but Progress Slows in California K-12 Classes [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This story was originally published by CalMatters. Sign up for their newsletters.
-
-Link: https://www.the74million.org/article/school-test-scores-up-but-progress-slows-in-california-k-12-classes/
-
-### 9. Educators Ask FCC to ‘Preserve and Strengthen’ Broadband Discount Program [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Trump administration’s plan to revise, or potentially discontinue, broadband discounts for schools and libraries is overwhelmingly unpopular, judging by the thousands of comments submitted since August.
-
-Link: https://www.the74million.org/article/educators-ask-fcc-to-preserve-and-strengthen-broadband-discount-program/
-
-### 10. Chrome will now show a warning before you visit ‘suspicious’ sites [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it.
-
-Link: https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning
+Link: https://reactormag.com/crystal-lake-project-argonaut-jason-origin-story/
 
 ### 11. DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied [8/10]
 **Source:** 404 Media  
@@ -141,11 +141,46 @@ Research on past recessions suggests downturns can accelerate automation. That r
 
 Link: https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses
 
-### 13. Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list? [7/10]
+### 13. Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not "daunting."
+Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.
 
-Link: https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization
+Link: https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
