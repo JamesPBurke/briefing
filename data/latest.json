@@ -1,69 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-22T09:01:06.836737Z",
-  "generatedAtDisplay": "2026-10-22 05:01 AM EDT",
+  "generatedAt": "2026-10-22T14:00:02.279827Z",
+  "generatedAtDisplay": "2026-10-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, AI / computing. The strongest items in this run are Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn, Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot, and Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Ilhan Omar says she plans to move out of Washington home after federal raid, BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\", and Apple will label apps that are ‘Made for iPhone Duo’.",
   "mainItems": [
     {
-      "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
+      "title": "Ilhan Omar says she plans to move out of Washington home after federal raid",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+      "published": "2026-10-22T13:46:12+00:00",
+      "summary": "Democratic lawmaker says family’s safety is at risk amid death threats and raid making apartment’s address public Our reporters answer your questions about ICE, immigration and the midterms Minnesota congresswoman Ilhan Omar said she plans…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
       "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-      "published": "2026-10-22T08:40:15+00:00",
-      "summary": "A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more",
+      "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+      "published": "2026-10-22T13:35:34+00:00",
+      "summary": "EA has closed its longtime studio partner BioWare , the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro",
-      "published": "2026-10-22T05:00:07+00:00",
-      "summary": "If Flávio Bolsonaro is elected, Brazil’s ecosystems will face collapse.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "source": "Ars Technica",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "published": "2026-10-21T22:06:07+00:00",
-      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "published": "2026-10-22T13:20:37+00:00",
+      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "source": "Ars Technica",
+      "title": "Making the case for context-aware AI",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "published": "2026-10-21T18:51:42+00:00",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "published": "2026-10-22T10:00:00+00:00",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Nobody Wants This review – prepare to fall in love again … with a different couple",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
-      "published": "2026-10-22T07:01:08+00:00",
-      "summary": "Adam Brody and Kristen Bell’s hit romcom is still gorgeous as Noah and Joanne move in together.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "In Iowa, a Democratic Star Faces an Uphill Battle on Schools",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/in-iowa-a-democratic-star-faces-an-uphill-battle-on-schools/",
+      "published": "2026-10-22T10:30:00+00:00",
+      "summary": "In a campaign season that looks increasingly full of promise for Democrats, Iowa gubernatorial hopeful Rob Sand is emerging as one of the cycle’s brightest prospects.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/career-and-technical-ed-is-booming-now-comes-the-hard-part/",
-      "published": "2026-10-21T18:30:00+00:00",
-      "summary": "Career and technical education is one of the few bipartisan ideas in American K-12 schooling. Governors and legislators of both parties champion it. Parents, employers, and voters say they value it. Enrollment bears this out.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The Fight for Educational Equality Is Also a Fight for a Just Supreme Court",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/society/supreme-court-education-integration/",
+      "published": "2026-10-22T09:15:00+00:00",
+      "summary": "Janai Nelson The court has severely weakened our ability to make an education system that fulfills the promise of Brown . The post The Fight for Educational Equality Is Also a Fight for a Just Supreme Court appeared first on The Nation .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -97,12 +97,22 @@
       "score": 9
     },
     {
-      "title": "AI is shaking up the field of mathematics. But what comes next?",
+      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+      "published": "2026-10-22T09:01:00+00:00",
+      "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "See how Big Tech is transforming Spain's landscape",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next",
-      "published": "2026-10-21T21:35:52+00:00",
-      "summary": "AI-written mathematical proofs have saddled the community with a lot of extra homework.",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+      "published": "2026-10-22T09:00:00+00:00",
+      "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
@@ -117,27 +127,28 @@
       "score": 8
     },
     {
-      "title": "The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight",
+      "title": "Cops Warned to Look for ‘Suspicious Behavior’ From People Opposing Flock at City Council Meetings",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/west-virginia-american-chestnut-trees-data-center/",
-      "published": "2026-10-21T13:31:16+00:00",
-      "summary": "A small grove of historic American chestnut trees has become the site of resistance against an AI data center in West Virginia.",
+      "url": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
+      "published": "2026-10-21T17:09:47+00:00",
+      "summary": "A surveillance document tells cops to expect \"emotional confrontations\" at Flock city council meetings.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "How to clean cast iron : It’s simpler than you think.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/21/how-to-clean-cast-iron",
-      "published": "2026-10-21T14:00:00+00:00",
-      "summary": "Despite what you may have heard, cleaning and maintaining a cast iron skillet or Dutch oven isn’t difficult. The post How to clean cast iron : It’s simpler than you think. appeared first on the King Arthur Blog .",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "How Image Watermarking Works - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=h6j_ixGnpiY",
+      "published": "2026-10-22T13:00:06+00:00",
+      "summary": "Image watermarks are a way to embed information into a picture, Dr Mike Pound takes us through Adobe's Trust Mark to explain the idea & covers some of the pros and cons.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Skipping The Gym To Exercise My Rights 💅",
       "source": "WIRED",
@@ -168,8 +179,8 @@
       "published": "2026-10-21T23:30:37+00:00",
       "summary": "Republican Vivek Ramaswamy’s team has confirmed that it produced a controversial advertisement featuring the estranged mother of Amy Acton, his Democratic opponent in the race for Ohio governor.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
@@ -179,8 +190,8 @@
       "published": "2026-10-21T23:00:29+00:00",
       "summary": "Palestinian families in the West Bank have been unable to harvest their olive groves for years amid growing settler violence and restrictions on access to their land.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures”",
@@ -190,8 +201,8 @@
       "published": "2026-10-21T22:00:01+00:00",
       "summary": "Adults know B.J.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump announces $25 million program that will pay people who report fraud",
@@ -319,11 +330,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=gW6HHH_v0DI",
-      "published": "2026-10-21T18:33:54+00:00",
+      "published": "2026-10-22T10:05:05+00:00",
       "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Onimusha: Way of the Sword | Fully Ramblomatic",
@@ -504,6 +515,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Cyberpunk: Edgerunners 2 | Now Playing | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=dI2-87K9TWI",
+      "published": "2026-10-22T12:00:00+00:00",
+      "summary": "Now it's time to witness worlds collide! From the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 is NOW PLAYING, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Murder in Galicia | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=V7qdKH-USL8",
+      "published": "2026-10-22T09:00:00+00:00",
+      "summary": "Pazos is a small, seemingly peaceful town in Galicia, where a series of home burglaries is beginning to cause concern among the residents. Amid this uncertainty, Irene is the victim of a violent attack in her own home.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Hollywood Arts | Room for Everyone | Music Video | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -603,45 +636,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VP9u2ACGojU",
-      "published": "2026-10-19T22:00:00+00:00",
-      "summary": "Cyberpunk: Edgerunners. Tomorrow. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Janelle James: How Romantic | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=MeBysXIz-zM",
-      "published": "2026-10-19T17:00:00+00:00",
-      "summary": "In her debut hour-long stand-up special, Janelle James shares how fame changed her bank account and fan base but not her instincts or filter. Janelle James: How Romantic releases November 10, only on Netflix. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=Nx9u4E36f-M",
       "published": "2026-10-16T16:59:56+00:00",
       "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 208 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=zXC7HfjHo30",
-      "published": "2026-10-16T00:59:46+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -758,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
-    "trailerCount": 25,
-    "sourceCount": 20
+    "youtubeCount": 22,
+    "trailerCount": 24,
+    "sourceCount": 24
   }
 }

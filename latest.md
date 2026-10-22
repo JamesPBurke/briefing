@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-22T09:01:06.836737Z
+Generated: 2026-10-22T14:00:02.279827Z
 
-Today's sweep leans toward Democracy / press freedom, Security / computing, AI / computing. The strongest items in this run are Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn, Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot, and Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Ilhan Omar says she plans to move out of Washington home after federal raid, BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver "a level of autonomy and choice that no other game has", and Apple will label apps that are ‘Made for iPhone Duo’.
 
 ## Briefing
 
@@ -33,59 +33,59 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn [10/10]
+### 1. Ilhan Omar says she plans to move out of Washington home after federal raid [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Democratic lawmaker says family’s safety is at risk amid death threats and raid making apartment’s address public Our reporters answer your questions about ICE, immigration and the midterms Minnesota congresswoman Ilhan Omar said she plans…
+
+Link: https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump
+
+### 2. BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver "a level of autonomy and choice that no other game has" [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more
+EA has closed its longtime studio partner BioWare , the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game.
 
-Link: https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report
+Link: https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy
 
-### 2. Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-If Flávio Bolsonaro is elected, Brazil’s ecosystems will face collapse.
-
-Link: https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro
-
-### 3. Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought [10/10]
-**Source:** Ars Technica  
+### 3. Apple will label apps that are ‘Made for iPhone Duo’ [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Time-based a la carte charges come on top of the purchase price for the games themselves.
+Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new "Made for iPhone Duo" badge will appear across apps and games that work with the device's extra screen real estate.
 
-Link: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
+Link: https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store
 
-### 4. OpenAI's latest AI models are coming to Google Cloud and Antigravity [10/10]
-**Source:** Ars Technica  
+### 4. Making the case for context-aware AI [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.
+Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster.
 
-Link: https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
+Link: https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/
 
-### 5. Nobody Wants This review – prepare to fall in love again … with a different couple [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Adam Brody and Kristen Bell’s hit romcom is still gorgeous as Noah and Joanne move in together.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix
-
-### 6. Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part [9/10]
+### 5. In Iowa, a Democratic Star Faces an Uphill Battle on Schools [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Career and technical education is one of the few bipartisan ideas in American K-12 schooling. Governors and legislators of both parties champion it. Parents, employers, and voters say they value it. Enrollment bears this out.
+In a campaign season that looks increasingly full of promise for Democrats, Iowa gubernatorial hopeful Rob Sand is emerging as one of the cycle’s brightest prospects.
 
-Link: https://www.the74million.org/article/career-and-technical-ed-is-booming-now-comes-the-hard-part/
+Link: https://www.the74million.org/article/in-iowa-a-democratic-star-faces-an-uphill-battle-on-schools/
+
+### 6. The Fight for Educational Equality Is Also a Fight for a Just Supreme Court [9/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Janai Nelson The court has severely weakened our ability to make an education system that fulfills the promise of Brown . The post The Fight for Educational Equality Is Also a Fight for a Just Supreme Court appeared first on The Nation .
+
+Link: https://www.thenation.com/article/society/supreme-court-education-integration/
 
 ### 7. Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits [9/10]
 **Source:** Ars Technica  
@@ -114,16 +114,25 @@ One of the most memorable demos I played at Gamescom Latam 2026 was that of Tala
 
 Link: https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now
 
-### 10. AI is shaking up the field of mathematics. But what comes next? [8/10]
+### 10. 5 simple ways to relieve the aches and pains of sitting at a desk all day [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.
+
+Link: https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day
+
+### 11. See how Big Tech is transforming Spain's landscape [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-AI-written mathematical proofs have saddled the community with a lot of extra homework.
+A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.
 
-Link: https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next
+Link: https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact
 
-### 11. All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer [8/10]
+### 12. All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,25 +141,25 @@ Sauron is ready for a party at Mordor. (And by party, I mean a get together wher
 
 Link: https://reactormag.com/the-rings-of-power-season-3-trailer/
 
-### 12. The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight [8/10]
+### 13. Cops Warned to Look for ‘Suspicious Behavior’ From People Opposing Flock at City Council Meetings [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A small grove of historic American chestnut trees has become the site of resistance against an AI data center in West Virginia.
+A surveillance document tells cops to expect "emotional confrontations" at Flock city council meetings.
 
-Link: https://www.404media.co/west-virginia-american-chestnut-trees-data-center/
-
-### 13. How to clean cast iron : It’s simpler than you think. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Despite what you may have heard, cleaning and maintaining a cast iron skillet or Dutch oven isn’t difficult. The post How to clean cast iron : It’s simpler than you think. appeared first on the King Arthur Blog .
-
-Link: https://www.kingarthurbaking.com/blog/2026/10/21/how-to-clean-cast-iron
+Link: https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/
 
 ## YouTube
+
+### How Image Watermarking Works - Computerphile [9/10]
+**Creator:** Computerphile  
+**Verdict:** Watch it  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Image watermarks are a way to embed information into a picture, Dr Mike Pound takes us through Adobe's Trust Mark to explain the idea & covers some of the pros and cons.
+
+Link: https://www.youtube.com/watch?v=h6j_ixGnpiY
 
 ### Skipping The Gym To Exercise My Rights 💅 [7/10]
 **Creator:** WIRED  
@@ -170,27 +179,27 @@ American Historian Lindsay Chervinsky joins WIRED to answer the internet’s bur
 
 Link: https://www.youtube.com/watch?v=a1rdU67lvtM
 
-### Ohio governor’s race turns ugly over new attack ad [8/10]
+### Ohio governor’s race turns ugly over new attack ad [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Republican Vivek Ramaswamy’s team has confirmed that it produced a controversial advertisement featuring the estranged mother of Amy Acton, his Democratic opponent in the race for Ohio governor.
 
 Link: https://www.youtube.com/watch?v=p3Ei_t8tsEY
 
-### Israel detains dozens of Americans, including a congressional candidate, in West Bank [9/10]
+### Israel detains dozens of Americans, including a congressional candidate, in West Bank [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Palestinian families in the West Bank have been unable to harvest their olive groves for years amid growing settler violence and restrictions on access to their land.
 
 Link: https://www.youtube.com/watch?v=qlT4i0fkU6Y
 
-### B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures” [8/10]
+### B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures” [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Adults know B.J.
@@ -296,9 +305,9 @@ Link: https://www.youtube.com/watch?v=5Y7I2aOpit4
 
 Link: https://www.youtube.com/watch?v=i80k7hBuC9Q
 
-### Second Wind Plays Obscure w/ JM8 and Jesse Galena [6/10]
+### Second Wind Plays Obscure w/ JM8 and Jesse Galena [7/10]
 **Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind
@@ -478,6 +487,24 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### Cyberpunk: Edgerunners 2 | Now Playing | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Now it's time to witness worlds collide! From the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 is NOW PLAYING, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=dI2-87K9TWI
+
+### Murder in Galicia | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Pazos is a small, seemingly peaceful town in Galicia, where a series of home burglaries is beginning to cause concern among the residents. Amid this uncertainty, Irene is the victim of a violent attack in her own home.
+
+Link: https://www.youtube.com/watch?v=V7qdKH-USL8
+
 ### Hollywood Arts | Room for Everyone | Music Video | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -559,24 +586,6 @@ The Hunting Wives Season 2 is back with a bang, bang. Sophie and Margo on the ou
 
 Link: https://www.youtube.com/watch?v=Vhwp06fwk6k
 
-### Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Cyberpunk: Edgerunners. Tomorrow. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=VP9u2ACGojU
-
-### Janelle James: How Romantic | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In her debut hour-long stand-up special, Janelle James shares how fame changed her bank account and fan base but not her instincts or filter. Janelle James: How Romantic releases November 10, only on Netflix. Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=MeBysXIz-zM
-
 ### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -585,12 +594,3 @@ Link: https://www.youtube.com/watch?v=MeBysXIz-zM
 This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
 
 Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
-
-### Dark Matter — The Official Podcast: Episode 208 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).
-
-Link: https://www.youtube.com/watch?v=zXC7HfjHo30
