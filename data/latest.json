@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-21T18:00:59.944242Z",
-  "generatedAtDisplay": "2026-10-21 02:00 PM EDT",
+  "generatedAt": "2026-10-22T05:00:04.020157Z",
+  "generatedAtDisplay": "2026-10-22 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are The California Districts Are Losing Students — But Gaining Infants and Toddlers, Husband and wife charged in shooting death of teen driving to St Louis Halloween party, and Putin orders release of jailed American as he meets Trump envoy for Ukraine talks.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case, Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought, and OpenAI's latest AI models are coming to Google Cloud and Antigravity.",
   "mainItems": [
+    {
+      "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+      "published": "2026-10-21T23:33:34+00:00",
+      "summary": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "published": "2026-10-21T22:06:07+00:00",
+      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "published": "2026-10-21T18:51:42+00:00",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/career-and-technical-ed-is-booming-now-comes-the-hard-part/",
+      "published": "2026-10-21T18:30:00+00:00",
+      "summary": "Career and technical education is one of the few bipartisan ideas in American K-12 schooling. Governors and legislators of both parties champion it. Parents, employers, and voters say they value it. Enrollment bears this out.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "18 again: I returned to my life in 1983 – to reckless adventures, in a world soaked in alcohol",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/22/18-again-i-returned-to-my-life-in-1983-to-reckless-adventures-in-a-world-soaked-in-alcohol",
+      "published": "2026-10-22T04:00:07+00:00",
+      "summary": "Sundays were deadly, the generation gap between parents and their kids was enormous, and a pint cost 50p. The frisson of casual violence was everywhere.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
+      "published": "2026-10-22T04:00:06+00:00",
+      "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
     {
       "title": "The California Districts Are Losing Students — But Gaining Infants and Toddlers",
       "source": "The 74",
@@ -14,76 +74,16 @@
       "published": "2026-10-21T16:30:00+00:00",
       "summary": "Less than a year after dwindling enrollment forced the closure of three elementary schools, California’s Berryessa Union School District added small, child-sized sinks and toilets at one campus to serve 150 infants, toddlers and…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Husband and wife charged in shooting death of teen driving to St Louis Halloween party",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges",
-      "published": "2026-10-21T16:07:10+00:00",
-      "summary": "Alyssa Wilson, 17, was driving to a party at city zoo when prosecutors say Willie Herndon fired a gun at her car A Texas husband and wife are facing criminal charges following the fatal shooting of a 17-year-old girl who was driving to a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "published": "2026-10-21T15:24:58+00:00",
-      "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Europe live – latest updates US politics live – latest updates Vladimir Putin ordered the release of an…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: 10 Commitments Every Elected Official Should Make to Improve Schools",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/10-commitments-every-elected-official-should-make-to-improve-schools/",
-      "published": "2026-10-21T14:30:00+00:00",
-      "summary": "America’s children cannot wait for education to become a national priority again.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-      "published": "2026-10-21T14:08:28+00:00",
-      "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Just Aren’t Enough Kids’: Choice Schools Feel Effects of Low Birth Rates, Too",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/just-arent-enough-kids-choice-schools-feel-effects-of-low-birth-rates-too/",
-      "published": "2026-10-21T12:30:00+00:00",
-      "summary": "When the Atlanta Public Schools announced last year that it would close 16 schools with declining enrollment, district buildings weren’t the only ones on the list.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I never saw my son, until they handed him over in a bag’: inside El Salvador’s brutal crime crackdown",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/oct/21/el-salvador-crackdown-president-bukele-mass-arrest-allegations-torture-killing-prison",
-      "published": "2026-10-21T11:00:02+00:00",
-      "summary": "President Nayib Bukele’s campaign of mass arrest has been marked by allegations of torture and killing.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "published": "2026-10-21T15:14:07+00:00",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
+      "published": "2026-10-21T14:45:36+00:00",
+      "summary": "One of the most memorable demos I played at Gamescom Latam 2026 was that of Talaka , a watercoloured 2D action-roguelike that - like many games at the São Paulo-based show – leaned deeply into Brazilian culture and mythology.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,23 +97,13 @@
       "score": 9
     },
     {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "published": "2026-10-21T02:12:18+00:00",
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "How to clean cast iron : It’s simpler than you think.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/21/how-to-clean-cast-iron",
-      "published": "2026-10-21T14:00:00+00:00",
-      "summary": "Despite what you may have heard, cleaning and maintaining a cast iron skillet or Dutch oven isn’t difficult. The post How to clean cast iron : It’s simpler than you think. appeared first on the King Arthur Blog .",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "title": "All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-rings-of-power-season-3-trailer/",
+      "published": "2026-10-21T19:06:19+00:00",
+      "summary": "Sauron is ready for a party at Mordor. (And by party, I mean a get together where thousands die) The post All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -125,6 +115,16 @@
       "summary": "A small grove of historic American chestnut trees has become the site of resistance against an AI data center in West Virginia.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "How to clean cast iron : It’s simpler than you think.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/10/21/how-to-clean-cast-iron",
+      "published": "2026-10-21T14:00:00+00:00",
+      "summary": "Despite what you may have heard, cleaning and maintaining a cast iron skillet or Dutch oven isn’t difficult. The post How to clean cast iron : It’s simpler than you think. appeared first on the King Arthur Blog .",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     },
     {
       "title": "How much does pregnancy cost? Be prepared with these tips",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }
