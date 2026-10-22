@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-22T05:00:04.020157Z
+Generated: 2026-10-22T09:01:06.836737Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case, Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought, and OpenAI's latest AI models are coming to Google Cloud and Antigravity.
+Today's sweep leans toward Democracy / press freedom, Security / computing, AI / computing. The strongest items in this run are Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn, Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot, and Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case [10/10]
+### 1. Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more
+
+Link: https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report
+
+### 2. Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in…
+If Flávio Bolsonaro is elected, Brazil’s ecosystems will face collapse.
 
-Link: https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case
+Link: https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro
 
-### 2. Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought [10/10]
+### 3. Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought [10/10]
 **Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +60,7 @@ Time-based a la carte charges come on top of the purchase price for the games th
 
 Link: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
 
-### 3. OpenAI's latest AI models are coming to Google Cloud and Antigravity [10/10]
+### 4. OpenAI's latest AI models are coming to Google Cloud and Antigravity [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,7 +69,16 @@ Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.
 
 Link: https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
 
-### 4. Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part [10/10]
+### 5. Nobody Wants This review – prepare to fall in love again … with a different couple [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Adam Brody and Kristen Bell’s hit romcom is still gorgeous as Noah and Joanne move in together.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix
+
+### 6. Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,25 +87,16 @@ Career and technical education is one of the few bipartisan ideas in American K-
 
 Link: https://www.the74million.org/article/career-and-technical-ed-is-booming-now-comes-the-hard-part/
 
-### 5. 18 again: I returned to my life in 1983 – to reckless adventures, in a world soaked in alcohol [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 7. Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Sundays were deadly, the generation gap between parents and their kids was enormous, and a pint cost 50p. The frisson of casual violence was everywhere.
+Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/22/18-again-i-returned-to-my-life-in-1983-to-reckless-adventures-in-a-world-soaked-in-alcohol
+Link: https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/
 
-### 6. Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US.
-
-Link: https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast
-
-### 7. The California Districts Are Losing Students — But Gaining Infants and Toddlers [9/10]
+### 8. The California Districts Are Losing Students — But Gaining Infants and Toddlers [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,7 +105,7 @@ Less than a year after dwindling enrollment forced the closure of three elementa
 
 Link: https://www.the74million.org/zero2eight/the-california-districts-are-losing-students-but-gaining-infants-and-toddlers/
 
-### 8. I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now [9/10]
+### 9. I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -105,16 +114,16 @@ One of the most memorable demos I played at Gamescom Latam 2026 was that of Tala
 
 Link: https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now
 
-### 9. An AI chatbot files for bankruptcy. Is it a bad omen for the industry? [9/10]
+### 10. AI is shaking up the field of mathematics. But what comes next? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Character.AI, which lets users create custom chatbots for immersive roleplaying, has filed for Chapter 11 bankruptcy following a string of legal challenges and the loss of top talent.
+AI-written mathematical proofs have saddled the community with a lot of extra homework.
 
-Link: https://www.npr.org/2026/10/21/nx-s1-6008078/an-ai-chatbot-files-for-bankruptcy-is-it-a-bad-omen-for-the-industry
+Link: https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next
 
-### 10. All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer [8/10]
+### 11. All Roads Lead to Ruin (and One Ring) in Season 3 The Rings of Power Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,7 +132,7 @@ Sauron is ready for a party at Mordor. (And by party, I mean a get together wher
 
 Link: https://reactormag.com/the-rings-of-power-season-3-trailer/
 
-### 11. The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight [8/10]
+### 12. The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ A small grove of historic American chestnut trees has become the site of resista
 
 Link: https://www.404media.co/west-virginia-american-chestnut-trees-data-center/
 
-### 12. How to clean cast iron : It’s simpler than you think. [7/10]
+### 13. How to clean cast iron : It’s simpler than you think. [7/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -141,18 +150,196 @@ Despite what you may have heard, cleaning and maintaining a cast iron skillet or
 
 Link: https://www.kingarthurbaking.com/blog/2026/10/21/how-to-clean-cast-iron
 
-### 13. How much does pregnancy cost? Be prepared with these tips [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.
-
-Link: https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy
-
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Skipping The Gym To Exercise My Rights 💅 [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+American Historian Lindsay Chervinsky joins WIRED to answer the internet’s burning questions about the history of US Elections.
+
+Link: https://www.youtube.com/watch?v=_u07GhQgNvk
+
+### Presidential Historian Answers US Election Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+American Historian Lindsay Chervinsky joins WIRED to answer the internet’s burning questions about the history of US Elections.
+
+Link: https://www.youtube.com/watch?v=a1rdU67lvtM
+
+### Ohio governor’s race turns ugly over new attack ad [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Republican Vivek Ramaswamy’s team has confirmed that it produced a controversial advertisement featuring the estranged mother of Amy Acton, his Democratic opponent in the race for Ohio governor.
+
+Link: https://www.youtube.com/watch?v=p3Ei_t8tsEY
+
+### Israel detains dozens of Americans, including a congressional candidate, in West Bank [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Palestinian families in the West Bank have been unable to harvest their olive groves for years amid growing settler violence and restrictions on access to their land.
+
+Link: https://www.youtube.com/watch?v=qlT4i0fkU6Y
+
+### B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures” [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Adults know B.J.
+
+Link: https://www.youtube.com/watch?v=nJ5-6l4kA2s
+
+### Trump announces $25 million program that will pay people who report fraud [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+President Donald Trump says the White House is setting aside $25 million dollars to reward people who report fraud that results in a successful prosecution.⁠ ⁠ Trump said there are “trillions” of potential possibilities for corruption in U.
+
+Link: https://www.youtube.com/watch?v=iDN96sUi4O0
+
+### Does it feel like the government is helping you? [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.
+
+Link: https://www.youtube.com/watch?v=5mWTlhwLyWo
+
+### Smithsonian's 24-hour livestream lets you watch newborn cheetah cubs [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Five cheetah cubs were born at the Smithsonian's National Zoo and Conservation Biology Institute earlier this month. You can't see them in person just yet, but you can watch them bond with their mom, Zura, on a 24-hour livestream.
+
+Link: https://www.youtube.com/watch?v=QZSd3byHYP4
+
+### Soldiers deployed in Italy, curfew enforced in France after widespread protests in Europe [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Widespread protests have swept across many major cities in Europe.
+
+Link: https://www.youtube.com/watch?v=32wH-_WKCZA
+
+### Do you feel like the government is helping you? | Voter Voices [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.
+
+Link: https://www.youtube.com/watch?v=bkfboXMIU3E
+
+### Evercade Nexus Tested - The DF Retro Verdict [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/nir12Af7ozI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=T5RLEWC_alQ
+
+### DLSS Frame-Gen Preset C Is Faster But Compromises On Quality [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Y512f5hnXw4
+
+### The Crew Motorfest on Switch 2 Tested: Fine Docked, Handheld Has Problems [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Zzu7egKPNPo
+
+### Asus ROG Xbox Ally X20: Stunning OLED Upgrade - But Is It Any Closer To Being An Xbox Experience? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=FztniL-x9no
+
+### Why Can't Nintendo Force VRR Support Into Existing Games [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5Y7I2aOpit4
+
+### PS5 Pro Year 2: Has PSSR2 Has Completely Changed Our Opinion? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=i80k7hBuC9Q
+
+### Second Wind Plays Obscure w/ JM8 and Jesse Galena [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind
+
+Link: https://www.youtube.com/watch?v=gW6HHH_v0DI
+
+### Onimusha: Way of the Sword | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed Onimusha: Way of the Sword. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=elDjZdsWH_A
+
+### Deadzone Rogue 2, Second Stone, Slam Tank, and Gun & Goblins | Steam Next Fest [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Nick and JM8 are checking out a handful of Stam Next Fest demos! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=dAbvDx-E5ds
+
+### Strange New Worlds Is an Unconvincing Cover of 1990s Star Trek | The Backdrop [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Star Trek is ending once again. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=MrEGFJA60g8
+
+### The Spooky Streams are Here with Tenebris Somnia | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+🎮 This week on Hidden Gems, Jesse and KC play Tenebris Somnia -- https://store.steampowered.com/app/2121510/Tenebris_Somnia/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=RdUdVA5SMh4
 
 ## Entertainment Recommendations
 
@@ -183,4 +370,227 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.
+
+Link: https://www.youtube.com/watch?v=AYkPRN874m8
+
+### TRAILER TOMORROW. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie
+
+Link: https://www.youtube.com/watch?v=I6WuD0p7XVU
+
+### GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K) [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.
+
+Link: https://www.youtube.com/watch?v=UKaWzMf9Ybc
+
+### INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.
+
+Link: https://www.youtube.com/watch?v=GSOcspZfk0w
+
+### Slayground | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
+
+Link: https://www.youtube.com/watch?v=XsReYk7AqPg
+
+### Misty Green | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=mkJVHTBuv9Y
+
+### Clarissa - Official Trailer - In Select Theaters December [9/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Across a single day in Lagos, Nigeria, Clarissa (Sophie Okonedo) prepares to host a high society party at her home, as her complicated past begins to consume her, in the form of now-distant friends and loves from her youth.
+
+Link: https://www.youtube.com/watch?v=sJAqmdXaM8U
+
+### VHS Mixtape | Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
+
+Link: https://www.youtube.com/watch?v=iZS2zDHidsk
+
+### Infirmary Trailer | Found Footage | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=STEprQnjfRo
+
+### Rainmaker | Mousetrap Monologue [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
+
+### River | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
+
+### The Exorcist: Martyrs | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
+
+Link: https://www.youtube.com/watch?v=5knKQTEddik
+
+### Hollywood Arts | Room for Everyone | Music Video | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+No matter who you are, there’s always "Room for Everyone". Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=udtQNFoP9EY
+
+### SALISH'S 12 GAMES OF CHRISTMAS is coming to Netflix Nov. 28! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+she's making a list and checking it twice... SALISH'S 12 GAMES OF CHRISTMAS is coming to Netflix Nov. 28! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=ed9R01zc7ro
+
+### Taken: Natalee Holloway | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+On May 30, 2005, 18-year-old Natalee Holloway vanished on a high school graduation trip to Aruba — and never came home. What followed was years of unanswered questions, a missing teenager, and a mother's relentless fight for the truth.
+
+Link: https://www.youtube.com/watch?v=nST9h0NpOYc
+
+### Possible Love | Final Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Possible Love is coming November 6 on Netflix: https://www.netflix.com/title/82106490 A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.
+
+Link: https://www.youtube.com/watch?v=yoP_TKaQvvI
+
+### Nobody Wants This | Season 2 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+We're so back. Catch up on everything that happened in Season 2 of 'Nobody Wants This'. Season 3 arrives Oct. 22, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=4N-lrmmWesI
+
+### Love Is Blind S11: Boston | Sneak Peek #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+"I called my mom, and she doesn't really want anything to do with this..." New Episodes of Love Is Blind S11: Boston premiere tomorrow! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=10_YCKVvyro
+
+### New crew. New story. Same Night City. Cyberpunk: Edgerunners is now playing. [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New crew. New story. Same Night City. Cyberpunk: Edgerunners is now playing. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=vUEszQKksrA
+
+### In Waves | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+AJ (voiced by Will Sharpe), a reserved high school student in Los Angeles, spends his days drawing and skateboarding with his friends. Kristen (voiced by Stephanie Hsu), an energetic surfer, finds joy and freedom in the ocean.
+
+Link: https://www.youtube.com/watch?v=pzg0OkKku2M
+
+### The Hunting Wives: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The Hunting Wives Season 2 is back with a bang, bang. Sophie and Margo on the outs as we return to Maple Brook. But old secrets and new foes force them back together.
+
+Link: https://www.youtube.com/watch?v=Vhwp06fwk6k
+
+### Prepare yourselves! Cyberpunk: Edgerunners. Tomorrow. [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Cyberpunk: Edgerunners. Tomorrow. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=VP9u2ACGojU
+
+### Janelle James: How Romantic | Sneak Peek | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In her debut hour-long stand-up special, Janelle James shares how fame changed her bank account and fan base but not her instincts or filter. Janelle James: How Romantic releases November 10, only on Netflix. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=MeBysXIz-zM
+
+### Slow Horses — Slough House at the Safe House | Season 6 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Slow Horses Season 6 is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=Nx9u4E36f-M
+
+### Dark Matter — The Official Podcast: Episode 208 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. The Basic Oneness of Everything (With Margo Martindale).
+
+Link: https://www.youtube.com/watch?v=zXC7HfjHo30
