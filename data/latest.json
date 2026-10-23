@@ -1,21 +1,11 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-23T18:01:01.373004Z",
+  "generatedAt": "2026-10-23T18:01:15.543590Z",
   "generatedAtDisplay": "2026-10-23 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24, Elon Musk’s dangerous grip on outer space, and Now Google says it might use your Gmail and Google Photos data to target ads.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Elon Musk’s dangerous grip on outer space, Now Google says it might use your Gmail and Google Photos data to target ads, and Denver to Close Robert F. Smith STEAM Academy, a Tiny HBCU-Style High School, After 6 Years.",
   "mainItems": [
-    {
-      "title": "Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24",
-      "source": "Bloody Disgusting",
-      "category": "Democracy / press freedom",
-      "url": "https://bloody-disgusting.com/video-games/3973100/chucky-and-the-childs-play-chapter-leaving-dead-by-daylight-on-november-24/",
-      "published": "2026-10-23T17:37:54+00:00",
-      "summary": "Pesky licensing agreements have reared their ugly heads once again for Dead by Daylight. This time, it’s coming for Child’s Play‘s Chucky.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
     {
       "title": "Elon Musk’s dangerous grip on outer space",
       "source": "The Verge",
@@ -47,13 +37,23 @@
       "score": 10
     },
     {
-      "title": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-      "published": "2026-10-23T15:09:45+00:00",
-      "summary": "While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
+      "published": "2026-10-23T15:52:29+00:00",
+      "summary": "UK allies have long urged people to stockpile supplies for a crisis.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+      "published": "2026-10-23T15:34:21+00:00",
+      "summary": "Security forces to include elite units usually used for counter-terrorism after worst street violence in years Europe live – latest updates France will deploy about 70,000 police around the country on Saturday as the government seeks to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,14 +67,14 @@
       "score": 10
     },
     {
-      "title": "New “Viral State” Update Arrives November 12 for ‘World War Z’ [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3973031/new-viral-state-update-arrives-november-12-for-world-war-z-trailer/",
-      "published": "2026-10-23T17:47:22+00:00",
-      "summary": "While Saber Interactive is currently basking in the glory that is Hellraiser: Revival, they haven’t forgotten about World War Z. The devs have revealed the new Viral State Update for World War Z, which will launch on November 12.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "title": "Texas Senate Candidates Embrace Christianity, But Diverge on its Role in Schools",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/texas-senate-candidates-embrace-christianity-but-diverge-on-its-role-in-schools/",
+      "published": "2026-10-23T10:30:00+00:00",
+      "summary": "Both Texas Attorney General Ken Paxton and state Rep. James Talarico have made Christianity central to their work as elected officials.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
       "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -94,16 +94,6 @@
       "published": "2026-10-23T11:00:31+00:00",
       "summary": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-      "published": "2026-10-22T22:25:33+00:00",
-      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
@@ -135,529 +125,20 @@
       "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
+    },
+    {
+      "title": "How to proof bread in the oven: Common challenge, simple solution.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/10/23/how-to-proof-bread-in-oven",
+      "published": "2026-10-23T14:00:00+00:00",
+      "summary": "During proofing, bread and other yeasted doughs do best in a temperature-controlled, humid, draft-free environment.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "How Image Watermarking Works - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=h6j_ixGnpiY",
-      "published": "2026-10-22T13:00:06+00:00",
-      "summary": "Image watermarks are a way to embed information into a picture, Dr Mike Pound takes us through Adobe's Trust Mark to explain the idea & covers some of the pros and cons.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Historian Fact Checks Witchcraft Slop",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=vtk4ImpKOsc",
-      "published": "2026-10-23T16:03:04+00:00",
-      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor & Historian of Witchcraft & Demonology Mikki Brock as we fact check the internet, Witchcraft edition.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Skipping The Gym To Exercise My Rights 💅",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=_u07GhQgNvk",
-      "published": "2026-10-20T18:30:02+00:00",
-      "summary": "American Historian Lindsay Chervinsky joins WIRED to answer the internet’s burning questions about the history of US Elections.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "B.J. Novak comes out with a new book for newborns and toddlers",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=XaF1uYVPvJw",
-      "published": "2026-10-23T17:45:35+00:00",
-      "summary": "Adults know B.J.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Which European country should lead efforts to support Ukraine against Russian aggression?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=2aYaOavcom8",
-      "published": "2026-10-23T17:00:39+00:00",
-      "summary": "French President Emanuel Macron has led Europe's efforts to support Ukraine against Russian aggression.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Hegseth staff damages historic WWII-era globe used by Eisenhower",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=wFJS43ftkFY",
-      "published": "2026-10-23T15:13:34+00:00",
-      "summary": "Defense Secretary Pete Hegseth’s staffers damaged a historic globe used by Gen. Dwight D. Eisenhower during World War II. The globe was damaged while they tried to move it into Hegseth’s office at his request, according to a U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "France on fire / Protests engulf Europe / Is Ukraine running out of time? | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CC9MIHTpYfA",
-      "published": "2026-10-22T20:48:46+00:00",
-      "summary": "France has been rocked by protests and riots. The far-right is on the rise across Europe. All while, the United States is backing away from Ukraine.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Trump envoy calls Putin a 'humanitarian' after releasing U.S. prisoner from Russia",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ozWqqFwaK0A",
-      "published": "2026-10-22T15:00:27+00:00",
-      "summary": "President Trump’s envoy is calling Russian president Vladimir Putin a “humanitarian” after Russia released an American man who was captured by Russia in Ukraine. Trump says he asked Putin to release Stephen Hubbard, who returned to the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Ohio governor’s race turns ugly over new attack ad",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=p3Ei_t8tsEY",
-      "published": "2026-10-21T23:30:37+00:00",
-      "summary": "Republican Vivek Ramaswamy’s team has confirmed that it produced a controversial advertisement featuring the estranged mother of Amy Acton, his Democratic opponent in the race for Ohio governor.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "UE5 Megalights + Hardware Lumen - How Come We're Seeing Them Now?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=qJvgaCzsC60",
-      "published": "2026-10-23T17:00:20+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Epic Is All-In On \"Vibe Coding\" And It's Not Going Down Well",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=GQ_CnUD_MQc",
-      "published": "2026-10-23T16:00:17+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "PS6: If It's Already Expensive, Why Not Increase GPU Size For A Small Cost?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=VZIlUbEAQek",
-      "published": "2026-10-22T17:00:00+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "RTX 5090 NOT Discontinued Says Nvidia - But Pricing/Availability Completely Out Of Control",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=p3y0Z-hI7YA",
-      "published": "2026-10-22T16:00:09+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/nir12Af7ozI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Evercade Nexus Tested - The DF Retro Verdict",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=T5RLEWC_alQ",
-      "published": "2026-10-21T17:00:37+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/nir12Af7ozI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "DLSS Frame-Gen Preset C Is Faster But Compromises On Quality",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Y512f5hnXw4",
-      "published": "2026-10-21T16:00:27+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Second Wind Plays Obscure II w/ JM8 and Jesse Galena | Part 3",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=l2RQFSD9uNg",
-      "published": "2026-10-23T16:57:30+00:00",
-      "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Steam Has a Real Slop Problem | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=YWkmgoOnxTA",
-      "published": "2026-10-23T15:00:36+00:00",
-      "summary": "The latest Steam Next Fest event shows how quickly Steam is being completely overwhelmed by quickly made cash grabbing junk. The problems are only going to escalate from there. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=sghu2jIzIKo",
-      "published": "2026-10-23T08:57:55+00:00",
-      "summary": "Tragic stories can be invigorating and emotionally taxing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk (Part 2)",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=_HJFx3NDJSg",
-      "published": "2026-10-22T21:33:01+00:00",
-      "summary": "Tragic stories can be invigorating and emotionally taxing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Second Wind Plays Obscure w/ JM8 and Jesse Galena | Part 2",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=kHBeIkEJLUQ",
-      "published": "2026-10-22T18:28:15+00:00",
-      "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Underappreciated Art of the Reload | Semi-Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=e_y8uOL5a2s",
-      "published": "2026-10-22T15:00:26+00:00",
-      "summary": "There's an art to good reloading mechanics in guns in video games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Second Wind Plays Obscure w/ JM8 and Jesse Galena",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=gW6HHH_v0DI",
-      "published": "2026-10-22T10:05:05+00:00",
-      "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Onimusha: Way of the Sword | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=elDjZdsWH_A",
-      "published": "2026-10-21T16:00:12+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Onimusha: Way of the Sword. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AYkPRN874m8",
-      "published": "2026-10-15T14:00:39+00:00",
-      "summary": "From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TRAILER TOMORROW.",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=I6WuD0p7XVU",
-      "published": "2026-10-14T16:14:59+00:00",
-      "summary": "Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
-      "published": "2026-10-14T16:00:40+00:00",
-      "summary": "Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - First 10 Minutes Extended Preview",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GSOcspZfk0w",
-      "published": "2026-10-06T18:11:13+00:00",
-      "summary": "The Further is coming straight to your living room. Watch the first 10 minutes of #INSIDIOUS: OUT OF THE FURTHER. You have to see what happens next. Go into the Further for spooky season and watch at home now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Slayground | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=XsReYk7AqPg",
-      "published": "2026-10-20T13:00:34+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Misty Green | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=mkJVHTBuv9Y",
-      "published": "2026-10-08T14:00:17+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "VHS Mixtape | Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iZS2zDHidsk",
-      "published": "2026-10-13T16:10:10+00:00",
-      "summary": "Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Infirmary Trailer | Found Footage | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=STEprQnjfRo",
-      "published": "2026-10-09T15:47:10+00:00",
-      "summary": "The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Rainmaker | Mousetrap Monologue",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Vzly5YAYEhY",
-      "published": "2026-10-16T18:30:15+00:00",
-      "summary": "Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "River | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=xrQwmYgCLRQ",
-      "published": "2026-10-12T15:00:13+00:00",
-      "summary": "Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Exorcist: Martyrs | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5knKQTEddik",
-      "published": "2026-10-09T22:38:27+00:00",
-      "summary": "Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Secrets | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ewoLz7AaXPk",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "A single mother’s dream of a better life with her daughter is threatened when someone from her past resurfaces, revealing a dark secret. Starring Sha Ine Febriyanti and Abimana Aryasatya, Secrets premieres December 3, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Body | Sneak Peek: So You Wanna Be Lions? | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=SNT1RdgFn-E",
-      "published": "2026-10-22T16:30:00+00:00",
-      "summary": "St. Mark’s School has an open spot on the Lions dance team. Do Grace (Sofia Wylie) or Lisbeth (Geena Meszaros) have what It takes? The Body premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Ultimate Shopping Showdown Is Coming #WinTheMall",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=9_6q8Za1Zv8",
-      "published": "2026-10-22T16:00:03+00:00",
-      "summary": "Outwit. Outplay. Outshop. Win The Mall — a new high-stakes reality competition series — premieres November 18. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Win the Mall | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dnNvYvYk9yQ",
-      "published": "2026-10-22T16:00:00+00:00",
-      "summary": "Part shopping spree, part social strategy, this high-gloss reality competition drops players into a living mall where they’ll fight to outshop, outsmart, and outlast one another — and only one will walk away with the keys to the ultimate…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mike Tyson: Return of the Mike | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=hL6gzwnOx7A",
-      "published": "2026-10-22T15:00:00+00:00",
-      "summary": "Mike Tyson: Return of the Mike is a raw, unfiltered one-man show filmed at Seminole Hard Rock Hotel & Casino in Hollywood, FL.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 | Now Playing | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dI2-87K9TWI",
-      "published": "2026-10-22T12:00:00+00:00",
-      "summary": "Now it's time to witness worlds collide! From the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 is NOW PLAYING, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Murder in Galicia | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=V7qdKH-USL8",
-      "published": "2026-10-22T09:00:00+00:00",
-      "summary": "Pazos is a small, seemingly peaceful town in Galicia, where a series of home burglaries is beginning to cause concern among the residents. Amid this uncertainty, Irene is the victim of a violent attack in her own home.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Hollywood Arts | Room for Everyone | Music Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=udtQNFoP9EY",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "No matter who you are, there’s always \"Room for Everyone\". Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SALISH'S 12 GAMES OF CHRISTMAS is coming to Netflix Nov. 28!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ed9R01zc7ro",
-      "published": "2026-10-21T18:00:00+00:00",
-      "summary": "she's making a list and checking it twice... SALISH'S 12 GAMES OF CHRISTMAS is coming to Netflix Nov. 28! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Taken: Natalee Holloway | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=nST9h0NpOYc",
-      "published": "2026-10-21T15:00:00+00:00",
-      "summary": "On May 30, 2005, 18-year-old Natalee Holloway vanished on a high school graduation trip to Aruba — and never came home. What followed was years of unanswered questions, a missing teenager, and a mother's relentless fight for the truth.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Possible Love | Final Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=yoP_TKaQvvI",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "Possible Love is coming November 6 on Netflix: https://www.netflix.com/title/82106490 A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Everyone has a choice. A new episode of #DarkMatter is now streaming.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_y7PSuw6G-c",
-      "published": "2026-10-23T01:29:57+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 209 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=rOFwFS9HDGk",
-      "published": "2026-10-23T00:59:46+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -769,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
-    "trailerCount": 24,
-    "sourceCount": 20
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }
