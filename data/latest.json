@@ -1,49 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-23T14:00:03.155145Z",
-  "generatedAtDisplay": "2026-10-23 10:00 AM EDT",
+  "generatedAt": "2026-10-23T18:01:01.373004Z",
+  "generatedAtDisplay": "2026-10-23 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Retro gaming is being overrun with AI, France to deploy 70,000 officers as it braces for weekend of protests – Europe live, and Netflix can’t fire its way out of this downward spiral.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24, Elon Musk’s dangerous grip on outer space, and Now Google says it might use your Gmail and Google Photos data to target ads.",
   "mainItems": [
     {
-      "title": "Retro gaming is being overrun with AI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "published": "2026-10-23T13:52:15+00:00",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-      "source": "The Guardian US",
+      "title": "Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24",
+      "source": "Bloody Disgusting",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "published": "2026-10-23T13:45:47+00:00",
-      "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+      "url": "https://bloody-disgusting.com/video-games/3973100/chucky-and-the-childs-play-chapter-leaving-dead-by-daylight-on-november-24/",
+      "published": "2026-10-23T17:37:54+00:00",
+      "summary": "Pesky licensing agreements have reared their ugly heads once again for Dead by Daylight. This time, it’s coming for Child’s Play‘s Chucky.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Netflix can’t fire its way out of this downward spiral",
+      "title": "Elon Musk’s dangerous grip on outer space",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
-      "published": "2026-10-23T13:14:38+00:00",
-      "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about.",
+      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+      "published": "2026-10-23T17:35:15+00:00",
+      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-      "published": "2026-10-23T12:59:38+00:00",
-      "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "published": "2026-10-23T16:52:55+00:00",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Denver to Close Robert F. Smith STEAM Academy, a Tiny HBCU-Style High School, After 6 Years",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/denver-to-close-robert-f-smith-steam-academy-a-tiny-hbcu-style-high-school-after-6-years/",
+      "published": "2026-10-23T16:30:00+00:00",
+      "summary": "The vision for Robert F. Smith STEAM Academy was to provide as many as 500 Denver students with an education modeled after historically Black colleges.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
+      "published": "2026-10-23T15:09:45+00:00",
+      "summary": "While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -57,24 +67,24 @@
       "score": 10
     },
     {
-      "title": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
-      "published": "2026-10-23T11:27:06+00:00",
-      "summary": "Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "title": "New “Viral State” Update Arrives November 12 for ‘World War Z’ [Trailer]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3973031/new-viral-state-update-arrives-november-12-for-world-war-z-trailer/",
+      "published": "2026-10-23T17:47:22+00:00",
+      "summary": "While Saber Interactive is currently basking in the glory that is Hellraiser: Revival, they haven’t forgotten about World War Z. The devs have revealed the new Viral State Update for World War Z, which will launch on November 12.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
-      "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-      "published": "2026-10-22T14:23:36+00:00",
-      "summary": "'Black October:' The PHP vulnerabilities and a series of other hacks and bugs have cybersecurity experts freaking out and unsure what happens next.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "published": "2026-10-23T17:18:31+00:00",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
@@ -84,16 +94,6 @@
       "published": "2026-10-23T11:00:31+00:00",
       "summary": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-      "published": "2026-10-23T09:00:00+00:00",
-      "summary": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -107,32 +107,32 @@
       "score": 9
     },
     {
-      "title": "Blake Crouch Explains How Dark Matter Season 2 Is Like an Album",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/blake-crouch-explains-how-dark-matter-season-2-is-like-an-album/",
-      "published": "2026-10-23T13:30:00+00:00",
-      "summary": "In an interview with Reactor, the show’s creator explains how those two standalone episodes came to be. The post Blake Crouch Explains How Dark Matter Season 2 Is Like an Album appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+      "published": "2026-10-23T16:36:40+00:00",
+      "summary": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
       "source": "NPR Tech",
       "category": "Science / computing",
       "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
       "published": "2026-10-23T09:37:38+00:00",
-      "summary": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+      "summary": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
-      "title": "What if you gave yourself a day to cancel all the plans you dread?",
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
-      "published": "2026-10-23T09:00:00+00:00",
-      "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "published": "2026-10-23T14:16:10+00:00",
+      "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -150,6 +150,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Historian Fact Checks Witchcraft Slop",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=vtk4ImpKOsc",
+      "published": "2026-10-23T16:03:04+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor & Historian of Witchcraft & Demonology Mikki Brock as we fact check the internet, Witchcraft edition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Skipping The Gym To Exercise My Rights 💅",
       "source": "WIRED",
       "category": "Tech / media",
@@ -161,12 +172,34 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Presidential Historian Answers US Election Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=a1rdU67lvtM",
-      "published": "2026-10-20T16:00:05+00:00",
-      "summary": "American Historian Lindsay Chervinsky joins WIRED to answer the internet’s burning questions about the history of US Elections.",
+      "title": "B.J. Novak comes out with a new book for newborns and toddlers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=XaF1uYVPvJw",
+      "published": "2026-10-23T17:45:35+00:00",
+      "summary": "Adults know B.J.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Which European country should lead efforts to support Ukraine against Russian aggression?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=2aYaOavcom8",
+      "published": "2026-10-23T17:00:39+00:00",
+      "summary": "French President Emanuel Macron has led Europe's efforts to support Ukraine against Russian aggression.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Hegseth staff damages historic WWII-era globe used by Eisenhower",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=wFJS43ftkFY",
+      "published": "2026-10-23T15:13:34+00:00",
+      "summary": "Defense Secretary Pete Hegseth’s staffers damaged a historic globe used by Gen. Dwight D. Eisenhower during World War II. The globe was damaged while they tried to move it into Hegseth’s office at his request, according to a U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -190,8 +223,8 @@
       "published": "2026-10-22T15:00:27+00:00",
       "summary": "President Trump’s envoy is calling Russian president Vladimir Putin a “humanitarian” after Russia released an American man who was captured by Russia in Ukraine. Trump says he asked Putin to release Stephen Hubbard, who returned to the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Ohio governor’s race turns ugly over new attack ad",
@@ -205,48 +238,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=qlT4i0fkU6Y",
-      "published": "2026-10-21T23:00:29+00:00",
-      "summary": "Palestinian families in the West Bank have been unable to harvest their olive groves for years amid growing settler violence and restrictions on access to their land.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures”",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=nJ5-6l4kA2s",
-      "published": "2026-10-21T22:00:01+00:00",
-      "summary": "Adults know B.J.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "UE5 Megalights + Hardware Lumen - How Come We're Seeing Them Now?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qJvgaCzsC60",
+      "published": "2026-10-23T17:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Trump announces $25 million program that will pay people who report fraud",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=iDN96sUi4O0",
-      "published": "2026-10-21T15:10:40+00:00",
-      "summary": "President Donald Trump says the White House is setting aside $25 million dollars to reward people who report fraud that results in a successful prosecution.⁠ ⁠ Trump said there are “trillions” of potential possibilities for corruption in U.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Does it feel like the government is helping you?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=5mWTlhwLyWo",
-      "published": "2026-10-20T19:00:14+00:00",
-      "summary": "“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Epic Is All-In On \"Vibe Coding\" And It's Not Going Down Well",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=GQ_CnUD_MQc",
+      "published": "2026-10-23T16:00:17+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "PS6: If It's Already Expensive, Why Not Increase GPU Size For A Small Cost?",
@@ -256,8 +267,8 @@
       "published": "2026-10-22T17:00:00+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "RTX 5090 NOT Discontinued Says Nvidia - But Pricing/Availability Completely Out Of Control",
@@ -293,34 +304,23 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "The Crew Motorfest on Switch 2 Tested: Fine Docked, Handheld Has Problems",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Zzu7egKPNPo",
-      "published": "2026-10-20T17:08:22+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Asus ROG Xbox Ally X20: Stunning OLED Upgrade - But Is It Any Closer To Being An Xbox Experience?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=FztniL-x9no",
-      "published": "2026-10-20T16:00:27+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "Second Wind Plays Obscure II w/ JM8 and Jesse Galena | Part 3",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=l2RQFSD9uNg",
-      "published": "2026-10-23T13:26:22+00:00",
+      "published": "2026-10-23T16:57:30+00:00",
       "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Steam Has a Real Slop Problem | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=YWkmgoOnxTA",
+      "published": "2026-10-23T15:00:36+00:00",
+      "summary": "The latest Steam Next Fest event shows how quickly Steam is being completely overwhelmed by quickly made cash grabbing junk. The problems are only going to escalate from there. Support us on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -366,8 +366,8 @@
       "published": "2026-10-22T15:00:26+00:00",
       "summary": "There's an art to good reloading mechanics in guns in video games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Second Wind Plays Obscure w/ JM8 and Jesse Galena",
@@ -387,17 +387,6 @@
       "url": "https://www.youtube.com/watch?v=elDjZdsWH_A",
       "published": "2026-10-21T16:00:12+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Onimusha: Way of the Sword. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Deadzone Rogue 2, Second Stone, Slam Tank, and Gun & Goblins | Steam Next Fest",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=dAbvDx-E5ds",
-      "published": "2026-10-20T22:23:51+00:00",
-      "summary": "Nick and JM8 are checking out a handful of Stam Next Fest demos! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -533,7 +522,7 @@
       "published": "2026-10-23T10:00:00+00:00",
       "summary": "A single mother’s dream of a better life with her daughter is threatened when someone from her past resurfaces, revealing a dark secret. Starring Sha Ine Febriyanti and Abimana Aryasatya, Secrets premieres December 3, only on Netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -780,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
+    "youtubeCount": 23,
     "trailerCount": 24,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }

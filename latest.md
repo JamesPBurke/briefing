@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-23T14:00:03.155145Z
+Generated: 2026-10-23T18:01:01.373004Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Retro gaming is being overrun with AI, France to deploy 70,000 officers as it braces for weekend of protests – Europe live, and Netflix can’t fire its way out of this downward spiral.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24, Elon Musk’s dangerous grip on outer space, and Now Google says it might use your Gmail and Google Photos data to target ads.
 
 ## Briefing
 
@@ -33,43 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Retro gaming is being overrun with AI [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port
-
-### 2. France to deploy 70,000 officers as it braces for weekend of protests – Europe live [10/10]
-**Source:** The Guardian US  
+### 1. Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24 [10/10]
+**Source:** Bloody Disgusting  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…
+Pesky licensing agreements have reared their ugly heads once again for Dead by Daylight. This time, it’s coming for Child’s Play‘s Chucky.
 
-Link: https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates
+Link: https://bloody-disgusting.com/video-games/3973100/chucky-and-the-childs-play-chapter-leaving-dead-by-daylight-on-november-24/
 
-### 3. Netflix can’t fire its way out of this downward spiral [10/10]
+### 2. Elon Musk’s dangerous grip on outer space [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about.
+Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service.
 
-Link: https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad
+Link: https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly
 
-### 4. Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 3. Now Google says it might use your Gmail and Google Photos data to target ads [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father,…
+Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.
 
-Link: https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father
+Link: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
 
-### 5. Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It [10/10]
+### 4. Denver to Close Robert F. Smith STEAM Academy, a Tiny HBCU-Style High School, After 6 Years [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The vision for Robert F. Smith STEAM Academy was to provide as many as 500 Denver students with an education modeled after historically Black colleges.
+
+Link: https://www.the74million.org/article/denver-to-close-robert-f-smith-steam-academy-a-tiny-hbcu-style-high-school-after-6-years/
+
+### 5. Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck.
+
+Link: https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters
+
+### 6. Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,25 +87,25 @@ Recently, the nation’s two largest school districts hit pause on artificial in
 
 Link: https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it/
 
-### 6. Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 7. New “Viral State” Update Arrives November 12 for ‘World War Z’ [Trailer] [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX.
+While Saber Interactive is currently basking in the glory that is Hellraiser: Revival, they haven’t forgotten about World War Z. The devs have revealed the new Viral State Update for World War Z, which will launch on November 12.
 
-Link: https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises
+Link: https://bloody-disgusting.com/video-games/3973031/new-viral-state-update-arrives-november-12-for-world-war-z-trailer/
 
-### 7. AI Is Changing Everything About Hacking. No One Knows What Happens Next [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 8. Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-'Black October:' The PHP vulnerabilities and a series of other hacks and bugs have cybersecurity experts freaking out and unsure what happens next.
+Company says foreign-made robotic vehicles are crucial to US chip production.
 
-Link: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
+Link: https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
 
-### 8. ‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’ [9/10]
+### 9. ‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -104,15 +113,6 @@ Link: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-
 Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…
 
 Link: https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest
-
-### 9. Amid Trump's assaults on DEI, how one university is elevating Black students [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.
-
-Link: https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students
 
 ### 10. Switch 2 security takes a hit as hackers unlock homebrew access [9/10]
 **Source:** Ars Technica  
@@ -123,32 +123,32 @@ Link: https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-blac
 
 Link: https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/
 
-### 11. Blake Crouch Explains How Dark Matter Season 2 Is Like an Album [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 11. Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-In an interview with Reactor, the show’s creator explains how those two standalone episodes came to be. The post Blake Crouch Explains How Dark Matter Season 2 Is Like an Album appeared first on Reactor .
+How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.
 
-Link: https://reactormag.com/blake-crouch-explains-how-dark-matter-season-2-is-like-an-album/
+Link: https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/
 
-### 12. Hacking attempts rise after flaws found in program affecting 70 percent of websites [8/10]
+### 12. Hacking attempts rise after flaws found in program affecting 70% of websites [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.
+Governments around the world are rushing to implement safety measures after AI technology found "severe" vulnerabilities in a key programming language called PHP.
 
 Link: https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws
 
-### 13. What if you gave yourself a day to cancel all the plans you dread? [7/10]
+### 13. Will a macaque eat a grape sitting on a pile of poo? A study on germophobia [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.
+When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?
 
-Link: https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat
+Link: https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak
 
 ## YouTube
 
@@ -161,6 +161,15 @@ Image watermarks are a way to embed information into a picture, Dr Mike Pound ta
 
 Link: https://www.youtube.com/watch?v=h6j_ixGnpiY
 
+### Historian Fact Checks Witchcraft Slop [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor & Historian of Witchcraft & Demonology Mikki Brock as we fact check the internet, Witchcraft edition.
+
+Link: https://www.youtube.com/watch?v=vtk4ImpKOsc
+
 ### Skipping The Gym To Exercise My Rights 💅 [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -170,14 +179,32 @@ American Historian Lindsay Chervinsky joins WIRED to answer the internet’s bur
 
 Link: https://www.youtube.com/watch?v=_u07GhQgNvk
 
-### Presidential Historian Answers US Election Questions [8/10]
-**Creator:** WIRED  
+### B.J. Novak comes out with a new book for newborns and toddlers [8/10]
+**Creator:** NPR  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-American Historian Lindsay Chervinsky joins WIRED to answer the internet’s burning questions about the history of US Elections.
+Adults know B.J.
 
-Link: https://www.youtube.com/watch?v=a1rdU67lvtM
+Link: https://www.youtube.com/watch?v=XaF1uYVPvJw
+
+### Which European country should lead efforts to support Ukraine against Russian aggression? [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+French President Emanuel Macron has led Europe's efforts to support Ukraine against Russian aggression.
+
+Link: https://www.youtube.com/watch?v=2aYaOavcom8
+
+### Hegseth staff damages historic WWII-era globe used by Eisenhower [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Defense Secretary Pete Hegseth’s staffers damaged a historic globe used by Gen. Dwight D. Eisenhower during World War II. The globe was damaged while they tried to move it into Hegseth’s office at his request, according to a U.S.
+
+Link: https://www.youtube.com/watch?v=wFJS43ftkFY
 
 ### France on fire / Protests engulf Europe / Is Ukraine running out of time? | Sources & Methods [8/10]
 **Creator:** NPR  
@@ -188,9 +215,9 @@ France has been rocked by protests and riots. The far-right is on the rise acros
 
 Link: https://www.youtube.com/watch?v=CC9MIHTpYfA
 
-### Trump envoy calls Putin a 'humanitarian' after releasing U.S. prisoner from Russia [9/10]
+### Trump envoy calls Putin a 'humanitarian' after releasing U.S. prisoner from Russia [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump’s envoy is calling Russian president Vladimir Putin a “humanitarian” after Russia released an American man who was captured by Russia in Ukraine. Trump says he asked Putin to release Stephen Hubbard, who returned to the U.S.
@@ -206,45 +233,27 @@ Republican Vivek Ramaswamy’s team has confirmed that it produced a controversi
 
 Link: https://www.youtube.com/watch?v=p3Ei_t8tsEY
 
-### Israel detains dozens of Americans, including a congressional candidate, in West Bank [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Palestinian families in the West Bank have been unable to harvest their olive groves for years amid growing settler violence and restrictions on access to their land.
-
-Link: https://www.youtube.com/watch?v=qlT4i0fkU6Y
-
-### B.J. Novak on coming out with a new book for toddlers, “The Little Book With No Pictures” [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Adults know B.J.
-
-Link: https://www.youtube.com/watch?v=nJ5-6l4kA2s
-
-### Trump announces $25 million program that will pay people who report fraud [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-President Donald Trump says the White House is setting aside $25 million dollars to reward people who report fraud that results in a successful prosecution.⁠ ⁠ Trump said there are “trillions” of potential possibilities for corruption in U.
-
-Link: https://www.youtube.com/watch?v=iDN96sUi4O0
-
-### Does it feel like the government is helping you? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-“It seems that with each president that has passed by, no matter if it's Democrat or Republican, it's just gotten worse.
-
-Link: https://www.youtube.com/watch?v=5mWTlhwLyWo
-
-### PS6: If It's Already Expensive, Why Not Increase GPU Size For A Small Cost? [7/10]
+### UE5 Megalights + Hardware Lumen - How Come We're Seeing Them Now? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=qJvgaCzsC60
+
+### Epic Is All-In On "Vibe Coding" And It's Not Going Down Well [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=GQ_CnUD_MQc
+
+### PS6: If It's Already Expensive, Why Not Increase GPU Size For A Small Cost? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,24 +287,6 @@ Link: https://www.youtube.com/watch?v=T5RLEWC_alQ
 
 Link: https://www.youtube.com/watch?v=Y512f5hnXw4
 
-### The Crew Motorfest on Switch 2 Tested: Fine Docked, Handheld Has Problems [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Zzu7egKPNPo
-
-### Asus ROG Xbox Ally X20: Stunning OLED Upgrade - But Is It Any Closer To Being An Xbox Experience? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=FztniL-x9no
-
 ### Second Wind Plays Obscure II w/ JM8 and Jesse Galena | Part 3 [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -304,6 +295,15 @@ Link: https://www.youtube.com/watch?v=FztniL-x9no
 JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind
 
 Link: https://www.youtube.com/watch?v=l2RQFSD9uNg
+
+### Steam Has a Real Slop Problem | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The latest Steam Next Fest event shows how quickly Steam is being completely overwhelmed by quickly made cash grabbing junk. The problems are only going to escalate from there. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=YWkmgoOnxTA
 
 ### Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk [7/10]
 **Creator:** Second Wind  
@@ -332,9 +332,9 @@ JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of o
 
 Link: https://www.youtube.com/watch?v=kHBeIkEJLUQ
 
-### The Underappreciated Art of the Reload | Semi-Ramblomatic [8/10]
+### The Underappreciated Art of the Reload | Semi-Ramblomatic [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 There's an art to good reloading mechanics in guns in video games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -358,15 +358,6 @@ Link: https://www.youtube.com/watch?v=gW6HHH_v0DI
 This week on Fully Ramblomatic, Yahtzee reviewed Onimusha: Way of the Sword. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=elDjZdsWH_A
-
-### Deadzone Rogue 2, Second Stone, Slam Tank, and Gun & Goblins | Steam Next Fest [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Nick and JM8 are checking out a handful of Stam Next Fest demos! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=dAbvDx-E5ds
 
 ## Entertainment Recommendations
 
@@ -496,7 +487,7 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
-### Secrets | Official Teaser | Netflix [10/10]
+### Secrets | Official Teaser | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
