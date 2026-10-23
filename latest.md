@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-22T18:01:13.765223Z
+Generated: 2026-10-23T05:00:03.186363Z
 
-Today's sweep leans toward AI / computing, Security / computing, Democracy / press freedom. The strongest items in this run are OpenAI, Anthropic, and Nvidia had record lobbying quarters, US judge orders Trump to sit for deposition in $10bn lawsuit against BBC, and The disastrous PHP vulnerabilities were exploited days before the patch.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game, Experience: I’ve climbed Mount Everest 20 times, and The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent?.
 
 ## Briefing
 
@@ -33,68 +33,68 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. OpenAI, Anthropic, and Nvidia had record lobbying quarters [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.
-
-Link: https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records
-
-### 2. US judge orders Trump to sit for deposition in $10bn lawsuit against BBC [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC…
-
-Link: https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery
-
-### 3. The disastrous PHP vulnerabilities were exploited days before the patch [10/10]
-**Source:** The Verge  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence.
-
-Link: https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch
-
-### 4. Websites across world hit by millions of attempts to exploit PHP code flaw [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing…
-
-Link: https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw
-
-### 5. Missouri Education Chief Resigns Amid Controversy Over A-F Ratings for Public Schools [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Missouri interim Commissioner of Education Stacey Preis resigned Tuesday after just four months on the job amid speculation she was about to be fired.
-
-Link: https://www.the74million.org/article/missouri-education-chief-resigns-amid-controversy-over-a-f-ratings-for-public-schools/
-
-### 6. Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine [10/10]
+### 1. Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic…
+Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one…
 
-Link: https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine
+Link: https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game
 
-### 7. Opinion: In D.C. Schools, How the Science of Reading Offers a Blueprint for Math [10/10]
-**Source:** The 74  
+### 2. Experience: I’ve climbed Mount Everest 20 times [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In 1996 doctors told me I wouldn’t walk again unaided, but in 2022 I took the record for the most Everest summits by a non-Sherpa I grew up in Slough, Berkshire, in a bungalow beside a farm.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/oct/23/experience-ive-climbed-mount-everest-20-times
+
+### 3. The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In 1986, Bamber was sentenced to life imprisonment for killing five members of his family.
+
+Link: https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent
+
+### 4. Canva’s first AI image model plans designs before generating them [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model
+
+### 5. Teacher wounded in Oregon school shooting played dead after she was shot [10/10]
+**Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Students in the nation’s capital posted gains in math and reading for the fourth straight year, according to the results of statewide accountability tests released last month. It was the latest piece of great news for Washington, D.C.
+Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and…
 
-Link: https://www.the74million.org/article/in-d-c-schools-how-the-science-of-reading-offers-a-blueprint-for-math/
+Link: https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
+
+### 6. The race to fix huge PHP code flaw at the heart of the internet - The Latest [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP.
+
+Link: https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest
+
+### 7. Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like…
+
+Link: https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games
 
 ### 8. AI Is Changing Everything About Hacking. No One Knows What Happens Next [10/10]
 **Source:** 404 Media  
@@ -105,34 +105,34 @@ Link: https://www.the74million.org/article/in-d-c-schools-how-the-science-of-rea
 
 Link: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
 
-### 9. Opinion: Declining Enrollment Can Be a Crisis — or an Opportunity. 4 Districts Show How [10/10]
+### 9. Maryland Officials Announce Dramatic Decrease in Teacher Vacancy Rate [9/10]
 **Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Districts and states across the country are standing on the edge of an enrollment cliff.
+The number of teacher vacancies fell from 2,145 in the 2022-23 school year to roughly 572 for the current school year, state officials announced Monday, a 70% drop that was attributed to programs to expand recruitment and retention of…
 
-Link: https://www.the74million.org/article/declining-enrollment-can-be-a-crisis-or-an-opportunity-4-districts-show-how/
+Link: https://www.the74million.org/article/maryland-officials-announce-dramatic-decrease-in-teacher-vacancy-rate/
 
-### 10. OpenAI's latest AI models are coming to Google Cloud and Antigravity [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.
-
-Link: https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
-
-### 11. ‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre [9/10]
+### 10. The Audacity review – cracking TV packed with even more gloriously awful people than Succession [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth.
+This Silicon Valley satire follows a CEO in trouble after the collapse of an acquisition deal.
 
-Link: https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre
+Link: https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer
 
-### 12. 5 simple ways to relieve the aches and pains of sitting at a desk all day [8/10]
+### 11. Read an Excerpt From Blood to the True Crown by Sung-il Kim [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The Empire faces a reckoning that could destroy the world itself. But hope can be found even in the darkest despair. The post Read an Excerpt From Blood to the True Crown by Sung-il Kim appeared first on Reactor .
+
+Link: https://reactormag.com/excerpts-blood-to-the-true-crown-by-sung-il-kim/
+
+### 12. Achy from sitting at a desk all day? Try doing this [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-
 A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.
 
 Link: https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
