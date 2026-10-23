@@ -1,59 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-23T09:01:11.659628Z",
-  "generatedAtDisplay": "2026-10-23 05:01 AM EDT",
+  "generatedAt": "2026-10-23T14:00:03.155145Z",
+  "generatedAtDisplay": "2026-10-23 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Tech / media. The strongest items in this run are Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live, Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game, and Experience: I’ve climbed Mount Everest 20 times.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Retro gaming is being overrun with AI, France to deploy 70,000 officers as it braces for weekend of protests – Europe live, and Netflix can’t fire its way out of this downward spiral.",
   "mainItems": [
     {
-      "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+      "title": "Retro gaming is being overrun with AI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "published": "2026-10-23T13:52:15+00:00",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "published": "2026-10-23T08:31:34+00:00",
-      "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences In Vienna this morning, Austria’s foreign ministry has announced it is kicking out another four Russian diplomats over “activities incompatible…",
+      "published": "2026-10-23T13:45:47+00:00",
+      "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "published": "2026-10-23T04:00:06+00:00",
-      "summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Experience: I’ve climbed Mount Everest 20 times",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/23/experience-ive-climbed-mount-everest-20-times",
-      "published": "2026-10-23T04:00:06+00:00",
-      "summary": "In 1996 doctors told me I wouldn’t walk again unaided, but in 2022 I took the record for the most Everest summits by a non-Sherpa I grew up in Slough, Berkshire, in a bungalow beside a farm.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
-      "published": "2026-10-23T04:00:04+00:00",
-      "summary": "In 1986, Bamber was sentenced to life imprisonment for killing five members of his family.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Canva’s first AI image model plans designs before generating them",
+      "title": "Netflix can’t fire its way out of this downward spiral",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "published": "2026-10-22T21:53:22+00:00",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+      "published": "2026-10-23T13:14:38+00:00",
+      "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+      "published": "2026-10-23T12:59:38+00:00",
+      "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it/",
+      "published": "2026-10-23T12:30:00+00:00",
+      "summary": "Recently, the nation’s two largest school districts hit pause on artificial intelligence.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
+      "published": "2026-10-23T11:27:06+00:00",
+      "summary": "Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -67,6 +77,26 @@
       "score": 10
     },
     {
+      "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
+      "published": "2026-10-23T11:00:31+00:00",
+      "summary": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+      "published": "2026-10-23T09:00:00+00:00",
+      "summary": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
       "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
       "source": "Ars Technica",
       "category": "Security / computing",
@@ -77,63 +107,33 @@
       "score": 9
     },
     {
-      "title": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
-      "published": "2026-10-22T21:50:40+00:00",
-      "summary": "We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not talking about a lack of big, bold ideas, in fact there might be too many of those.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Maryland Officials Announce Dramatic Decrease in Teacher Vacancy Rate",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/maryland-officials-announce-dramatic-decrease-in-teacher-vacancy-rate/",
-      "published": "2026-10-22T18:30:00+00:00",
-      "summary": "The number of teacher vacancies fell from 2,145 in the 2022-23 school year to roughly 572 for the current school year, state officials announced Monday, a 70% drop that was attributed to programs to expand recruitment and retention of…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: In D.C. Schools, How the Science of Reading Offers a Blueprint for Math",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/in-d-c-schools-how-the-science-of-reading-offers-a-blueprint-for-math/",
-      "published": "2026-10-22T14:30:00+00:00",
-      "summary": "Students in the nation’s capital posted gains in math and reading for the fourth straight year, according to the results of statewide accountability tests released last month. It was the latest piece of great news for Washington, D.C.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
-      "published": "2026-10-23T04:01:01+00:00",
-      "summary": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Blake Crouch Explains How Dark Matter Season 2 Is Like an Album",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/blake-crouch-explains-how-dark-matter-season-2-is-like-an-album/",
+      "published": "2026-10-23T13:30:00+00:00",
+      "summary": "In an interview with Reactor, the show’s creator explains how those two standalone episodes came to be. The post Blake Crouch Explains How Dark Matter Season 2 Is Like an Album appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
-      "title": "Tech stocks dropped sharply. What it means for the rest of the economy",
+      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012831/tech-stocks-dropped-sharply-what-it-means-for-the-rest-of-the-economy",
-      "published": "2026-10-23T08:43:57+00:00",
-      "summary": "Tech stocks dropped sharply Wednesday, NPR's Leila Fadel asks David Wessel of the Brookings Institution what it means.",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "published": "2026-10-23T09:37:38+00:00",
+      "summary": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "score": 8
     },
     {
-      "title": "Read an Excerpt From Blood to the True Crown by Sung-il Kim",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/excerpts-blood-to-the-true-crown-by-sung-il-kim/",
-      "published": "2026-10-22T19:00:00+00:00",
-      "summary": "The Empire faces a reckoning that could destroy the world itself. But hope can be found even in the darkest despair. The post Read an Excerpt From Blood to the True Crown by Sung-il Kim appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "What if you gave yourself a day to cancel all the plans you dread?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+      "published": "2026-10-23T09:00:00+00:00",
+      "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -172,7 +172,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "France on fire / Protests engulf Europe / Is Ukraine running out of time?",
+      "title": "France on fire / Protests engulf Europe / Is Ukraine running out of time? | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=CC9MIHTpYfA",
@@ -315,6 +315,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Second Wind Plays Obscure II w/ JM8 and Jesse Galena | Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=l2RQFSD9uNg",
+      "published": "2026-10-23T13:26:22+00:00",
+      "summary": "JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -333,8 +344,8 @@
       "published": "2026-10-22T21:33:01+00:00",
       "summary": "Tragic stories can be invigorating and emotionally taxing.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Second Wind Plays Obscure w/ JM8 and Jesse Galena | Part 2",
@@ -390,17 +401,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Strange New Worlds Is an Unconvincing Cover of 1990s Star Trek | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=MrEGFJA60g8",
-      "published": "2026-10-20T15:00:38+00:00",
-      "summary": "Star Trek is ending once again. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -526,6 +526,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Secrets | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ewoLz7AaXPk",
+      "published": "2026-10-23T10:00:00+00:00",
+      "summary": "A single mother’s dream of a better life with her daughter is threatened when someone from her past resurfaces, revealing a dark secret. Starring Sha Ine Febriyanti and Abimana Aryasatya, Secrets premieres December 3, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Body | Sneak Peek: So You Wanna Be Lions? | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -633,17 +644,6 @@
       "summary": "Possible Love is coming November 6 on Netflix: https://www.netflix.com/title/82106490 A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Nobody Wants This | Season 2 Recap | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=4N-lrmmWesI",
-      "published": "2026-10-20T19:00:00+00:00",
-      "summary": "We're so back. Catch up on everything that happened in Season 2 of 'Nobody Wants This'. Season 3 arrives Oct. 22, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -782,6 +782,6 @@
     "mainCount": 13,
     "youtubeCount": 24,
     "trailerCount": 24,
-    "sourceCount": 19
+    "sourceCount": 21
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-23T09:01:11.659628Z
+Generated: 2026-10-23T14:00:03.155145Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Tech / media. The strongest items in this run are Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live, Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game, and Experience: I’ve climbed Mount Everest 20 times.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Retro gaming is being overrun with AI, France to deploy 70,000 officers as it braces for weekend of protests – Europe live, and Netflix can’t fire its way out of this downward spiral.
 
 ## Briefing
 
@@ -33,52 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The satellite service was still operating at a cap of 161km/hr, crippling key air defences In Vienna this morning, Austria’s foreign ministry has announced it is kicking out another four Russian diplomats over “activities incompatible…
-
-Link: https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates
-
-### 2. Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one…
-
-Link: https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game
-
-### 3. Experience: I’ve climbed Mount Everest 20 times [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In 1996 doctors told me I wouldn’t walk again unaided, but in 2022 I took the record for the most Everest summits by a non-Sherpa I grew up in Slough, Berkshire, in a bungalow beside a farm.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/23/experience-ive-climbed-mount-everest-20-times
-
-### 4. The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In 1986, Bamber was sentenced to life imprisonment for killing five members of his family.
-
-Link: https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent
-
-### 5. Canva’s first AI image model plans designs before generating them [10/10]
+### 1. Retro gaming is being overrun with AI [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.
+Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model
+Link: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port
 
-### 6. AI Is Changing Everything About Hacking. No One Knows What Happens Next [10/10]
+### 2. France to deploy 70,000 officers as it braces for weekend of protests – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…
+
+Link: https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates
+
+### 3. Netflix can’t fire its way out of this downward spiral [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about.
+
+Link: https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad
+
+### 4. Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father,…
+
+Link: https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father
+
+### 5. Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Recently, the nation’s two largest school districts hit pause on artificial intelligence.
+
+Link: https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it/
+
+### 6. Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX.
+
+Link: https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises
+
+### 7. AI Is Changing Everything About Hacking. No One Knows What Happens Next [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -87,7 +96,25 @@ Link: https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in
 
 Link: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
 
-### 7. Switch 2 security takes a hit as hackers unlock homebrew access [9/10]
+### 8. ‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…
+
+Link: https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest
+
+### 9. Amid Trump's assaults on DEI, how one university is elevating Black students [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.
+
+Link: https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students
+
+### 10. Switch 2 security takes a hit as hackers unlock homebrew access [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -96,59 +123,32 @@ Link: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-
 
 Link: https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/
 
-### 8. A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not talking about a lack of big, bold ideas, in fact there might be too many of those.
-
-Link: https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely
-
-### 9. Maryland Officials Announce Dramatic Decrease in Teacher Vacancy Rate [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The number of teacher vacancies fell from 2,145 in the 2022-23 school year to roughly 572 for the current school year, state officials announced Monday, a 70% drop that was attributed to programs to expand recruitment and retention of…
-
-Link: https://www.the74million.org/article/maryland-officials-announce-dramatic-decrease-in-teacher-vacancy-rate/
-
-### 10. Opinion: In D.C. Schools, How the Science of Reading Offers a Blueprint for Math [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Students in the nation’s capital posted gains in math and reading for the fourth straight year, according to the results of statewide accountability tests released last month. It was the latest piece of great news for Washington, D.C.
-
-Link: https://www.the74million.org/article/in-d-c-schools-how-the-science-of-reading-offers-a-blueprint-for-math/
-
-### 11. Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists…
-
-Link: https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts
-
-### 12. Tech stocks dropped sharply. What it means for the rest of the economy [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Tech stocks dropped sharply Wednesday, NPR's Leila Fadel asks David Wessel of the Brookings Institution what it means.
-
-Link: https://www.npr.org/2026/10/23/nx-s1-6012831/tech-stocks-dropped-sharply-what-it-means-for-the-rest-of-the-economy
-
-### 13. Read an Excerpt From Blood to the True Crown by Sung-il Kim [7/10]
+### 11. Blake Crouch Explains How Dark Matter Season 2 Is Like an Album [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The Empire faces a reckoning that could destroy the world itself. But hope can be found even in the darkest despair. The post Read an Excerpt From Blood to the True Crown by Sung-il Kim appeared first on Reactor .
+In an interview with Reactor, the show’s creator explains how those two standalone episodes came to be. The post Blake Crouch Explains How Dark Matter Season 2 Is Like an Album appeared first on Reactor .
 
-Link: https://reactormag.com/excerpts-blood-to-the-true-crown-by-sung-il-kim/
+Link: https://reactormag.com/blake-crouch-explains-how-dark-matter-season-2-is-like-an-album/
+
+### 12. Hacking attempts rise after flaws found in program affecting 70 percent of websites [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.
+
+Link: https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws
+
+### 13. What if you gave yourself a day to cancel all the plans you dread? [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.
+
+Link: https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat
 
 ## YouTube
 
@@ -179,7 +179,7 @@ American Historian Lindsay Chervinsky joins WIRED to answer the internet’s bur
 
 Link: https://www.youtube.com/watch?v=a1rdU67lvtM
 
-### France on fire / Protests engulf Europe / Is Ukraine running out of time? [8/10]
+### France on fire / Protests engulf Europe / Is Ukraine running out of time? | Sources & Methods [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -296,6 +296,15 @@ Link: https://www.youtube.com/watch?v=Zzu7egKPNPo
 
 Link: https://www.youtube.com/watch?v=FztniL-x9no
 
+### Second Wind Plays Obscure II w/ JM8 and Jesse Galena | Part 3 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind
+
+Link: https://www.youtube.com/watch?v=l2RQFSD9uNg
+
 ### Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -305,9 +314,9 @@ Tragic stories can be invigorating and emotionally taxing.
 
 Link: https://www.youtube.com/watch?v=sghu2jIzIKo
 
-### Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk (Part 2) [7/10]
+### Telling Tragic Stories with Elliot Davis of More Blueberries | RPG Help Desk (Part 2) [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Tragic stories can be invigorating and emotionally taxing.
@@ -358,15 +367,6 @@ Link: https://www.youtube.com/watch?v=elDjZdsWH_A
 Nick and JM8 are checking out a handful of Stam Next Fest demos! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=dAbvDx-E5ds
-
-### Strange New Worlds Is an Unconvincing Cover of 1990s Star Trek | The Backdrop [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Star Trek is ending once again. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=MrEGFJA60g8
 
 ## Entertainment Recommendations
 
@@ -496,6 +496,15 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### Secrets | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A single mother’s dream of a better life with her daughter is threatened when someone from her past resurfaces, revealing a dark secret. Starring Sha Ine Febriyanti and Abimana Aryasatya, Secrets premieres December 3, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=ewoLz7AaXPk
+
 ### The Body | Sneak Peek: So You Wanna Be Lions? | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -585,15 +594,6 @@ Link: https://www.youtube.com/watch?v=nST9h0NpOYc
 Possible Love is coming November 6 on Netflix: https://www.netflix.com/title/82106490 A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.
 
 Link: https://www.youtube.com/watch?v=yoP_TKaQvvI
-
-### Nobody Wants This | Season 2 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-We're so back. Catch up on everything that happened in Season 2 of 'Nobody Wants This'. Season 3 arrives Oct. 22, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=4N-lrmmWesI
 
 ### Everyone has a choice. A new episode of #DarkMatter is now streaming. [10/10]
 **Source:** Apple TV  
