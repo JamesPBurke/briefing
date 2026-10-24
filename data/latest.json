@@ -1,60 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-23T18:01:15.543590Z",
-  "generatedAtDisplay": "2026-10-23 02:01 PM EDT",
+  "generatedAt": "2026-10-24T05:00:02.349039Z",
+  "generatedAtDisplay": "2026-10-24 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Elon Musk’s dangerous grip on outer space, Now Google says it might use your Gmail and Google Photos data to target ads, and Denver to Close Robert F. Smith STEAM Academy, a Tiny HBCU-Style High School, After 6 Years.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / computing, AI / privacy. The strongest items in this run are Pentagon designates China-backed campus cultural centers a threat to US national security, Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’, and OpenAI now trains its frontier AI models with no internet access.",
   "mainItems": [
     {
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "published": "2026-10-23T17:35:15+00:00",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
+      "published": "2026-10-24T01:21:26+00:00",
+      "summary": "Defense secretary Pete Hegseth alleges Confucius Institutes operating in disguise on US university campuses The ⁠US defense department has designated Chinese-funded cultural centers on university campuses ⁠known as Confucius ⁠Institutes…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "published": "2026-10-23T23:10:42+00:00",
+      "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
       "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published": "2026-10-23T21:11:07+00:00",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "published": "2026-10-23T16:52:55+00:00",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "published": "2026-10-23T20:19:55+00:00",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Denver to Close Robert F. Smith STEAM Academy, a Tiny HBCU-Style High School, After 6 Years",
+      "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "published": "2026-10-23T20:12:34+00:00",
+      "summary": "Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+      "published": "2026-10-23T17:30:00+00:00",
+      "summary": "In one of the happier endings to occur in games this week, impossibly enormous resource management sim Factorio has just released its last-ever major update – version 2.1 – on its stable branch.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Fired OpenAI researchers say independent safety audits aren't going well",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
+      "published": "2026-10-23T21:33:31+00:00",
+      "summary": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "School Board Members Can Be Deposed for Removing Library Books, Federal Court Rules",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/denver-to-close-robert-f-smith-steam-academy-a-tiny-hbcu-style-high-school-after-6-years/",
-      "published": "2026-10-23T16:30:00+00:00",
-      "summary": "The vision for Robert F. Smith STEAM Academy was to provide as many as 500 Denver students with an education modeled after historically Black colleges.",
+      "url": "https://www.the74million.org/article/school-board-members-can-be-deposed-for-removing-library-books-federal-court-rules/",
+      "published": "2026-10-23T18:30:00+00:00",
+      "summary": "A years-long legal battle over book removals in Escambia County has a new chapter. A federal appeals court ruled school members may be deposed about why they removed library books and classroom material.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
-      "published": "2026-10-23T15:52:29+00:00",
-      "summary": "UK allies have long urged people to stockpile supplies for a crisis.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
-      "published": "2026-10-23T15:34:21+00:00",
-      "summary": "Security forces to include elite units usually used for counter-terrorism after worst street violence in years Europe live – latest updates France will deploy about 70,000 police around the country on Saturday as the government seeks to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It",
@@ -64,36 +94,6 @@
       "published": "2026-10-23T12:30:00+00:00",
       "summary": "Recently, the nation’s two largest school districts hit pause on artificial intelligence.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Texas Senate Candidates Embrace Christianity, But Diverge on its Role in Schools",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/texas-senate-candidates-embrace-christianity-but-diverge-on-its-role-in-schools/",
-      "published": "2026-10-23T10:30:00+00:00",
-      "summary": "Both Texas Attorney General Ken Paxton and state Rep. James Talarico have made Christianity central to their work as elected officials.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "published": "2026-10-23T17:18:31+00:00",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
-      "published": "2026-10-23T11:00:31+00:00",
-      "summary": "Omar Muñoz, one of 28 people charged in California, speaks out about being dragged from his home in front of cameras as DoJ accused of ‘disgusting’ PR campaign Omar Muñoz was getting ready to have his morning coffee just after 5am on…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -107,14 +107,14 @@
       "score": 8
     },
     {
-      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "published": "2026-10-23T09:37:38+00:00",
-      "summary": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "title": "Clayface Writes Checks Its Body Horror Can’t Quite Cash",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/movie-review-clayface-writes-checks-its-body-horror-cant-quite-cash/",
+      "published": "2026-10-23T16:25:00+00:00",
+      "summary": "I like a movie that takes a big swing, and Clayface takes a couple.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     },
     {
       "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
@@ -137,7 +137,74 @@
       "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "UE5 Megalights + Hardware Lumen - How Come We're Seeing Them Now?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qJvgaCzsC60",
+      "published": "2026-10-23T17:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Epic Is All-In On \"Vibe Coding\" And It's Not Going Down Well",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=GQ_CnUD_MQc",
+      "published": "2026-10-23T16:00:17+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "PS6: If It's Already Expensive, Why Not Increase GPU Size For A Small Cost?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=VZIlUbEAQek",
+      "published": "2026-10-22T17:00:00+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/jUAhriSvpsk ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "RTX 5090 NOT Discontinued Says Nvidia - But Pricing/Availability Completely Out Of Control",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=p3y0Z-hI7YA",
+      "published": "2026-10-22T16:00:09+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/nir12Af7ozI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Evercade Nexus Tested - The DF Retro Verdict",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=T5RLEWC_alQ",
+      "published": "2026-10-21T17:00:37+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/nir12Af7ozI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "DLSS Frame-Gen Preset C Is Faster But Compromises On Quality",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Y512f5hnXw4",
+      "published": "2026-10-21T16:00:27+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/gNRr4lajQA4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +317,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 6,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 12
   }
 }
