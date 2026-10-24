@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-24T09:00:50.945310Z
+Generated: 2026-10-24T14:00:02.595631Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are ‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple, What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth", and Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Thousands march in Paris and other French cities as protests take place across Europe – Europe live, ‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price, and A 1,000-mile cloud on Mars may reveal physics never seen in nature.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple [10/10]
+### 1. Thousands march in Paris and other French cities as protests take place across Europe – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer history The literary power couple is a historically seductive…
+French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march.
 
-Link: https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple
+Link: https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news
 
-### 2. What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth" [10/10]
+### 2. ‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Dom Phillips warned that Jair Bolsonaro would make life more dangerous for reporters and the Amazon rainforest, and that his sons were even more extreme “Bolso shows all signs of fascism, as do his supporters,” the murdered British…
+
+Link: https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future
+
+### 3. A 1,000-mile cloud on Mars may reveal physics never seen in nature [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A new model suggests Mars may host ice-forming physics never directly observed before.
+
+Link: https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/
+
+### 4. AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL' [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.
+
+Link: https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell
+
+### 5. Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal…
+
+Link: https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts
+
+### 6. What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,16 +87,7 @@ Hello, it is me, your regular weekend host Mertie and I am here once again to gu
 
 Link: https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort
 
-### 3. Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the…
-
-Link: https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria
-
-### 4. ‘It annoys people when I eat’: Siobhán McSweeney on perfect snacks, parental pressure – and the power of being ‘a delicious fatty’ [10/10]
+### 7. ‘It annoys people when I eat’: Siobhán McSweeney on perfect snacks, parental pressure – and the power of being ‘a delicious fatty’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,16 +96,7 @@ The Derry Girls actor has always loved food, so who better to take over as the n
 
 Link: https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast
 
-### 5. OpenAI now trains its frontier AI models with no internet access [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
-
-### 6. Updated Google privacy policy says your Gmail might be used for advertising [10/10]
+### 8. Updated Google privacy policy says your Gmail might be used for advertising [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,43 +105,43 @@ Turning on Personal Intelligence gives the company more data for ad targeting.
 
 Link: https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/
 
-### 7. Fired OpenAI researchers say independent safety audits aren't going well [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.
-
-Link: https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well
-
-### 8. School Board Members Can Be Deposed for Removing Library Books, Federal Court Rules [9/10]
+### 9. Ohio Spent More Than a Billion Dollars on Private School Vouchers This Year [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A years-long legal battle over book removals in Escambia County has a new chapter. A federal appeals court ruled school members may be deposed about why they removed library books and classroom material.
+For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.
 
-Link: https://www.the74million.org/article/school-board-members-can-be-deposed-for-removing-library-books-federal-court-rules/
+Link: https://www.the74million.org/article/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-this-year/
 
-### 9. Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. OpenAI now trains its frontier AI models with no internet access [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Recently, the nation’s two largest school districts hit pause on artificial intelligence.
+OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.
 
-Link: https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it/
+Link: https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
 
-### 10. Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop [8/10]
+### 11. An Ancient Virus Explains Why the Human Brain Is Special [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.
+Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.
 
-Link: https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/
+Link: https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/
 
-### 11. Clayface Writes Checks Its Body Horror Can’t Quite Cash [7/10]
+### 12. Is your Medicare Advantage plan ending next year? Here's what to know [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.
+
+Link: https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan
+
+### 13. Clayface Writes Checks Its Body Horror Can’t Quite Cash [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,24 +149,6 @@ Link: https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave
 I like a movie that takes a big swing, and Clayface takes a couple.
 
 Link: https://reactormag.com/movie-review-clayface-writes-checks-its-body-horror-cant-quite-cash/
-
-### 12. Will a macaque eat a grape sitting on a pile of poo? A study on germophobia [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?
-
-Link: https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak
-
-### 13. How to proof bread in the oven: Common challenge, simple solution. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-During proofing, bread and other yeasted doughs do best in a temperature-controlled, humid, draft-free environment.
-
-Link: https://www.kingarthurbaking.com/blog/2026/10/23/how-to-proof-bread-in-oven
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Image watermarks are a way to embed information into a picture, Dr Mike Pound ta
 
 Link: https://www.youtube.com/watch?v=h6j_ixGnpiY
 
-### The Truth Behind The Witches Hat [8/10]
+### The Truth Behind The Witches Hat [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor & Historian of Witchcraft & Demonology Mikki Brock as we fact check the internet, Witchcraft edition.

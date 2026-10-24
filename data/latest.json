@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-24T09:00:50.945310Z",
-  "generatedAtDisplay": "2026-10-24 05:00 AM EDT",
+  "generatedAt": "2026-10-24T14:00:02.595631Z",
+  "generatedAtDisplay": "2026-10-24 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are ‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple, What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\", and Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Games / criticism. The strongest items in this run are Thousands march in Paris and other French cities as protests take place across Europe – Europe live, ‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price, and A 1,000-mile cloud on Mars may reveal physics never seen in nature.",
   "mainItems": [
     {
-      "title": "‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple",
+      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
-      "published": "2026-10-24T08:00:27+00:00",
-      "summary": "Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer history The literary power couple is a historically seductive…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "published": "2026-10-24T13:47:39+00:00",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future",
+      "published": "2026-10-24T12:00:33+00:00",
+      "summary": "Dom Phillips warned that Jair Bolsonaro would make life more dangerous for reporters and the Amazon rainforest, and that his sons were even more extreme “Bolso shows all signs of fascism, as do his supporters,” the murdered British…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "published": "2026-10-24T11:50:28+00:00",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL'",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
+      "published": "2026-10-24T11:42:09+00:00",
+      "summary": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
+      "published": "2026-10-24T11:00:30+00:00",
+      "summary": "New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "published": "2026-10-24T06:21:44+00:00",
-      "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "‘It annoys people when I eat’: Siobhán McSweeney on perfect snacks, parental pressure – and the power of being ‘a delicious fatty’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -44,16 +74,6 @@
       "published": "2026-10-24T05:00:26+00:00",
       "summary": "The Derry Girls actor has always loved food, so who better to take over as the new presenter of the Guardian’s Comfort Eating podcast? Siobhán McSweeney is teaching me her preferred way to enjoy a packet of cheese and onion crisps.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "published": "2026-10-23T21:11:07+00:00",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -67,42 +87,42 @@
       "score": 10
     },
     {
-      "title": "Fired OpenAI researchers say independent safety audits aren't going well",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
-      "published": "2026-10-23T21:33:31+00:00",
-      "summary": "In their first interview since being fired, OpenAI safety researchers Mikita Balesni and Tomek Korbak say they were terminated for prioritizing safety over the short-term interests of the company.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "School Board Members Can Be Deposed for Removing Library Books, Federal Court Rules",
+      "title": "Ohio Spent More Than a Billion Dollars on Private School Vouchers This Year",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/school-board-members-can-be-deposed-for-removing-library-books-federal-court-rules/",
-      "published": "2026-10-23T18:30:00+00:00",
-      "summary": "A years-long legal battle over book removals in Escambia County has a new chapter. A federal appeals court ruled school members may be deposed about why they removed library books and classroom material.",
+      "url": "https://www.the74million.org/article/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-this-year/",
+      "published": "2026-10-24T10:30:00+00:00",
+      "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it/",
-      "published": "2026-10-23T12:30:00+00:00",
-      "summary": "Recently, the nation’s two largest school districts hit pause on artificial intelligence.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published": "2026-10-23T21:11:07+00:00",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
+      "title": "An Ancient Virus Explains Why the Human Brain Is Special",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
-      "published": "2026-10-23T16:36:40+00:00",
-      "summary": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
+      "url": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+      "published": "2026-10-24T12:27:54+00:00",
+      "summary": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+      "published": "2026-10-24T10:00:00+00:00",
+      "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -114,26 +134,6 @@
       "published": "2026-10-23T16:25:00+00:00",
       "summary": "I like a movie that takes a big swing, and Clayface takes a couple.",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-      "published": "2026-10-23T14:16:10+00:00",
-      "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "How to proof bread in the oven: Common challenge, simple solution.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/23/how-to-proof-bread-in-oven",
-      "published": "2026-10-23T14:00:00+00:00",
-      "summary": "During proofing, bread and other yeasted doughs do best in a temperature-controlled, humid, draft-free environment.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
@@ -157,8 +157,8 @@
       "published": "2026-10-23T21:15:03+00:00",
       "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor & Historian of Witchcraft & Demonology Mikki Brock as we fact check the internet, Witchcraft edition.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Historian Fact Checks Witchcraft Slop",
@@ -782,6 +782,6 @@
     "mainCount": 13,
     "youtubeCount": 23,
     "trailerCount": 25,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }
