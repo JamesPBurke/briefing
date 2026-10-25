@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-25T09:00:58.114811Z
+Generated: 2026-10-25T14:00:02.417031Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Ten days that could shake the world: democratic norms at stake in four pivotal elections, How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit, and Eleven sustain gunshot wounds in shooting near Florida university.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are How to build a police state | William Wheeler, US military gives Elon Musk’s SpaceX access to sensitive tracking data, and They wallow in Trump gunk 24/7. They say it’s necessary.
 
 ## Briefing
 
@@ -33,7 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ten days that could shake the world: democratic norms at stake in four pivotal elections [10/10]
+### 1. How to build a police state | William Wheeler [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib Bukele One afternoon last year, Donald Trump welcomed “a friend” to the White House – El Salvador’s…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state
+
+### 2. US military gives Elon Musk’s SpaceX access to sensitive tracking data [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industry The US military has given Elon Musk’s SpaceX access to restricted space tracking…
+
+Link: https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data
+
+### 3. They wallow in Trump gunk 24/7. They say it’s necessary [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Joanna Coles and Michael Wolff spend most of their days thinking about the president’s follies for their podcast, Inside Trump’s Head.
+
+Link: https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast
+
+### 4. ‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+James Blair’s data-driven approach delivered victory in 2024 but president’s unpopularity and idiosyncratic style do not bode well this time They are both young, bald and fathers of four. They are also the brains behind Donald Trump.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans
+
+### 5. Lara Croft is 30! We look at the video game icon’s biggest blunders [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks 30 years since Ms Croft first swan-dived…
+
+Link: https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders
+
+### 6. US seized American heir’s cellphone in violation of treaty agreement, lawyer says [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+James ‘Fergie’ Chambers, in prison in Spain, has applied for asylum as US seeks extradition over alleged Hamas support US authorities seized wealthy activist James “Fergie” Chambers’s cellphone at some point after Spanish police arrested…
+
+Link: https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox
+
+### 7. The College of Magic turns ordinary kids into confident, top-hat wearing magicians [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.
+
+Link: https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students
+
+### 8. Trump administration has pushed off 13% of Americans enrolled in food stamps [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effect Enrollment in the Supplemental Nutrition Assistance Program (Snap) has decreased significantly over the past year in the US following…
+
+Link: https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts
+
+### 9. Opinion: Will NYC Try an Integration Plan That Failed Spectacularly in San Francisco? [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+At a town hall meeting on October 20, Nikole Hannah-Jones peppered Chancellor of New York City Public Schools Kamar Samuels with questions regarding his and Mayor Zohran Mamdani’s vision for America’s largest public schools system.
+
+Link: https://www.the74million.org/article/will-nyc-try-an-integration-plan-that-failed-spectacularly-in-san-francisco/
+
+### 10. Ten days that could shake the world: democratic norms at stake in four pivotal elections [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,61 +123,7 @@ Brazil, Israel, Serbia and the US are holding elections within the space of 10 d
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us
 
-### 2. How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Previously considered a middle-class drug, price drops have made cocaine more widely available, and created a new set of problems Cocaine-linked crimes on the rise in Britain as consumption surges Ageing users and record deaths – the data…
-
-Link: https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit
-
-### 3. Eleven sustain gunshot wounds in shooting near Florida university [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police said an altercation at a homecoming party escalated into gunfire, resulting in six adults and six juveniles injured A shooting ⁠near a Florida university campus in Tallahassee has left 11 people ⁠with gunshot wounds ⁠and ​another…
-
-Link: https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university
-
-### 4. Greg Wise on how he and Emma Thompson coped with failed IVF: ‘We hit an existential crisis – she was not a proper woman and I was not a proper man’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Their hopes of having a second child were dashed. Two decades on, the actor remembers the grief and pain of that time “I’m afraid this cycle has not been successful.” Emma and I cannot catch each other’s eye.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/25/greg-wise-on-how-he-and-emma-thompson-coped-with-failed-ivf-we-hit-an-existential-crisis-she-was-not-a-proper-woman-and-i-was-not-a-proper-man
-
-### 5. Hundreds of thousands march across France in protests over schools and policing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support…
-
-Link: https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing
-
-### 6. My mother donated her body to science. I really wasn’t prepared for what came next [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families.
-
-Link: https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science
-
-### 7. Carving out a greener future: how the Swiss ski resort of Laax is meeting the climate crisis head on [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Gondolas on demand, electric piste-grooming and chemical-free snow cannons – how Laax is ‘greenstyling’ its future It’s the worst ski resort nightmare: hillsides of shaggy yellow grass streaked with slush under a leaden sky that’s coughing…
-
-Link: https://www.theguardian.com/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis
-
-### 8. I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component [9/10]
+### 11. I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -105,61 +132,25 @@ I'll be honest folks: I didn't know that Steam's Personal Calendar feature was s
 
 Link: https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component
 
-### 9. AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL' [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.
-
-Link: https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell
-
-### 10. Blue Planet III is keeping the rough edges in the age of AI [8/10]
+### 12. r/opensource just banned AI, non-English speakers, and more [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.
+The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+Link: https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
 
-### 11. New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores.
-
-Link: https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/
-
-### 12. An Ancient Virus Explains Why the Human Brain Is Special [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.
-
-Link: https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/
-
-### 13. Is your Medicare Advantage plan ending next year? Here's what to know [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.
-
-Link: https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan
-
-## YouTube
-
-### How Image Watermarking Works - Computerphile [8/10]
-**Creator:** Computerphile  
-**Verdict:** Worth watching  
+### 13. When a teen posts a selfie, how much filter is 'too much' filter? [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Image watermarks are a way to embed information into a picture, Dr Mike Pound takes us through Adobe's Trust Mark to explain the idea & covers some of the pros and cons.
+The recent Meta settlement includes a clause banning "cosmetic procedure filters" for teens. But defining what constitutes an extreme makeover isn't easy.
 
-Link: https://www.youtube.com/watch?v=h6j_ixGnpiY
+Link: https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai
+
+## YouTube
 
 ### The Truth Behind The Witches Hat [7/10]
 **Creator:** WIRED  
@@ -358,15 +349,6 @@ Link: https://www.youtube.com/watch?v=kHBeIkEJLUQ
 There's an art to good reloading mechanics in guns in video games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=e_y8uOL5a2s
-
-### Second Wind Plays Obscure w/ JM8 and Jesse Galena [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-JM8 returns to the world of Obscure with Jesse Galena... ⭐ Check out some of our lovely merch over at our DFTBA store: https://store.dftba.com/collections/second-wind
-
-Link: https://www.youtube.com/watch?v=gW6HHH_v0DI
 
 ## Entertainment Recommendations
 
