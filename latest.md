@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-24T18:01:04.331317Z
+Generated: 2026-10-25T05:00:01.997280Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Thousands march in Paris and other French cities as protests take place across Europe – Europe live, Judge rules Cornell’s ‘Jane Doe’ can use pseudonym in suit over alleged gang-rape, and Met says it shared allegations about Meghan’s father with her but not other forces.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says, Hundreds of thousands march across France in protests over schools and policing, and Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features.
 
 ## Briefing
 
@@ -33,16 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Thousands march in Paris and other French cities as protests take place across Europe – Europe live [10/10]
+### 1. Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march.
+Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living…
 
-Link: https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news
+Link: https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move
 
-### 2. Judge rules Cornell’s ‘Jane Doe’ can use pseudonym in suit over alleged gang-rape [10/10]
+### 2. Hundreds of thousands march across France in protests over schools and policing [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support…
+
+Link: https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing
+
+### 3. Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Since launch back in May of this year, life sim Paralives appears to have been trucking along nicely, with the dev team offering up fairly regular updates with all sorts of tweaks big and small.
+
+Link: https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features
+
+### 4. Judge rules Cornell’s ‘Jane Doe’ can use pseudonym in suit over alleged gang-rape [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -51,16 +69,7 @@ Woman alleging frat-house rape has privacy and safety issues outweighing need to
 
 Link: https://www.theguardian.com/us-news/2026/oct/24/cornell-jane-doe
 
-### 3. Met says it shared allegations about Meghan’s father with her but not other forces [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Scotland Yard says it shared letter about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning “alleged…
-
-Link: https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-
-
-### 4. My mother donated her body to science. I really wasn’t prepared for what came next [10/10]
+### 5. My mother donated her body to science. I really wasn’t prepared for what came next [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,52 +78,34 @@ The process included a gala featuring medical students doing aerial yoga and sin
 
 Link: https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science
 
-### 5. ‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse “It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of…
-
-Link: https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles
-
-### 6. Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal…
-
-Link: https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts
-
-### 7. Ice sheet expansion may have started 2,000 years ago, but we canceled that [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.
-
-Link: https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/
-
-### 8. Chelsea v Tottenham: Premier League – live [9/10]
+### 6. Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Aston Villa 2-1 Man City | Live scores | Table | Mail Scott The teams take to the pitch. Chelsea in blue, Spurs in white, and it won’t be long before every shirt is soaking wet.
+Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out…
 
-Link: https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live
+Link: https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan
 
-### 9. New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 7. I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores.
+I'll be honest folks: I didn't know that Steam's Personal Calendar feature was still technically in testing.
 
-Link: https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/
+Link: https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component
 
-### 10. AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL' [9/10]
+### 8. ‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Dom Phillips warned that Jair Bolsonaro would make life more dangerous for reporters and the Amazon rainforest, and that his sons were even more extreme “Bolso shows all signs of fascism, as do his supporters,” the murdered British…
+
+Link: https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future
+
+### 9. AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL' [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -123,14 +114,23 @@ AI discovered a vulnerability in part of the internet's architecture, called PHP
 
 Link: https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell
 
-### 11. OpenAI now trains its frontier AI models with no internet access [9/10]
+### 10. Blue Planet III is keeping the rough edges in the age of AI [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.
+BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
+Link: https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+
+### 11. New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores.
+
+Link: https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/
 
 ### 12. An Ancient Virus Explains Why the Human Brain Is Special [8/10]
 **Source:** 404 Media  
@@ -149,3 +149,38 @@ Link: https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-s
 Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.
 
 Link: https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
