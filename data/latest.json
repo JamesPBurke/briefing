@@ -1,140 +1,140 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-26T09:00:59.667576Z",
-  "generatedAtDisplay": "2026-10-26 05:00 AM EDT",
+  "generatedAt": "2026-10-26T14:00:02.711326Z",
+  "generatedAtDisplay": "2026-10-26 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are ‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes, Serbian leader Aleksandar Vučić ousted by student movement in seismic election, and Macron accused of putting France’s right to protest at risk with ‘vandal’s law’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Can AI help solve the COBOL code crisis?, Chris Brown given suspended sentence over bottle attack at London club, and This week in PC games: Run a shady cyberpunk boutique in Probably Stolen, autobattle Viking towns in Northgard Battlegrounds, and trash homophobic robots in Virtue and a Sledgehammer.",
   "mainItems": [
     {
-      "title": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
-      "published": "2026-10-26T07:00:25+00:00",
-      "summary": "Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before election Hebron, the biggest city in the West Bank, had paid little attention to Israel’s looming elections until it…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-      "published": "2026-10-25T23:42:32+00:00",
-      "summary": "Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests The long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic political shift after a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-      "published": "2026-10-25T19:57:40+00:00",
-      "summary": "Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents Emmanuel Macron has been accused by trade unions of trying to curb the fundamental French right to protest as the…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How to build a police state | William Wheeler",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state",
-      "published": "2026-10-25T13:00:03+00:00",
-      "summary": "To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib Bukele One afternoon last year, Donald Trump welcomed “a friend” to the White House – El Salvador’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
-      "published": "2026-10-25T11:00:02+00:00",
-      "summary": "James Blair’s data-driven approach delivered victory in 2024 but president’s unpopularity and idiosyncratic style do not bode well this time They are both young, bald and fathers of four. They are also the brains behind Donald Trump.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Eric Bauza, award-winning Looney Tunes voice actor, dies aged 46",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/culture/2026/oct/26/eric-bauza-award-winning-looney-tunes-voice-actor-dies-aged-46",
-      "published": "2026-10-26T06:24:23+00:00",
-      "summary": "Bauza voiced Bugs Bunny, Daffy Duck and Porky Pig, along with hundreds of other characters.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
-      "published": "2026-10-26T00:58:25+00:00",
-      "summary": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "US south-west braces for more storms after enduring days of rain and flooding",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "published": "2026-10-25T19:02:51+00:00",
-      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "This College of Magic turns ordinary kids into cool magicians",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-      "published": "2026-10-25T11:24:58+00:00",
-      "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Phantom Blade Zero review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-review-1",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "I wasn't around to witness the golden age of Martial Arts cinema, but there are moments in Phantom Blade Zero that make me feel as though I've tumbled through a crack in time onto the set of a kung fu film.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "title": "Can AI help solve the COBOL code crisis?",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "published": "2026-10-25T21:40:27+00:00",
-      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "published": "2026-10-26T13:26:44+00:00",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "score": 10
     },
     {
-      "title": "Opinion: Will NYC Try an Integration Plan That Failed Spectacularly in San Francisco?",
+      "title": "Chris Brown given suspended sentence over bottle attack at London club",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+      "published": "2026-10-26T12:28:24+00:00",
+      "summary": "R&B singer sentenced to eight months’ imprisonment suspended for 12 months over incident in Mayfair in 2023 The R&B singer Chris Brown has been given a suspended sentence after striking a man twice in the head with a tequila bottle in a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: Run a shady cyberpunk boutique in Probably Stolen, autobattle Viking towns in Northgard Battlegrounds, and trash homophobic robots in Virtue and a Sledgehammer",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-run-a-shady-cyberpunk-boutique-in-probably-stolen-autobattle-viking-towns-in-northgard-battlegrounds-and-trash-homophobic-robots-in-virtue-and-a-sledgehammer",
+      "published": "2026-10-26T12:12:05+00:00",
+      "summary": "I've been tricked. Deep within the fine print of the Health and Safety and Wild Eldritch Creature Control License Edwin convinced me to apply for is a stipulation that I alternate shifts of Maw care with him.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/32-year-old-ellipsoid-horror-game-ecstatica-gets-a-pc-re-release-today-showing-us-an-alternative-timeline-in-which-polygonal-3d-never-became-dominant",
+      "published": "2026-10-26T11:35:00+00:00",
+      "summary": "One of my favourite hobbies is digging up older pieces of gaming tech or software know-how and asking myself: \"man, what would the world have been like, if every GPU were made out of Gorgonzola?\" Or less silly words to that effect.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Mass Effect 5 was named Universe partly because it let players generate alternate timelines based on their choices in previous entries, technical director says",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/mass-effect-5-was-named-universe-partly-because-it-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-entries-technical-director-says",
+      "published": "2026-10-26T11:02:57+00:00",
+      "summary": "In case you missed it, an internal trailer for the new Mass Effect game which BioWare were working on prior to EA shutting them down hit the net late last week.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘It’s a mess right now’: RFK’s sweeping changes place new vaccines in limbo",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/vaccines-rfk-jr",
+      "published": "2026-10-26T11:00:40+00:00",
+      "summary": "Health secretary’s effort to alter makeup of ACIP panel means no new recommendations coming – even as new vaccines are approved US vaccine recommendations are in limbo, access to vaccines is suffering, and some of the uncertainty may…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "If Democrats win big, will they learn the right lessons from their victory? | Jan-Werner Mueller",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/democrats-win-victory-lessons",
+      "published": "2026-10-26T10:00:28+00:00",
+      "summary": "No election outcome ever interprets itself.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "published": "2026-10-26T09:01:00+00:00",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "What are the races to watch in the US midterm elections and why do they matter?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
+      "published": "2026-10-26T09:00:27+00:00",
+      "summary": "US voters will decide whether Republicans will retain control of Congress or whether Democrats will rise up to stymie Trump’s agenda Donald Trump will still be US president on the morning of 4 November.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+      "published": "2026-10-26T09:00:00+00:00",
+      "summary": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "published": "2026-10-26T13:55:23+00:00",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "published": "2026-10-26T11:03:33+00:00",
+      "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project Business live – latest updates Anthropic sued for allegedly using 274 Elvis songs to train AI models Anthropic’s Claude…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "When a Child Is Absent, Should the Childcare Provider Still Get Paid?",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/will-nyc-try-an-integration-plan-that-failed-spectacularly-in-san-francisco/",
-      "published": "2026-10-25T10:30:00+00:00",
-      "summary": "At a town hall meeting on October 20, Nikole Hannah-Jones peppered Chancellor of New York City Public Schools Kamar Samuels with questions regarding his and Mayor Zohran Mamdani’s vision for America’s largest public schools system.",
+      "url": "https://www.the74million.org/zero2eight/when-a-child-is-absent-should-the-childcare-provider-still-get-paid/",
+      "published": "2026-10-26T12:30:00+00:00",
+      "summary": "In January 2025, Missouri Gov.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
-    },
-    {
-      "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-      "published": "2026-10-25T10:00:00+00:00",
-      "summary": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -302,6 +302,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Playing Mysterium Live From Milwaukee w/ Yahtzee, Jack, Jenna, Jess, KC, and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gT07RhPMKvY",
+      "published": "2026-10-26T13:10:39+00:00",
+      "summary": "The Adventure is Nigh! crew are taking a break from filming the new season to play some of the board game Mysterium live from Milwaukee. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Having a Bloody Good Time in Mortal Kombat X | Super Smash Sunday",
@@ -758,7 +769,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 26,
     "sourceCount": 16
   }
