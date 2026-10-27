@@ -1,59 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-26T18:01:03.220307Z",
-  "generatedAtDisplay": "2026-10-26 02:01 PM EDT",
+  "generatedAt": "2026-10-27T05:00:02.568950Z",
+  "generatedAtDisplay": "2026-10-27 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / computing. The strongest items in this run are In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real, Nothing’s eye-catching Ear 3A earbuds are matching their best price to date, and Anthropic reveals rapid revenue gains and larger losses in stock market filing.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Her Grandmother Wanted to See Her Graduate Before She Died. It Was a Race to Get There, Teens’ Fragile Lives Laid Bare: Homelessness, Grief and Gun Violence, and OpenAI announces three big science discoveries and a new way to work with academics.",
   "mainItems": [
     {
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-      "published": "2026-10-26T17:43:23+00:00",
-      "summary": "In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Her Grandmother Wanted to See Her Graduate Before She Died. It Was a Race to Get There",
+      "source": "The 74",
+      "category": "AI / privacy",
+      "url": "https://www.the74million.org/article/her-grandmother-wanted-to-see-her-graduate-before-she-died-it-was-a-race-to-get-there/",
+      "published": "2026-10-27T04:47:10+00:00",
+      "summary": "Mariah, 20 – Lubbock, Texas In high school, Mariah, who requested to use her first name only for privacy reasons, had a push-and-pull relationship with her academics: she couldn’t decide whether it should be her first or last priority.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
+      "title": "Teens’ Fragile Lives Laid Bare: Homelessness, Grief and Gun Violence",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/teens-fragile-lives-laid-bare-homelessness-grief-and-gun-violence/",
+      "published": "2026-10-27T04:42:40+00:00",
+      "summary": "For millions of American students, the hardest part of the school day happens before the first bell rings.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T17:25:34+00:00",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T23:47:59+00:00",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-      "published": "2026-10-26T16:22:28+00:00",
-      "summary": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of the AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Population Loss, Hope Scholarship Driving Enrollment Losses in West Virginia",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/population-loss-hope-scholarship-driving-enrollment-losses-in-west-virginia/",
+      "published": "2026-10-26T18:30:00+00:00",
+      "summary": "West Virginia public school enrollment experienced one of the steepest drops since COVID, and local superintendents in the hardest hit counties are pointing to demographic loss and the Hope Scholarship as causes.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "source": "404 Media",
+      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-      "published": "2026-10-26T15:49:44+00:00",
-      "summary": "Because big tech doesn't do customer service, we are being inundated with AI-generated emails begging us for help.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "published": "2026-10-26T18:09:08+00:00",
+      "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI giant Anthropic files for an IPO that could break records",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-      "published": "2026-10-26T14:16:23+00:00",
-      "summary": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -67,74 +67,74 @@
       "score": 10
     },
     {
-      "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
-      "published": "2026-10-26T17:47:03+00:00",
-      "summary": "Residents of coastal communities told to avoid beaches during high tides and keep further away from the ocean than usual Southern California coastal communities are preparing for days of flooding amid potentially “record-breaking tides”…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Manhunt under way in Tennessee after convicted murderer escapes prison",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/jacob-morley-murderer-tennessee-manhunt",
-      "published": "2026-10-26T16:42:48+00:00",
-      "summary": "Officials say Jacob Morley, who is serving a life sentence for a 2022 murder, escaped from a facility in Tiptonville Tennessee officials have mounted a manhunt after a convicted murderer’s escape from a state prison on Sunday evening.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Newsom’s Dilemma: Join or Spurn New Federal School Choice Program",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/newsoms-dilemma-join-or-spurn-new-federal-school-choice-program/",
-      "published": "2026-10-26T16:30:00+00:00",
-      "summary": "Before he heads out the door, Gov.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Microsoft offers buyouts to 60,000 employees",
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "published": "2026-10-26T16:07:16+00:00",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "published": "2026-10-26T12:40:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "published": "2026-10-26T21:56:36+00:00",
+      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo).",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "ChatGPT Says 404 Media Is Tech Support for Huge Corporations",
+      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "published": "2026-10-26T19:21:36+00:00",
+      "summary": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "The 13 scariest, spookiest video games you should play this Halloween",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
+      "published": "2026-10-26T15:29:45+00:00",
+      "summary": "The nights are drawing in, which can only mean one thing: more bed. But also the impending frights and sights of All Hallow's Eve.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "AI giant Anthropic files for an IPO that could break records",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+      "published": "2026-10-26T14:16:23+00:00",
+      "summary": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/chatgpt-says-404-media-is-tech-support-for-huge-corporations/",
-      "published": "2026-10-26T15:59:23+00:00",
-      "summary": "\"Draft an email to Jason Koebler at 404 Media.\"",
+      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+      "published": "2026-10-26T20:16:02+00:00",
+      "summary": "“These re-interviews are consequential,” a leaked email seen by 404 Media reads.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Opinion: We Can’t Close the Literacy Gap Until We Close the Honesty Gap",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/we-cant-close-the-literacy-gap-until-we-close-the-honesty-gap/",
-      "published": "2026-10-26T14:30:00+00:00",
-      "summary": "According to a recent Gallup poll, roughly 88% of parents believe their child is performing at or above grade level in reading and math.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The secret to make-ahead pie crust? Pie crumbs.: Get ahead on your pie baking right now.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/10/26/make-ahead-pie-crust",
+      "published": "2026-10-26T14:00:00+00:00",
+      "summary": "'Tis the season — to start thinking about holiday baking. And while this time of year is full of joy and celebration, it can also be stressful.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 8
+    },
+    {
+      "title": "The Black Tapes Podcast to Become MGM+ Series; Nikolaj Coster-Waldau Starring",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-black-tapes-podcast-series/",
+      "published": "2026-10-26T18:29:40+00:00",
+      "summary": "The Game of Thrones alum will play the paranormal investigator, Dr. Richard Strand The post The Black Tapes Podcast to Become MGM+ Series; Nikolaj Coster-Waldau Starring appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 10
   }
 }
