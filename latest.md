@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-27T09:01:01.545850Z
+Generated: 2026-10-27T14:00:03.444428Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Her Grandmother Wanted to See Her Graduate Before She Died. It Was a Race to Get There, Teens’ Fragile Lives Laid Bare: Homelessness, Grief and Gun Violence, and OpenAI announces three big science discoveries and a new way to work with academics.
+Today's sweep leans toward Games / criticism, CS education / AI policy, AI / computing. The strongest items in this run are Apple is adding an AI chatbot to Pages, Keynote, and Numbers, Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter', and Opinion: To Build the Education Systems of the Future, Look to Indianapolis.
 
 ## Briefing
 
@@ -33,7 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Her Grandmother Wanted to See Her Graduate Before She Died. It Was a Race to Get There [10/10]
+### 1. Apple is adding an AI chatbot to Pages, Keynote, and Numbers [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers.
+
+Link: https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update
+
+### 2. Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter' [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.
+
+Link: https://www.404media.co/marissa-mayer-nyt-interview/
+
+### 3. Opinion: To Build the Education Systems of the Future, Look to Indianapolis [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+It’s easy to feel like America’s public education system is defined by stagnation and decline.
+
+Link: https://www.the74million.org/article/to-build-the-education-systems-of-the-future-look-to-indianapolis/
+
+### 4. Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Le Syndicat des Travailleureuses du Jeu Vidéo, a French game workers union, have released a statement detailing the current status of Don't Nod, the studio behind Life is Strange and Lost Records: Bloom and Rage .
+
+Link: https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state
+
+### 5. Silicon Valley parents want the tech they help build out of their children’s schools [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Both private and public schools in tech regions are limiting the use of tech in classrooms. But will low-income districts be able to follow suit? German Gil spends most of his waking hours looking at screens.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech
+
+### 6. Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Even with the importance of physical media ownership in the current era of digital product ephemera, it's often unlikely your PC will actually be able to play the CDs, DVDs or Blu-Rays you have around the house.
+
+Link: https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it
+
+### 7. Trump reopened an LGBTQ+ suicide hotline. But the department that runs it vows to ‘restore biological truth’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+While organizations celebrate the reinstatement of the ‘press 3’ option by Samsha, details about rollout and training counselors remain secret For nearly three years, counselors through the 988 Suicide & Crisis Lifeline for LGBTQ+…
+
+Link: https://www.theguardian.com/world/2026/oct/27/trump-reinstate-lgbtq-youth-suicide-lifeline
+
+### 8. AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Recently, I was writing a piece about Nighthawks and wanted to remind myself of some basic information about the companion characters.
+
+Link: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture
+
+### 9. These four elections could change the world in 10 days – Stateside with Kai and Carter [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Benjamin Netanyahu is in the fight of his political life.
+
+Link: https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter
+
+### 10. ‘My social life completely plummeted’: gen Z is fighting back against big tech [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined…
+
+Link: https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps
+
+### 11. Her Grandmother Wanted to See Her Graduate Before She Died. It Was a Race to Get There [10/10]
 **Source:** The 74  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,70 +132,7 @@ Mariah, 20 – Lubbock, Texas In high school, Mariah, who requested to use her f
 
 Link: https://www.the74million.org/article/her-grandmother-wanted-to-see-her-graduate-before-she-died-it-was-a-race-to-get-there/
 
-### 2. Teens’ Fragile Lives Laid Bare: Homelessness, Grief and Gun Violence [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-For millions of American students, the hardest part of the school day happens before the first bell rings.
-
-Link: https://www.the74million.org/article/teens-fragile-lives-laid-bare-homelessness-grief-and-gun-violence/
-
-### 3. OpenAI announces three big science discoveries and a new way to work with academics [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math, computer science, and physics.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics
-
-### 4. The Pressure to Accomplish Meant Giving up Important Moments of His Youth [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Damien, 23 – Worcester, Massachusetts At 23, Damien Fox had already become a director of nursing at a long-term care facility with more than eight years of experience already behind him.
-
-Link: https://www.the74million.org/article/the-pressure-to-accomplish-meant-giving-up-important-moments-of-his-youth/
-
-### 5. From Skipped Classes to Homelessness, Losing A Parent Derailed Her High School Years [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Brook, 19 – Yakima, Washington For Brook, being homeless didn’t just happen once. It was something she experienced four times as a teenager, each time after a massive life change.
-
-Link: https://www.the74million.org/article/from-skipped-classes-to-homelessness-losing-a-parent-derailed-her-high-school-years/
-
-### 6. At the Top of Her Class With Big Aspirations, She Sacrificed It All for Her Family [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lena, 23 – Rome, Georgia For as long as Lena Garcia-Perez can remember her Rome, Georgia, home was full of loud music, yelling voices, dancing and laughter, with the familiar hum of the laundry running or something frying or boiling in the…
-
-Link: https://www.the74million.org/article/at-the-top-of-her-class-with-big-aspirations-she-sacrificed-it-all-for-her-family/
-
-### 7. Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50 [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo).
-
-Link: https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale
-
-### 8. The 13 scariest, spookiest video games you should play this Halloween [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The nights are drawing in, which can only mean one thing: more bed. But also the impending frights and sights of All Hallow's Eve.
-
-Link: https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween
-
-### 9. AI giant Anthropic files for an IPO that could break records [9/10]
+### 12. AI giant Anthropic files for an IPO that could break records [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -114,43 +141,25 @@ The AI company, which makes the popular Claude chatbot, has filed for an initial
 
 Link: https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records
 
-### 10. Israel election live: polls open in most consequential vote in country’s history [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel , voting is now under way.
-
-Link: https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates
-
-### 11. Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-“These re-interviews are consequential,” a leaked email seen by 404 Media reads.
-
-Link: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/
-
-### 12. The secret to make-ahead pie crust? Pie crumbs.: Get ahead on your pie baking right now. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-'Tis the season — to start thinking about holiday baking. And while this time of year is full of joy and celebration, it can also be stressful.
-
-Link: https://www.kingarthurbaking.com/blog/2026/10/26/make-ahead-pie-crust
-
-### 13. The Black Tapes Podcast to Become MGM+ Series; Nikolaj Coster-Waldau Starring [7/10]
+### 13. Revealing The Kingdom of Rising Nightmares by Michelle Kulwicki [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The Game of Thrones alum will play the paranormal investigator, Dr. Richard Strand The post The Black Tapes Podcast to Become MGM+ Series; Nikolaj Coster-Waldau Starring appeared first on Reactor .
+Book 2 of the Labyrinth's End duology, arriving March 2027 The post Revealing The Kingdom of Rising Nightmares by Michelle Kulwicki appeared first on Reactor .
 
-Link: https://reactormag.com/the-black-tapes-podcast-series/
+Link: https://reactormag.com/cover-reveal-the-kingdom-of-rising-nightmares-by-michelle-kulwicki/
 
 ## YouTube
+
+### An unconventional crop of Democratic candidates see an opening in Western Montana [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+​Voters are angry, and an unconventional crop of Democratic candidates see an opening in this year's midterms to reclaim territory others in the party have given up on.
+
+Link: https://www.youtube.com/watch?v=485wByA8-k4
 
 ### Is it affordable to raise children in America? | Voter Voices [8/10]
 **Creator:** NPR  
@@ -215,15 +224,6 @@ Astronomers think Vincent Van Gogh's “The Starry Night” was based on a real 
 
 Link: https://www.youtube.com/watch?v=u3yj_Qi1L94
 
-### Marine life still hasn't recovered from 2010 BP oil spill in Gulf of Mexico [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-A new study has found that sea life in the Gulf of Mexico declined dramatically after the Deepwater Horizon oil spill in 2010. Researchers say the BP oil spill is the most likely cause of a 63.
-
-Link: https://www.youtube.com/watch?v=bwKOCJ9j69k
-
 ### If GTA 6 Took Eight Years To Make, How Long Will GTA 7 Take? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -269,9 +269,9 @@ Link: https://www.youtube.com/watch?v=drKjJ7NFtCM
 
 Link: https://www.youtube.com/watch?v=se949-J_6iw
 
-### Jesse, JM8, and Eric Try to Survive Dead by Daylight [7/10]
+### Jesse, JM8, and Eric Try to Survive Dead by Daylight [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, the crew plays Dead by Daylight -- https://store.steampowered.com/app/381210/Dead_by_Daylight/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -567,6 +567,15 @@ Link: https://www.youtube.com/watch?v=V7qdKH-USL8
 No matter who you are, there’s always "Room for Everyone". Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=udtQNFoP9EY
+
+### Way of the Warrior Kid — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Every kid needs someone in their corner. Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=R1ECMLrwDYQ
 
 ### Dark Matter — MacNamara's Trip | Season 2 Episode 9 Ending Scene | Apple TV [10/10]
 **Source:** Apple TV  
