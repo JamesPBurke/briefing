@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-27T18:00:52.945691Z
+Generated: 2026-10-28T05:00:02.499509Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump travels to Texas to support Ken Paxton as another state official endorses James Talarico – live, DeepMind unveils Genie 4 world model promising more realistic physics and humans, and Trump-appointed CDC deputy director to resign after six months on the job.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Federal judge disqualifies Trump-appointed prosecutor for ‘unlawfully serving’ in role, Trump says government to ‘terminate’ Biden-era methane emissions rules, and ‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers.
 
 ## Briefing
 
@@ -33,88 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump travels to Texas to support Ken Paxton as another state official endorses James Talarico – live [10/10]
+### 1. Federal judge disqualifies Trump-appointed prosecutor for ‘unlawfully serving’ in role [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President says he will respect midterm election results ‘if they’re honest’; Texas chief justice of supreme court endorses Democrat James Talarico in Senate race Sign up for the Breaking News US email US voters: tell us what issues will…
+Bill Essayli, a former GOP lawmaker and ally of president, has not been confirmed by the Senate in his role A US judge ruled on Tuesday that Bill Essayli, the top federal prosecutor in southern California, was “unlawfully serving” as the…
 
-Link: https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role
 
-### 2. DeepMind unveils Genie 4 world model promising more realistic physics and humans [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
-
-Link: https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/
-
-### 3. Trump-appointed CDC deputy director to resign after six months on the job [10/10]
+### 2. Trump says government to ‘terminate’ Biden-era methane emissions rules [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months…
+Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for…
 
-Link: https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford
+Link: https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas
 
-### 4. Google’s next Genie AI model generates more realistic experiences [10/10]
+### 3. ‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year,…
+
+Link: https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing
+
+### 4. Researchers are getting tired of OpenAI gatekeeping its breakthroughs [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google announced today its Genie 4 world model for generating interactive experiences using AI.
+On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.
 
-Link: https://www.theverge.com/tech/1019076/google-genie-4-ai-model
+Link: https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics
 
-### 5. Supreme Court to Weigh Discrimination Against Asian Students at K-12 Schools [10/10]
-**Source:** The 74  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 5. UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-In early 2024, the Supreme Court declined to hear a lawsuit over a northern Virginia district’s efforts to create more diversity at its top-ranked, selective high school. Justices Samuel Alito and Clarence Thomas dissented.
+November is potentially going to be big for Rockstar Games, and not just because of that GTA 6 thing they're doing.
 
-Link: https://www.the74million.org/article/supreme-court-to-weigh-discrimination-against-asian-students-at-k-12-schools/
+Link: https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month
 
-### 6. Man serving life sentence for murder escapes Tennessee prison, slipping through fence, officials say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Security footage shows Jacob Morley escaping in his prison uniform, investigators describe Sign up for the Breaking News US newsletter email Tennessee authorities on Tuesday were still searching for a convicted murderer who, investigators…
-
-Link: https://www.theguardian.com/us-news/2026/oct/27/prison-escape-tennessee-fence
-
-### 7. Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter' [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.
-
-Link: https://www.404media.co/marissa-mayer-nyt-interview/
-
-### 8. Opinion: To Build the Education Systems of the Future, Look to Indianapolis [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-It’s easy to feel like America’s public education system is defined by stagnation and decline.
-
-Link: https://www.the74million.org/article/to-build-the-education-systems-of-the-future-look-to-indianapolis/
-
-### 9. Silicon Valley parents want the tech they help build out of their children’s schools [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Both private and public schools in tech regions are limiting the use of tech in classrooms. But will low-income districts be able to follow suit? German Gil spends most of his waking hours looking at screens.
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech
-
-### 10. The US urgently needs more bilingual healthcare workers. This clinic might have the solution [10/10]
+### 6. The US urgently needs more bilingual healthcare workers. This clinic might have the solution [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -123,14 +87,50 @@ In New Mexico, where a shortage is acute, Casa de Salud trains college and high-
 
 Link: https://www.theguardian.com/us-news/2026/oct/27/bilingual-healthcare-workers-us-casa-de-salud
 
-### 11. How solid-state transformers could help power the AI boom [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. Final Dune: Part 3 Trailer Confirms Timothée Chalamet Is the Oppressor [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply.
+Muad’Dib isn’t such a great guy anymore! The post Final Dune: Part 3 Trailer Confirms Timothée Chalamet Is the Oppressor appeared first on Reactor .
 
-Link: https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/
+Link: https://reactormag.com/final-dune-part-3-trailer/
+
+### 8. Elizabeth Holmes mania: how the buzziest film of the year has resurrected a gut-twisting TV drama [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The Theranos fraudster is the subject of Nathan Fielder’s mind-bending You Can See Everything documentary.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout
+
+### 9. Supreme Court to Weigh Discrimination Against Asian Students at K-12 Schools [9/10]
+**Source:** The 74  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+In early 2024, the Supreme Court declined to hear a lawsuit over a northern Virginia district’s efforts to create more diversity at its top-ranked, selective high school. Justices Samuel Alito and Clarence Thomas dissented.
+
+Link: https://www.the74million.org/article/supreme-court-to-weigh-discrimination-against-asian-students-at-k-12-schools/
+
+### 10. Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter' [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.
+
+Link: https://www.404media.co/marissa-mayer-nyt-interview/
+
+### 11. Opinion: To Build the Education Systems of the Future, Look to Indianapolis [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+It’s easy to feel like America’s public education system is defined by stagnation and decline.
+
+Link: https://www.the74million.org/article/to-build-the-education-systems-of-the-future-look-to-indianapolis/
 
 ### 12. A 'Green Army' is out to thwart El Niño flooding [8/10]
 **Source:** NPR Health  
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-
 The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.
 
 Link: https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
