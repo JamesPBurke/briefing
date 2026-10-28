@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-28T09:00:45.120312Z
+Generated: 2026-10-28T14:00:03.147861Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Israel election results live: vote count continues as exit polls suggest no clear winner, New teachers union president wants to steer educators away from partisan politics, and A moment that changed me: I was always a pushover – until I stood up to some teenagers.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Inside Amazon’s Echo hardware event, Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live, and Everything announced at Amazon’s October 2026 hardware launch.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Israel election results live: vote count continues as exit polls suggest no clear winner [10/10]
+### 1. Inside Amazon’s Echo hardware event [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October.
+
+Link: https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event
+
+### 2. Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot…
+Department of Justice says it intends to appeal as administration tries to keep president’s ally Bill Essayli in office Sign up for the Breaking News US email Senator Lisa Murkowski, a Republican Senator from Alaska, has broken with her…
 
-Link: https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news
+Link: https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest
 
-### 2. New teachers union president wants to steer educators away from partisan politics [10/10]
-**Source:** NPR Education  
+### 3. Everything announced at Amazon’s October 2026 hardware launch [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February.
+
+Link: https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch
+
+### 4. ‘Ring Boys’ Case Against Linda McMahon Proceeds as She Probes School Staff Abuse [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Under Education Secretary Linda McMahon, the Department of Education has adopted an aggressive position against school districts accused of not properly handling staff-on-student sexual misconduct.
+
+Link: https://www.the74million.org/article/ring-boys-case-against-linda-mcmahon-proceeds-as-she-probes-school-staff-abuse/
+
+### 5. "We basically rewrote the entire State of Decay game": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+State of Decay 3 was announced with a snazzy cinematic trailer all the way back in 2020 . The open-world zombie game was due to move to colder climes, where you would face undead deer and survive the frigid elements.
+
+Link: https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo
+
+### 6. The Download: dead startups fueling AI and interspecies communication [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/
+
+### 7. Teachers Unions Back School Funding Measures, Governor Candidates in Midterms [10/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The new president, Princess Moss, of the largest labor union in the country talks about the challenges facing educators this back to school season and the next steps for NEA.
+As the American Federation of Teachers finishes an election tour in battleground areas, many local affiliates’ biggest bets are on state ballots, including school funding measures and governor’s races.
 
-Link: https://www.npr.org/2026/10/28/nx-s1-5953069/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics
+Link: https://www.the74million.org/article/teachers-unions-back-school-funding-measures-governor-candidates-in-midterms/
 
-### 3. A moment that changed me: I was always a pushover – until I stood up to some teenagers [10/10]
+### 8. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-On the eve of my 40th birthday, I was doused with cold water at a train station. Before, I would have shrugged it off.
+Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers
+Link: https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi
 
-### 4. ‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish.
-
-Link: https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close
-
-### 5. ‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year,…
-
-Link: https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing
-
-### 6. Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI? [10/10]
+### 9. Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker [9/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-You might want to hold off on that horny posting in your favourite discoverable Discord server.
+When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush.
 
-Link: https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai
+Link: https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker
 
-### 7. The shocking rise of rib remodelling: ‘I wanted that hourglass shape’ [9/10]
+### 10. The shocking rise of rib remodelling: ‘I wanted that hourglass shape’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,25 +123,7 @@ It involves the fracturing of a patient’s ribs, before they spend three months
 
 Link: https://www.theguardian.com/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape
 
-### 8. Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-None of us have any bloody time any more, do we? The economy being in the toilet is obviously part of that, but the other part is that we're all adults and now we have to do responsible adult things like our laundry, and buying toilet…
-
-Link: https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day
-
-### 9. Researchers are getting tired of OpenAI gatekeeping its breakthroughs [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics
-
-### 10. Final Dune: Part 3 Trailer Confirms Timothée Chalamet Is the Oppressor [9/10]
+### 11. Final Dune: Part 3 Trailer Confirms Timothée Chalamet Is the Oppressor [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,38 +132,29 @@ Muad’Dib isn’t such a great guy anymore! The post Final Dune: Part 3 Trailer
 
 Link: https://reactormag.com/final-dune-part-3-trailer/
 
-### 11. Supreme Court to Weigh Discrimination Against Asian Students at K-12 Schools [9/10]
-**Source:** The 74  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-In early 2024, the Supreme Court declined to hear a lawsuit over a northern Virginia district’s efforts to create more diversity at its top-ranked, selective high school. Justices Samuel Alito and Clarence Thomas dissented.
-
-Link: https://www.the74million.org/article/supreme-court-to-weigh-discrimination-against-asian-students-at-k-12-schools/
-
-### 12. Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter' [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.
-
-Link: https://www.404media.co/marissa-mayer-nyt-interview/
-
-### 13. A 'Green Army' is out to thwart El Niño flooding [8/10]
+### 12. Are you an organ donor? Here are some rule changes you may want to know [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-In Nairobi, a city prone to floods, workers in the "Green Army" are making preparations to prevent disaster when El Niño arrives.
+Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.
 
-Link: https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army
+Link: https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk
+
+### 13. How a lifelong Republican came to lead the data center battle in Ohio [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
+
+Link: https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio
 
 ## YouTube
 
-### The Legend of Herobrine [8/10]
+### The Legend of Herobrine [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Anthropologist Tok Thompson joins WIRED to answer the internet’s burning questions about ghost stories and folklore.
@@ -170,18 +170,27 @@ Anthropologist Tok Thompson joins WIRED to answer the internet’s burning quest
 
 Link: https://www.youtube.com/watch?v=EeAk1X-iwo8
 
-### What qualities are you looking for in the next president? | Voter Voices [8/10]
+### What are you looking for in the next president? | Voter Voices [9/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+We asked voters across the country: What qualities are you looking for in the next president? Producers: Keren Carrion/NPR, Catie Dull/NPR, Mito Habe-Evans/NPR, Katie Hayes Luke for NPR, Razi Jafri/NPR, Katy McAfee/KUT, Clayton…
+
+Link: https://www.youtube.com/watch?v=FMAHPlNQDzU
+
+### What qualities are you looking for in the next president? | Voter Voices [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 We asked voters across the country: What qualities are you looking for in the next president?
 
 Link: https://www.youtube.com/watch?v=-hVdynKWfmE
 
-### Israelis have been voting in an election that many see as critical to their country's future [7/10]
+### Israelis have been voting in an election that many see as critical to their country's future [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Israelis have been voting in an election that many see as critical to their country's future. NPR's Ruth Sherlock reports from a polling station near Tel Aviv.⁠
@@ -223,15 +232,6 @@ Link: https://www.youtube.com/watch?v=mfBVIrBfjv8
 ​Voters are angry, and an unconventional crop of Democratic candidates see an opening in this year's midterms to reclaim territory others in the party have given up on.
 
 Link: https://www.youtube.com/watch?v=485wByA8-k4
-
-### Is it affordable to raise children in America? | Voter Voices [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-How much does cost-of-living factor into the decision to have a child — and is government policy helping families? Voters we spoke to named federal and local programs that make them optimistic, but overwhelmingly, many of these…
-
-Link: https://www.youtube.com/watch?v=6z3Kktoq4E4
 
 ### AMD Steps Up: FSR 4.1 Available For RDNA 2 + Handheld GPUs + Xbox Series Consoles! [8/10]
 **Creator:** Digital Foundry  
@@ -352,6 +352,15 @@ Link: https://www.youtube.com/watch?v=2v8DMZB0vKE
 
 ## Trailers / Previews
 
+### JUMANJI: OPEN WORLD - New Trailer (4K) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
+
 ### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -451,6 +460,15 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### Instadocs: Jane Doe v. Cornell | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The explosive lawsuit brought by Jane Doe against Cornell University has sparked vocal protests on campus and visceral backlash online. INSTADOCS: JANE DOE v.
+
+Link: https://www.youtube.com/watch?v=gAIhw9wCb5c
+
 ### Allen | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -549,15 +567,6 @@ Link: https://www.youtube.com/watch?v=SNT1RdgFn-E
 Outwit. Outplay. Outshop. Win The Mall — a new high-stakes reality competition series — premieres November 18. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=9_6q8Za1Zv8
-
-### Win the Mall | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Part shopping spree, part social strategy, this high-gloss reality competition drops players into a living mall where they’ll fight to outshop, outsmart, and outlast one another — and only one will walk away with the keys to the ultimate…
-
-Link: https://www.youtube.com/watch?v=dnNvYvYk9yQ
 
 ### Way of the Warrior Kid — Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  

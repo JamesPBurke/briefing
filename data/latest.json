@@ -1,70 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T09:00:45.120312Z",
-  "generatedAtDisplay": "2026-10-28 05:00 AM EDT",
+  "generatedAt": "2026-10-28T14:00:03.147861Z",
+  "generatedAtDisplay": "2026-10-28 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Israel election results live: vote count continues as exit polls suggest no clear winner, New teachers union president wants to steer educators away from partisan politics, and A moment that changed me: I was always a pushover – until I stood up to some teenagers.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Inside Amazon’s Echo hardware event, Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live, and Everything announced at Amazon’s October 2026 hardware launch.",
   "mainItems": [
     {
-      "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T08:47:25+00:00",
-      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Inside Amazon’s Echo hardware event",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+      "published": "2026-10-28T13:52:09+00:00",
+      "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New teachers union president wants to steer educators away from partisan politics",
-      "source": "NPR Education",
+      "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+      "published": "2026-10-28T13:44:09+00:00",
+      "summary": "Department of Justice says it intends to appeal as administration tries to keep president’s ally Bill Essayli in office Sign up for the Breaking News US email Senator Lisa Murkowski, a Republican Senator from Alaska, has broken with her…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Everything announced at Amazon’s October 2026 hardware launch",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "published": "2026-10-28T13:00:41+00:00",
+      "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Ring Boys’ Case Against Linda McMahon Proceeds as She Probes School Staff Abuse",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/ring-boys-case-against-linda-mcmahon-proceeds-as-she-probes-school-staff-abuse/",
+      "published": "2026-10-28T12:30:00+00:00",
+      "summary": "Under Education Secretary Linda McMahon, the Department of Education has adopted an aggressive position against school districts accused of not properly handling staff-on-student sexual misconduct.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo",
+      "published": "2026-10-28T12:30:00+00:00",
+      "summary": "State of Decay 3 was announced with a snazzy cinematic trailer all the way back in 2020 . The open-world zombie game was due to move to colder climes, where you would face undead deer and survive the frigid elements.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "published": "2026-10-28T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Teachers Unions Back School Funding Measures, Governor Candidates in Midterms",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-5953069/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics",
-      "published": "2026-10-28T08:47:00+00:00",
-      "summary": "The new president, Princess Moss, of the largest labor union in the country talks about the challenges facing educators this back to school season and the next steps for NEA.",
+      "url": "https://www.the74million.org/article/teachers-unions-back-school-funding-measures-governor-candidates-in-midterms/",
+      "published": "2026-10-28T10:30:00+00:00",
+      "summary": "As the American Federation of Teachers finishes an election tour in battleground areas, many local affiliates’ biggest bets are on state ballots, including school funding measures and governor’s races.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "A moment that changed me: I was always a pushover – until I stood up to some teenagers",
+      "title": "‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers",
-      "published": "2026-10-28T06:30:01+00:00",
-      "summary": "On the eve of my 40th birthday, I was doused with cold water at a train station. Before, I would have shrugged it off.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+      "published": "2026-10-28T11:30:01+00:00",
+      "summary": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
-      "title": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close",
-      "published": "2026-10-28T05:00:53+00:00",
-      "summary": "Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
-      "published": "2026-10-27T23:25:50+00:00",
-      "summary": "Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
+      "title": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker",
       "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
-      "published": "2026-10-27T21:28:32+00:00",
-      "summary": "You might want to hold off on that horny posting in your favourite discoverable Discord server.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
     },
     {
       "title": "The shocking rise of rib remodelling: ‘I wanted that hourglass shape’",
@@ -74,26 +104,6 @@
       "published": "2026-10-28T05:00:54+00:00",
       "summary": "It involves the fracturing of a patient’s ribs, before they spend three months laced into a corset. Some of those who have had this cosmetic procedure say it is like being ‘hit by a bus’.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
-      "published": "2026-10-27T22:46:08+00:00",
-      "summary": "None of us have any bloody time any more, do we? The economy being in the toilet is obviously part of that, but the other part is that we're all adults and now we have to do responsible adult things like our laundry, and buying toilet…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "published": "2026-10-27T20:51:04+00:00",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -107,34 +117,24 @@
       "score": 9
     },
     {
-      "title": "Supreme Court to Weigh Discrimination Against Asian Students at K-12 Schools",
-      "source": "The 74",
-      "category": "AI / privacy",
-      "url": "https://www.the74million.org/article/supreme-court-to-weigh-discrimination-against-asian-students-at-k-12-schools/",
-      "published": "2026-10-27T14:30:00+00:00",
-      "summary": "In early 2024, the Supreme Court declined to hear a lawsuit over a northern Virginia district’s efforts to create more diversity at its top-ranked, selective high school. Justices Samuel Alito and Clarence Thomas dissented.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/marissa-mayer-nyt-interview/",
-      "published": "2026-10-27T13:08:07+00:00",
-      "summary": "The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "A 'Green Army' is out to thwart El Niño flooding",
+      "title": "Are you an organ donor? Here are some rule changes you may want to know",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-      "published": "2026-10-27T14:12:35+00:00",
-      "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+      "published": "2026-10-28T09:00:00+00:00",
+      "summary": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+      "published": "2026-10-28T09:00:00+00:00",
+      "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-10-27T21:20:03+00:00",
       "summary": "Anthropologist Tok Thompson joins WIRED to answer the internet’s burning questions about ghost stories and folklore.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Folklore Expert Answers Ghost Story Questions",
@@ -161,6 +161,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "What are you looking for in the next president? | Voter Voices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FMAHPlNQDzU",
+      "published": "2026-10-28T10:00:04+00:00",
+      "summary": "We asked voters across the country: What qualities are you looking for in the next president? Producers: Keren Carrion/NPR, Catie Dull/NPR, Mito Habe-Evans/NPR, Katie Hayes Luke for NPR, Razi Jafri/NPR, Katy McAfee/KUT, Clayton…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "What qualities are you looking for in the next president? | Voter Voices",
       "source": "NPR",
       "category": "News / analysis",
@@ -168,8 +179,8 @@
       "published": "2026-10-27T23:46:20+00:00",
       "summary": "We asked voters across the country: What qualities are you looking for in the next president?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Israelis have been voting in an election that many see as critical to their country's future",
@@ -179,8 +190,8 @@
       "published": "2026-10-27T23:46:03+00:00",
       "summary": "Israelis have been voting in an election that many see as critical to their country's future. NPR's Ruth Sherlock reports from a polling station near Tel Aviv.⁠",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Democrats favored to win the House, but the Senate's a toss-up",
@@ -225,17 +236,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is it affordable to raise children in America? | Voter Voices",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=6z3Kktoq4E4",
-      "published": "2026-10-26T21:00:25+00:00",
-      "summary": "How much does cost-of-living factor into the decision to have a child — and is government policy helping families? Voters we spoke to named federal and local programs that make them optimistic, but overwhelmingly, many of these…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
     },
     {
       "title": "AMD Steps Up: FSR 4.1 Available For RDNA 2 + Handheld GPUs + Xbox Series Consoles!",
@@ -349,6 +349,17 @@
     }
   ],
   "trailers": [
+    {
+      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+      "published": "2026-10-28T13:00:39+00:00",
+      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
     {
       "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
       "source": "Sony Pictures Entertainment",
@@ -471,6 +482,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Instadocs: Jane Doe v. Cornell | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gAIhw9wCb5c",
+      "published": "2026-10-28T13:00:00+00:00",
+      "summary": "The explosive lawsuit brought by Jane Doe against Cornell University has sparked vocal protests on campus and visceral backlash online. INSTADOCS: JANE DOE v.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Allen | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -589,17 +611,6 @@
       "summary": "Outwit. Outplay. Outshop. Win The Mall — a new high-stakes reality competition series — premieres November 18. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Win the Mall | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dnNvYvYk9yQ",
-      "published": "2026-10-22T16:00:00+00:00",
-      "summary": "Part shopping spree, part social strategy, this high-gloss reality competition drops players into a living mall where they’ll fight to outshop, outsmart, and outlast one another — and only one will walk away with the keys to the ultimate…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -759,7 +770,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 19,
-    "trailerCount": 27,
+    "trailerCount": 28,
     "sourceCount": 18
   }
 }
