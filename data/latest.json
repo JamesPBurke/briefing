@@ -1,109 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T18:00:52.191855Z",
-  "generatedAtDisplay": "2026-10-28 02:00 PM EDT",
+  "generatedAt": "2026-10-29T05:00:03.343772Z",
+  "generatedAtDisplay": "2026-10-29 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Israel election results live: Netanyahu bloc loses majority as most ballots counted, Opinion: NYC Schools Are Protected from ICE. Its Sidewalks Aren’t, and Racism needs to be understood as a global phenomenon – our humanity depends on it.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are ‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff, Adam Mosseri says negativity around AI is ‘going to get worse’, and A hacker stole more than 40,000 DHS employee records.",
   "mainItems": [
     {
-      "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
+      "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T17:36:10+00:00",
-      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: NYC Schools Are Protected from ICE. Its Sidewalks Aren’t",
-      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/nyc-schools-are-protected-from-ice-its-sidewalks-arent/",
-      "published": "2026-10-28T16:30:00+00:00",
-      "summary": "Earlier this month, a federal agent fired seven rounds into a car on a street in New York City’s Marble Hill neighborhood. A five-year-old boy sat in the back seat.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+      "published": "2026-10-29T02:12:23+00:00",
+      "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governor Barack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Racism needs to be understood as a global phenomenon – our humanity depends on it",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/28/racism-global-phenomenon-humanity",
-      "published": "2026-10-28T14:15:55+00:00",
-      "summary": "In order to eliminate global racism, we must dismantle the ideological architecture that allows it to thrive worldwide Around the world, racism is fueling a new wave of global unrest.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The pro-Trump prosecutor trying to stop California ballots from being counted",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney",
-      "published": "2026-10-28T14:00:04+00:00",
-      "summary": "Bill Essayli has launched a crusade against ‘voter fraud’, in his latest push to pursue Maga-aligned cases Since he was sworn in last year, Bill Essayli, the top US prosecutor in southern California, has devoted his office to Donald…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "published": "2026-10-28T13:39:01+00:00",
-      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Ring Boys’ Case Against Linda McMahon Proceeds as She Probes School Staff Abuse",
-      "source": "The 74",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "source": "The Verge",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/ring-boys-case-against-linda-mcmahon-proceeds-as-she-probes-school-staff-abuse/",
-      "published": "2026-10-28T12:30:00+00:00",
-      "summary": "Under Education Secretary Linda McMahon, the Department of Education has adopted an aggressive position against school districts accused of not properly handling staff-on-student sexual misconduct.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "published": "2026-10-28T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "published": "2026-10-28T22:01:10+00:00",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS).",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Teachers Unions Back School Funding Measures, Governor Candidates in Midterms",
-      "source": "The 74",
+      "title": "New teachers union president wants to steer educators away from partisan politics",
+      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/teachers-unions-back-school-funding-measures-governor-candidates-in-midterms/",
-      "published": "2026-10-28T10:30:00+00:00",
-      "summary": "As the American Federation of Teachers finishes an election tour in battleground areas, many local affiliates’ biggest bets are on state ballots, including school funding measures and governor’s races.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics",
+      "published": "2026-10-28T21:34:36+00:00",
+      "summary": "The new president of the nation's largest labor union, Princess Moss, talks about the challenges facing educators and the next steps for the National Education Association.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Apple announces its first touchscreen MacBook Pro",
+      "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "published": "2026-10-28T20:08:50+00:00",
+      "summary": "To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-      "published": "2026-10-28T17:36:27+00:00",
-      "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday.",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00+00:00",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+      "published": "2026-10-28T22:48:56+00:00",
+      "summary": "Lawmakers, activists and union leaders across the US remember the co-founder of United Farm Workers union Following the news that Dolores Huerta – the civil rights icon who popularized the rallying cry “Sí, se puede! – had died at the age…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Apple ‘Pro and Tell’ event: everything announced this week",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-      "published": "2026-10-28T17:28:50+00:00",
-      "summary": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
+      "source": "Eurogamer",
+      "category": "AI / privacy",
+      "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+      "published": "2026-10-28T14:03:01+00:00",
+      "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pokémon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infringement .",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -117,6 +97,16 @@
       "score": 8
     },
     {
+      "title": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
+    },
+    {
       "title": "Are you an organ donor? Here are some rule changes you may want to know",
       "source": "NPR Health",
       "category": "Science / health",
@@ -125,6 +115,16 @@
       "summary": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7)",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-last-of-this-silly-universe-h-g-wells-the-island-of-doctor-moreau-part-7/",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "The villain of the story is dead, but things are just getting worse... The post The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     },
     {
       "title": "How a lifelong Republican came to lead the data center battle in Ohio",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }
