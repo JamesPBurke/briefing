@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-29T09:00:43.813304Z
+Generated: 2026-10-29T14:00:02.094707Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Israel election results live: count of absentee ballots under way as coalition talks set to begin, The rise and fall of mid-century modern: how millennials fell out of love with their favourite look, and Adam Mosseri says negativity around AI is ‘going to get worse’.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are AI has come for Arizona’s water, This $149 digital candle uses AI to accurately simulate a flickering flame, and Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’.
 
 ## Briefing
 
@@ -33,43 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Israel election results live: count of absentee ballots under way as coalition talks set to begin [10/10]
-**Source:** The Guardian US  
+### 1. AI has come for Arizona’s water [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis:…
+A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.
+
+Link: https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc
+
+### 2. This $149 digital candle uses AI to accurately simulate a flickering flame [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid…
+
+Link: https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame
+
+### 3. Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin…
 
 Link: https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news
 
-### 2. The rise and fall of mid-century modern: how millennials fell out of love with their favourite look [10/10]
+### 4. Two Colorado college students found dead after going missing during hike [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Once coveted for its clean lines and timeless design, the functional furniture is no longer seen as cool.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/29/the-rise-and-fall-of-mid-century-modern-how-millennials-fell-out-of-love-with-their-favourite-look
-
-### 3. Adam Mosseri says negativity around AI is ‘going to get worse’ [10/10]
-**Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.
+Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend when heavy snowstorm hit Two Colorado college students have been found dead after going missing during a hiking trip in the Rocky Mountains last weekend when a…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity
+Link: https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike
 
-### 4. A hacker stole more than 40,000 DHS employee records [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 5. Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-A hacker stole a trove of personal information from the Department of Homeland Security (DHS).
+Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.
 
-Link: https://www.theverge.com/tech/1021528/ice-cbp-data-leak
+Link: https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/
 
-### 5. New teachers union president wants to steer educators away from partisan politics [10/10]
+### 6. Computerized clairvoyance: psychics push back against AI-generated readings [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me.
+
+Link: https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings
+
+### 7. We urgently need to monitor AI agents’ actions in real time [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.
+
+Link: https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
+
+### 8. FTC orders Delta, Uber and others to hand over data on algorithmic pricing [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and retailers divulge how…
+
+Link: https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing
+
+### 9. Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A mutilated man stares at you, his single piercing eye following as you move around the room. His filthy bandages hide a ruined face, raw lips circling disturbingly perfect teeth, and his moans echo through the halls.
+
+Link: https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing
+
+### 10. New teachers union president wants to steer educators away from partisan politics [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,68 +123,23 @@ The new president of the nation's largest labor union, Princess Moss, talks abou
 
 Link: https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics
 
-### 6. Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity.
-
-Link: https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
-
-### 7. I set up a free school for Afghan girls – and the Taliban blindfolded me and broke my nose and jaw [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-When Basir Arian was summoned to the Taliban headquarters, he knew he had to go. To defy them meant death.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/29/i-set-up-a-free-school-for-afghan-girls-and-the-taliban-blindfolded-me-and-broke-my-nose-and-jaw
-
-### 8. Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: "Our engineers are no longer writing the bulk of the code" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6.
-
-Link: https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code
-
-### 9. Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo [9/10]
-**Source:** Eurogamer  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pokémon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infringement .
-
-Link: https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo
-
-### 10. New blood test can detect changes associated with Alzheimer's disease [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Brain changes associated with Alzheimer's disease can be detected by a new type of blood test -- and a growing number of patients are asking their doctors about it.
-
-Link: https://www.npr.org/2026/10/29/nx-s1-6019546/new-blood-test-can-detect-changes-associated-with-alzheimers-disease
-
-### 11. Objection, your honor [8/10]
+### 11. Senators Demand Meta Answer for 'Pervert Glasses' Following 404 Media Investigation [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-If you're in the EU or UK, you might be able to object to Meta's new AI scraping terms. Also: this week's pod's out and more from around the web.
+"Meta’s smart glasses have increasingly been implicated in disturbing invasions of users’ and bystanders’ privacy," a letter sent to Meta from Ron Wyden and Edward Markey says.
 
-Link: https://www.404media.co/objection-your-honor/
+Link: https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/
 
-### 12. Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 12. Ahead of midterms, Missourians defend transgender healthcare [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush.
+The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.
 
-Link: https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker
+Link: https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender
 
 ### 13. The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) [7/10]
 **Source:** Reactor  
@@ -170,9 +170,9 @@ Two PHP Exploits hit the news last week. Dr Steve Bagley explains how dangerous 
 
 Link: https://www.youtube.com/watch?v=cI8IquVEyVY
 
-### Ex-FBI Agent Dispels Common Body Language Myths [8/10]
+### Ex-FBI Agent Dispels Common Body Language Myths [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally.
@@ -314,18 +314,18 @@ Link: https://www.youtube.com/watch?v=3bKpmqNGPRU
 
 Link: https://www.youtube.com/watch?v=c7QG4u0QHOQ
 
-### Hopping Back Into Gears of War: E-Day Co-op w/ KC and Marty - Part 2 [7/10]
+### Hopping Back Into Gears of War: E-Day Co-op w/ KC and Marty - Part 2 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=Lp29I7h1sQY
 
-### Yahtzee Tries... Paperhead and Truckful [7/10]
+### Yahtzee Tries... Paperhead and Truckful [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try Paperhead and Truckful. https://store.steampowered.com/app/2680280/PAPERHEAD/ https://store.steampowered.
@@ -514,6 +514,15 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### Tyson Fury | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Discover the man beneath the Fury in this feature length documentary from Lucy Wilcox. With exclusive access to Paris, Tyson and John Fury, this film charts the rise, fall and redemption of the one and only Gypsy King.
+
+Link: https://www.youtube.com/watch?v=jb01qWUn62A
+
 ### Toos: The Van der Valk Kidnapping | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -612,15 +621,6 @@ Link: https://www.youtube.com/watch?v=6uYK78T3r1A
 Rumi, Mira, and Zoey rehearse the official choreography for “How It’s Done.” Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=P4oHfZmRth8
-
-### Hollywood Arts | Pink Pony Club | Music Video | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Saddle up for Hollywood Arts’ cover of “Pink Pony Club”. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=Lr4C5n7FFaM
 
 ### Scariest Must-See Moments | Full Scenes | Apple TV [10/10]
 **Source:** Apple TV  
