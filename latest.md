@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-29T05:00:03.343772Z
+Generated: 2026-10-29T09:00:43.813304Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are ‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff, Adam Mosseri says negativity around AI is ‘going to get worse’, and A hacker stole more than 40,000 DHS employee records.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Israel election results live: count of absentee ballots under way as coalition talks set to begin, The rise and fall of mid-century modern: how millennials fell out of love with their favourite look, and Adam Mosseri says negativity around AI is ‘going to get worse’.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff [10/10]
+### 1. Israel election results live: count of absentee ballots under way as coalition talks set to begin [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governor Barack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final…
+With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis:…
 
-Link: https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff
+Link: https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news
 
-### 2. Adam Mosseri says negativity around AI is ‘going to get worse’ [10/10]
+### 2. The rise and fall of mid-century modern: how millennials fell out of love with their favourite look [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Once coveted for its clean lines and timeless design, the functional furniture is no longer seen as cool.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/oct/29/the-rise-and-fall-of-mid-century-modern-how-millennials-fell-out-of-love-with-their-favourite-look
+
+### 3. Adam Mosseri says negativity around AI is ‘going to get worse’ [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -51,7 +60,7 @@ Asked about AI and the trend of college students booing tech CEOs at graduation 
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity
 
-### 3. A hacker stole more than 40,000 DHS employee records [10/10]
+### 4. A hacker stole more than 40,000 DHS employee records [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +69,7 @@ A hacker stole a trove of personal information from the Department of Homeland S
 
 Link: https://www.theverge.com/tech/1021528/ice-cbp-data-leak
 
-### 4. New teachers union president wants to steer educators away from partisan politics [10/10]
+### 5. New teachers union president wants to steer educators away from partisan politics [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -68,15 +77,6 @@ Link: https://www.theverge.com/tech/1021528/ice-cbp-data-leak
 The new president of the nation's largest labor union, Princess Moss, talks about the challenges facing educators and the next steps for the National Education Association.
 
 Link: https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics
-
-### 5. Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: "Our engineers are no longer writing the bulk of the code" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6.
-
-Link: https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code
 
 ### 6. Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity [10/10]
 **Source:** The Verge  
@@ -87,16 +87,25 @@ Google has released its latest frontier model, Gemini 4 Carbon, offering "signif
 
 Link: https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
 
-### 7. Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’ [9/10]
+### 7. I set up a free school for Afghan girls – and the Taliban blindfolded me and broke my nose and jaw [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Lawmakers, activists and union leaders across the US remember the co-founder of United Farm Workers union Following the news that Dolores Huerta – the civil rights icon who popularized the rallying cry “Sí, se puede! – had died at the age…
+When Basir Arian was summoned to the Taliban headquarters, he knew he had to go. To defy them meant death.
 
-Link: https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes
+Link: https://www.theguardian.com/lifeandstyle/2026/oct/29/i-set-up-a-free-school-for-afghan-girls-and-the-taliban-blindfolded-me-and-broke-my-nose-and-jaw
 
-### 8. Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo [9/10]
+### 8. Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: "Our engineers are no longer writing the bulk of the code" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6.
+
+Link: https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code
+
+### 9. Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo [9/10]
 **Source:** Eurogamer  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -105,7 +114,16 @@ Palworld , the survival crafting game featuring adorable animals seemingly inspi
 
 Link: https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo
 
-### 9. Objection, your honor [8/10]
+### 10. New blood test can detect changes associated with Alzheimer's disease [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Brain changes associated with Alzheimer's disease can be detected by a new type of blood test -- and a growing number of patients are asking their doctors about it.
+
+Link: https://www.npr.org/2026/10/29/nx-s1-6019546/new-blood-test-can-detect-changes-associated-with-alzheimers-disease
+
+### 11. Objection, your honor [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,7 +132,7 @@ If you're in the EU or UK, you might be able to object to Meta's new AI scraping
 
 Link: https://www.404media.co/objection-your-honor/
 
-### 10. Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker [8/10]
+### 12. Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -123,16 +141,7 @@ When Edwin talked about Moon Sweepers yesterday he focused on the artisanal appr
 
 Link: https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker
 
-### 11. Are you an organ donor? Here are some rule changes you may want to know [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.
-
-Link: https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk
-
-### 12. The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) [7/10]
+### 13. The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,18 +150,223 @@ The villain of the story is dead, but things are just getting worse... The post 
 
 Link: https://reactormag.com/the-last-of-this-silly-universe-h-g-wells-the-island-of-doctor-moreau-part-7/
 
-### 13. How a lifelong Republican came to lead the data center battle in Ohio [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
-
-Link: https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio
-
 ## YouTube
 
-_No YouTube picks in this briefing._
+### DeepSeek's New AI Is An Absolute Monster [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.
+
+Link: https://www.youtube.com/watch?v=pryCaGv8wuo
+
+### ?PHP Problem? - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Two PHP Exploits hit the news last week. Dr Steve Bagley explains how dangerous they could be. Read about the chip competition on Jane Street’s blog: https://jane-st.
+
+Link: https://www.youtube.com/watch?v=cI8IquVEyVY
+
+### Ex-FBI Agent Dispels Common Body Language Myths [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally.
+
+Link: https://www.youtube.com/watch?v=TQy7UBIQ8JY
+
+### Ethan Hawke & Betty Gilpin Answer The Web’s Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Ethan Hawke visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=yFWBqZQhZh4
+
+### The Legend of Herobrine [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Anthropologist Tok Thompson joins WIRED to answer the internet’s burning questions about ghost stories and folklore.
+
+Link: https://www.youtube.com/watch?v=o5-cHsfdHQ0
+
+### Folklore Expert Answers Ghost Story Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Anthropologist Tok Thompson joins WIRED to answer the internet’s burning questions about ghost stories and folklore.
+
+Link: https://www.youtube.com/watch?v=EeAk1X-iwo8
+
+### Journalist Calum Marsh studies the rise of CrossFit under its former CEO [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Journalist Calum Marsh studies the rise of CrossFit under its former CEO Greg Glassman in his new book “The Glass Box: The Shocking True Story of How CrossFit Broke the Rules, Made Millions, and Changed Fitness Forever.
+
+Link: https://www.youtube.com/watch?v=9DkDJxpeUfw
+
+### At least 64 killed in collision between trains in Spain [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Spanish authorities are reporting dozens of people are dead after a high-speed train collision south of Madrid, Spain. The collision took place minutes before 9 a.m.
+
+Link: https://www.youtube.com/watch?v=Qt3mMf6FuX8
+
+### What are you looking for in the next president? | Voter Voices [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+We asked voters across the country: What qualities are you looking for in the next president? Producers: Keren Carrion/NPR, Catie Dull/NPR, Mito Habe-Evans/NPR, Katie Hayes Luke for NPR, Razi Jafri/NPR, Katy McAfee/KUT, Clayton…
+
+Link: https://www.youtube.com/watch?v=FMAHPlNQDzU
+
+### What qualities are you looking for in the next president? | Voter Voices [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+We asked voters across the country: What qualities are you looking for in the next president?
+
+Link: https://www.youtube.com/watch?v=-hVdynKWfmE
+
+### Israelis have been voting in an election that many see as critical to their country's future [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Israelis have been voting in an election that many see as critical to their country's future. NPR's Ruth Sherlock reports from a polling station near Tel Aviv.⁠
+
+Link: https://www.youtube.com/watch?v=ONo9ySP4iCg
+
+### Democrats favored to win the House, but the Senate's a toss-up [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+The midterm election is a week from today, although early voting has been underway.⁠ ⁠ A new NPR/PBS News/Marist poll finds that, among “likely voters,” Democrats have an 8-point advantage on the congressional ballot.
+
+Link: https://www.youtube.com/watch?v=viGndx3aMDk
+
+### 2026 midterms become the most expensive election ad cycle ever [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+If you feel like you’ve seen too many campaign ads this midterm election cycle, there are billions of reasons why. According to AdImpact, this has officially become the most expensive election cycle ever, when it comes to campaign ads.
+
+Link: https://www.youtube.com/watch?v=cUmv7iNnXhQ
+
+### Sony's Frame Gen Patent Could Eliminate The Lag Problem [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AFMD4rMPL7w
+
+### The Sad End of BioWare + Mass Effect Universe Trailer Leaked [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=cE10hdr5oQQ
+
+### AMD Steps Up: FSR 4.1 Available For RDNA 2 + Handheld GPUs + Xbox Series Consoles! [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=b_GwZml0ZvU
+
+### Massive Xbox Report: 2027 Handheld, 2028 Helix At $1200-$1800 [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=3bKpmqNGPRU
+
+### If GTA 6 Took Eight Years To Make, How Long Will GTA 7 Take? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/O3PBFQwfgRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=c7QG4u0QHOQ
+
+### Hopping Back Into Gears of War: E-Day Co-op w/ KC and Marty - Part 2 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Lp29I7h1sQY
+
+### Yahtzee Tries... Paperhead and Truckful [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and Marty try Paperhead and Truckful. https://store.steampowered.com/app/2680280/PAPERHEAD/ https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=5Hh9nFN59QY
+
+### Gears of War: E-Day | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed Gears of War: E-Day. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=gguYEHDgW4U
+
+### In a Time of AI, Wildwood Celebrates Humanmade Art | The Backdrop [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Wildwood is an incredible work of art, and a great reminder of the importance of handcrafted art in a time of AI. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=IZ4OuNW5NAs
+
+### Jesse, JM8, and Eric Try to Survive Dead by Daylight [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+🎮 This week on Hidden Gems, the crew plays Dead by Daylight -- https://store.steampowered.com/app/381210/Dead_by_Daylight/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Yu_dpzSDIe8
+
+### Playing Mysterium Live From Milwaukee w/ Yahtzee, Jack, Jenna, Jess, KC, and Marty [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Adventure is Nigh! crew are taking a break from filming the new season to play some of the board game Mysterium live from Milwaukee. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
+
+Link: https://www.youtube.com/watch?v=gT07RhPMKvY
 
 ## Entertainment Recommendations
 
@@ -183,4 +397,263 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### JUMANJI: OPEN WORLD - New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
+
+### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.
+
+Link: https://www.youtube.com/watch?v=AYkPRN874m8
+
+### TRAILER TOMORROW. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie
+
+Link: https://www.youtube.com/watch?v=I6WuD0p7XVU
+
+### GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K) [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.
+
+Link: https://www.youtube.com/watch?v=UKaWzMf9Ybc
+
+### Slayground | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
+
+Link: https://www.youtube.com/watch?v=XsReYk7AqPg
+
+### The Holy Boy | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.
+
+Link: https://www.youtube.com/watch?v=yGILDBbzoe0
+
+### The Cycle | Deborah Ann Woll | Trailer [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=u_nIsrnN4Ro
+
+### VHS Mixtape | Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
+
+Link: https://www.youtube.com/watch?v=iZS2zDHidsk
+
+### Infirmary Trailer | Found Footage | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The following footage was recovered following an incident at an abandoned psychiatric hospital in 2023. Viewer discretion is advised. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=STEprQnjfRo
+
+### Saw | Let the Game Begin [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Get into the seasonal mood, drop your favorite trap in the comments
+
+Link: https://www.youtube.com/watch?v=blTNfNeCt5k
+
+### Rainmaker | Mousetrap Monologue [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
+
+### River | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
+
+### The Exorcist: Martyrs | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Martyr: a person who suffers persecution and death rather than renounce a religious belief or core principle. Mike Flanagan’s The Exorcist: Martyrs only in theaters March 12.
+
+Link: https://www.youtube.com/watch?v=5knKQTEddik
+
+### Toos: The Van der Valk Kidnapping | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+For twenty days, the Netherlands held its breath. Toos: The Van der Valk Kidnapping premieres November 26,only on Netflix. Toos van der Valk had it all: wealth, prestige, and a close-knit family.
+
+Link: https://www.youtube.com/watch?v=0Py9xL3rUsc
+
+### Never Surrender | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+To save his family, Eyang Hari must face a fierce battle that grows increasingly brutal. Every step brings him closer to the stakes of life and death. Never Surrender premieres November 12, only on Netflix. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=o0d1IA85D9o
+
+### “Takedown” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “Takedown” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=j5itLHDMJsE
+
+### Bass X Machina | Brothel Fight | Sneak Peek #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=dTLXOSsh2Pw
+
+### Instadocs: Jane Doe v. Cornell | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The explosive lawsuit brought by Jane Doe against Cornell University has sparked vocal protests on campus and visceral backlash online. INSTADOCS: JANE DOE v.
+
+Link: https://www.youtube.com/watch?v=gAIhw9wCb5c
+
+### Allen | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+As a boy in Queensland, Petey had a childhood best friend he never got over: an alien named Allen, who vanished without a goodbye. Twenty years later he’s back, but be careful what you wish for.
+
+Link: https://www.youtube.com/watch?v=P8G5Y25W3eA
+
+### Love Is Blind S11: Boston | Sneak Peek #3 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Rob and Michaella are gearing up for another night out on the town with the rest of the Pod Squad. Are they ready? New episodes of Love Is Blind S11: Boston premiere tomorrow, only on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=HWDg2aVdEA8
+
+### “Golden” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “Golden” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QtCbNDLeQGo
+
+### SCTV: The Greatest Show You've Never Heard Of | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Legendary "SCTV" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5vri0LVrMIE
+
+### “How It’s Done” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “How It’s Done” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=6uYK78T3r1A
+
+### HUNTR/X Dance Rehearsal | “How It’s Done” | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Rumi, Mira, and Zoey rehearse the official choreography for “How It’s Done.” Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=P4oHfZmRth8
+
+### Hollywood Arts | Pink Pony Club | Music Video | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Saddle up for Hollywood Arts’ cover of “Pink Pony Club”. Hollywood Arts is now playing! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Lr4C5n7FFaM
+
+### Scariest Must-See Moments | Full Scenes | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Thrills, chills, and jump scares from some of the spookiest moments on Apple TV.
+
+Link: https://www.youtube.com/watch?v=pP_Glzi0UOA
+
+### Way of the Warrior Kid — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Every kid needs someone in their corner. Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=R1ECMLrwDYQ
+
+### Dark Matter — MacNamara's Trip | Season 2 Episode 9 Ending Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=YcGJ6o2jYJw
+
+### Everyone has a choice. A new episode of #DarkMatter is now streaming. [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=_y7PSuw6G-c
