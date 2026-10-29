@@ -1,39 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-29T14:00:02.094707Z",
-  "generatedAtDisplay": "2026-10-29 10:00 AM EDT",
+  "generatedAt": "2026-10-29T18:00:47.870209Z",
+  "generatedAtDisplay": "2026-10-29 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are AI has come for Arizona’s water, This $149 digital candle uses AI to accurately simulate a flickering flame, and Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft, Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power, and Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly.",
   "mainItems": [
     {
-      "title": "AI has come for Arizona’s water",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "published": "2026-10-29T13:48:33+00:00",
-      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+      "published": "2026-10-29T17:49:39+00:00",
+      "summary": "It's a good day to love Celeste! Earlier today it was discovered that Celeste had been removed from the Xbox Store while it remained on the PlayStation and Nintendo digital storefronts.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-      "published": "2026-10-29T13:37:56+00:00",
-      "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
+      "title": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
       "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T13:13:16+00:00",
-      "summary": "Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "published": "2026-10-29T17:26:06+00:00",
+      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority • Israel election – latest updates Benjamin Netanyahu has been accused of using smear tactics to cling to power,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+      "published": "2026-10-29T17:09:23+00:00",
+      "summary": "FromSoftware's elderly King's Field games aren't really celebrated for their feeling of agility.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -41,29 +41,29 @@
       "source": "The Guardian US",
       "category": "CS education / AI policy",
       "url": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-      "published": "2026-10-29T12:57:05+00:00",
+      "published": "2026-10-29T15:17:16+00:00",
       "summary": "Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend when heavy snowstorm hit Two Colorado college students have been found dead after going missing during a hiking trip in the Rocky Mountains last weekend when a…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/",
-      "published": "2026-10-29T12:30:00+00:00",
-      "summary": "Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "‘Strength of matriarchs’: New Mexico’s Deb Haaland poised to be first female Native American governor",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections",
+      "published": "2026-10-29T15:00:46+00:00",
+      "summary": "Ex-congresswoman is connecting with young people and Native voters with promise to expand the social safety net The road to Isleta Pueblo, a Native American tribal community just 20 minutes south of downtown Albuquerque, New Mexico , is…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
-      "published": "2026-10-29T11:00:31+00:00",
-      "summary": "Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "published": "2026-10-29T14:21:49+00:00",
+      "summary": "Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -77,43 +77,53 @@
       "score": 10
     },
     {
-      "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
-      "source": "The Guardian US",
+      "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+      "source": "NPR Education",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
-      "published": "2026-10-29T10:00:29+00:00",
-      "summary": "Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and retailers divulge how…",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
-      "published": "2026-10-29T13:40:45+00:00",
-      "summary": "A mutilated man stares at you, his single piercing eye following as you move around the room. His filthy bandages hide a ruined face, raw lips circling disturbingly perfect teeth, and his moans echo through the halls.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+      "published": "2026-10-29T07:00:26+00:00",
+      "summary": "Colman stars as a depressed and bullied fisherwoman in medieval England.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
     },
     {
-      "title": "New teachers union president wants to steer educators away from partisan politics",
-      "source": "NPR Education",
+      "title": "California Superintendent Candidates Clash Over Everything but School Funding",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics",
-      "published": "2026-10-28T21:34:36+00:00",
-      "summary": "The new president of the nation's largest labor union, Princess Moss, talks about the challenges facing educators and the next steps for the National Education Association.",
+      "url": "https://www.the74million.org/article/california-superintendent-candidates-clash-over-everything-but-school-funding/",
+      "published": "2026-10-29T14:30:00+00:00",
+      "summary": "During a debate this month, the two candidates vying to become California’s Superintendent of Public Instruction exchanged barbs over every question that was posed: Their performance as school board members, parental rights, Title IX and…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Senators Demand Meta Answer for 'Pervert Glasses' Following 404 Media Investigation",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "\"Meta’s smart glasses have increasingly been implicated in disturbing invasions of users’ and bystanders’ privacy,\" a letter sent to Meta from Ron Wyden and Edward Markey says.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-november-2026/",
+      "published": "2026-10-29T17:30:00+00:00",
+      "summary": "Settle in with some movies and shows that almost get there The post The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Who benefits when massive AI data centers come to town?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+      "published": "2026-10-29T15:41:59+00:00",
+      "summary": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -125,16 +135,6 @@
       "summary": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7)",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-last-of-this-silly-universe-h-g-wells-the-island-of-doctor-moreau-part-7/",
-      "published": "2026-10-28T17:00:00+00:00",
-      "summary": "The villain of the story is dead, but things are just getting worse... The post The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-10-28T17:32:40+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "?PHP Problem? - Computerphile",
@@ -159,6 +159,17 @@
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Why Was Ethan Hawke at Taylor Swift's Wedding?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=XoZtYI_8Mhc",
+      "published": "2026-10-29T17:30:04+00:00",
+      "summary": "Ethan Hawke visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Ex-FBI Agent Dispels Common Body Language Myths",
@@ -179,8 +190,8 @@
       "published": "2026-10-28T16:02:10+00:00",
       "summary": "Ethan Hawke visits WIRED to answer his most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Legend of Herobrine",
@@ -203,6 +214,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Trump calls for probe into Alaska Senate race during Ohio campaign event",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=jZ-8OXutJCg",
+      "published": "2026-10-29T17:00:45+00:00",
+      "summary": "At a campaign rally in Ohio yesterday, President Trump attacked Alaska’s Democratic Senate candidate, Mary Peltola, and called for her to be investigated.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "FTC probing how Walmart, Delta, DoorDash, other companies set prices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=wkB4cve0-1o",
+      "published": "2026-10-29T15:15:25+00:00",
+      "summary": "The Federal Trade Commission is telling several big companies to hand over data that show how they set prices.⁠ ⁠ The FTC issued the demand to Walmart, Delta Airlines and DoorDash, among others.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Journalist Calum Marsh studies the rise of CrossFit under its former CEO",
@@ -260,24 +293,13 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Democrats favored to win the House, but the Senate's a toss-up",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=viGndx3aMDk",
-      "published": "2026-10-27T18:47:22+00:00",
-      "summary": "The midterm election is a week from today, although early voting has been underway.⁠ ⁠ A new NPR/PBS News/Marist poll finds that, among “likely voters,” Democrats have an 8-point advantage on the congressional ballot.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "2026 midterms become the most expensive election ad cycle ever",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=cUmv7iNnXhQ",
-      "published": "2026-10-27T17:00:39+00:00",
-      "summary": "If you feel like you’ve seen too many campaign ads this midterm election cycle, there are billions of reasons why. According to AdImpact, this has officially become the most expensive election cycle ever, when it comes to campaign ads.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "AMD's FSR 4.1 RDNA 2 Port Tested On Console Equivalent PC GPU!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=JezkUI1xNSY",
+      "published": "2026-10-29T17:00:09+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -289,8 +311,8 @@
       "published": "2026-10-28T18:00:24+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Sad End of BioWare + Mass Effect Universe Trailer Leaked",
@@ -326,15 +348,37 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "If GTA 6 Took Eight Years To Make, How Long Will GTA 7 Take?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=c7QG4u0QHOQ",
-      "published": "2026-10-26T17:00:33+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/O3PBFQwfgRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Jamming Through More False Hero, a Solo-Dev Soulslike w/ Jack and Jess",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=36tV5BwD0Eo",
+      "published": "2026-10-29T15:41:14+00:00",
+      "summary": "Jack and Jess are going to try out the new indie soulslike False Hero. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pouring One Out For BioWare | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=_KlcBVrdGMk",
+      "published": "2026-10-29T17:25:58+00:00",
+      "summary": "This week on Firelink Nick, KC, and Marty chat about the end of BioWare, Duskbloods slipping to 2027, and all the rad games they've been playing. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Go Play These 5 Rad Polish Video Games",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kvcwJAm9MMw",
+      "published": "2026-10-29T15:00:23+00:00",
+      "summary": "Powered by Polish Video Game Days #PVGD Polish Video Game Days (October 12–31, 2026) celebrates games made in Poland, from landmark RPGs to brand-new indie demos.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Hopping Back Into Gears of War: E-Day Co-op w/ KC and Marty - Part 2",
@@ -366,8 +410,8 @@
       "published": "2026-10-28T16:00:29+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Gears of War: E-Day. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "In a Time of AI, Wildwood Celebrates Humanmade Art | The Backdrop",
@@ -390,17 +434,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Playing Mysterium Live From Milwaukee w/ Yahtzee, Jack, Jenna, Jess, KC, and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=gT07RhPMKvY",
-      "published": "2026-10-26T18:59:50+00:00",
-      "summary": "The Adventure is Nigh! crew are taking a break from filming the new season to play some of the board game Mysterium live from Milwaukee. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -548,6 +581,50 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "“Soda Pop” Official Choreography | KPop Demon Hunters | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pVWZ1eZze3s",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wpNCSAkJ_YM",
+      "published": "2026-10-29T16:30:00+00:00",
+      "summary": "\"So this is it. The climax of your story. Isn't it?\" - Roman To all the edgerunners out there, thank you for returning to Night City.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cunk on Cinema premieres November 15!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=A7EJjjZh7L8",
+      "published": "2026-10-29T14:30:00+00:00",
+      "summary": "Philomena Cunk is back and this time she’s asking the hard-hitting questions about humankind’s finest creation: MOVIES! Cunk on Cinema premieres November 15. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cunk on Cinema | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MAV4nDKZetY",
+      "published": "2026-10-29T14:30:00+00:00",
+      "summary": "Philomena Cunk is back and will be asking experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to entrance of CGI and what the future of AI…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Tyson Fury | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -577,7 +654,7 @@
       "published": "2026-10-29T03:00:00+00:00",
       "summary": "To save his family, Eyang Hari must face a fierce battle that grows increasingly brutal. Every step brings him closer to the stakes of life and death. Never Surrender premieres November 12, only on Netflix. Watch on Netflix: https://www.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -625,61 +702,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Love Is Blind S11: Boston | Sneak Peek #3 | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=HWDg2aVdEA8",
-      "published": "2026-10-27T17:30:00+00:00",
-      "summary": "Rob and Michaella are gearing up for another night out on the town with the rest of the Pod Squad. Are they ready? New episodes of Love Is Blind S11: Boston premiere tomorrow, only on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "“Golden” Official Choreography | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=QtCbNDLeQGo",
-      "published": "2026-10-27T17:00:00+00:00",
-      "summary": "Official choreography for “Golden” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SCTV: The Greatest Show You've Never Heard Of | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5vri0LVrMIE",
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Legendary \"SCTV\" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "“How It’s Done” Official Choreography | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6uYK78T3r1A",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "Official choreography for “How It’s Done” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "HUNTR/X Dance Rehearsal | “How It’s Done” | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=P4oHfZmRth8",
-      "published": "2026-10-26T17:00:00+00:00",
-      "summary": "Rumi, Mira, and Zoey rehearse the official choreography for “How It’s Done.” Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Scariest Must-See Moments | Full Scenes | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -708,17 +730,6 @@
       "url": "https://www.youtube.com/watch?v=YcGJ6o2jYJw",
       "published": "2026-10-24T16:59:50+00:00",
       "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Everyone has a choice. A new episode of #DarkMatter is now streaming.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_y7PSuw6G-c",
-      "published": "2026-10-23T01:29:57+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -835,8 +846,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 29,
+    "youtubeCount": 27,
+    "trailerCount": 27,
     "sourceCount": 21
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-29T14:00:02.094707Z
+Generated: 2026-10-29T18:00:47.870209Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are AI has come for Arizona’s water, This $149 digital candle uses AI to accurately simulate a flickering flame, and Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Celeste and TowerFall have been removed from the Xbox store in a move to "support the BDS boycott" against Microsoft, Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power, and Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly.
 
 ## Briefing
 
@@ -33,32 +33,32 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. AI has come for Arizona’s water [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Celeste and TowerFall have been removed from the Xbox store in a move to "support the BDS boycott" against Microsoft [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.
+It's a good day to love Celeste! Earlier today it was discovered that Celeste had been removed from the Xbox Store while it remained on the PlayStation and Nintendo digital storefronts.
 
-Link: https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc
+Link: https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft
 
-### 2. This $149 digital candle uses AI to accurately simulate a flickering flame [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid…
-
-Link: https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame
-
-### 3. Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ [10/10]
+### 2. Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power [10/10]
 **Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin…
+Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority • Israel election – latest updates Benjamin Netanyahu has been accused of using smear tactics to cling to power,…
 
-Link: https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news
+Link: https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power
+
+### 3. Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+FromSoftware's elderly King's Field games aren't really celebrated for their feeling of agility.
+
+Link: https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly
 
 ### 4. Two Colorado college students found dead after going missing during hike [10/10]
 **Source:** The Guardian US  
@@ -69,23 +69,23 @@ Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend 
 
 Link: https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike
 
-### 5. Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.
-
-Link: https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/
-
-### 6. Computerized clairvoyance: psychics push back against AI-generated readings [10/10]
+### 5. ‘Strength of matriarchs’: New Mexico’s Deb Haaland poised to be first female Native American governor [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me.
+Ex-congresswoman is connecting with young people and Native voters with promise to expand the social safety net The road to Isleta Pueblo, a Native American tribal community just 20 minutes south of downtown Albuquerque, New Mexico , is…
 
-Link: https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings
+Link: https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections
+
+### 6. Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.
+
+Link: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/
 
 ### 7. We urgently need to monitor AI agents’ actions in real time [10/10]
 **Source:** MIT Technology Review  
@@ -96,43 +96,52 @@ This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. T
 
 Link: https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
 
-### 8. FTC orders Delta, Uber and others to hand over data on algorithmic pricing [10/10]
-**Source:** The Guardian US  
+### 8. Their colleges closed, but the government refuses to erase their debts, lawsuit says [10/10]
+**Source:** NPR Education  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and retailers divulge how…
+Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.
 
-Link: https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing
+Link: https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden
 
-### 9. Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-A mutilated man stares at you, his single piercing eye following as you move around the room. His filthy bandages hide a ruined face, raw lips circling disturbingly perfect teeth, and his moans echo through the halls.
+Colman stars as a depressed and bullied fisherwoman in medieval England.
 
-Link: https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing
+Link: https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance
 
-### 10. New teachers union president wants to steer educators away from partisan politics [9/10]
-**Source:** NPR Education  
+### 10. California Superintendent Candidates Clash Over Everything but School Funding [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The new president of the nation's largest labor union, Princess Moss, talks about the challenges facing educators and the next steps for the National Education Association.
+During a debate this month, the two candidates vying to become California’s Superintendent of Public Instruction exchanged barbs over every question that was posed: Their performance as school board members, parental rights, Title IX and…
 
-Link: https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics
+Link: https://www.the74million.org/article/california-superintendent-candidates-clash-over-everything-but-school-funding/
 
-### 11. Senators Demand Meta Answer for 'Pervert Glasses' Following 404 Media Investigation [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 11. The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-"Meta’s smart glasses have increasingly been implicated in disturbing invasions of users’ and bystanders’ privacy," a letter sent to Meta from Ron Wyden and Edward Markey says.
+Settle in with some movies and shows that almost get there The post The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition appeared first on Reactor .
 
-Link: https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/
+Link: https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-november-2026/
 
-### 12. Ahead of midterms, Missourians defend transgender healthcare [8/10]
+### 12. Who benefits when massive AI data centers come to town? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.
+
+Link: https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town
+
+### 13. Ahead of midterms, Missourians defend transgender healthcare [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,20 +150,11 @@ The campaign to defend access to transgender healthcare for young people in Miss
 
 Link: https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender
 
-### 13. The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The villain of the story is dead, but things are just getting worse... The post The Last of This Silly Universe: H.G. Wells’ The Island of Doctor Moreau (Part 7) appeared first on Reactor .
-
-Link: https://reactormag.com/the-last-of-this-silly-universe-h-g-wells-the-island-of-doctor-moreau-part-7/
-
 ## YouTube
 
-### DeepSeek's New AI Is An Absolute Monster [8/10]
+### DeepSeek's New AI Is An Absolute Monster [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.
@@ -170,6 +170,15 @@ Two PHP Exploits hit the news last week. Dr Steve Bagley explains how dangerous 
 
 Link: https://www.youtube.com/watch?v=cI8IquVEyVY
 
+### Why Was Ethan Hawke at Taylor Swift's Wedding? [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Ethan Hawke visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=XoZtYI_8Mhc
+
 ### Ex-FBI Agent Dispels Common Body Language Myths [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -179,9 +188,9 @@ Former FBI agent and body language expert Joe Navarro breaks down the various wa
 
 Link: https://www.youtube.com/watch?v=TQy7UBIQ8JY
 
-### Ethan Hawke & Betty Gilpin Answer The Web’s Most Searched Questions [8/10]
+### Ethan Hawke & Betty Gilpin Answer The Web’s Most Searched Questions [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Ethan Hawke visits WIRED to answer his most searched questions on Google.
@@ -205,6 +214,24 @@ Link: https://www.youtube.com/watch?v=o5-cHsfdHQ0
 Anthropologist Tok Thompson joins WIRED to answer the internet’s burning questions about ghost stories and folklore.
 
 Link: https://www.youtube.com/watch?v=EeAk1X-iwo8
+
+### Trump calls for probe into Alaska Senate race during Ohio campaign event [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+At a campaign rally in Ohio yesterday, President Trump attacked Alaska’s Democratic Senate candidate, Mary Peltola, and called for her to be investigated.
+
+Link: https://www.youtube.com/watch?v=jZ-8OXutJCg
+
+### FTC probing how Walmart, Delta, DoorDash, other companies set prices [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The Federal Trade Commission is telling several big companies to hand over data that show how they set prices.⁠ ⁠ The FTC issued the demand to Walmart, Delta Airlines and DoorDash, among others.
+
+Link: https://www.youtube.com/watch?v=wkB4cve0-1o
 
 ### Journalist Calum Marsh studies the rise of CrossFit under its former CEO [6/10]
 **Creator:** NPR  
@@ -251,27 +278,18 @@ Israelis have been voting in an election that many see as critical to their coun
 
 Link: https://www.youtube.com/watch?v=ONo9ySP4iCg
 
-### Democrats favored to win the House, but the Senate's a toss-up [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-The midterm election is a week from today, although early voting has been underway.⁠ ⁠ A new NPR/PBS News/Marist poll finds that, among “likely voters,” Democrats have an 8-point advantage on the congressional ballot.
-
-Link: https://www.youtube.com/watch?v=viGndx3aMDk
-
-### 2026 midterms become the most expensive election ad cycle ever [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-If you feel like you’ve seen too many campaign ads this midterm election cycle, there are billions of reasons why. According to AdImpact, this has officially become the most expensive election cycle ever, when it comes to campaign ads.
-
-Link: https://www.youtube.com/watch?v=cUmv7iNnXhQ
-
-### Sony's Frame Gen Patent Could Eliminate The Lag Problem [7/10]
+### AMD's FSR 4.1 RDNA 2 Port Tested On Console Equivalent PC GPU! [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=JezkUI1xNSY
+
+### Sony's Frame Gen Patent Could Eliminate The Lag Problem [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -305,14 +323,32 @@ Link: https://www.youtube.com/watch?v=b_GwZml0ZvU
 
 Link: https://www.youtube.com/watch?v=3bKpmqNGPRU
 
-### If GTA 6 Took Eight Years To Make, How Long Will GTA 7 Take? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Jamming Through More False Hero, a Solo-Dev Soulslike w/ Jack and Jess [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/O3PBFQwfgRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Jack and Jess are going to try out the new indie soulslike False Hero. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=c7QG4u0QHOQ
+Link: https://www.youtube.com/watch?v=36tV5BwD0Eo
+
+### Pouring One Out For BioWare | Firelink Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink Nick, KC, and Marty chat about the end of BioWare, Duskbloods slipping to 2027, and all the rad games they've been playing. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
+
+Link: https://www.youtube.com/watch?v=_KlcBVrdGMk
+
+### Go Play These 5 Rad Polish Video Games [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Powered by Polish Video Game Days #PVGD Polish Video Game Days (October 12–31, 2026) celebrates games made in Poland, from landmark RPGs to brand-new indie demos.
+
+Link: https://www.youtube.com/watch?v=kvcwJAm9MMw
 
 ### Hopping Back Into Gears of War: E-Day Co-op w/ KC and Marty - Part 2 [6/10]
 **Creator:** Second Wind  
@@ -332,9 +368,9 @@ This week on Yahtzee Tries... Yahtzee and Marty try Paperhead and Truckful. http
 
 Link: https://www.youtube.com/watch?v=5Hh9nFN59QY
 
-### Gears of War: E-Day | Fully Ramblomatic [7/10]
+### Gears of War: E-Day | Fully Ramblomatic [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Fully Ramblomatic, Yahtzee reviewed Gears of War: E-Day. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -358,15 +394,6 @@ Link: https://www.youtube.com/watch?v=IZ4OuNW5NAs
 🎮 This week on Hidden Gems, the crew plays Dead by Daylight -- https://store.steampowered.com/app/381210/Dead_by_Daylight/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=Yu_dpzSDIe8
-
-### Playing Mysterium Live From Milwaukee w/ Yahtzee, Jack, Jenna, Jess, KC, and Marty [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Adventure is Nigh! crew are taking a break from filming the new season to play some of the board game Mysterium live from Milwaukee. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=gT07RhPMKvY
 
 ## Entertainment Recommendations
 
@@ -514,6 +541,42 @@ Martyr: a person who suffers persecution and death rather than renounce a religi
 
 Link: https://www.youtube.com/watch?v=5knKQTEddik
 
+### “Soda Pop” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=pVWZ1eZze3s
+
+### Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+"So this is it. The climax of your story. Isn't it?" - Roman To all the edgerunners out there, thank you for returning to Night City.
+
+Link: https://www.youtube.com/watch?v=wpNCSAkJ_YM
+
+### Cunk on Cinema premieres November 15! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Philomena Cunk is back and this time she’s asking the hard-hitting questions about humankind’s finest creation: MOVIES! Cunk on Cinema premieres November 15. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=A7EJjjZh7L8
+
+### Cunk on Cinema | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Philomena Cunk is back and will be asking experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to entrance of CGI and what the future of AI…
+
+Link: https://www.youtube.com/watch?v=MAV4nDKZetY
+
 ### Tyson Fury | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -532,7 +595,7 @@ For twenty days, the Netherlands held its breath. Toos: The Van der Valk Kidnapp
 
 Link: https://www.youtube.com/watch?v=0Py9xL3rUsc
 
-### Never Surrender | Official Trailer | Netflix [10/10]
+### Never Surrender | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -577,51 +640,6 @@ As a boy in Queensland, Petey had a childhood best friend he never got over: an 
 
 Link: https://www.youtube.com/watch?v=P8G5Y25W3eA
 
-### Love Is Blind S11: Boston | Sneak Peek #3 | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Rob and Michaella are gearing up for another night out on the town with the rest of the Pod Squad. Are they ready? New episodes of Love Is Blind S11: Boston premiere tomorrow, only on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=HWDg2aVdEA8
-
-### “Golden” Official Choreography | KPop Demon Hunters | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Official choreography for “Golden” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=QtCbNDLeQGo
-
-### SCTV: The Greatest Show You've Never Heard Of | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Legendary "SCTV" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5vri0LVrMIE
-
-### “How It’s Done” Official Choreography | KPop Demon Hunters | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Official choreography for “How It’s Done” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=6uYK78T3r1A
-
-### HUNTR/X Dance Rehearsal | “How It’s Done” | KPop Demon Hunters | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Rumi, Mira, and Zoey rehearse the official choreography for “How It’s Done.” Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=P4oHfZmRth8
-
 ### Scariest Must-See Moments | Full Scenes | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -648,12 +666,3 @@ Link: https://www.youtube.com/watch?v=R1ECMLrwDYQ
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
 
 Link: https://www.youtube.com/watch?v=YcGJ6o2jYJw
-
-### Everyone has a choice. A new episode of #DarkMatter is now streaming. [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=_y7PSuw6G-c
