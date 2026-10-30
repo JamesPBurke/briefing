@@ -1,19 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-30T09:00:43.347716Z",
-  "generatedAtDisplay": "2026-10-30 05:00 AM EDT",
+  "generatedAt": "2026-10-30T14:00:01.769601Z",
+  "generatedAtDisplay": "2026-10-30 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Security / computing. The strongest items in this run are Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?, ‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker, and Security guard who protected Nigel Farage on campaign trail was facing rape charge.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim, Wikipedia’s operator says a bad AI copyright ruling could threaten the open web, and Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\".",
   "mainItems": [
     {
-      "title": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
+      "title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
+      "published": "2026-10-30T13:30:00+00:00",
+      "summary": "As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T13:19:25+00:00",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
+      "published": "2026-10-30T12:58:41+00:00",
+      "summary": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "James Comey lawyers seek to have third criminal case dismissed",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
-      "published": "2026-10-30T08:00:49+00:00",
-      "summary": "Voters who backed the US president in the last election are saying they can’t vote for him today: ‘This is an abomination’ Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/james-comey-leak-criminal-case-hearing",
+      "published": "2026-10-30T12:26:17+00:00",
+      "summary": "Federal judge to hear arguments on Friday over leak case that was twice previously investigated with no action taken Lawyers for the former FBI director James Comey will ask a federal judge on Friday to block the US justice department from…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Congressional Democrats demand answers over ICE treatment of hunger strikers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+      "published": "2026-10-30T11:00:52+00:00",
+      "summary": "Immigrants at Texas detention facility, protesting against harsh conditions, say they face threats of force-feeding Members of Congress sent a scathing letter to federal immigration officials this week demanding answers about conditions…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
+      "published": "2026-10-30T10:15:24+00:00",
+      "summary": "Celeste and TowerFall have both been delisted from Xbox suddenly earlier this week.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "Most kids say they use chatbots for help with homework and when they're stressed, lonely, or anxious. And how they use chatbots is tied to their mental health.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -23,16 +83,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
       "published": "2026-10-30T08:00:48+00:00",
       "summary": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Security guard who protected Nigel Farage on campaign trail was facing rape charge",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/politics/2026/oct/30/security-guard-who-protected-nigel-farage-jailed-ryan-dinnage",
-      "published": "2026-10-30T06:00:45+00:00",
-      "summary": "Ryan Dinnage – who accompanied Reform UK leader on walkabouts before local elections – was later jailed, raising questions about vetting failure One of Nigel Farage’s security team who accompanied him on the local election campaign trail…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -47,42 +97,12 @@
       "score": 10
     },
     {
-      "title": "Experience: I live in the house from the 80s horror movie Poltergeist",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist",
-      "published": "2026-10-30T05:00:46+00:00",
-      "summary": "I was a fan of the film, so when it came on the market, I snapped it up.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "published": "2026-10-29T22:43:40+00:00",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-      "published": "2026-10-29T22:53:00+00:00",
-      "summary": "I quite liked that there video game Mouthwashing .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "From Output to Judgment: The Role of Instructional Design",
-      "source": "CSTA",
+      "title": "Opinion: A Haunted House, 40 Extracurriculars and a Lot of Questions About Inequality",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://csteachers.org/from-output-to-judgment-the-role-of-instructional-design/",
-      "published": "2026-10-29T19:00:00+00:00",
-      "summary": "By Jacqueline Edwards High School CS & CTE Instructor, Louisiana | CSTA IMPACT Fellow Periods of rapid technological change have...",
+      "url": "https://www.the74million.org/article/a-haunted-house-40-extracurriculars-and-a-lot-of-questions-about-inequality/",
+      "published": "2026-10-30T10:30:00+00:00",
+      "summary": "Late summer, right before school started, I got an email. My niece got a seat. I recognized the school’s name, but I was apprehensive. I wasn’t sure it was located where I thought it was. So I checked the ZIP code across Washington, D.C.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
@@ -97,14 +117,14 @@
       "score": 9
     },
     {
-      "title": "Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/",
-      "published": "2026-10-29T12:30:00+00:00",
-      "summary": "Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "Websites pretending to be local news are boosting Democratic candidates",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition",
@@ -115,26 +135,6 @@
       "summary": "Settle in with some movies and shows that almost get there The post The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Who benefits when massive AI data centers come to town?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-      "published": "2026-10-29T15:41:59+00:00",
-      "summary": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Florida sees spike in dengue fever cases",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6020514/florida-sees-spike-in-dengue-fever-cases",
-      "published": "2026-10-30T08:47:21+00:00",
-      "summary": "Florida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -216,7 +216,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Israel deadlocked / Trump, Iran and the midterms",
+      "title": "Israel deadlocked / Trump, Iran and the midterms | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=dJns_ryO-Bc",
@@ -388,8 +388,8 @@
       "published": "2026-10-29T22:53:43+00:00",
       "summary": "It's just me and you and you and you and you... Taking your questions and talking about making characters for a silent dungeon if we stay on track.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Jamming Through More False Hero, a Solo-Dev Soulslike w/ Jack and Jess",

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-30T09:00:43.347716Z
+Generated: 2026-10-30T14:00:01.769601Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Security / computing. The strongest items in this run are Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?, ‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker, and Security guard who protected Nigel Farage on campaign trail was facing rape charge.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim, Wikipedia’s operator says a bad AI copyright ruling could threaten the open web, and Helldivers 2 boss can "absolutely see" making a game parody of generative AI, but it would need to be "quirky" rather than "doom-laden".
 
 ## Briefing
 
@@ -33,52 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Voters who backed the US president in the last election are saying they can’t vote for him today: ‘This is an abomination’ Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts…
+As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th.
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections
+Link: https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim
 
-### 2. ‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure.
-
-Link: https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker
-
-### 3. Security guard who protected Nigel Farage on campaign trail was facing rape charge [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Ryan Dinnage – who accompanied Reform UK leader on walkabouts before local elections – was later jailed, raising questions about vetting failure One of Nigel Farage’s security team who accompanied him on the local election campaign trail…
-
-Link: https://www.theguardian.com/politics/2026/oct/30/security-guard-who-protected-nigel-farage-jailed-ryan-dinnage
-
-### 4. Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu*…
-
-Link: https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres
-
-### 5. Experience: I live in the house from the 80s horror movie Poltergeist [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-I was a fan of the film, so when it came on the market, I snapped it up.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist
-
-### 6. Wikipedia’s operator says a bad AI copyright ruling could threaten the open web [10/10]
+### 2. Wikipedia’s operator says a bad AI copyright ruling could threaten the open web [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,25 +51,79 @@ The Wikimedia Foundation is staking out a middle ground in a group of landmark A
 
 Link: https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright
 
-### 7. Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out [9/10]
+### 3. Helldivers 2 boss can "absolutely see" making a game parody of generative AI, but it would need to be "quirky" rather than "doom-laden" [10/10]
 **Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology.
+
+Link: https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden
+
+### 4. James Comey lawyers seek to have third criminal case dismissed [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Federal judge to hear arguments on Friday over leak case that was twice previously investigated with no action taken Lawyers for the former FBI director James Comey will ask a federal judge on Friday to block the US justice department from…
+
+Link: https://www.theguardian.com/us-news/2026/oct/30/james-comey-leak-criminal-case-hearing
+
+### 5. Congressional Democrats demand answers over ICE treatment of hunger strikers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Immigrants at Texas detention facility, protesting against harsh conditions, say they face threats of force-feeding Members of Congress sent a scathing letter to federal immigration officials this week demanding answers about conditions…
+
+Link: https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers
+
+### 6. Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-I quite liked that there video game Mouthwashing .
+Celeste and TowerFall have both been delisted from Xbox suddenly earlier this week.
 
-Link: https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out
+Link: https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted
 
-### 8. From Output to Judgment: The Role of Instructional Design [9/10]
-**Source:** CSTA  
+### 7. Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Most kids say they use chatbots for help with homework and when they're stressed, lonely, or anxious. And how they use chatbots is tied to their mental health.
+
+Link: https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media
+
+### 8. ‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure.
+
+Link: https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker
+
+### 9. Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu*…
+
+Link: https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres
+
+### 10. Opinion: A Haunted House, 40 Extracurriculars and a Lot of Questions About Inequality [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-By Jacqueline Edwards High School CS & CTE Instructor, Louisiana | CSTA IMPACT Fellow Periods of rapid technological change have...
+Late summer, right before school started, I got an email. My niece got a seat. I recognized the school’s name, but I was apprehensive. I wasn’t sure it was located where I thought it was. So I checked the ZIP code across Washington, D.C.
 
-Link: https://csteachers.org/from-output-to-judgment-the-role-of-instructional-design/
+Link: https://www.the74million.org/article/a-haunted-house-40-extracurriculars-and-a-lot-of-questions-about-inequality/
 
-### 9. Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning [9/10]
+### 11. Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,16 +132,16 @@ Proton CEO Andy Yen projects a calm persona and rails against Big Tech and criti
 
 Link: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/
 
-### 10. Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 12. Websites pretending to be local news are boosting Democratic candidates [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.
+The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.
 
-Link: https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/
+Link: https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats
 
-### 11. The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition [8/10]
+### 13. The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,24 +149,6 @@ Link: https://www.the74million.org/article/its-time-to-teach-students-to-be-driv
 Settle in with some movies and shows that almost get there The post The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This November: Deeply Flawed Gems Edition appeared first on Reactor .
 
 Link: https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-november-2026/
-
-### 12. Who benefits when massive AI data centers come to town? [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.
-
-Link: https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town
-
-### 13. Florida sees spike in dengue fever cases [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Florida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.
-
-Link: https://www.npr.org/2026/10/30/nx-s1-6020514/florida-sees-spike-in-dengue-fever-cases
 
 ## YouTube
 
@@ -215,7 +215,7 @@ Anthropologist Tok Thompson joins WIRED to answer the internet’s burning quest
 
 Link: https://www.youtube.com/watch?v=EeAk1X-iwo8
 
-### Israel deadlocked / Trump, Iran and the midterms [9/10]
+### Israel deadlocked / Trump, Iran and the midterms | Sources & Methods [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -350,9 +350,9 @@ This week on Firelink Nick, KC, and Marty chat about the end of BioWare, Duskblo
 
 Link: https://www.youtube.com/watch?v=_KlcBVrdGMk
 
-### A Cozy Chat | RPG Help Desk [7/10]
+### A Cozy Chat | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 It's just me and you and you and you and you... Taking your questions and talking about making characters for a silent dungeon if we stay on track.
