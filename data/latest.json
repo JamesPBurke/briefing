@@ -1,79 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-29T18:01:00.186800Z",
-  "generatedAtDisplay": "2026-10-29 02:01 PM EDT",
+  "generatedAt": "2026-10-30T05:00:01.800502Z",
+  "generatedAtDisplay": "2026-10-30 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Tech / media. The strongest items in this run are Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power, Two Colorado college students found dead after going missing during hike, and ‘Strength of matriarchs’: New Mexico’s Deb Haaland poised to be first female Native American governor.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are California high-speed rail chief quits amid billowing expenses scandal, Netanyahu accused of smearing Arab voters to hold on to power, and From Output to Judgment: The Role of Instructional Design.",
   "mainItems": [
     {
-      "title": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
+      "title": "California high-speed rail chief quits amid billowing expenses scandal",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns",
+      "published": "2026-10-30T01:37:13+00:00",
+      "summary": "Ian Choudri resigns after report found agency overseeing troubled LA-San Francisco project misused over $600,000 in public funds The chief executive of California’s embattled high-speed rail authority abruptly resigned on Wednesday, over a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Netanyahu accused of smearing Arab voters to hold on to power",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "published": "2026-10-29T17:26:06+00:00",
-      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority • Israel election – latest updates Benjamin Netanyahu has been accused of using smear tactics to cling to power,…",
+      "published": "2026-10-29T23:14:53+00:00",
+      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Two Colorado college students found dead after going missing during hike",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-      "published": "2026-10-29T15:17:16+00:00",
-      "summary": "Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend when heavy snowstorm hit Two Colorado college students have been found dead after going missing during a hiking trip in the Rocky Mountains last weekend when a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘Strength of matriarchs’: New Mexico’s Deb Haaland poised to be first female Native American governor",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections",
-      "published": "2026-10-29T15:00:46+00:00",
-      "summary": "Ex-congresswoman is connecting with young people and Native voters with promise to expand the social safety net The road to Isleta Pueblo, a Native American tribal community just 20 minutes south of downtown Albuquerque, New Mexico , is…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
-      "published": "2026-10-29T14:51:45+00:00",
-      "summary": "Authorities allege company may have breached Finnish environmental laws by forgoing required impact assessment ‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre Finnish ⁠police have launched a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How did the Spain train crash happen and what will investigators be asking?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking",
-      "published": "2026-10-29T14:39:16+00:00",
-      "summary": "Audio file appears to point finger at control centre, but there are questions around signalling and technical issues At least 69 people died when a high-speed train from Madrid to Seville hit another train on the same track from behind…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "published": "2026-10-29T14:21:49+00:00",
-      "summary": "Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/",
-      "published": "2026-10-29T12:30:00+00:00",
-      "summary": "Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "From Output to Judgment: The Role of Instructional Design",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/from-output-to-judgment-the-role-of-instructional-design/",
+      "published": "2026-10-29T19:00:00+00:00",
+      "summary": "By Jacqueline Edwards High School CS & CTE Instructor, Louisiana | CSTA IMPACT Fellow Periods of rapid technological change have...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -87,6 +47,56 @@
       "score": 10
     },
     {
+      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+      "published": "2026-10-29T07:00:26+00:00",
+      "summary": "Colman stars as a depressed and bullied fisherwoman in medieval England.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+      "published": "2026-10-29T22:53:00+00:00",
+      "summary": "I quite liked that there video game Mouthwashing .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "published": "2026-10-29T18:29:12+00:00",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "published": "2026-10-29T14:21:49+00:00",
+      "summary": "Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers/",
+      "published": "2026-10-29T12:30:00+00:00",
+      "summary": "Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
       "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
       "source": "NPR Education",
       "category": "AI / privacy",
@@ -94,27 +104,27 @@
       "published": "2026-10-29T09:00:00+00:00",
       "summary": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "‘We make shit houses great again’: Visit Norway cleans up after Trump’s insult",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets",
-      "published": "2026-10-29T17:22:01+00:00",
-      "summary": "Tourist board responds with toilet humour after US president expresses ire over failure to win Nobel peace prize, labelling it a ‘shithouse country’ Some might find it decidedly incommodious to be dumped on by Donald Trump as a “shithouse…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "California Superintendent Candidates Clash Over Everything but School Funding",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-superintendent-candidates-clash-over-everything-but-school-funding/",
-      "published": "2026-10-29T14:30:00+00:00",
-      "summary": "During a debate this month, the two candidates vying to become California’s Superintendent of Public Instruction exchanged barbs over every question that was posed: Their performance as school board members, parental rights, Title IX and…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
+      "published": "2026-10-29T20:00:00+00:00",
+      "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "John Gwynne’s The Faithful and the Fallen Books Are in Development for Television",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/john-gwynne-faithful-and-the-fallen-adaptation/",
+      "published": "2026-10-29T18:05:21+00:00",
+      "summary": "Truth and Courage! The post John Gwynne’s The Faithful and the Fallen Books Are in Development for Television appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Who benefits when massive AI data centers come to town?",
@@ -124,16 +134,6 @@
       "published": "2026-10-29T15:41:59+00:00",
       "summary": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Ahead of midterms, Missourians defend transgender healthcare",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 11
   }
 }
