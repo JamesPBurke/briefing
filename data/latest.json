@@ -1,49 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-31T09:00:40.470710Z",
-  "generatedAtDisplay": "2026-10-31 05:00 AM EDT",
+  "generatedAt": "2026-10-31T14:00:01.669871Z",
+  "generatedAtDisplay": "2026-10-31 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / open models. The strongest items in this run are ‘We’re looking at a 30-year run’: UK pair aim to complete world’s most complex board game, Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident, and Teen boy from Ghana chased and fatally shot on way to school in New York City.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are UK police should not have let US force take over airbase trial, MoD documents show, Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics, and Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving school bully.",
   "mainItems": [
     {
-      "title": "‘We’re looking at a 30-year run’: UK pair aim to complete world’s most complex board game",
+      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa",
-      "published": "2026-10-31T08:00:37+00:00",
-      "summary": "Decades from now, friends may become first people known to have finished The Campaign for North Africa “We have had a six-turn practice run.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+      "published": "2026-10-31T13:30:43+00:00",
+      "summary": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/oct/31/selma-blair-says-she-is-so-sorry-to-those-she-alarmed-following-alleged-air-incident",
-      "published": "2026-10-31T05:51:51+00:00",
-      "summary": "Actor pleaded not guilty to allegedly kicking a nurse and a police officer after an incident on flight from Los Angeles to New York Selma Blair has spoken for the first time since being charged with assault after a mid-air assault…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+      "title": "Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving school bully",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
-      "published": "2026-10-30T22:43:48+00:00",
-      "summary": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says A teenage boy from Ghana was chased down and fatally shot Thursday morning on his way to school in the Bronx.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school",
+      "published": "2026-10-31T11:30:41+00:00",
+      "summary": "Sara Brannon plans to continue legal bid against Catholic archdiocese of New Orleans, which governs high school A Louisiana appellate court recently dismissed a wrongful death lawsuit being pursued by a woman whose teenaged son died by…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "published": "2026-10-30T22:04:23+00:00",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art",
+      "published": "2026-10-31T11:00:43+00:00",
+      "summary": "Nearly 500 men are detained at the T Don Hutto detention facility, and many have risked sharing their experiences in a unique way What goes on inside Immigration and Customs Enforcement ( ICE ) detention centers across the US happens…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "published": "2026-10-30T17:01:07+00:00",
-      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
       "source": "Ars Technica",
       "category": "CS education / AI policy",
@@ -77,13 +67,13 @@
       "score": 10
     },
     {
-      "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-      "published": "2026-10-30T19:55:21+00:00",
-      "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T22:04:23+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -107,24 +97,34 @@
       "score": 9
     },
     {
-      "title": "A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress",
+      "title": "The secret behind Lula’s win in Brazil may be an ‘army’ – of social media creators",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
-      "published": "2026-10-30T16:00:17+00:00",
-      "summary": "Independent candidate Bill Hill is threatening to unseat Trump ally Nick Begich with a message of affordability As Republicans fight to maintain their narrow majority in Congress , they face a unique challenge in Alaska – not from a…",
+      "url": "https://www.theguardian.com/world/2026/oct/31/brazil-lula-social-media",
+      "published": "2026-10-31T13:37:39+00:00",
+      "summary": "There are many explanations for the incumbent president’s win over Flávio Bolsonaro, but analysts – and he – point to reinvention of his social media use Four days before his stunning electoral comeback, Luiz Inácio Lula da Silva, Brazil’s…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Evaporated vs. condensed milk: What's the difference? : Navigating the canned dairy aisle.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/10/30/evaporated-vs-condensed-milk",
-      "published": "2026-10-30T14:00:00+00:00",
-      "summary": "Navigating the dairy section at the grocery store is one thing, but when it comes to the canned stuff, how much do you know about the difference between evaporated milk and condensed milk? The post Evaporated vs.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 7
+      "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+      "published": "2026-10-31T09:01:00+00:00",
+      "summary": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "published": "2026-10-31T09:00:00+00:00",
+      "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Rebecca Ross’ Divine Rivals Adaptation Heads to Disney",
@@ -234,8 +234,8 @@
       "published": "2026-10-30T22:24:53+00:00",
       "summary": "As part of the series \"FEAR,\" Weekend Edition host Ayesha Rascoe talked with author Stephen Graham Jones about what it takes to write a great spine tingler.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Candy prices up almost 20% over the last two years",
@@ -610,7 +610,7 @@
       "published": "2026-10-31T00:00:00+00:00",
       "summary": "Carter Faith is Charlie Heart in HEARTLAND. Listen to \"Still the Sparrow Sings\" now. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -881,6 +881,6 @@
     "mainCount": 13,
     "youtubeCount": 30,
     "trailerCount": 27,
-    "sourceCount": 21
+    "sourceCount": 22
   }
 }

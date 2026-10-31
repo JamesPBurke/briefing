@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-31T09:00:40.470710Z
+Generated: 2026-10-31T14:00:01.669871Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / open models. The strongest items in this run are ‘We’re looking at a 30-year run’: UK pair aim to complete world’s most complex board game, Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident, and Teen boy from Ghana chased and fatally shot on way to school in New York City.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are UK police should not have let US force take over airbase trial, MoD documents show, Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics, and Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving school bully.
 
 ## Briefing
 
@@ -33,41 +33,41 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘We’re looking at a 30-year run’: UK pair aim to complete world’s most complex board game [10/10]
+### 1. UK police should not have let US force take over airbase trial, MoD documents show [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Decades from now, friends may become first people known to have finished The Campaign for North Africa “We have had a six-turn practice run.
+According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa
+Link: https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show
 
-### 2. Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident [10/10]
+### 2. Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.
+
+Link: https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
+
+### 3. Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving school bully [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Sara Brannon plans to continue legal bid against Catholic archdiocese of New Orleans, which governs high school A Louisiana appellate court recently dismissed a wrongful death lawsuit being pursued by a woman whose teenaged son died by…
+
+Link: https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school
+
+### 4. Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Actor pleaded not guilty to allegedly kicking a nurse and a police officer after an incident on flight from Los Angeles to New York Selma Blair has spoken for the first time since being charged with assault after a mid-air assault…
+Nearly 500 men are detained at the T Don Hutto detention facility, and many have risked sharing their experiences in a unique way What goes on inside Immigration and Customs Enforcement ( ICE ) detention centers across the US happens…
 
-Link: https://www.theguardian.com/film/2026/oct/31/selma-blair-says-she-is-so-sorry-to-those-she-alarmed-following-alleged-air-incident
-
-### 3. Teen boy from Ghana chased and fatally shot on way to school in New York City [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says A teenage boy from Ghana was chased down and fatally shot Thursday morning on his way to school in the Bronx.
-
-Link: https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york
-
-### 4. The biggest names in AI are backing a new way to opt out of scraping [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.
-
-Link: https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+Link: https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art
 
 ### 5. Google’s satellite AI server transmits its first response to Earth [10/10]
 **Source:** The Verge  
@@ -78,16 +78,7 @@ Google's AI chip-equipped satellite has generated its first response from space.
 
 Link: https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
 
-### 6. Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates.
-
-Link: https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale
-
-### 7. Thousands of “ghost students” use AI to steal millions in student loans, DOJ says [10/10]
+### 6. Thousands of “ghost students” use AI to steal millions in student loans, DOJ says [10/10]
 **Source:** Ars Technica  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,16 +87,16 @@ Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.
 
 Link: https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/
 
-### 8. GOTY hopeful Mina the Hollower bought the studio financial stability "for now," while the Shovel Knight devs work on a new 3D game [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 7. The biggest names in AI are backing a new way to opt out of scraping [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue. Read more
+OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.
 
-Link: https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability
+Link: https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
 
-### 9. Rural Mississippi Communities Push Back on School Consolidation Efforts [9/10]
+### 8. Rural Mississippi Communities Push Back on School Consolidation Efforts [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,7 +105,7 @@ Mississippi has lost thousands of public school students over the past decade, l
 
 Link: https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/
 
-### 10. Proton’s CEO Cancels AI ‘Re-Interviews’ [9/10]
+### 9. Proton’s CEO Cancels AI ‘Re-Interviews’ [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,23 +114,32 @@ The move came after 404 Media published an investigation into how Proton CEO And
 
 Link: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/
 
-### 11. A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress [9/10]
+### 10. The secret behind Lula’s win in Brazil may be an ‘army’ – of social media creators [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Independent candidate Bill Hill is threatening to unseat Trump ally Nick Begich with a message of affordability As Republicans fight to maintain their narrow majority in Congress , they face a unique challenge in Alaska – not from a…
+There are many explanations for the incumbent president’s win over Flávio Bolsonaro, but analysts – and he – point to reinvention of his social media use Four days before his stunning electoral comeback, Luiz Inácio Lula da Silva, Brazil’s…
 
-Link: https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race
+Link: https://www.theguardian.com/world/2026/oct/31/brazil-lula-social-media
 
-### 12. Evaporated vs. condensed milk: What's the difference? : Navigating the canned dairy aisle. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 11. Do you have seasonal affective disorder? How to tell — and what to do about it [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Navigating the dairy section at the grocery store is one thing, but when it comes to the canned stuff, how much do you know about the difference between evaporated milk and condensed milk? The post Evaporated vs.
+The syndrome can make people feel like a "hibernating bear," says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.
 
-Link: https://www.kingarthurbaking.com/blog/2026/10/30/evaporated-vs-condensed-milk
+Link: https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it
+
+### 12. Your writing was flagged as AI. What does that actually mean? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.
+
+Link: https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram
 
 ### 13. Rebecca Ross’ Divine Rivals Adaptation Heads to Disney [6/10]
 **Source:** Reactor  
@@ -224,9 +224,9 @@ Ethan Hawke visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=yFWBqZQhZh4
 
-### Stephen Graham Jones on what it takes to write a great spine tingler [8/10]
+### Stephen Graham Jones on what it takes to write a great spine tingler [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 As part of the series "FEAR," Weekend Edition host Ayesha Rascoe talked with author Stephen Graham Jones about what it takes to write a great spine tingler.
@@ -559,7 +559,7 @@ Fear runs deep. See River only in theaters January 15. Written & Directed by: Jo
 
 Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
 
-### Carter Faith is Charlie Heart in HEARTLAND. Listen to "Still the Sparrow Sings" now. [10/10]
+### Carter Faith is Charlie Heart in HEARTLAND. Listen to "Still the Sparrow Sings" now. [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
