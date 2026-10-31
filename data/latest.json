@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-30T18:00:53.682979Z",
-  "generatedAtDisplay": "2026-10-30 02:00 PM EDT",
+  "generatedAt": "2026-10-31T05:00:02.634353Z",
+  "generatedAtDisplay": "2026-10-31 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, CS education / AI policy, Democracy / press freedom. The strongest items in this run are Fujifilm to boost tape production 5x as AI fuels archiving demand, Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts, and Thousands of “ghost students” use AI to steal millions in student loans, DOJ says.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Teen boy from Ghana chased and fatally shot on way to school in New York City, The biggest names in AI are backing a new way to opt out of scraping, and GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game.",
   "mainItems": [
     {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "source": "Ars Technica",
+      "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
+      "published": "2026-10-30T22:43:48+00:00",
+      "summary": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says A teenage boy from Ghana was chased down and fatally shot Thursday morning on his way to school in the Bronx.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "published": "2026-10-30T17:38:19+00:00",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T22:04:23+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
+      "published": "2026-10-30T19:55:21+00:00",
+      "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "source": "The Verge",
+      "category": "AI / open models",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38+00:00",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
+      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
       "score": 10
     },
     {
@@ -37,6 +67,16 @@
       "score": 10
     },
     {
+      "title": "Rural Mississippi Communities Push Back on School Consolidation Efforts",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/",
+      "published": "2026-10-30T18:30:00+00:00",
+      "summary": "Mississippi has lost thousands of public school students over the past decade, leaving fewer children enrolled in the state’s 138 school districts and less money to go around.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
       "title": "Proton’s CEO Cancels AI ‘Re-Interviews’",
       "source": "404 Media",
       "category": "Tech / media",
@@ -44,65 +84,15 @@
       "published": "2026-10-30T16:40:39+00:00",
       "summary": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "I wrote a book about death. Here’s what people really think about dying",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
-      "published": "2026-10-30T16:00:17+00:00",
-      "summary": "In the eight years since my graphic novel on death published, I’ve learned readers of all ages want to talk about loss and preserve their family’s stories Becoming an author in my late 50s was unexpected, the result of my daughter Hallie’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
-      "published": "2026-10-30T15:00:16+00:00",
-      "summary": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concerned Ghost hunting is a tech-heavy pursuit.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Michigan Teachers Head Back to School for Science of Reading Training",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/as-michigan-students-struggle-with-literacy-teachers-head-back-to-school-for-science-of-reading-training/",
-      "published": "2026-10-30T14:30:00+00:00",
-      "summary": "In 2010, Karlee Little attended Central Michigan University to learn how to teach elementary school. Now a veteran teacher, she’s back in the classroom as a student.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The Eviction Kings Are Being Sued",
-      "source": "The Nation",
-      "category": "AI / privacy",
-      "url": "https://www.thenation.com/article/society/american-landmark-class-action-lawsuit/",
-      "published": "2026-10-30T14:16:07+00:00",
-      "summary": "Thomas Birmingham Corporate landlord American Landmark admitted that its business model priced tenants out. Now one of those former tenants has filed a class-action lawsuit against the company.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
-      "published": "2026-10-30T05:00:46+00:00",
-      "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu*…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "Early voting soars in Senate battlegrounds as Trump set to rally in Florida, Kansas and Iowa – live",
+      "title": "A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
-      "published": "2026-10-30T17:49:18+00:00",
-      "summary": "By the same time in 2022, 10 million fewer ballots had been cast.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
+      "published": "2026-10-30T16:00:17+00:00",
+      "summary": "Independent candidate Bill Hill is threatening to unseat Trump ally Nick Begich with a message of affordability As Republicans fight to maintain their narrow majority in Congress , they face a unique challenge in Alaska – not from a…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -117,14 +107,14 @@
       "score": 9
     },
     {
-      "title": "From Output to Judgment: The Role of Instructional Design",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/from-output-to-judgment-the-role-of-instructional-design/",
-      "published": "2026-10-29T19:00:00+00:00",
-      "summary": "By Jacqueline Edwards High School CS & CTE Instructor, Louisiana | CSTA IMPACT Fellow Periods of rapid technological change have...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Evaporated vs. condensed milk: What's the difference? : Navigating the canned dairy aisle.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/10/30/evaporated-vs-condensed-milk",
+      "published": "2026-10-30T14:00:00+00:00",
+      "summary": "Navigating the dairy section at the grocery store is one thing, but when it comes to the canned stuff, how much do you know about the difference between evaporated milk and condensed milk? The post Evaporated vs.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     },
     {
       "title": "Websites pretending to be local news are boosting Democratic candidates",
@@ -134,10 +124,43 @@
       "published": "2026-10-30T09:00:00+00:00",
       "summary": "The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "Rebecca Ross’ Divine Rivals Adaptation Heads to Disney",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/rebecca-ross-divine-rivals-adaptation-disney/",
+      "published": "2026-10-30T14:26:12+00:00",
+      "summary": "The IP rights were previously with Paramount The post Rebecca Ross’ Divine Rivals Adaptation Heads to Disney appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "The Private Key Mistake! (TLS Key set to \"4\") - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=NDgS__J1U-M",
+      "published": "2026-10-30T15:47:25+00:00",
+      "summary": "You actually have to work quite hard to set a private key to the number 4! - Dr Tim Muller takes us through the problems with 'randomly' assigning a 120 digit number to the value '4' Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "?PHP Problem? - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=cI8IquVEyVY",
+      "published": "2026-10-28T16:23:55+00:00",
+      "summary": "Two PHP Exploits hit the news last week. Dr Steve Bagley explains how dangerous they could be. Read about the chip competition on Jane Street’s blog: https://jane-st.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +273,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 2,
     "trailerCount": 0,
-    "sourceCount": 9
+    "sourceCount": 11
   }
 }
