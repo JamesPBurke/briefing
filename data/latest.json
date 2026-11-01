@@ -1,109 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-31T18:00:42.959138Z",
-  "generatedAtDisplay": "2026-10-31 02:00 PM EDT",
+  "generatedAt": "2026-11-01T05:00:03.540816Z",
+  "generatedAtDisplay": "2026-11-01 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Starmer says UK must get closer to Europe as US relationship changes, UK police should not have let US force take over airbase trial, MoD documents show, and Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving another student.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures, Police clash with masked rioters after largely peaceful protests across France, and Tusk defends overhaul of Poland’s constitutional court despite protests.",
   "mainItems": [
     {
-      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "title": "‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
-      "published": "2026-10-31T13:32:25+00:00",
-      "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first…",
+      "url": "https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures",
+      "published": "2026-11-01T02:13:19+00:00",
+      "summary": "An estimated 150,000 people took to the streets of Taipei on Saturday to attend the 24th Taiwan LGBT+ Pride parade.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
+      "title": "Police clash with masked rioters after largely peaceful protests across France",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
-      "published": "2026-10-31T13:30:43+00:00",
-      "summary": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of…",
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+      "published": "2026-11-01T01:43:02+00:00",
+      "summary": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes erupted in Paris, Marseille and other cities on Saturday after tens of thousands of demonstrators, some in Halloween fancy…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving another student",
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "published": "2026-11-01T01:14:06+00:00",
+      "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "published": "2026-10-31T21:06:58+00:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school",
-      "published": "2026-10-31T11:30:41+00:00",
-      "summary": "Sara Brannon plans to continue legal bid against Catholic archdiocese of New Orleans, which governs high school A Louisiana appellate court recently dismissed a wrongful death lawsuit being pursued by a woman whose teenaged son died by…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+      "published": "2026-10-31T20:31:39+00:00",
+      "summary": "Ruling ‘with prejudice’ means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey Epstein A US judge dismissed Donald Trump’s lawsuit against the Wall Street Journal with prejudice on Saturday,…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song",
+      "title": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
+      "published": "2026-10-31T15:25:38+00:00",
+      "summary": "Halloween feels like an especially appropriate time for Playable Archive's arrival.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "‘Love as resilience’: Latino immigrants find joy in honoring ancestors despite ICE arrests",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art",
-      "published": "2026-10-31T11:00:43+00:00",
-      "summary": "Nearly 500 men are detained at the T Don Hutto detention facility, and many have risked sharing their experiences in a unique way What goes on inside Immigration and Customs Enforcement ( ICE ) detention centers across the US happens…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests",
+      "published": "2026-10-31T12:00:44+00:00",
+      "summary": "After canceling Day of the Dead events in 2025, US cities including Henderson, Kentucky, are reviving them Julia, a 19-year-old born in the US, and her parents, undocumented immigrants from Mexico, enjoyed attending the Día de los Muertos…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "published": "2026-10-30T21:27:26+00:00",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "published": "2026-10-30T20:48:43+00:00",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Rural Mississippi Communities Push Back on School Consolidation Efforts",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/",
-      "published": "2026-10-30T18:30:00+00:00",
-      "summary": "Mississippi has lost thousands of public school students over the past decade, leaving fewer children enrolled in the state’s 138 school districts and less money to go around.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Manchester City 0-1 Brighton, Coventry 3-1 Sunderland and more: clockwatch - as it happened",
+      "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
-      "published": "2026-10-31T17:27:40+00:00",
-      "summary": "⚽ Man City 0-1 Brighton | Brentford 2-0 Forest | Hull 2-2 Ipswich ⚽ B’mouth 2-0 Leeds | Cov 3-1 S’land | Chelsea 2-0 Man Utd Nottingham Forest are a strange proposition.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+      "published": "2026-11-01T03:56:49+00:00",
+      "summary": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, wants Democratic congresswoman Haley Stevens to…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/",
-      "published": "2026-10-31T16:30:00+00:00",
-      "summary": "ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "published": "2026-10-31T16:09:02+00:00",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -125,6 +115,16 @@
       "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
+    },
+    {
+      "title": "She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/",
+      "published": "2026-10-31T16:30:00+00:00",
+      "summary": "ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     },
     {
       "title": "People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It",
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 8
   }
 }

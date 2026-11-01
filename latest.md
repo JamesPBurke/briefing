@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-10-31T18:00:42.959138Z
+Generated: 2026-11-01T05:00:03.540816Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Starmer says UK must get closer to Europe as US relationship changes, UK police should not have let US force take over airbase trial, MoD documents show, and Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving another student.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures, Police clash with masked rioters after largely peaceful protests across France, and Tusk defends overhaul of Poland’s constitutional court despite protests.
 
 ## Briefing
 
@@ -33,97 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Starmer says UK must get closer to Europe as US relationship changes [10/10]
+### 1. ‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first…
+An estimated 150,000 people took to the streets of Taipei on Saturday to attend the 24th Taiwan LGBT+ Pride parade.
 
-Link: https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump
+Link: https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures
 
-### 2. UK police should not have let US force take over airbase trial, MoD documents show [10/10]
+### 2. Police clash with masked rioters after largely peaceful protests across France [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of…
+Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes erupted in Paris, Marseille and other cities on Saturday after tens of thousands of demonstrators, some in Halloween fancy…
 
-Link: https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show
+Link: https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
 
-### 3. Louisiana appeals court rejects lawsuit over suicide of boy expelled for shoving another student [10/10]
+### 3. Tusk defends overhaul of Poland’s constitutional court despite protests [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in…
+
+Link: https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests
+
+### 4. Get in the spirit with these horrors from YouTube [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.
+
+Link: https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror
+
+### 5. Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Sara Brannon plans to continue legal bid against Catholic archdiocese of New Orleans, which governs high school A Louisiana appellate court recently dismissed a wrongful death lawsuit being pursued by a woman whose teenaged son died by…
+Ruling ‘with prejudice’ means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey Epstein A US judge dismissed Donald Trump’s lawsuit against the Wall Street Journal with prejudice on Saturday,…
 
-Link: https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school
+Link: https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein
 
-### 4. Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song [9/10]
+### 6. The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game [9/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Halloween feels like an especially appropriate time for Playable Archive's arrival.
+
+Link: https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview
+
+### 7. ‘Love as resilience’: Latino immigrants find joy in honoring ancestors despite ICE arrests [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Nearly 500 men are detained at the T Don Hutto detention facility, and many have risked sharing their experiences in a unique way What goes on inside Immigration and Customs Enforcement ( ICE ) detention centers across the US happens…
+After canceling Day of the Dead events in 2025, US cities including Henderson, Kentucky, are reviving them Julia, a 19-year-old born in the US, and her parents, undocumented immigrants from Mexico, enjoyed attending the Día de los Muertos…
 
-Link: https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art
+Link: https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests
 
-### 5. Exclusive details about Akai’s MPC Sample Key [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight.
+Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.
 
-Link: https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive
+Link: https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
 
-### 6. Sam Altman says it’s better for RAM to be in a data center than on your desk [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
-
-### 7. Rural Mississippi Communities Push Back on School Consolidation Efforts [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Mississippi has lost thousands of public school students over the past decade, leaving fewer children enrolled in the state’s 138 school districts and less money to go around.
-
-Link: https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/
-
-### 8. Manchester City 0-1 Brighton, Coventry 3-1 Sunderland and more: clockwatch - as it happened [8/10]
+### 9. Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’ [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-⚽ Man City 0-1 Brighton | Brentford 2-0 Forest | Hull 2-2 Ipswich ⚽ B’mouth 2-0 Leeds | Cov 3-1 S’land | Chelsea 2-0 Man Utd Nottingham Forest are a strange proposition.
+A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, wants Democratic congresswoman Haley Stevens to…
 
-Link: https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live
+Link: https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events
 
-### 9. She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.
-
-Link: https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/
-
-### 10. I built an AI Tamagotchi before Meta could [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.
-
-Link: https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code
-
-### 11. Do you have seasonal affective disorder? How to tell — and what to do about it [8/10]
+### 10. Do you have seasonal affective disorder? How to tell — and what to do about it [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +123,7 @@ The syndrome can make people feel like a "hibernating bear," says Dr. Norman Ros
 
 Link: https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it
 
-### 12. Your writing was flagged as AI. What does that actually mean? [8/10]
+### 11. Your writing was flagged as AI. What does that actually mean? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -140,6 +131,15 @@ Link: https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affectiv
 As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.
 
 Link: https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram
+
+### 12. She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.
+
+Link: https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/
 
 ### 13. People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It [7/10]
 **Source:** 404 Media  
@@ -149,3 +149,38 @@ Link: https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram
 In a new study perfectly timed for Halloween, scientists dug into the chemical properties of a once-popular beverage with purported medicinal benefits: wine made with ground-up Egyptian mummies.
 
 Link: https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
