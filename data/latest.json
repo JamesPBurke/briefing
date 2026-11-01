@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-01T10:00:46.849455Z",
-  "generatedAtDisplay": "2026-11-01 05:00 AM EST",
+  "generatedAt": "2026-11-01T14:00:01.275633Z",
+  "generatedAtDisplay": "2026-11-01 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The Sunday Papers, ‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds?, and Get in the spirit with these horrors from YouTube.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are Get in the spooky spirit with these horrors from YouTube, ‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants, and Opinion: When it Comes to School Accountability, Florida Is Raising the Bar.",
   "mainItems": [
+    {
+      "title": "Get in the spooky spirit with these horrors from YouTube",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "published": "2026-11-01T13:28:37+00:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/ohio-haitians-ice-immigration-crackdown",
+      "published": "2026-11-01T13:00:13+00:00",
+      "summary": "Haitian community in Springfield demands dignity and better rights for immigrants as ICE crackdown ramps up Michaelle Louis’s feet and legs are aching. She can barely walk.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: When it Comes to School Accountability, Florida Is Raising the Bar",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/when-it-comes-to-school-accountability-florida-is-raising-the-bar/",
+      "published": "2026-11-01T11:30:00+00:00",
+      "summary": "Former Gov. Jeb Bush’s recent essay in The 74 rightly reminds us that accountability is not a destination. Florida built its education reputation by measuring results, publishing them plainly and refusing to accept mediocrity.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
     {
       "title": "The Sunday Papers",
       "source": "Rock Paper Shotgun",
@@ -27,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Get in the spirit with these horrors from YouTube",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "published": "2026-10-31T21:06:58+00:00",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
       "source": "The Guardian US",
       "category": "AI / privacy",
@@ -47,22 +67,22 @@
       "score": 10
     },
     {
-      "title": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
+      "title": "‘Dark money made darker’: funding labyrinth conceals donors to Republican campaigns",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep",
-      "published": "2026-11-01T05:00:03+00:00",
-      "summary": "Relying on technology can make us forgetful, but there are some simple ways to sharpen your recall. Memory experts describe the tricks and habits that can help Memory can worsen as we age, but it is often possible to do something about it.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/republican-campaign-funding-labyrinth",
+      "published": "2026-11-01T13:00:13+00:00",
+      "summary": "One man’s campaign finance operation in Wisconsin exemplifies the opacity of the US political funding system In the summer of 2024, a non-profit called the Green Dragon Coalition wired the last $20,000 of a $445,000 grant to a Super Pac .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures",
+      "title": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures",
-      "published": "2026-11-01T02:13:19+00:00",
-      "summary": "An estimated 150,000 people took to the streets of Taipei on Saturday to attend the 24th Taiwan LGBT+ Pride parade.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
+      "published": "2026-11-01T12:00:11+00:00",
+      "summary": "She thinks the answer to the climate crisis is cutting CO2, he favours population control and North Sea oil and gas extraction.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -87,54 +107,34 @@
       "score": 9
     },
     {
-      "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "published": "2026-11-01T06:53:18+00:00",
-      "summary": "Cryptocurrency exchange says withdrawals starting to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
+      "published": "2026-11-01T13:44:34+00:00",
+      "summary": "Funcom's survival MMO Dune: Awakening is heading north with a free expansion that trades the deserts of Arrakis for a frozen new map. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 8
     },
     {
-      "title": "She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/",
-      "published": "2026-10-31T16:30:00+00:00",
-      "summary": "ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
-    },
-    {
-      "title": "Wild West crypto: Staggering Binance heist exposes sector fragility",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6023330/wild-west-crypto-staggering-binance-heist-exposes-sector-fragility",
-      "published": "2026-10-31T11:42:57+00:00",
-      "summary": "A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
-    },
-    {
-      "title": "People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it/",
-      "published": "2026-10-31T11:00:00+00:00",
-      "summary": "In a new study perfectly timed for Halloween, scientists dug into the chemical properties of a once-popular beverage with purported medicinal benefits: wine made with ground-up Egyptian mummies.",
+      "title": "Has Trump kept his promises to the MAHA movement?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement",
+      "published": "2026-11-01T13:07:54+00:00",
+      "summary": "It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+      "published": "2026-11-01T12:00:00+00:00",
+      "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -181,6 +181,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can Catholic schools receive government funds refuse children of gay or trans parents?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=sST7maDw1F0",
+      "published": "2026-11-01T13:00:32+00:00",
+      "summary": "An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump merchandise stores close, citing falling sales",
@@ -258,17 +269,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Trump calls for probe into Alaska Senate race during Ohio campaign event",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=jZ-8OXutJCg",
-      "published": "2026-10-29T17:00:45+00:00",
-      "summary": "At a campaign rally in Ohio yesterday, President Trump attacked Alaska’s Democratic Senate candidate, Mary Peltola, and called for her to be investigated.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
     },
     {
       "title": "Will Nintendo Upgrade DLSS For Switch 2?",
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 24,
     "trailerCount": 28,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }

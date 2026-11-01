@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-01T10:00:46.849455Z
+Generated: 2026-11-01T14:00:01.275633Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The Sunday Papers, ‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds?, and Get in the spirit with these horrors from YouTube.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are Get in the spooky spirit with these horrors from YouTube, ‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants, and Opinion: When it Comes to School Accountability, Florida Is Raising the Bar.
 
 ## Briefing
 
@@ -33,25 +33,7 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The Sunday Papers [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sundays are for looking upon my DIY works and despairing. Strewn sawdust, spilled paint, and hunks of broken MDF litter my living room kingdom.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-834
-
-### 2. ‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-There has been a steep rise in the number of people labelled autistic over the last 20 years.
-
-Link: https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds
-
-### 3. Get in the spirit with these horrors from YouTube [10/10]
+### 1. Get in the spooky spirit with these horrors from YouTube [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,7 +42,43 @@ Rather than recommend a single horror film or an unsettling album for our final 
 
 Link: https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror
 
-### 4. Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter [10/10]
+### 2. ‘We spend our days in silence’: fear and repression in Ohio as ICE terrorizes Haitian immigrants [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Haitian community in Springfield demands dignity and better rights for immigrants as ICE crackdown ramps up Michaelle Louis’s feet and legs are aching. She can barely walk.
+
+Link: https://www.theguardian.com/us-news/2026/nov/01/ohio-haitians-ice-immigration-crackdown
+
+### 3. Opinion: When it Comes to School Accountability, Florida Is Raising the Bar [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Former Gov. Jeb Bush’s recent essay in The 74 rightly reminds us that accountability is not a destination. Florida built its education reputation by measuring results, publishing them plainly and refusing to accept mediocrity.
+
+Link: https://www.the74million.org/article/when-it-comes-to-school-accountability-florida-is-raising-the-bar/
+
+### 4. The Sunday Papers [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sundays are for looking upon my DIY works and despairing. Strewn sawdust, spilled paint, and hunks of broken MDF litter my living room kingdom.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-834
+
+### 5. ‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+There has been a steep rise in the number of people labelled autistic over the last 20 years.
+
+Link: https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds
+
+### 6. Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,25 +87,25 @@ Ruling ‘with prejudice’ means US president may not amend or refile his lawsu
 
 Link: https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein
 
-### 5. How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep [9/10]
+### 7. ‘Dark money made darker’: funding labyrinth conceals donors to Republican campaigns [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+One man’s campaign finance operation in Wisconsin exemplifies the opacity of the US political funding system In the summer of 2024, a non-profit called the Green Dragon Coalition wired the last $20,000 of a $445,000 grant to a Super Pac .
+
+Link: https://www.theguardian.com/us-news/2026/nov/01/republican-campaign-funding-labyrinth
+
+### 8. Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Relying on technology can make us forgetful, but there are some simple ways to sharpen your recall. Memory experts describe the tricks and habits that can help Memory can worsen as we age, but it is often possible to do something about it.
+She thinks the answer to the climate crisis is cutting CO2, he favours population control and North Sea oil and gas extraction.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right
 
-### 6. ‘Our voices, our journey’: 2026 Taiwan Pride parade – in pictures [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-An estimated 150,000 people took to the streets of Taipei on Saturday to attend the 24th Taiwan LGBT+ Pride parade.
-
-Link: https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures
-
-### 7. Tusk defends overhaul of Poland’s constitutional court despite protests [9/10]
+### 9. Tusk defends overhaul of Poland’s constitutional court despite protests [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,7 +114,7 @@ Prime minister says shake-up is vital to restore tribunal crippled by years of p
 
 Link: https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests
 
-### 8. The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game [9/10]
+### 10. The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game [9/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -105,50 +123,32 @@ Halloween feels like an especially appropriate time for Playable Archive's arriv
 
 Link: https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview
 
-### 9. Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December [8/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down.
+Funcom's survival MMO Dune: Awakening is heading north with a free expansion that trades the deserts of Arrakis for a frozen new map. Read more
 
-Link: https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
+Link: https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion
 
-### 10. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Cryptocurrency exchange says withdrawals starting to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.
-
-Link: https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency
-
-### 11. She Graduated From a Segregated High School at 27. Now 105, She Returned for its Centennial [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-ST. GEORGE, SC — Clara Mae Britt graduated from high school at 27, the oldest in her class by about a decade.
-
-Link: https://www.the74million.org/article/she-graduated-from-a-segregated-high-school-at-27-now-105-she-returned-for-its-centennial/
-
-### 12. Wild West crypto: Staggering Binance heist exposes sector fragility [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-A massive cyber heist of crypto exchange Binance is exposing some of the fragilities of the sector and reinforcing perceptions of the industry as a financial Wild West, critics warn.
-
-Link: https://www.npr.org/2026/10/31/nx-s1-6023330/wild-west-crypto-staggering-binance-heist-exposes-sector-fragility
-
-### 13. People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
+### 12. Has Trump kept his promises to the MAHA movement? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-In a new study perfectly timed for Halloween, scientists dug into the chemical properties of a once-popular beverage with purported medicinal benefits: wine made with ground-up Egyptian mummies.
+It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?
 
-Link: https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it/
+Link: https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement
+
+### 13. It's ACA open enrollment time. Here are the changes for health insurance shoppers [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.
+
+Link: https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance
 
 ## YouTube
 
@@ -187,6 +187,15 @@ Link: https://www.youtube.com/watch?v=0JDtAex8fbY
 Ethan Hawke visits WIRED to answer his most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=XoZtYI_8Mhc
+
+### Can Catholic schools receive government funds refuse children of gay or trans parents? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.
+
+Link: https://www.youtube.com/watch?v=sST7maDw1F0
 
 ### Trump merchandise stores close, citing falling sales [8/10]
 **Creator:** NPR  
@@ -250,15 +259,6 @@ Link: https://www.youtube.com/watch?v=3u1s6YQ5zhs
 We asked voters across the United States what key issues political candidates are forgetting about ahead of the midterm elections.
 
 Link: https://www.youtube.com/watch?v=ZhcXfMScY3w
-
-### Trump calls for probe into Alaska Senate race during Ohio campaign event [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-At a campaign rally in Ohio yesterday, President Trump attacked Alaska’s Democratic Senate candidate, Mary Peltola, and called for her to be investigated.
-
-Link: https://www.youtube.com/watch?v=jZ-8OXutJCg
 
 ### Will Nintendo Upgrade DLSS For Switch 2? [7/10]
 **Creator:** Digital Foundry  
