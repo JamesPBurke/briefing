@@ -1,21 +1,11 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T19:00:44.605821Z",
+  "generatedAt": "2026-11-02T19:00:59.099374Z",
   "generatedAtDisplay": "2026-11-02 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play, Anthropic clamps down on Claude’s AI video game clones, and The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Anthropic clamps down on Claude’s AI video game clones, Claude’s new rules against game cloning won’t stop the AI copying boom, and Student Pulled From Musical Over Anti-DEI Law Sues, Alleging Discrimination.",
   "mainItems": [
-    {
-      "title": "You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play",
-      "published": "2026-11-02T19:00:00+00:00",
-      "summary": "A month or two back I penned a 1500 word whine about feeling too powerful in Blood of Dawnwalker. \"Gimme a vampire sim in which I'm a pathetic vein-nibbling goblin,\" I wrote, using many more adjectives than that.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
     {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "source": "The Verge",
@@ -24,16 +14,6 @@
       "published": "2026-11-02T18:56:02+00:00",
       "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
-      "published": "2026-11-02T18:44:15+00:00",
-      "summary": "The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up \"big plans\" for the evergreen looter shooter's future. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -57,22 +37,42 @@
       "score": 10
     },
     {
-      "title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
-      "published": "2026-11-02T17:30:00+00:00",
-      "summary": "The most important thing to know about Bay 12: Mech Repair is that these are mechs of the MechWarrior or possibly Patlabor school – that is, basically WW2 tanks on hydraulic legs, with cockpits full of switches and wireframe displays.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
       "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
       "published": "2026-11-02T17:20:29+00:00",
       "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "published": "2026-11-02T17:14:23+00:00",
+      "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms",
+      "published": "2026-11-02T10:00:38+00:00",
+      "summary": "Former vice-president has not yet ruled out another run for the Democratic nomination as she campaigns for others in the midterm elections Two years on from her devastating presidential election defeat, Kamala Harris was greeted like a…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "source": "NPR Education",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "published": "2026-11-02T10:00:00+00:00",
+      "summary": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -87,6 +87,16 @@
       "score": 9
     },
     {
+      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "published": "2026-11-02T18:53:39+00:00",
+      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -95,16 +105,6 @@
       "summary": "The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
-    },
-    {
-      "title": "Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/pluribus-season-2-production-release/",
-      "published": "2026-11-02T18:28:06+00:00",
-      "summary": "We miss you,Carol The post Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028 appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
     },
     {
       "title": "Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker",
@@ -137,472 +137,8 @@
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Sf2au-nfu_Q",
-      "published": "2026-11-02T15:45:39+00:00",
-      "summary": "Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Appeals court rules fees stores pay when customers use debit cards must come down",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=4iOjqnXcXhY",
-      "published": "2026-11-01T18:00:30+00:00",
-      "summary": "The price store owners pay for processing debit card transactions could soon be going down.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Can Catholic schools receive government funds refuse children of gay or trans parents?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=sST7maDw1F0",
-      "published": "2026-11-01T13:00:32+00:00",
-      "summary": "An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Trump merchandise stores close, citing falling sales",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=glH2utFuL70",
-      "published": "2026-10-31T16:00:24+00:00",
-      "summary": "At least four stores selling Trump merchandise have closed around the country this year because of falling sales. One of the first Trump stores to close was in suburban Philadelphia. Wes Alker was a long-time customer.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Stephen Graham Jones on what it takes to write a great spine tingler",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=e6_onWXaI6U",
-      "published": "2026-10-30T22:24:53+00:00",
-      "summary": "As part of the series \"FEAR,\" Weekend Edition host Ayesha Rascoe talked with author Stephen Graham Jones about what it takes to write a great spine tingler.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is PS5 QSSR Actually A Response To FSR 4.1 Coming To Xbox?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=D84xcPVWdcQ",
-      "published": "2026-11-02T18:00:39+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Report: Xbox Project Helix \"Delayed\" Until 2028... But Why?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=8gPFthLnDAU",
-      "published": "2026-11-02T17:00:30+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "FPS Trade-Offs, High Input Lag: Can Switch 2 Handle Call of Duty?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LYZQ0Izi_XA",
-      "published": "2026-11-01T17:00:33+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/RhFZa5rnOII ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "How Xbox Has A Metacritic Problem - And Why We're Glad They're Fixing It",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2rZWDpQ0Mi0",
-      "published": "2026-11-01T16:00:01+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Will Nintendo Upgrade DLSS For Switch 2?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eTPylOfWisI",
-      "published": "2026-10-31T17:00:14+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Five Years of Oliver Mackenzie on Digital Foundry!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=ArK1Rnq0bxs",
-      "published": "2026-10-31T16:00:03+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/6QPRMl0Scoc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "What to Do When Genre Fatigue Sets In | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=fPmErCBb91o",
-      "published": "2026-11-02T13:52:01+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about genre fatigue. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Happy November, Time to Play Street Fighter 6 | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=hahFKuyTuSY",
-      "published": "2026-11-01T19:44:17+00:00",
-      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Paperhead and Truckful | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=q0vHfL9DoEI",
-      "published": "2026-11-01T17:08:34+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out Paperhead and Truckful. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Attempts to Read the Lore of Friday the 13th",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=mNFRyijFjEI",
-      "published": "2026-10-31T17:22:20+00:00",
-      "summary": "Yahtzee goes Hollywood with an exploration of the Friday the 13th franchise... movies that make about as much sense as a machete to the cranium. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-      "published": "2026-10-28T13:00:39+00:00",
-      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AYkPRN874m8",
-      "published": "2026-10-15T14:00:39+00:00",
-      "summary": "From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TRAILER TOMORROW.",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=I6WuD0p7XVU",
-      "published": "2026-10-14T16:14:59+00:00",
-      "summary": "Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
-      "published": "2026-10-14T16:00:40+00:00",
-      "summary": "Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Slayground | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=XsReYk7AqPg",
-      "published": "2026-10-20T13:00:34+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "NAZA - Official Trailer - Now Playing In Theaters",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=FquMSRj9z8s",
-      "published": "2026-10-30T16:00:05+00:00",
-      "summary": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Holy Boy | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=yGILDBbzoe0",
-      "published": "2026-10-28T17:12:06+00:00",
-      "summary": "In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Cycle | Deborah Ann Woll | Trailer",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=u_nIsrnN4Ro",
-      "published": "2026-10-24T00:01:42+00:00",
-      "summary": "Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "VHS Mixtape | Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iZS2zDHidsk",
-      "published": "2026-10-13T16:10:10+00:00",
-      "summary": "Do you hear something? The tapes are back. 📼 VHS Mixtape is streaming now on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Saw | Let the Game Begin",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=blTNfNeCt5k",
-      "published": "2026-10-26T19:00:14+00:00",
-      "summary": "Get into the seasonal mood, drop your favorite trap in the comments",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Rainmaker | Mousetrap Monologue",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Vzly5YAYEhY",
-      "published": "2026-10-16T18:30:15+00:00",
-      "summary": "Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Inspired By Rumi: The Power of Movement | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_tT3LHzUoU0",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "From holding the center to connecting with the audience, discover how Rumi leads HUNTR/X and unlock the skills behind her moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Druski Announcement | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fyLw5nZWjs8",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "Collect & Praise — a brand new scripted series from Druski — will exclusively premiere December 1 on Netflix! Set a reminder here: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "You can officially say The Hunting Wives Season 2 comes out this month!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Pbca0zOv6h0",
-      "published": "2026-11-01T18:00:00+00:00",
-      "summary": "You can officially say The Hunting Wives Season 2 comes out this month! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Carter Faith is Charlie Heart in HEARTLAND. Listen to \"Still the Sparrow Sings\" now.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JTUfNN8xY2w",
-      "published": "2026-10-31T00:00:00+00:00",
-      "summary": "Carter Faith is Charlie Heart in HEARTLAND. Listen to \"Still the Sparrow Sings\" now. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "“Your Idol” Official Choreography | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=MF1oRnT2y8E",
-      "published": "2026-10-30T17:00:00+00:00",
-      "summary": "Official choreography for “Your Idol” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Hunchback, Soul of Paris | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=eBfPTW1YaAQ",
-      "published": "2026-10-30T16:00:04+00:00",
-      "summary": "In 1830 Paris, torn apart by cholera and revolution, a hunchbacked stonemason hunted by the police risks everything to save the dancer he has fallen for, inspiring Victor Hugo's most legendary character. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "“Soda Pop” Official Choreography | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pVWZ1eZze3s",
-      "published": "2026-10-29T17:00:00+00:00",
-      "summary": "Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wpNCSAkJ_YM",
-      "published": "2026-10-29T16:30:00+00:00",
-      "summary": "\"So this is it. The climax of your story. Isn't it?\" - Roman To all the edgerunners out there, thank you for returning to Night City.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cunk on Cinema premieres November 15!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=A7EJjjZh7L8",
-      "published": "2026-10-29T14:30:00+00:00",
-      "summary": "Philomena Cunk is back and this time she’s asking the hard-hitting questions about humankind’s finest creation: MOVIES! Cunk on Cinema premieres November 15. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cunk on Cinema | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=MAV4nDKZetY",
-      "published": "2026-10-29T14:30:00+00:00",
-      "summary": "Philomena Cunk is back and will be asking experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to entrance of CGI and what the future of AI…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyson Fury | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jb01qWUn62A",
-      "published": "2026-10-29T09:30:00+00:00",
-      "summary": "Discover the man beneath the Fury in this feature length documentary from Lucy Wilcox. With exclusive access to Paris, Tyson and John Fury, this film charts the rise, fall and redemption of the one and only Gypsy King.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Toos: The Van der Valk Kidnapping | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0Py9xL3rUsc",
-      "published": "2026-10-29T08:00:00+00:00",
-      "summary": "For twenty days, the Netherlands held its breath. Toos: The Van der Valk Kidnapping premieres November 26,only on Netflix. Toos van der Valk had it all: wealth, prestige, and a close-knit family.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Rise and shine. #WayOfTheWarriorKid premieres November 25",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IIpS1Mp7HqY",
-      "published": "2026-11-02T17:52:40+00:00",
-      "summary": "Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.co/_WayoftheWarriorKid Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "2 Hours of Widow's Bay Haunted Ambience | Breakwater Inn",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=UXp2fzfoXUA",
-      "published": "2026-10-31T18:30:35+00:00",
-      "summary": "Time to check in to the Breakwater Inn Here's two hours of Widow's Bay ambience, filled with some haunted surprises. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dark Matter — The Official Podcast: Episode 210 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3vB6FHS1xsE",
-      "published": "2026-10-30T00:59:49+00:00",
-      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Scariest Must-See Moments | Full Scenes | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pP_Glzi0UOA",
-      "published": "2026-10-28T20:59:47+00:00",
-      "summary": "Thrills, chills, and jump scares from some of the spookiest moments on Apple TV.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -714,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 15,
-    "trailerCount": 27,
-    "sourceCount": 19
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
