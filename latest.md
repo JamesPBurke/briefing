@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-02T14:00:03.817740Z
+Generated: 2026-11-02T19:00:44.605821Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture, ICE rapidly re-arresting immigrants released after winning court petitions, and ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play, Anthropic clamps down on Claude’s AI video game clones, and The Borderlands series has sold over 100 million copies, and Gearbox is "cooking hard on more Borderlands 4 content for next year".
 
 ## Briefing
 
@@ -33,97 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture [10/10]
+### 1. You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play [10/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bodysuit.
-
-Link: https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture
-
-### 2. ICE rapidly re-arresting immigrants released after winning court petitions [10/10]
-**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Many are challenging their detention using habeas corpus filings only to be arrested again, in violation of court orders Immigrants who have been granted release from detention after winning habeas corpus petitions in court are being…
+A month or two back I penned a 1500 word whine about feeling too powerful in Blood of Dawnwalker. "Gimme a vampire sim in which I'm a pathetic vein-nibbling goblin," I wrote, using many more adjectives than that.
 
-Link: https://www.theguardian.com/us-news/2026/nov/02/immigrants-released-after-court-petitions-ice-arrest
+Link: https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play
 
-### 3. ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher Taika Waititi has launched a…
-
-Link: https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster
-
-### 4. Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…
-
-Link: https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices
-
-### 5. Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Former vice-president has not yet ruled out another run for the Democratic nomination as she campaigns for others in the midterm elections Two years on from her devastating presidential election defeat, Kamala Harris was greeted like a…
-
-Link: https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms
-
-### 6. With students scarce, college admissions offices get friendlier, less intimidating [10/10]
-**Source:** NPR Education  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.
-
-Link: https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students
-
-### 7. New Zelda and GTA represent a games industry that no longer exists [9/10]
+### 2. Anthropic clamps down on Claude’s AI video game clones [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.
+Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.
 
-Link: https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists
+Link: https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
 
-### 8. Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 3. The Borderlands series has sold over 100 million copies, and Gearbox is "cooking hard on more Borderlands 4 content for next year" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Rolling coverage of the latest economic and financial news Yi He, co-founder of Binance, has said that its top priority is to “ensure the environment is secure, after which users can withdraw their funds and Binance can resume operations.
+The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up "big plans" for the evergreen looter shooter's future. Read more
 
-Link: https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news
+Link: https://www.eurogamer.net/borderlands-100-million-copies-gearbox
 
-### 9. Stop counting tokens, start counting what ships [9/10]
-**Source:** MIT Technology Review  
+### 4. Claude’s new rules against game cloning won’t stop the AI copying boom [10/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.
+The tsunami of imitators is way bigger than any one model maker can stem.
 
-Link: https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/
+Link: https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/
 
-### 10. The Download: the agentic web arrives and the drive for safer roads [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 5. Student Pulled From Musical Over Anti-DEI Law Sues, Alleging Discrimination [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+A North Texas high school senior is suing her school district for not allowing her to portray a male character in a campus theater role that she earned.
 
-Link: https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/
+Link: https://www.the74million.org/article/student-pulled-from-musical-over-anti-dei-law-sues-alleging-discrimination/
 
-### 11. ‘Smart, articulate and guided by his heart’: James Talarico’s journey from teacher to potential Texas senator [9/10]
+### 6. Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The most important thing to know about Bay 12: Mech Repair is that these are mechs of the MechWarrior or possibly Patlabor school – that is, basically WW2 tanks on hydraulic legs, with cockpits full of switches and wireframe displays.
+
+Link: https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech
+
+### 7. Apple’s ‘Ultra’ smart home robot might have to wait until 2028 [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information.
+
+Link: https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay
+
+### 8. The New York Times sues Brave web browser for AI scraping and bypassing paywalls [9/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.
+
+Link: https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times
+
+### 9. Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -132,7 +114,25 @@ The Texan could pull off a historic victory in the Lone Star state, which hasn�
 
 Link: https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections
 
-### 12. Opinion: A Renewed Democracy Requires A Literate One [7/10]
+### 10. Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028 [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+We miss you,Carol The post Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028 appeared first on Reactor .
+
+Link: https://reactormag.com/pluribus-season-2-production-release/
+
+### 11. Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+My polling place was handing out AI slop to midterm voters.
+
+Link: https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/
+
+### 12. Opinion: A Renewed Democracy Requires a Literate One [7/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -152,32 +152,14 @@ Link: https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyap
 
 ## YouTube
 
-### OpenAI Claims It Just Did The Impossible [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.
-
-Link: https://www.youtube.com/watch?v=CWdTBLsbaQs
-
-### The Private Key Mistake! (TLS Key set to "4") - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-You actually have to work quite hard to set a private key to the number 4! - Dr Tim Muller takes us through the problems with 'randomly' assigning a 120 digit number to the value '4' Computerphile is supported by Jane Street.
-
-Link: https://www.youtube.com/watch?v=NDgS__J1U-M
-
-### Historian Debunks The Biggest Witchcraft Myths on Reddit [7/10]
-**Creator:** WIRED  
+### Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-What are the biggest witchcraft myths? Historian of Witchcraft & Demonology Mikki Brock deep-dives into Reddit to separate witchcraft fact from fiction.
+Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.
 
-Link: https://www.youtube.com/watch?v=0JDtAex8fbY
+Link: https://www.youtube.com/watch?v=Sf2au-nfu_Q
 
 ### Appeals court rules fees stores pay when customers use debit cards must come down [8/10]
 **Creator:** NPR  
@@ -215,36 +197,36 @@ As part of the series "FEAR," Weekend Edition host Ayesha Rascoe talked with aut
 
 Link: https://www.youtube.com/watch?v=e6_onWXaI6U
 
-### Candy prices up almost 20% over the last two years [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Halloween is just around the corner, and candy hasn't gotten any cheaper.⁠ ⁠ According to the latest federal data, prices for candy and gum are up 7.7% over the last year — and more than 18% over the last two years.
-
-Link: https://www.youtube.com/watch?v=vvOkWGIN0IA
-
-### 'Star Trek,' 'X-Men' star Patrick Stewart dies at 86 [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Patrick Stewart died Wednesday at the age of 86 after what’s described as “a brief and poignant journey with Alzheimer’s disease and Lewy body dementia.
-
-Link: https://www.youtube.com/watch?v=fBfC949HJ3I
-
-### FPS Trade-Offs, High Input Lag: Can Switch 2 Handle Call of Duty? [7/10]
+### Is PS5 QSSR Actually A Response To FSR 4.1 Coming To Xbox? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=D84xcPVWdcQ
+
+### Report: Xbox Project Helix "Delayed" Until 2028... But Why? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=8gPFthLnDAU
+
+### FPS Trade-Offs, High Input Lag: Can Switch 2 Handle Call of Duty? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/RhFZa5rnOII ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=LYZQ0Izi_XA
 
-### How Xbox Has A Metacritic Problem - And Why We're Glad They're Fixing It [7/10]
+### How Xbox Has A Metacritic Problem - And Why We're Glad They're Fixing It [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -269,23 +251,14 @@ Link: https://www.youtube.com/watch?v=eTPylOfWisI
 
 Link: https://www.youtube.com/watch?v=ArK1Rnq0bxs
 
-### Phantom Blade Zero: The PlayStation 5 Pro Difference [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### What to Do When Genre Fatigue Sets In | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/RW61aLDy6fg?si=LPCHruaDzr9vDT5o ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about genre fatigue. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.
 
-Link: https://www.youtube.com/watch?v=Tj7NVlvQ7Mo
-
-### QD-OLED Displays: The Best All-Round Gaming Monitor Upgrade [Sponsored] [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Content sponsored by MSI ► Watch the Full Video Here: https://youtu.be/LSde8HGKoJ4?si=DIq9Xpj6avoz3FIp ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
-
-Link: https://www.youtube.com/watch?v=x7QYdVgCEbA
+Link: https://www.youtube.com/watch?v=fPmErCBb91o
 
 ### Happy November, Time to Play Street Fighter 6 | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
@@ -313,15 +286,6 @@ Link: https://www.youtube.com/watch?v=q0vHfL9DoEI
 Yahtzee goes Hollywood with an exploration of the Friday the 13th franchise... movies that make about as much sense as a machete to the cranium. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
 
 Link: https://www.youtube.com/watch?v=mNFRyijFjEI
-
-### Management, EA, and Time Killed BioWare, Not “Woke” | Unpacked [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-BioWare has sadly finally pulled the plug on BioWare. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=fUTPl-4KOaw
 
 ## Entertainment Recommendations
 
@@ -451,14 +415,23 @@ Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainm
 
 Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
 
-### River | Official Trailer [9/10]
-**Source:** Blumhouse  
+### Inspired By Rumi: The Power of Movement | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
 **Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+**Why it matters:** Relevant to your current interest graph.
 
-Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+From holding the center to connecting with the audience, discover how Rumi leads HUNTR/X and unlock the skills behind her moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
 
-Link: https://www.youtube.com/watch?v=xrQwmYgCLRQ
+Link: https://www.youtube.com/watch?v=_tT3LHzUoU0
+
+### Druski Announcement | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Collect & Praise — a brand new scripted series from Druski — will exclusively premiere December 1 on Netflix! Set a reminder here: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=fyLw5nZWjs8
 
 ### You can officially say The Hunting Wives Season 2 comes out this month! [10/10]
 **Source:** Netflix  
@@ -550,23 +523,14 @@ For twenty days, the Netherlands held its breath. Toos: The Van der Valk Kidnapp
 
 Link: https://www.youtube.com/watch?v=0Py9xL3rUsc
 
-### Never Surrender | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
+### Rise and shine. #WayOfTheWarriorKid premieres November 25 [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-To save his family, Eyang Hari must face a fierce battle that grows increasingly brutal. Every step brings him closer to the stakes of life and death. Never Surrender premieres November 12, only on Netflix. Watch on Netflix: https://www.
+Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.co/_WayoftheWarriorKid Subscribe to Apple TV’s YouTube channel: https://apple.
 
-Link: https://www.youtube.com/watch?v=o0d1IA85D9o
-
-### “Takedown” Official Choreography | KPop Demon Hunters | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Official choreography for “Takedown” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=j5itLHDMJsE
+Link: https://www.youtube.com/watch?v=IIpS1Mp7HqY
 
 ### 2 Hours of Widow's Bay Haunted Ambience | Breakwater Inn [10/10]
 **Source:** Apple TV  
@@ -594,12 +558,3 @@ Link: https://www.youtube.com/watch?v=3vB6FHS1xsE
 Thrills, chills, and jump scares from some of the spookiest moments on Apple TV.
 
 Link: https://www.youtube.com/watch?v=pP_Glzi0UOA
-
-### Way of the Warrior Kid — Official Trailer | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Every kid needs someone in their corner. Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=R1ECMLrwDYQ

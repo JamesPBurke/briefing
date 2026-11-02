@@ -1,113 +1,93 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T14:00:03.817740Z",
-  "generatedAtDisplay": "2026-11-02 09:00 AM EST",
+  "generatedAt": "2026-11-02T19:00:44.605821Z",
+  "generatedAtDisplay": "2026-11-02 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture, ICE rapidly re-arresting immigrants released after winning court petitions, and ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play, Anthropic clamps down on Claude’s AI video game clones, and The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\".",
   "mainItems": [
     {
-      "title": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
+      "title": "You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play",
       "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play",
+      "published": "2026-11-02T19:00:00+00:00",
+      "summary": "A month or two back I penned a 1500 word whine about feeling too powerful in Blood of Dawnwalker. \"Gimme a vampire sim in which I'm a pathetic vein-nibbling goblin,\" I wrote, using many more adjectives than that.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "published": "2026-11-02T18:56:02+00:00",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
-      "published": "2026-11-02T13:34:28+00:00",
-      "summary": "Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bodysuit.",
+      "url": "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
+      "published": "2026-11-02T18:44:15+00:00",
+      "summary": "The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up \"big plans\" for the evergreen looter shooter's future. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "ICE rapidly re-arresting immigrants released after winning court petitions",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/immigrants-released-after-court-petitions-ice-arrest",
-      "published": "2026-11-02T12:00:39+00:00",
-      "summary": "Many are challenging their detention using habeas corpus filings only to be arrested again, in violation of court orders Immigrants who have been granted release from detention after winning habeas corpus petitions in court are being…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "published": "2026-11-02T18:05:31+00:00",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
-      "published": "2026-11-02T11:38:35+00:00",
-      "summary": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher Taika Waititi has launched a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
-      "published": "2026-11-02T11:00:41+00:00",
-      "summary": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race",
-      "source": "The Guardian US",
+      "title": "Student Pulled From Musical Over Anti-DEI Law Sues, Alleging Discrimination",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms",
-      "published": "2026-11-02T10:00:38+00:00",
-      "summary": "Former vice-president has not yet ruled out another run for the Democratic nomination as she campaigns for others in the midterm elections Two years on from her devastating presidential election defeat, Kamala Harris was greeted like a…",
+      "url": "https://www.the74million.org/article/student-pulled-from-musical-over-anti-dei-law-sues-alleging-discrimination/",
+      "published": "2026-11-02T17:30:00+00:00",
+      "summary": "A North Texas high school senior is suing her school district for not allowing her to portray a male character in a campus theater role that she earned.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
-      "source": "NPR Education",
+      "title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
+      "published": "2026-11-02T17:30:00+00:00",
+      "summary": "The most important thing to know about Bay 12: Mech Repair is that these are mechs of the MechWarrior or possibly Patlabor school – that is, basically WW2 tanks on hydraulic legs, with cockpits full of switches and wireframe displays.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
-      "published": "2026-11-02T10:00:00+00:00",
-      "summary": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "published": "2026-11-02T17:20:29+00:00",
+      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "published": "2026-11-02T13:22:52+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "published": "2026-11-02T19:00:13+00:00",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news",
-      "published": "2026-11-02T13:11:58+00:00",
-      "summary": "Rolling coverage of the latest economic and financial news Yi He, co-founder of Binance, has said that its top priority is to “ensure the environment is secure, after which users can withdraw their funds and Binance can resume operations.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "published": "2026-11-02T13:10:32+00:00",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "published": "2026-11-02T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "‘Smart, articulate and guided by his heart’: James Talarico’s journey from teacher to potential Texas senator",
+      "title": "Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
@@ -117,7 +97,27 @@
       "score": 9
     },
     {
-      "title": "Opinion: A Renewed Democracy Requires A Literate One",
+      "title": "Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/pluribus-season-2-production-release/",
+      "published": "2026-11-02T18:28:06+00:00",
+      "summary": "We miss you,Carol The post Pluribus Season 2 Begins Filming, But We May Be Waiting Until 2028 appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/",
+      "published": "2026-11-02T16:33:20+00:00",
+      "summary": "My polling place was handing out AI slop to midterm voters.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Opinion: A Renewed Democracy Requires a Literate One",
       "source": "The 74",
       "category": "Education / pedagogy",
       "url": "https://www.the74million.org/article/a-renewed-democracy-requires-a-literate-one/",
@@ -139,34 +139,12 @@
   ],
   "youtube": [
     {
-      "title": "OpenAI Claims It Just Did The Impossible",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "published": "2026-10-30T15:57:16+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The Private Key Mistake! (TLS Key set to \"4\") - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=NDgS__J1U-M",
-      "published": "2026-10-30T15:47:25+00:00",
-      "summary": "You actually have to work quite hard to set a private key to the number 4! - Dr Tim Muller takes us through the problems with 'randomly' assigning a 120 digit number to the value '4' Computerphile is supported by Jane Street.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Historian Debunks The Biggest Witchcraft Myths on Reddit",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=0JDtAex8fbY",
-      "published": "2026-10-30T16:02:03+00:00",
-      "summary": "What are the biggest witchcraft myths? Historian of Witchcraft & Demonology Mikki Brock deep-dives into Reddit to separate witchcraft fact from fiction.",
+      "title": "Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Sf2au-nfu_Q",
+      "published": "2026-11-02T15:45:39+00:00",
+      "summary": "Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -216,26 +194,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Candy prices up almost 20% over the last two years",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=vvOkWGIN0IA",
-      "published": "2026-10-30T17:00:33+00:00",
-      "summary": "Halloween is just around the corner, and candy hasn't gotten any cheaper.⁠ ⁠ According to the latest federal data, prices for candy and gum are up 7.7% over the last year — and more than 18% over the last two years.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Is PS5 QSSR Actually A Response To FSR 4.1 Coming To Xbox?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=D84xcPVWdcQ",
+      "published": "2026-11-02T18:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "'Star Trek,' 'X-Men' star Patrick Stewart dies at 86",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=fBfC949HJ3I",
-      "published": "2026-10-30T15:00:30+00:00",
-      "summary": "Patrick Stewart died Wednesday at the age of 86 after what’s described as “a brief and poignant journey with Alzheimer’s disease and Lewy body dementia.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Report: Xbox Project Helix \"Delayed\" Until 2028... But Why?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=8gPFthLnDAU",
+      "published": "2026-11-02T17:00:30+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "FPS Trade-Offs, High Input Lag: Can Switch 2 Handle Call of Duty?",
@@ -245,8 +223,8 @@
       "published": "2026-11-01T17:00:33+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/RhFZa5rnOII ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "How Xbox Has A Metacritic Problem - And Why We're Glad They're Fixing It",
@@ -256,8 +234,8 @@
       "published": "2026-11-01T16:00:01+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Will Nintendo Upgrade DLSS For Switch 2?",
@@ -282,26 +260,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Phantom Blade Zero: The PlayStation 5 Pro Difference",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Tj7NVlvQ7Mo",
-      "published": "2026-10-30T18:00:35+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/RW61aLDy6fg?si=LPCHruaDzr9vDT5o ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "QD-OLED Displays: The Best All-Round Gaming Monitor Upgrade [Sponsored]",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=x7QYdVgCEbA",
-      "published": "2026-10-30T17:00:05+00:00",
-      "summary": "► Content sponsored by MSI ► Watch the Full Video Here: https://youtu.be/LSde8HGKoJ4?si=DIq9Xpj6avoz3FIp ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "What to Do When Genre Fatigue Sets In | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=fPmErCBb91o",
+      "published": "2026-11-02T13:52:01+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about genre fatigue. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Happy November, Time to Play Street Fighter 6 | Super Smash Sunday",
@@ -332,17 +299,6 @@
       "url": "https://www.youtube.com/watch?v=mNFRyijFjEI",
       "published": "2026-10-31T17:22:20+00:00",
       "summary": "Yahtzee goes Hollywood with an exploration of the Friday the 13th franchise... movies that make about as much sense as a machete to the cranium. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Management, EA, and Time Killed BioWare, Not “Woke” | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=fUTPl-4KOaw",
-      "published": "2026-10-30T15:24:27+00:00",
-      "summary": "BioWare has sadly finally pulled the plug on BioWare. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -471,14 +427,25 @@
       "verdict": "Worth a glance"
     },
     {
-      "title": "River | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=xrQwmYgCLRQ",
-      "published": "2026-10-12T15:00:13+00:00",
-      "summary": "Fear runs deep. See River only in theaters January 15. Written & Directed by: Joshua Giuliano Starring: Jane Levy, Jessica Rothe, Max Mattern, Dane DiLiegro /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "title": "Inspired By Rumi: The Power of Movement | KPop Demon Hunters | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_tT3LHzUoU0",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "From holding the center to connecting with the audience, discover how Rumi leads HUNTR/X and unlock the skills behind her moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Druski Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fyLw5nZWjs8",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "Collect & Praise — a brand new scripted series from Druski — will exclusively premiere December 1 on Netflix! Set a reminder here: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -592,23 +559,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Never Surrender | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Rise and shine. #WayOfTheWarriorKid premieres November 25",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=o0d1IA85D9o",
-      "published": "2026-10-29T03:00:00+00:00",
-      "summary": "To save his family, Eyang Hari must face a fierce battle that grows increasingly brutal. Every step brings him closer to the stakes of life and death. Never Surrender premieres November 12, only on Netflix. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "“Takedown” Official Choreography | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=j5itLHDMJsE",
-      "published": "2026-10-28T17:00:00+00:00",
-      "summary": "Official choreography for “Takedown” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=IIpS1Mp7HqY",
+      "published": "2026-11-02T17:52:40+00:00",
+      "summary": "Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.co/_WayoftheWarriorKid Subscribe to Apple TV’s YouTube channel: https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -642,17 +598,6 @@
       "url": "https://www.youtube.com/watch?v=pP_Glzi0UOA",
       "published": "2026-10-28T20:59:47+00:00",
       "summary": "Thrills, chills, and jump scares from some of the spookiest moments on Apple TV.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Way of the Warrior Kid — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=R1ECMLrwDYQ",
-      "published": "2026-10-27T12:59:55+00:00",
-      "summary": "Every kid needs someone in their corner. Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -769,8 +714,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
-    "trailerCount": 28,
-    "sourceCount": 20
+    "youtubeCount": 15,
+    "trailerCount": 27,
+    "sourceCount": 19
   }
 }
