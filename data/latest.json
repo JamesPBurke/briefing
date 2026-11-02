@@ -1,140 +1,140 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T10:00:50.179776Z",
-  "generatedAtDisplay": "2026-11-02 05:00 AM EST",
+  "generatedAt": "2026-11-02T14:00:03.817740Z",
+  "generatedAtDisplay": "2026-11-02 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are With students scarce, college admissions offices get friendlier, less intimidating, ‘Traitors in every family’: Hungary to unmask communist-era informants and confront past, and ‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture, ICE rapidly re-arresting immigrants released after winning court petitions, and ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster.",
   "mainItems": [
+    {
+      "title": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
+      "published": "2026-11-02T13:34:28+00:00",
+      "summary": "Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bodysuit.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "ICE rapidly re-arresting immigrants released after winning court petitions",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/immigrants-released-after-court-petitions-ice-arrest",
+      "published": "2026-11-02T12:00:39+00:00",
+      "summary": "Many are challenging their detention using habeas corpus filings only to be arrested again, in violation of court orders Immigrants who have been granted release from detention after winning habeas corpus petitions in court are being…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
+      "published": "2026-11-02T11:38:35+00:00",
+      "summary": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher Taika Waititi has launched a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
+      "published": "2026-11-02T11:00:41+00:00",
+      "summary": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms",
+      "published": "2026-11-02T10:00:38+00:00",
+      "summary": "Former vice-president has not yet ruled out another run for the Democratic nomination as she campaigns for others in the midterm elections Two years on from her devastating presidential election defeat, Kamala Harris was greeted like a…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "With students scarce, college admissions offices get friendlier, less intimidating",
       "source": "NPR Education",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/with-students-scarce-college-admissions-offices-get-friendlier-less-intimidating",
-      "published": "2026-11-02T09:41:43+00:00",
-      "summary": "Colleges are trying to make admissions less stressful and even engaging faculty to help recruit prospective students",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "published": "2026-11-02T10:00:00+00:00",
+      "summary": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Traitors in every family’: Hungary to unmask communist-era informants and confront past",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past",
-      "published": "2026-11-02T07:09:25+00:00",
-      "summary": "From 1945 to 1989 security police relied on tens of thousands of spies to suppress dissent.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
-      "published": "2026-11-02T05:00:32+00:00",
-      "summary": "A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceans Marine biologist Alice Barbarioli waits with her camera…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-      "published": "2026-11-01T20:10:27+00:00",
-      "summary": "Incumbent Dan Sullivan says he will accept election results after ‘unprecedented intervention’ by Trump’s DoJ A judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska’s US Senate race if Republican…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism",
-      "published": "2026-11-01T14:00:13+00:00",
-      "summary": "In Wicker, the love interest is a man made of plaited twigs. In romantasy, women are getting it on with goblins, elves, minotaurs and mothmen.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Get in the spooky spirit with these horrors from YouTube",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "published": "2026-11-01T13:28:37+00:00",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "published": "2026-11-02T13:22:52+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news",
-      "published": "2026-11-02T09:35:44+00:00",
+      "published": "2026-11-02T13:11:58+00:00",
       "summary": "Rolling coverage of the latest economic and financial news Yi He, co-founder of Binance, has said that its top priority is to “ensure the environment is secure, after which users can withdraw their funds and Binance can resume operations.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
-      "published": "2026-11-01T22:56:41+00:00",
-      "summary": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
-      "published": "2026-11-01T21:34:06+00:00",
-      "summary": "December is certainly going to be the month of Dune. The biggest Dune of Dunecember will obviously go to Dune: Part 3, which is Duen out December 18th.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
-      "published": "2026-11-01T18:16:20+00:00",
-      "summary": "Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is \"coming (very) soon\". Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Apple’s HomeView could add security camera features",
-      "source": "The Verge",
+      "title": "Stop counting tokens, start counting what ships",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "published": "2026-11-01T17:16:07+00:00",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "published": "2026-11-02T13:10:32+00:00",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Opinion: When it Comes to School Accountability, Florida Is Raising the Bar",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/when-it-comes-to-school-accountability-florida-is-raising-the-bar/",
-      "published": "2026-11-01T11:30:00+00:00",
-      "summary": "Former Gov. Jeb Bush’s recent essay in The 74 rightly reminds us that accountability is not a destination. Florida built its education reputation by measuring results, publishing them plainly and refusing to accept mediocrity.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "published": "2026-11-02T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Has Trump kept his promises to the MAHA movement?",
+      "title": "‘Smart, articulate and guided by his heart’: James Talarico’s journey from teacher to potential Texas senator",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
+      "published": "2026-11-02T13:00:42+00:00",
+      "summary": "The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Opinion: A Renewed Democracy Requires A Literate One",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/a-renewed-democracy-requires-a-literate-one/",
+      "published": "2026-11-02T13:30:00+00:00",
+      "summary": "In September, the House passed a bipartisan bill steering federal literacy grants toward instruction grounded in the science of reading. A Senate companion, the READ Act, cleared committee 20 to 2 in July.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
+    },
+    {
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement",
-      "published": "2026-11-01T13:07:54+00:00",
-      "summary": "It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+      "published": "2026-11-02T10:00:00+00:00",
+      "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -190,8 +190,8 @@
       "published": "2026-11-01T13:00:32+00:00",
       "summary": "An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Trump merchandise stores close, citing falling sales",

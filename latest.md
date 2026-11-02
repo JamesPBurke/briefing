@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-02T10:00:50.179776Z
+Generated: 2026-11-02T14:00:03.817740Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are With students scarce, college admissions offices get friendlier, less intimidating, ‘Traitors in every family’: Hungary to unmask communist-era informants and confront past, and ‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture, ICE rapidly re-arresting immigrants released after winning court petitions, and ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. With students scarce, college admissions offices get friendlier, less intimidating [10/10]
+### 1. This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bodysuit.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture
+
+### 2. ICE rapidly re-arresting immigrants released after winning court petitions [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Many are challenging their detention using habeas corpus filings only to be arrested again, in violation of court orders Immigrants who have been granted release from detention after winning habeas corpus petitions in court are being…
+
+Link: https://www.theguardian.com/us-news/2026/nov/02/immigrants-released-after-court-petitions-ice-arrest
+
+### 3. ‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher Taika Waititi has launched a…
+
+Link: https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster
+
+### 4. Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served…
+
+Link: https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices
+
+### 5. Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Former vice-president has not yet ruled out another run for the Democratic nomination as she campaigns for others in the midterm elections Two years on from her devastating presidential election defeat, Kamala Harris was greeted like a…
+
+Link: https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms
+
+### 6. With students scarce, college admissions offices get friendlier, less intimidating [10/10]
 **Source:** NPR Education  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Colleges are trying to make admissions less stressful and even engaging faculty to help recruit prospective students
+Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.
 
-Link: https://www.npr.org/2026/11/02/nx-s1-6007855/with-students-scarce-college-admissions-offices-get-friendlier-less-intimidating
+Link: https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students
 
-### 2. ‘Traitors in every family’: Hungary to unmask communist-era informants and confront past [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From 1945 to 1989 security police relied on tens of thousands of spies to suppress dissent.
-
-Link: https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past
-
-### 3. ‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceans Marine biologist Alice Barbarioli waits with her camera…
-
-Link: https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean
-
-### 4. Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Incumbent Dan Sullivan says he will accept election results after ‘unprecedented intervention’ by Trump’s DoJ A judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska’s US Senate race if Republican…
-
-Link: https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan
-
-### 5. What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In Wicker, the love interest is a man made of plaited twigs. In romantasy, women are getting it on with goblins, elves, minotaurs and mothmen.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism
-
-### 6. Get in the spooky spirit with these horrors from YouTube [10/10]
+### 7. New Zelda and GTA represent a games industry that no longer exists [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.
+This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.
 
-Link: https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror
+Link: https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists
 
-### 7. Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live [9/10]
+### 8. Crypto ‘scammers on overdrive’ as Binance customers pull billions from accounts after $6.3bn hack – business live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,59 +105,50 @@ Rolling coverage of the latest economic and financial news Yi He, co-founder of 
 
 Link: https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news
 
-### 8. Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it.
-
-Link: https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures
-
-### 9. Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-December is certainly going to be the month of Dune. The biggest Dune of Dunecember will obviously go to Dune: Part 3, which is Duen out December 18th.
-
-Link: https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month
-
-### 10. At Dead of Night sequel The Great Hugo is coming "(very) soon" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is "coming (very) soon". Read more
-
-Link: https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced
-
-### 11. Apple’s HomeView could add security camera features [9/10]
-**Source:** The Verge  
+### 9. Stop counting tokens, start counting what ships [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub.
+When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.
 
-Link: https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features
+Link: https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/
 
-### 12. Opinion: When it Comes to School Accountability, Florida Is Raising the Bar [9/10]
+### 10. The Download: the agentic web arrives and the drive for safer roads [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/
+
+### 11. ‘Smart, articulate and guided by his heart’: James Talarico’s journey from teacher to potential Texas senator [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the…
+
+Link: https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections
+
+### 12. Opinion: A Renewed Democracy Requires A Literate One [7/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Former Gov. Jeb Bush’s recent essay in The 74 rightly reminds us that accountability is not a destination. Florida built its education reputation by measuring results, publishing them plainly and refusing to accept mediocrity.
+In September, the House passed a bipartisan bill steering federal literacy grants toward instruction grounded in the science of reading. A Senate companion, the READ Act, cleared committee 20 to 2 in July.
 
-Link: https://www.the74million.org/article/when-it-comes-to-school-accountability-florida-is-raising-the-bar/
+Link: https://www.the74million.org/article/a-renewed-democracy-requires-a-literate-one/
 
-### 13. Has Trump kept his promises to the MAHA movement? [8/10]
+### 13. How does this fluoride-free toothpaste compare when it comes to oral health? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?
+Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?
 
-Link: https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement
+Link: https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health
 
 ## YouTube
 
@@ -188,9 +188,9 @@ The price store owners pay for processing debit card transactions could soon be 
 
 Link: https://www.youtube.com/watch?v=4iOjqnXcXhY
 
-### Can Catholic schools receive government funds refuse children of gay or trans parents? [7/10]
+### Can Catholic schools receive government funds refuse children of gay or trans parents? [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.
