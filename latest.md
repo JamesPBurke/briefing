@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-03T10:00:56.193608Z
+Generated: 2026-11-03T14:00:02.135437Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are US strikes Iran’s Qeshm Island as Vance voices optimism about a deal, ‘At my age, I can rant!’ Bernie Taupin on Elton John, hellraising vampires and competing in full-blown rodeos, and Anthropic clamps down on Claude’s AI video game clones.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US strikes Iran’s Qeshm Island as Vance voices optimism about a deal, Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live, and Federal judge dismisses Trump lawsuit seeking Harvard admissions data.
 
 ## Briefing
 
@@ -42,79 +42,88 @@ Strikes on eve of US midterms reportedly target surface-to-air missiles being us
 
 Link: https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island
 
-### 2. ‘At my age, I can rant!’ Bernie Taupin on Elton John, hellraising vampires and competing in full-blown rodeos [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-He is the outstanding lyricist who propelled the Rocket Man to 300m sales.
-
-Link: https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man
-
-### 3. Anthropic clamps down on Claude’s AI video game clones [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
-
-### 4. Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Douglas DePodesta says he was made ‘scapegoat’ after collapse of case against Broadview Six anti-ICE protesters The former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president’s…
-
-Link: https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj
-
-### 5. Claude’s new rules against game cloning won’t stop the AI copying boom [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The tsunami of imitators is way bigger than any one model maker can stem.
-
-Link: https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/
-
-### 6. Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak [9/10]
+### 2. Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the…
+Warsaw-Modlin Airport gives the all-clear after concluding security sweeps on a LOT Polish Airlines flight from London Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the…
 
-Link: https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections
+Link: https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news
 
-### 7. The Borderlands series has sold over 100 million copies, and Gearbox is "cooking hard on more Borderlands 4 content for next year" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 3. Federal judge dismisses Trump lawsuit seeking Harvard admissions data [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up "big plans" for the evergreen looter shooter's future. Read more
+Demand for individual applicant records as part of purported civil rights review fails on procedural grounds A federal district court judge dismissed a lawsuit on Monday filed by the Trump administration seeking individual applicant…
 
-Link: https://www.eurogamer.net/borderlands-100-million-copies-gearbox
+Link: https://www.theguardian.com/education/2026/nov/03/harvard-trump-lawsuit-dismissed-admissions-data
 
-### 8. Student Pulled From Musical Over Anti-DEI Law Sues, Alleging Discrimination [9/10]
+### 4. US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? It…
+
+Link: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting
+
+### 5. Opinion: My Generation Is Inheriting a Divided Society. It’s Up to Us to Restore Civility [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-A North Texas high school senior is suing her school district for not allowing her to portray a male character in a campus theater role that she earned.
+It was a Wednesday evening at my town’s library, and retirees, parents, middle and high schoolers and a handful of college students had come for a nonpartisan civics event: who our representatives are, how a ballot is laid out, why voting…
 
-Link: https://www.the74million.org/article/student-pulled-from-musical-over-anti-dei-law-sues-alleging-discrimination/
+Link: https://www.the74million.org/article/my-generation-is-inheriting-a-divided-society-its-up-to-us-to-restore-civility/
 
-### 9. How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives [8/10]
+### 6. Apple is restricting dating apps and romanceable chatbots to over 18s [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features.
+
+Link: https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion
+
+### 7. The Download: controlling AI agents and “Super Intelligence” loyalty tests [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/
+
+### 8. Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Indie game storefront itch.io has expanded its AI disclosure filters, allowing its users to better separate games made with the controversial technology from those who don't. Read more
+
+Link: https://www.eurogamer.net/itchio-generative-ai-filters-slop
+
+### 9. Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.
+Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.
 
-Link: https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives
+Link: https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2
 
-### 10. Nearly 1 in 3 Teachers Aren’t Sold on the Science of Reading [8/10]
+### 10. World of Warcraft: Forever Is Already Overrun with AI Slop [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.
+
+Link: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/
+
+### 11. Nearly 1 in 3 Teachers Aren’t Sold on the Science of Reading [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,7 +132,7 @@ Nearly 1 in 3 Teachers Aren’t Sold on the Science of Reading
 
 Link: https://www.the74million.org/article/why-nearly-a-third-of-teachers-arent-committed-to-the-science-of-reading/
 
-### 11. Long-Lost Trailer for Canceled Jurassic Park Animated Series Reportedly Surfaces Online [8/10]
+### 12. Long-Lost Trailer for Canceled Jurassic Park Animated Series Reportedly Surfaces Online [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,25 +141,25 @@ The reportedly unearthed trailer shows what could have been The post Long-Lost T
 
 Link: https://reactormag.com/lost-trailer-jurassic-park-animated-series/
 
-### 12. Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-My polling place was handing out AI slop to midterm voters.
-
-Link: https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/
-
-### 13. What the latest on mRNA vaccines means for cancer [7/10]
+### 13. This woman defied lethal cancer. Can mRNA vaccines make that possible for others? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-One patient in a small trial is experiencing the fantasy results so far with an mRNA pancreatic cancer vaccine. She shows no evidence of the cancer that was supposed to kill her years ago.
+Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and investors.
 
-Link: https://www.npr.org/2026/11/02/nx-s1-6009085/what-the-latest-on-mrna-vaccines-means-for-cancer
+Link: https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin
 
 ## YouTube
+
+### The voting system we use can determine the election winner [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In elections, the math of voting systems also affects the winner.⁠ ⁠ Listen to the full episode at the link in our bio.⁠ ⁠ Reporter: @kwongsong • Emily Kwong/NPR⁠ Producer: @zayrharodriguez • Zayrha Rodriguez/NPR
+
+Link: https://www.youtube.com/watch?v=IY_GqSQ41xk
 
 ### My Chemical Romance album tops the "Billboard" charts 20 years after its release [6/10]
 **Creator:** NPR  
@@ -550,12 +559,12 @@ Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train.
 
 Link: https://www.youtube.com/watch?v=IIpS1Mp7HqY
 
-### 2 Hours of Widow's Bay Haunted Ambience | Breakwater Inn [10/10]
+### 2 Hours of Widow's Bay Haunted Ambience | Breakwater Inn | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Time to check in to the Breakwater Inn Here's two hours of Widow's Bay ambience, filled with some haunted surprises. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.
+Time to check in to the Breakwater Inn. Here's two hours of Widow's Bay ambience, filled with some haunted surprises. Widow's Bay is now streaming on Apple TV. https://apple.
 
 Link: https://www.youtube.com/watch?v=UXp2fzfoXUA
 
