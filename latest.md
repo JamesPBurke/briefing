@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-04T05:00:01.509031Z
+Generated: 2026-11-04T10:00:40.477324Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory, Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator, and One dead and another missing in suspected grizzly bear attack in Canada.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump, EU to lead talks on support for Ukraine with US, Nato, partners – Europe live, and The Download: controlling AI agents and “Super Intelligence” loyalty tests.
 
 ## Briefing
 
@@ -33,61 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory [10/10]
+### 1. US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-James Talarico defeats Trump loyalist Ken Paxton; Sherrod Brown defeats incumbent John Husted; Trump says he will accept results in a dire night for Republicans Track live results from all 50 states As we bring you the latest from around…
+Democrats flip Senate seats in Michigan, Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump’s agenda in ‘blue wave’ Track live results from all 50 states Full report: Democrats win control of Congress in…
 
 Link: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates
 
-### 2. Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator [10/10]
+### 2. EU to lead talks on support for Ukraine with US, Nato, partners – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administration US midterm elections – live updates Track live results from all 50 states Chris Pappas , the four-term Democratic congressman, has…
+European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, Poland’s foreign minister Radosław Sikorski ridiculed the Polish right, which has been supportive of Trump since his return to…
 
-Link: https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu
+Link: https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news
 
-### 3. One dead and another missing in suspected grizzly bear attack in Canada [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where…
-
-Link: https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada
-
-### 4. "Steam's review queue is clogged up by AI slop": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet.
-
-Link: https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games
-
-### 5. Google says there’s no way to use Search without using artificial intelligence [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence .
-
-Link: https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence
-
-### 6. Google will let schools skip AI tools, but they have to give up search, too [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google will offer schools AI tools that purportedly don't give away the answers.
-
-Link: https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/
-
-### 7. The Download: controlling AI agents and “Super Intelligence” loyalty tests [10/10]
+### 3. The Download: controlling AI agents and “Super Intelligence” loyalty tests [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,7 +60,7 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/
 
-### 8. How “reverse game theory” could keep AI agents in check [10/10]
+### 4. How “reverse game theory” could keep AI agents in check [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,16 +69,43 @@ A new approach known as “reverse game theory” aims to control powerful AI mo
 
 Link: https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
 
-### 9. Some universities have programs that allow students to live in retirement communities [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 5. A Life in Fragments by Marina Litvinenko review – intimate testimony of Putin’s poisonous regime [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Universities are offering students an alternative to the typical on-campus and off-campus living options: living alongside seniors in a retirement community.
+The wife of murdered Russian dissident Alexander Litvinenko rages against Putin’s state, in a moving memoir of life in exile, love and loss Among the many images of violence that might be used to define Putin’s chilly reign, one stands out.
 
-Link: https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities
+Link: https://www.theguardian.com/books/2026/nov/04/a-life-in-fragments-by-marina-litvinenko-review-intimate-testimony-of-putins-poisonous-regime
 
-### 10. NYT demands Brave shut down its paywall blocker and end deals with AI firms [9/10]
+### 6. Xavier Becerra wins California race for governor with vows to resist Trump’s agenda [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Son of Mexican immigrants will become state’s first Latino governor since 1875 after victory over ex-Fox News host Steve Hilton US midterm elections – live updates Track live results from all 50 states Xavier Becerra, the Democratic former…
+
+Link: https://www.theguardian.com/us-news/2026/nov/03/xavier-becerra-steve-hilton-california-governor
+
+### 7. A moment that changed me: I was terrified of my own body – until a surprising 20-mile bike ride [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+I grew up with spinal conditions that solidified my sense of being ‘weak and weird’. By my late 30s, I was feeling burnt out.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/04/a-moment-that-changed-me-i-was-terrified-of-my-own-body-until-a-surprising-20-mile-bike-ride
+
+### 8. "Steam's review queue is clogged up by AI slop": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet.
+
+Link: https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games
+
+### 9. NYT demands Brave shut down its paywall blocker and end deals with AI firms [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -123,14 +114,23 @@ Lawsuit calls Brave "supplier, dealer, and distributor" of stolen news content.
 
 Link: https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/
 
-### 11. 24-year-old woman dies after collapsing in final stages of New York City Marathon [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 10. Opinion: My Generation Is Inheriting a Divided Society. It’s Up to Us to Restore Civility [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Father says Rachel Apa died from rhabdomyolysis Runner was former college athlete in ‘perfect shape’ A 24-year-old woman died after collapsing during the final stages of Sunday’s New York City Marathon , her father has said.
+It was a Wednesday evening at my town’s library, and retirees, parents, middle and high schoolers and a handful of college students had come for a nonpartisan civics event: who our representatives are, how a ballot is laid out, why voting…
 
-Link: https://www.theguardian.com/sport/2026/nov/03/24-year-old-woman-dies-after-collapasing-in-final-stages-of-new-york-city-marathon
+Link: https://www.the74million.org/article/my-generation-is-inheriting-a-divided-society-its-up-to-us-to-restore-civility/
+
+### 11. Some universities have programs that allow students to live in retirement communities [8/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Universities are offering students an alternative to the typical on-campus and off-campus living options: living alongside seniors in a retirement community.
+
+Link: https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities
 
 ### 12. UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame? [8/10]
 **Source:** Ars Technica  
@@ -152,7 +152,194 @@ Link: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Historian Answers Gilded Age Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Historian Carl Raymond joins WIRED to answer the internet’s burning questions about the Gilded Age. If John D.
+
+Link: https://www.youtube.com/watch?v=maS8LHbWm4A
+
+### 2026 Kennedy Center honorees include Andy Garcia, Paul Anka [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The latest Kennedy Center honorees include songwriter Paul Anka, music producer David Foster and actor Andy Garcia.
+
+Link: https://www.youtube.com/watch?v=TNn7deS5BPA
+
+### Trump focuses on Reflecting Pool renovations in his final pitch to voters before the midterms [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump made one of his final pitches to voters yesterday in front of the Reflecting Pool in Washington, D.C.
+
+Link: https://www.youtube.com/watch?v=cuPhnJRTMkA
+
+### The voting system we use can determine the election winner [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+In elections, the math of voting systems also affects the winner.⁠ ⁠ Listen to the full episode at the link in our bio.⁠ ⁠ Reporter: @kwongsong • Emily Kwong/NPR⁠ Producer: @zayrharodriguez • Zayrha Rodriguez/NPR
+
+Link: https://www.youtube.com/watch?v=IY_GqSQ41xk
+
+### My Chemical Romance album tops the "Billboard" charts 20 years after its release [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+My Chemical Romance's album "The Black Parade" has now reached the top of the "Billboard" album charts — 20 years after the album was originally released.
+
+Link: https://www.youtube.com/watch?v=CW_fFa7pzSY
+
+### Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.
+
+Link: https://www.youtube.com/watch?v=Sf2au-nfu_Q
+
+### Appeals court rules fees stores pay when customers use debit cards must come down [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The price store owners pay for processing debit card transactions could soon be going down.
+
+Link: https://www.youtube.com/watch?v=4iOjqnXcXhY
+
+### Can Catholic schools receive government funds refuse children of gay or trans parents? [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.
+
+Link: https://www.youtube.com/watch?v=sST7maDw1F0
+
+### Will Project Helix Support PC Upgrades Like Storage And RAM? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=PdEc6eWhfTA
+
+### Phantom Blade Zero PC: Mainstream Rig Test + Path Tracing on RTX 5070 [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/c51uWCN-mGI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=HsCrBVR8HSU
+
+### Is PS5 QSSR Actually A Response To FSR 4.1 Coming To Xbox? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=D84xcPVWdcQ
+
+### Report: Xbox Project Helix "Delayed" Until 2028... But Why? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=8gPFthLnDAU
+
+### FPS Trade-Offs, High Input Lag: Can Switch 2 Handle Call of Duty? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/RhFZa5rnOII ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=LYZQ0Izi_XA
+
+### How Xbox Has A Metacritic Problem - And Why We're Glad They're Fixing It [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2rZWDpQ0Mi0
+
+### Exploring the Opening Hours of Phantom Blade Zero w/ Nick and Jenna [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. Try the free demo now and get the full game on Steam on November 4. https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=B1f46uvlllY
+
+### Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about the life and career of Patrick Stewart, Laika's new stop-motion animation film Wildwood, and everything else they've been watching.
+
+Link: https://www.youtube.com/watch?v=ngaXJa4X9NI
+
+### Jean-Luc Picard Is a Monument to Patrick Stewart | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Patrick Stewart sadly passed away last week. He leaves behind a lasting legacy. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=PQmzETw_Lh8
+
+### Songs of Glimmerwick Is a Story-Driven Witch Academy RPG | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+🎮 This week on Hidden Gems, Jess, Jesse, and KC play Songs of Glimmerwick -- https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=dJmggUTCJo4
+
+### What to Do When Genre Fatigue Sets In | Windbreaker Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about genre fatigue. Get your new Windbreaker mug here on our DFTBA store! -- https://store.dftba.
+
+Link: https://www.youtube.com/watch?v=fPmErCBb91o
+
+### Happy November, Time to Play Street Fighter 6 | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=hahFKuyTuSY
+
+### Paperhead and Truckful | Yahtzee Tries [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries, Yahtzee checked out Paperhead and Truckful. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=q0vHfL9DoEI
 
 ## Entertainment Recommendations
 
@@ -183,4 +370,245 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### JUMANJI: OPEN WORLD - New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
+
+### RAMAYANA: RISE OF A LEGEND - NEW TRAILER [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From the visual artists behind The Odyssey and Dune watch the new trailer for RAMAYANA: RISE OF A LEGEND - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. Tickets on Sale now.
+
+Link: https://www.youtube.com/watch?v=AYkPRN874m8
+
+### TRAILER TOMORROW. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Introducing the epic world RAMAYANA: RISE OF A LEGEND - the most immersive 3D cinematic experience ever - exclusively in theatres, IMAX and Premium Large Formats worldwide November 5. #ramayanamovie
+
+Link: https://www.youtube.com/watch?v=I6WuD0p7XVU
+
+### GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K) [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Jim Caviezel stars in GHOST SOLDIER - exclusively in movie theatres Veterans Day, 11.
+
+Link: https://www.youtube.com/watch?v=UKaWzMf9Ybc
+
+### Slayground | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
+
+Link: https://www.youtube.com/watch?v=XsReYk7AqPg
+
+### NAZA - Official Trailer - Now Playing In Theaters [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.
+
+Link: https://www.youtube.com/watch?v=FquMSRj9z8s
+
+### The Holy Boy | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.
+
+Link: https://www.youtube.com/watch?v=yGILDBbzoe0
+
+### The Cycle | Deborah Ann Woll | Trailer [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=u_nIsrnN4Ro
+
+### Saw | Let the Game Begin [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Get into the seasonal mood, drop your favorite trap in the comments
+
+Link: https://www.youtube.com/watch?v=blTNfNeCt5k
+
+### Rainmaker | Mousetrap Monologue [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainmaker Season 2 at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
+
+### Love Is Blind S11: Boston | Finale Sneak Peek | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+He loves me….he loves me not? The Love Is Blind S11: Boston Finale premieres tomorrow, and don’t miss the reunion this Sunday, November 8 at 9 PM ET / 6 PM PT, only on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2eeTF0cs3_E
+
+### Inspired By Mira: The Power of Movement | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Discover how Mira gives HUNTR/X’s choreography its edge and unlock the skills behind her fearless moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=dttJPAeSoqg
+
+### Rob Lowe: The Outsider | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This definitive documentary goes beyond the highlight reel to reveal what it really took for Rob Lowe to survive Hollywood — and become one of its most enduring stars. Rob Lowe: The Outsider releases November 24, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=WxXQrtp5PDM
+
+### Blue Eye Samurai: Season 2 | Date Announcement | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Three years ago, we met Mizu. Next stop: London. The Emmy winning series , BLUE EYE SAMURAI returns JANUARY 19 2027, only on Netflix. Blue Eye Samurai season 1 is now playing, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=ZkOim2mwFbg
+
+### One Last Order | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+After 37 years of turning drive-thru orders into personal connections,Sighle Williams expects a quiet farewell from a Florida burger joint—but her town has other plans. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=uxrhaidYnrw
+
+### Inspired By Rumi: The Power of Movement | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+From holding the center to connecting with the audience, discover how Rumi leads HUNTR/X and unlock the skills behind her moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_tT3LHzUoU0
+
+### Druski Announcement | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Collect & Praise — a brand new scripted series from Druski — will exclusively premiere December 1 on Netflix! Set a reminder here: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=fyLw5nZWjs8
+
+### You can officially say The Hunting Wives Season 2 comes out this month! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+You can officially say The Hunting Wives Season 2 comes out this month! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Pbca0zOv6h0
+
+### Carter Faith is Charlie Heart in HEARTLAND. Listen to "Still the Sparrow Sings" now. [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Carter Faith is Charlie Heart in HEARTLAND. Listen to "Still the Sparrow Sings" now. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JTUfNN8xY2w
+
+### “Your Idol” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “Your Idol” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=MF1oRnT2y8E
+
+### The Hunchback, Soul of Paris | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In 1830 Paris, torn apart by cholera and revolution, a hunchbacked stonemason hunted by the police risks everything to save the dancer he has fallen for, inspiring Victor Hugo's most legendary character. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=eBfPTW1YaAQ
+
+### “Soda Pop” Official Choreography | KPop Demon Hunters | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=pVWZ1eZze3s
+
+### Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+"So this is it. The climax of your story. Isn't it?" - Roman To all the edgerunners out there, thank you for returning to Night City.
+
+Link: https://www.youtube.com/watch?v=wpNCSAkJ_YM
+
+### Dark Matter — The Fight for the Box | Season 2 Finale Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=tLfJ9HssYOE
+
+### Rise and shine. #WayOfTheWarriorKid premieres November 25 [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.co/_WayoftheWarriorKid Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=IIpS1Mp7HqY
+
+### 2 Hours of Widow's Bay Haunted Ambience | Breakwater Inn | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Time to check in to the Breakwater Inn. Here's two hours of Widow's Bay ambience, filled with some haunted surprises. Widow's Bay is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=UXp2fzfoXUA
+
+### Dark Matter — The Official Podcast: Episode 210 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=3vB6FHS1xsE
