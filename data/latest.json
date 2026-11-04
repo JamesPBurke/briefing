@@ -1,80 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-03T19:00:43.321254Z",
-  "generatedAtDisplay": "2026-11-03 02:00 PM EST",
+  "generatedAt": "2026-11-04T05:00:01.509031Z",
+  "generatedAtDisplay": "2026-11-04 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are US midterm elections 2026 live: Americans go to the polls to decide control of Congress, OpenAI says ChatGPT is catching up to Google in search, and Google’s Gemini-powered Home Speaker is already on sale for 20 percent off.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory, Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator, and One dead and another missing in suspected grizzly bear attack in Canada.",
   "mainItems": [
     {
-      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "published": "2026-11-03T18:39:29+00:00",
-      "summary": "Voters are casting ballots across the US in a referendum on Donald Trump’s agenda Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has…",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "published": "2026-11-04T04:44:25+00:00",
+      "summary": "James Talarico defeats Trump loyalist Ken Paxton; Sherrod Brown defeats incumbent John Husted; Trump says he will accept results in a dire night for Republicans Track live results from all 50 states As we bring you the latest from around…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "published": "2026-11-03T18:38:47+00:00",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
-      "source": "The Verge",
+      "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
-      "published": "2026-11-03T18:11:49+00:00",
-      "summary": "If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
+      "published": "2026-11-04T01:34:31+00:00",
+      "summary": "Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administration US midterm elections – live updates Track live results from all 50 states Chris Pappas , the four-term Democratic congressman, has…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Google is entirely disabling Search in schools that don’t want AI",
-      "source": "The Verge",
+      "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+      "published": "2026-11-03T22:08:50+00:00",
+      "summary": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+      "published": "2026-11-03T21:41:08+00:00",
+      "summary": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "published": "2026-11-03T17:56:53+00:00",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "published": "2026-11-03T20:30:06+00:00",
+      "summary": "In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence .",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-      "published": "2026-11-03T17:32:45+00:00",
-      "summary": "Unclear if series of incidents affecting two UK departures and a number of Ryanair services among others are connected Europe live – latest updates At least seven planes around Europe were searched or diverted after a series of bomb…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ClassWallet Names New CEO as States Prepare for Federal Tax Credit Program",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/classwallet-names-new-ceo-as-states-prepare-for-federal-tax-credit-program/",
-      "published": "2026-11-03T16:30:56+00:00",
-      "summary": "The leader of a major financial technology company, responsible for multiple school choice programs across the country, has stepped down.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "published": "2026-11-03T15:39:30+00:00",
-      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "published": "2026-11-03T17:54:43+00:00",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "published": "2026-11-03T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "published": "2026-11-03T10:43:41+00:00",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Some universities have programs that allow students to live in retirement communities",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities",
+      "published": "2026-11-03T21:14:05+00:00",
+      "summary": "Universities are offering students an alternative to the typical on-campus and off-campus living options: living alongside seniors in a retirement community.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "published": "2026-11-03T18:30:27+00:00",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "24-year-old woman dies after collapsing in final stages of New York City Marathon",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/sport/2026/nov/03/24-year-old-woman-dies-after-collapasing-in-final-stages-of-new-york-city-marathon",
+      "published": "2026-11-03T12:36:08+00:00",
+      "summary": "Father says Rachel Apa died from rhabdomyolysis Runner was former college athlete in ‘perfect shape’ A 24-year-old woman died after collapsing during the final stages of Sunday’s New York City Marathon , her father has said.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
@@ -84,26 +124,6 @@
       "published": "2026-11-03T16:03:13+00:00",
       "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Citizen-led ballot initiatives seek to limit electricity firms’ political donations in Michigan",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/michigan-ballot-political-donation-datacenters",
-      "published": "2026-11-03T12:30:06+00:00",
-      "summary": "One motion considers reining in political spending while another proposes to municipalize the grid in sign of anger with datacenters and high bills Two citizen-led ballot initiatives seek to rein in Michigan’s powerful electric utilities…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Why School Board Members Aren’t Running for Reelection: ‘A lot of Disillusionment’",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/why-school-board-members-arent-running-for-reelection-a-lot-of-disillusionment/",
-      "published": "2026-11-03T15:30:00+00:00",
-      "summary": "The Nov. 3 ballot is long and filled with consequential races. But one thing most voters in California won’t see: much ado about school boards.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -115,26 +135,6 @@
       "summary": "The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
-      "published": "2026-11-02T22:27:07+00:00",
-      "summary": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-      "published": "2026-11-02T21:31:10+00:00",
-      "summary": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and investors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 6
   }
 }
