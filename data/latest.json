@@ -1,89 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-04T10:00:40.477324Z",
-  "generatedAtDisplay": "2026-11-04 05:00 AM EST",
+  "generatedAt": "2026-11-04T14:00:02.139345Z",
+  "generatedAtDisplay": "2026-11-04 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump, EU to lead talks on support for Ukraine with US, Nato, partners – Europe live, and The Download: controlling AI agents and “Super Intelligence” loyalty tests.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump, One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive, and Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment.",
   "mainItems": [
     {
-      "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+      "title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-      "published": "2026-11-04T09:45:45+00:00",
-      "summary": "Democrats flip Senate seats in Michigan, Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump’s agenda in ‘blue wave’ Track live results from all 50 states Full report: Democrats win control of Congress in…",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "published": "2026-11-04T13:44:18+00:00",
+      "summary": "Democrats flip seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina; ‘blue wave’ rejects Trump’s agenda Track live results from all 50 states Full report: Democrats win control of Congress in ‘blue…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+      "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+      "published": "2026-11-04T13:34:57+00:00",
+      "summary": "Macronix, longtime Nintendo hardware partner and one of the main producers of ROM memory, has announced it's leaving the business. ROM chips are key components in Switch and Switch 2 cartridges. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/revisiting-summit-learning-and-the-lessons-of-an-early-ed-tech-experiment/",
+      "published": "2026-11-04T13:30:00+00:00",
+      "summary": "Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-      "published": "2026-11-04T09:40:31+00:00",
-      "summary": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, Poland’s foreign minister Radosław Sikorski ridiculed the Polish right, which has been supportive of Trump since his return to…",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+      "published": "2026-11-04T13:22:28+00:00",
+      "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products Europe live – latest updates France’s national blood service has said hackers accessed control systems and boosted…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
       "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "published": "2026-11-03T13:10:00+00:00",
+      "category": "CS education / AI policy",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "published": "2026-11-04T13:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "published": "2026-11-03T10:43:41+00:00",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "A Life in Fragments by Marina Litvinenko review – intimate testimony of Putin’s poisonous regime",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/nov/04/a-life-in-fragments-by-marina-litvinenko-review-intimate-testimony-of-putins-poisonous-regime",
-      "published": "2026-11-04T07:00:27+00:00",
-      "summary": "The wife of murdered Russian dissident Alexander Litvinenko rages against Putin’s state, in a moving memoir of life in exile, love and loss Among the many images of violence that might be used to define Putin’s chilly reign, one stands out.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Xavier Becerra wins California race for governor with vows to resist Trump’s agenda",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/xavier-becerra-steve-hilton-california-governor",
-      "published": "2026-11-04T06:59:24+00:00",
-      "summary": "Son of Mexican immigrants will become state’s first Latino governor since 1875 after victory over ex-Fox News host Steve Hilton US midterm elections – live updates Track live results from all 50 states Xavier Becerra, the Democratic former…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "A moment that changed me: I was terrified of my own body – until a surprising 20-mile bike ride",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/04/a-moment-that-changed-me-i-was-terrified-of-my-own-body-until-a-surprising-20-mile-bike-ride",
-      "published": "2026-11-04T06:45:26+00:00",
-      "summary": "I grew up with spinal conditions that solidified my sense of being ‘weak and weird’. By my late 30s, I was feeling burnt out.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-      "published": "2026-11-03T21:41:08+00:00",
-      "summary": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet.",
+      "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+      "published": "2026-11-04T12:43:24+00:00",
+      "summary": "Raw Power Games, an independent studio comprising veteran developers of The Witcher 3 , Total War: Three Kingdoms , and Crusader Kings III (among others), have called on players for support after losing their funding - an existential…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+      "published": "2026-11-04T12:19:18+00:00",
+      "summary": "Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+      "published": "2026-11-04T11:03:18+00:00",
+      "summary": "Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "published": "2026-11-04T13:12:40+00:00",
+      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -97,23 +117,13 @@
       "score": 9
     },
     {
-      "title": "Opinion: My Generation Is Inheriting a Divided Society. It’s Up to Us to Restore Civility",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/my-generation-is-inheriting-a-divided-society-its-up-to-us-to-restore-civility/",
-      "published": "2026-11-03T13:30:00+00:00",
-      "summary": "It was a Wednesday evening at my town’s library, and retirees, parents, middle and high schoolers and a handful of college students had come for a nonpartisan civics event: who our representatives are, how a ballot is laid out, why voting…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Some universities have programs that allow students to live in retirement communities",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities",
-      "published": "2026-11-03T21:14:05+00:00",
-      "summary": "Universities are offering students an alternative to the typical on-campus and off-campus living options: living alongside seniors in a retirement community.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "‘There Is One Fight’: American Voters Reject Tech Oligarchy",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/",
+      "published": "2026-11-04T12:11:59+00:00",
+      "summary": "Tuesday's election was a wholesale rejection of Silicon Valley's worldview and AI-powered kleptocracy.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -124,16 +134,6 @@
       "published": "2026-11-03T16:03:13+00:00",
       "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "World of Warcraft: Forever Is Already Overrun with AI Slop",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
-      "published": "2026-11-03T14:00:00+00:00",
-      "summary": "The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -148,6 +148,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Democrat Annie Andrews wins South Carolina Senate race in major upset",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nZOj9vJCQXQ",
+      "published": "2026-11-04T13:23:59+00:00",
+      "summary": "Democrat Annie Andrews has defeated GOP Sen. Darline Graham in South Carolina's Senate race, according to a race call by the Associated Press.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Democrats take back the House and Senate",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=vdP44q0j4KQ",
+      "published": "2026-11-04T13:23:56+00:00",
+      "summary": "The twin victories in the House and Senate return the Democratic Party to full control of Congress for the first time since 2023 and deepen the level of expected friction between President Trump and congressional Democrats in a new era of…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "2026 Kennedy Center honorees include Andy Garcia, Paul Anka",
@@ -189,39 +211,6 @@
       "url": "https://www.youtube.com/watch?v=CW_fFa7pzSY",
       "published": "2026-11-02T20:30:33+00:00",
       "summary": "My Chemical Romance's album \"The Black Parade\" has now reached the top of the \"Billboard\" album charts — 20 years after the album was originally released.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Sf2au-nfu_Q",
-      "published": "2026-11-02T15:45:39+00:00",
-      "summary": "Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Appeals court rules fees stores pay when customers use debit cards must come down",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=4iOjqnXcXhY",
-      "published": "2026-11-01T18:00:30+00:00",
-      "summary": "The price store owners pay for processing debit card transactions could soon be going down.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Can Catholic schools receive government funds refuse children of gay or trans parents?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=sST7maDw1F0",
-      "published": "2026-11-01T13:00:32+00:00",
-      "summary": "An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -300,8 +289,8 @@
       "published": "2026-11-03T23:22:22+00:00",
       "summary": "This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. Try the free demo now and get the full game on Steam on November 4. https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast",
@@ -482,6 +471,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "PROXIES | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI",
+      "published": "2026-11-04T10:00:00+00:00",
+      "summary": "On December 11, Netflix presents ‘PROXIES’ the new mind-bending thriller from Oriol Paulo, director of ‘The Innocent,’ ‘God's Crooked Lines,’ and ‘The Invisible Guest,’ starring Eduard Fernández, Mario Casas, Blanca Suárez, Nicolás…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Love Is Blind S11: Boston | Finale Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -609,17 +609,6 @@
       "url": "https://www.youtube.com/watch?v=pVWZ1eZze3s",
       "published": "2026-10-29T17:00:00+00:00",
       "summary": "Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wpNCSAkJ_YM",
-      "published": "2026-10-29T16:30:00+00:00",
-      "summary": "\"So this is it. The climax of your story. Isn't it?\" - Roman To all the edgerunners out there, thank you for returning to Night City.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -780,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
+    "youtubeCount": 20,
     "trailerCount": 27,
-    "sourceCount": 18
+    "sourceCount": 20
   }
 }

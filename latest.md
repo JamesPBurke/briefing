@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-04T10:00:40.477324Z
+Generated: 2026-11-04T14:00:02.139345Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump, EU to lead talks on support for Ukraine with US, Nato, partners – Europe live, and The Download: controlling AI agents and “Super Intelligence” loyalty tests.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump, One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive, and Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment.
 
 ## Briefing
 
@@ -33,79 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump [10/10]
+### 1. US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Democrats flip Senate seats in Michigan, Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump’s agenda in ‘blue wave’ Track live results from all 50 states Full report: Democrats win control of Congress in…
+Democrats flip seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina; ‘blue wave’ rejects Trump’s agenda Track live results from all 50 states Full report: Democrats win control of Congress in ‘blue…
 
-Link: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates
+Link: https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates
 
-### 2. EU to lead talks on support for Ukraine with US, Nato, partners – Europe live [10/10]
+### 2. One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Macronix, longtime Nintendo hardware partner and one of the main producers of ROM memory, has announced it's leaving the business. ROM chips are key components in Switch and Switch 2 cartridges. Read more
+
+Link: https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing
+
+### 3. Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+
+Link: https://www.the74million.org/article/revisiting-summit-learning-and-the-lessons-of-an-early-ed-tech-experiment/
+
+### 4. French blood banks hacked in latest cyber-attack on Europe [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, Poland’s foreign minister Radosław Sikorski ridiculed the Polish right, which has been supportive of Trump since his return to…
+Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products Europe live – latest updates France’s national blood service has said hackers accessed control systems and boosted…
 
-Link: https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news
+Link: https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe
 
-### 3. The Download: controlling AI agents and “Super Intelligence” loyalty tests [10/10]
+### 5. The Download: blended meat, restored sight, and the agentic web [10/10]
 **Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/
+Link: https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/
 
-### 4. How “reverse game theory” could keep AI agents in check [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.
-
-Link: https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
-
-### 5. A Life in Fragments by Marina Litvinenko review – intimate testimony of Putin’s poisonous regime [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The wife of murdered Russian dissident Alexander Litvinenko rages against Putin’s state, in a moving memoir of life in exile, love and loss Among the many images of violence that might be used to define Putin’s chilly reign, one stands out.
-
-Link: https://www.theguardian.com/books/2026/nov/04/a-life-in-fragments-by-marina-litvinenko-review-intimate-testimony-of-putins-poisonous-regime
-
-### 6. Xavier Becerra wins California race for governor with vows to resist Trump’s agenda [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Son of Mexican immigrants will become state’s first Latino governor since 1875 after victory over ex-Fox News host Steve Hilton US midterm elections – live updates Track live results from all 50 states Xavier Becerra, the Democratic former…
-
-Link: https://www.theguardian.com/us-news/2026/nov/03/xavier-becerra-steve-hilton-california-governor
-
-### 7. A moment that changed me: I was terrified of my own body – until a surprising 20-mile bike ride [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-I grew up with spinal conditions that solidified my sense of being ‘weak and weird’. By my late 30s, I was feeling burnt out.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/04/a-moment-that-changed-me-i-was-terrified-of-my-own-body-until-a-surprising-20-mile-bike-ride
-
-### 8. "Steam's review queue is clogged up by AI slop": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games [9/10]
+### 6. "Keep talking about it": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet.
+Raw Power Games, an independent studio comprising veteran developers of The Witcher 3 , Total War: Three Kingdoms , and Crusader Kings III (among others), have called on players for support after losing their funding - an existential…
 
-Link: https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games
+Link: https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding
 
-### 9. NYT demands Brave shut down its paywall blocker and end deals with AI firms [9/10]
+### 7. Israel’s election commission rejects Netanyahu claims of voting fraud [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s…
+
+Link: https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud
+
+### 8. The Legend of Zelda: Ocarina of Time review – a dream come true [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches.
+
+Link: https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch
+
+### 9. All the news about The Legend of Zelda: Ocarina of Time remake [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time.
+
+Link: https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news
+
+### 10. Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.
+
+Link: https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2
+
+### 11. NYT demands Brave shut down its paywall blocker and end deals with AI firms [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -114,25 +132,16 @@ Lawsuit calls Brave "supplier, dealer, and distributor" of stolen news content.
 
 Link: https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/
 
-### 10. Opinion: My Generation Is Inheriting a Divided Society. It’s Up to Us to Restore Civility [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 12. ‘There Is One Fight’: American Voters Reject Tech Oligarchy [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-It was a Wednesday evening at my town’s library, and retirees, parents, middle and high schoolers and a handful of college students had come for a nonpartisan civics event: who our representatives are, how a ballot is laid out, why voting…
+Tuesday's election was a wholesale rejection of Silicon Valley's worldview and AI-powered kleptocracy.
 
-Link: https://www.the74million.org/article/my-generation-is-inheriting-a-divided-society-its-up-to-us-to-restore-civility/
+Link: https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/
 
-### 11. Some universities have programs that allow students to live in retirement communities [8/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Universities are offering students an alternative to the typical on-campus and off-campus living options: living alongside seniors in a retirement community.
-
-Link: https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities
-
-### 12. UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame? [8/10]
+### 13. UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame? [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-progra
 UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.
 
 Link: https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/
-
-### 13. World of Warcraft: Forever Is Already Overrun with AI Slop [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.
-
-Link: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/
 
 ## YouTube
 
@@ -160,6 +160,24 @@ Link: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-
 Historian Carl Raymond joins WIRED to answer the internet’s burning questions about the Gilded Age. If John D.
 
 Link: https://www.youtube.com/watch?v=maS8LHbWm4A
+
+### Democrat Annie Andrews wins South Carolina Senate race in major upset [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Democrat Annie Andrews has defeated GOP Sen. Darline Graham in South Carolina's Senate race, according to a race call by the Associated Press.
+
+Link: https://www.youtube.com/watch?v=nZOj9vJCQXQ
+
+### Democrats take back the House and Senate [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The twin victories in the House and Senate return the Democratic Party to full control of Congress for the first time since 2023 and deepen the level of expected friction between President Trump and congressional Democrats in a new era of…
+
+Link: https://www.youtube.com/watch?v=vdP44q0j4KQ
 
 ### 2026 Kennedy Center honorees include Andy Garcia, Paul Anka [7/10]
 **Creator:** NPR  
@@ -196,33 +214,6 @@ Link: https://www.youtube.com/watch?v=IY_GqSQ41xk
 My Chemical Romance's album "The Black Parade" has now reached the top of the "Billboard" album charts — 20 years after the album was originally released.
 
 Link: https://www.youtube.com/watch?v=CW_fFa7pzSY
-
-### Michigan Democrats furious over Haley Stevens' endorsement of Abdul El-Sayed's Republican rival [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Michigan Democratic congresswoman Haley Stevens has revoked her endorsement of Michigan Senate candidate Abdul El-Sayed, endorsing his Republican rival, former congressman Mike Rogers instead.
-
-Link: https://www.youtube.com/watch?v=Sf2au-nfu_Q
-
-### Appeals court rules fees stores pay when customers use debit cards must come down [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The price store owners pay for processing debit card transactions could soon be going down.
-
-Link: https://www.youtube.com/watch?v=4iOjqnXcXhY
-
-### Can Catholic schools receive government funds refuse children of gay or trans parents? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-An upcoming Supreme Court case looks at whether Catholic schools that are receiving funds from the government can refuse children admission if their parents or other family members are gay or trans.
-
-Link: https://www.youtube.com/watch?v=sST7maDw1F0
 
 ### Will Project Helix Support PC Upgrades Like Storage And RAM? [7/10]
 **Creator:** Digital Foundry  
@@ -278,9 +269,9 @@ Link: https://www.youtube.com/watch?v=LYZQ0Izi_XA
 
 Link: https://www.youtube.com/watch?v=2rZWDpQ0Mi0
 
-### Exploring the Opening Hours of Phantom Blade Zero w/ Nick and Jenna [9/10]
+### Exploring the Opening Hours of Phantom Blade Zero w/ Nick and Jenna [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. Try the free demo now and get the full game on Steam on November 4. https://store.steampowered.
@@ -460,6 +451,15 @@ Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainm
 
 Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
 
+### PROXIES | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+On December 11, Netflix presents ‘PROXIES’ the new mind-bending thriller from Oriol Paulo, director of ‘The Innocent,’ ‘God's Crooked Lines,’ and ‘The Invisible Guest,’ starring Eduard Fernández, Mario Casas, Blanca Suárez, Nicolás…
+
+Link: https://www.youtube.com/watch?v=O-BNo1l6yPI
+
 ### Love Is Blind S11: Boston | Finale Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -567,15 +567,6 @@ Link: https://www.youtube.com/watch?v=eBfPTW1YaAQ
 Official choreography for “Soda Pop” from the hit Netflix film, KPop Demon Hunters. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=pVWZ1eZze3s
-
-### Cyberpunk: Edgerunners 2 | High Forever (Marlon Hoffstadt Remix) | Music Video | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-"So this is it. The climax of your story. Isn't it?" - Roman To all the edgerunners out there, thank you for returning to Night City.
-
-Link: https://www.youtube.com/watch?v=wpNCSAkJ_YM
 
 ### Dark Matter — The Fight for the Box | Season 2 Finale Scene | Apple TV [10/10]
 **Source:** Apple TV  
