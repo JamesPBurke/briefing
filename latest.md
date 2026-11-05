@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-05T10:00:53.902414Z
+Generated: 2026-11-05T14:00:01.688038Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Multiple planes diverted amid bomb threats to commercial flights across Europe – live, Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and "progressing as scheduled", and Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year, The Download: Texas’s fragile AI boom and energy policy shifts, and Outcry after ICE violently detains US citizen walking to high school: ‘I thought they were going to kill me’.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Multiple planes diverted amid bomb threats to commercial flights across Europe – live [10/10]
-**Source:** The Guardian US  
+### 1. Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The clue, of course, is right there in the title.
+
+Link: https://www.eurogamer.net/queens-domain-now-playing
+
+### 2. The Download: Texas’s fragile AI boom and energy policy shifts [10/10]
+**Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-France confirms Dublin-Rome flight has landed in military base, while media in Italy, Bulgaria and Belgium also report threats And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats…
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput.
 
-Link: https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates
+Link: https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/
 
-### 2. Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and "progressing as scheduled" [10/10]
+### 3. Outcry after ICE violently detains US citizen walking to high school: ‘I thought they were going to kill me’ [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Agents pinned down Erik Zepeda, a 20-year-old with disabilities, and left him with a broken wrist in latest example of ICE brutality as activity surges in California The violent ICE detention of a US citizen with disabilities as he walked…
+
+Link: https://www.theguardian.com/us-news/2026/nov/05/ice-california-detention-santa-maria
+
+### 4. Childcare’s Private Equity Crackdown Has a Blind Spot [10/10]
+**Source:** The 74  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nearly two years ago, I began following a pattern of closures among Guidepost Montessori schools — a network that at the time had more than 130 Montessori-inspired childcare programs, most of which focused on children younger than age 6.
+
+Link: https://www.the74million.org/zero2eight/childcares-private-equity-crackdown-has-a-blind-spot/
+
+### 5. Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and "progressing as scheduled" [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +78,7 @@ Today, Thursday 5th November, 2026, Sony shared its latest financial results, re
 
 Link: https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware
 
-### 3. Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews [10/10]
+### 6. Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -60,43 +87,34 @@ In the wake of witnessing an unprecedented number of game submissions to Steam o
 
 Link: https://www.eurogamer.net/steam-games-approvals-delayed-valve-response
 
-### 4. ‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Exclusive: pro-democracy activist’s prison letters reveal fascination with AI, brushes with Triads and an appetite for books Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case From inside…
-
-Link: https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years
-
-### 5. Protesters to join nationwide march as France braces for day of strike action [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Hospital workers, air traffic and rail staff expected to join strikes amid renewed protests over education and rising living costs Hundreds of thousands are expected to march in demonstrations across France as trade unions call for a…
-
-Link: https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living
-
-### 6. Xbox previews two new ways to control cloud games [9/10]
+### 7. Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today.
+The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary.
 
-Link: https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller
+Link: https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi
 
-### 7. Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment [9/10]
+### 8. ‘ResearchED’: Building the Case for Learning Science, One Saturday a Time [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+MAPLEWOOD, Mo. — At your typical education conference, the keynote speaker takes the stage with a big, flashy multimedia slide show and innovative ideas guaranteed to pump up the crowd.
 
-Link: https://www.the74million.org/article/revisiting-summit-learning-and-the-lessons-of-an-early-ed-tech-experiment/
+Link: https://www.the74million.org/article/researched-building-the-case-for-learning-science-one-saturday-a-time/
 
-### 8. Hackers exploited iOS and Android flaws to infect phones [8/10]
+### 9. Teens worldwide aren't getting enough exercise -- especially girls [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.
+
+Link: https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap
+
+### 10. Hackers exploited iOS and Android flaws to infect phones [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,16 +123,7 @@ Researchers say group may have been Kremlin-sponsored in search of diplomatic ta
 
 Link: https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/
 
-### 9. It was a big night for doctors to win seats in Congress, riding the blue wave [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.
-
-Link: https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave
-
-### 10. American Voters Overwhelmingly Reject AI Data Centers [8/10]
+### 11. American Voters Overwhelmingly Reject AI Data Centers [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,15 +131,6 @@ Link: https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors
 Data centers were on the ballot in dozens of races last night. They lost most of them.
 
 Link: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/
-
-### 11. Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.
-
-Link: https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2
 
 ### 12. Project Hail Mary Almost Almost Included That Plan to Nuke Antarctica [7/10]
 **Source:** Reactor  
@@ -287,9 +287,9 @@ This video is brought to you by Slumber Realm, a 90s-inspired roguelike that let
 
 Link: https://www.youtube.com/watch?v=Zonxpaxdha0
 
-### Yahtzee Tries... Queen's Domain and Potato Please [8/10]
+### Yahtzee Tries... Queen's Domain and Potato Please [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try Queen's Domain and Potato Please. https://store.steampowered.com/app/1799840/Queens_Domain/ https://store.steampowered.
