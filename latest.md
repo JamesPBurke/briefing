@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-04T19:00:42.681179Z
+Generated: 2026-11-05T05:00:04.035072Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Nothing teases a screen-free AI device ahead of launch next month, Anker’s new window-mounted camera monitors the outside of your home from within it, and Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case, Colorado rejects conservative effort to require police to cooperate with immigration officers, and The Download: blended meat, restored sight, and the agentic web.
 
 ## Briefing
 
@@ -33,52 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Nothing teases a screen-free AI device ahead of launch next month [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei
-
-### 2. Anker’s new window-mounted camera monitors the outside of your home from within it [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home.
-
-Link: https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision
-
-### 3. Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation [10/10]
+### 1. Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Jacqueline Kelly, who took part in Sean ‘Diddy’ Combs case, will head criminal inquiry into 2024 incident at university The New York attorney general, Letitia James, has tapped a former prosecutor involved in the Sean “Diddy” Combs case to…
+Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign…
 
-Link: https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly
+Link: https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case
 
-### 4. ChatGPT will now make you animated GIFs [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6
-
-### 5. ‘Never in a million years’: alligator strolls into North Carolina bagel shop [10/10]
+### 2. Colorado rejects conservative effort to require police to cooperate with immigration officers [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-3ft-long reptile was looking for a meal before animal protective services safely removed it from establishment Surveillance cameras installed in a North Carolina bagel shop caught a small alligator purposefully strolling though the back…
+Amendment 81 would have required law enforcement to notify federal agents if people accused of violent crimes were not lawfully present in US Colorado voters have spurned a conservative group’s effort to force police and prosecutors to aid…
 
-Link: https://www.theguardian.com/us-news/2026/nov/04/alligator-north-carolina-bagel-shop
+Link: https://www.theguardian.com/us-news/2026/nov/04/colorado-rejects-conservative-immigration-amendment
 
-### 6. The Download: blended meat, restored sight, and the agentic web [10/10]
+### 3. The Download: blended meat, restored sight, and the agentic web [10/10]
 **Source:** MIT Technology Review  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,52 +60,70 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/
 
-### 7. Israel’s election commission rejects Netanyahu claims of voting fraud [10/10]
+### 4. US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s…
+Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US…
 
-Link: https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud
+Link: https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates
 
-### 8. Democrats’ triumph deals devastating blow to Trump - The Latest [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Democrats have won a historic sweep in the US midterm elections, winning back control of Congress in a major setback for Donald Trump.
-
-Link: https://www.theguardian.com/news/video/2026/nov/04/democrats-triumph-deals-devastating-blow-to-trump-the-latest
-
-### 9. Roundtables: Inside the Quest for Cognitive Immortality [9/10]
-**Source:** MIT Technology Review  
+### 5. Gemini for Home now plugs into AT&T’s smart security system [9/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death.
+AT&T's smart home security system now integrates with Gemini for Home.
 
-Link: https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/
+Link: https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system
 
-### 10. Opinion: Democratic Governors Must Prove Education Is a Priority. Here’s Where to Start [9/10]
+### 6. Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic? [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Eight years ago, I sat at my desk enthralled.
+
+Link: https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic
+
+### 7. Revisiting Summit Learning and the Lessons of an Early Ed Tech Experiment [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Every Democratic governor says education matters. It’s the safest line in politics. But far fewer govern as if it does. That wasn’t always the case. Not long ago, Democratic governors led the country on education reform.
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
 
-Link: https://www.the74million.org/article/democratic-governors-must-prove-education-is-a-priority-heres-where-to-start/
+Link: https://www.the74million.org/article/revisiting-summit-learning-and-the-lessons-of-an-early-ed-tech-experiment/
 
-### 11. ‘I put a smoke bomb in a road cone and stuck it on my head’: Delton Barrett’s best photograph [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 8. Hackers exploited iOS and Android flaws to infect phones [8/10]
+**Source:** Ars Technica  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-‘It occurred to me that this image looked like someone losing their mind, going ballistic. I tried many shots and was getting tired.
+Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.
 
-Link: https://www.theguardian.com/artanddesign/2026/nov/04/smoke-bomb-road-cone-losing-mind-delton-barrett-best-photograph
+Link: https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/
 
-### 12. American Voters Overwhelmingly Reject AI Data Centers [8/10]
+### 9. It was a big night for doctors to win seats in Congress, riding the blue wave [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.
+
+Link: https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave
+
+### 10. Project Hail Mary Almost Almost Included That Plan to Nuke Antarctica [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+It's one of the big scenes Drew Goddard regrets cutting from the movie The post Project Hail Mary Almost Almost Included That Plan to Nuke Antarctica appeared first on Reactor .
+
+Link: https://reactormag.com/project-hail-mary-cut-scene-screenplay/
+
+### 11. American Voters Overwhelmingly Reject AI Data Centers [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,7 +132,7 @@ Data centers were on the ballot in dozens of races last night. They lost most of
 
 Link: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/
 
-### 13. Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe [8/10]
+### 12. Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -149,3 +140,106 @@ Link: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-cent
 Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.
 
 Link: https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2
+
+### 13. This Thanksgiving, make your pies mini: Mini pies may be the secret to a stress-free celebration. [7/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+What’s the one food you most look forward to at Thanksgiving? For some it’s the turkey. For others it’s the array of sides.
+
+Link: https://www.kingarthurbaking.com/blog/2026/11/04/mini-Thanksgiving-pies
+
+## YouTube
+
+### Will The Hardware Crisis Impact Intel/AMD CPU Releases? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=lA-9DDjE62Y
+
+### FSR 4.1 "Lite" Tested on Asus ROG Ally X20... And It's Impressive [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/c51uWCN-mGI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=_-WWA17UcGI
+
+### Will Project Helix Support PC Upgrades Like Storage And RAM? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=PdEc6eWhfTA
+
+### Phantom Blade Zero PC: Mainstream Rig Test + Path Tracing on RTX 5070 [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/c51uWCN-mGI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=HsCrBVR8HSU
+
+### Is PS5 QSSR Actually A Response To FSR 4.1 Coming To Xbox? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=D84xcPVWdcQ
+
+### Report: Xbox Project Helix "Delayed" Until 2028... But Why? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bfz5lFEoGj8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=8gPFthLnDAU
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### Slayground | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
+
+Link: https://www.youtube.com/watch?v=XsReYk7AqPg
