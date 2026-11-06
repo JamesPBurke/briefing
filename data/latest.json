@@ -1,109 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-06T10:01:00.188387Z",
-  "generatedAtDisplay": "2026-11-06 05:01 AM EST",
+  "generatedAt": "2026-11-06T14:00:02.838894Z",
+  "generatedAtDisplay": "2026-11-06 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live, Awkwafina: The Unlikely Cook review – the heir to a legendary eatery … who sets soup on fire, and ‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and their undimmed faith in humanity.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Further bomb threats disrupt at least another 18 flights across Europe, The Download: a humanoid cleans house and Samsung builds for the AI boom, and Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones.",
   "mainItems": [
     {
-      "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "published": "2026-11-06T09:49:56+00:00",
-      "summary": "Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "published": "2026-11-06T13:34:59+00:00",
+      "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats has disrupted air traffic across Europe but the affected planes landed safely and searches revealed…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Awkwafina: The Unlikely Cook review – the heir to a legendary eatery … who sets soup on fire",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/awkwafina-the-unlikely-cook-review",
-      "published": "2026-11-06T05:01:43+00:00",
-      "summary": "She is completely baffled in the kitchen, but the star valiantly resurrects her family’s famous restaurant. Her journey is chaotic, hilarious – and deeply moving It starts both very well and very badly does Awkwafina: The Unlikely Cook.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and their undimmed faith in humanity",
-      "source": "The Guardian US",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/nov/06/its-a-new-world-its-a-little-fascistic-and-it-needs-a-different-response-u2-on-50-years-together-and-their-undimmed-faith-in-humanity",
-      "published": "2026-11-06T05:00:44+00:00",
-      "summary": "After some so-so albums, can U2’s new one, Carnaval de Luz, restore them to glory? They discuss male egos, working with Dolly Parton, and explain why, despite Trump, they still believe in democracy – at least in their band La Petite…",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "published": "2026-11-06T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Experience: I helped jail the teacher who groomed me",
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "published": "2026-11-06T12:02:40+00:00",
+      "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/experience-i-helped-jail-the-teacher-who-groomed-me",
-      "published": "2026-11-06T05:00:43+00:00",
-      "summary": "At 15, having the cool 31-year-old PE teacher single me out felt thrilling. It took years to see his praise for what it really was I was 15 when Paul joined my high school in Queensland, Australia, as a PE teacher.",
+      "url": "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression",
+      "published": "2026-11-06T12:00:42+00:00",
+      "summary": "While some fear another full-scale war, others are less sure – but both agree repression at home will continue Just hours after the US midterm election results delivered a crushing defeat for the Republican party, pro-regime crowds…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Dolly Parton’s manager drops complaint accusing nephew of harassment",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/nov/05/dolly-parton-nephew-harassment",
-      "published": "2026-11-06T01:45:45+00:00",
-      "summary": "Tennessee filing gives no reason for withdrawal over Bryan Seaver after estate secured restraining order against him Dolly Parton’s longtime manager on Thursday dropped a complaint that accused the late singer’s nephew of threatening her…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist",
-      "published": "2026-11-05T14:44:37+00:00",
-      "summary": "Former comedian long traded on his extreme persona, yet many will wonder how he was allowed to act in plain sight for so long In the early 1990s, when he was a student at the Italia Conti theatre school, a teenage Russell Brand became so…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+      "title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
-      "published": "2026-11-05T22:55:20+00:00",
-      "summary": "My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamcast game everyone…",
+      "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+      "published": "2026-11-06T11:09:10+00:00",
+      "summary": "GTA 6 's PC release may come sooner than anticipated, according to former Rockstar North technical director Obbe Vermeij, because Rockstar and publishers Take-Two will be concerned about losing money to unofficial generative AI clones of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Salon is shutting down after 31 years",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
-      "published": "2026-11-05T22:17:59+00:00",
-      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show",
+      "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
-      "published": "2026-11-05T20:43:26+00:00",
-      "summary": "Trump administration push emerges from a lawsuit alleging violations of national immigration regulations The Trump administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents obtained…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
+      "published": "2026-11-06T10:00:50+00:00",
+      "summary": "Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employees Tuesday night’s explosive rout of the Republican party was supercharged by the fury of Hispanic Americans who turned…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "Schools to Get Billions in Funding With Passage of Prop. 3",
+      "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+      "source": "NPR Education",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: In American Classrooms, Food Is the Missing Ingredient",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/schools-to-get-billions-in-funding-with-passage-of-prop-3/",
-      "published": "2026-11-05T18:27:03+00:00",
-      "summary": "California schools dodged a steep revenue cut on Tuesday as voters permanently extended an income tax on the wealthy. Prop. 3, put forth by the state’s largest teachers union, won with 59% of the vote compared to 41% against.",
+      "url": "https://www.the74million.org/article/in-american-classrooms-food-is-the-missing-ingredient/",
+      "published": "2026-11-06T13:30:00+00:00",
+      "summary": "They may wake up grumpy, but every day millions of American kids find their way to school. Parents see them off with a backpack and lunch, maybe some money for hot food at the cafeteria.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+      "published": "2026-11-06T13:03:38+00:00",
+      "summary": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Indianapolis Voters Overwhelmingly Pass Tax for Charter and District Schools",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/indianapolis-voters-overwhelmingly-pass-tax-for-charter-and-district-schools/",
+      "published": "2026-11-05T18:48:29+00:00",
+      "summary": "Indianapolis voters on Election Day overwhelmingly backed the first-ever tax to be split between city and charter schools, a major step in a years-long movement by charter advocates to become equal partners in educating student.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -117,29 +117,29 @@
       "score": 9
     },
     {
-      "title": "Co-op Horror Comedy Game ‘Grave Mistakes’ Opens Its Doors on November 26 [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3974764/co-op-horror-comedy-game-grave-mistakes-opens-its-doors-on-november-26-trailer/",
-      "published": "2026-11-05T16:30:04+00:00",
-      "summary": "Get ready to open up shop later this month with Happy Volcano and publisher Oro Interactive’s Grave Mistakes. The co-op horror comedy game about running a funceral home will launch on Steam on November 26.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "published": "2026-11-06T12:01:25+00:00",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
-      "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-      "published": "2026-11-05T12:24:14+00:00",
-      "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "New Godzilla Minus Zero Trailer Shows [REDACTED]",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/godzilla-minus-zero-trailer-king-ghidorah/",
+      "published": "2026-11-05T18:53:30+00:00",
+      "summary": "This isn’t Godzilla we’re talking about… The post New Godzilla Minus Zero Trailer Shows [REDACTED] appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "This Is The Future of AI - With Spencer Huang",
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
@@ -172,7 +172,7 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Iran's response to midterm results / The blame game / Risks and opportunities",
+      "title": "Iran's response to midterm results / The blame game / Risks and opportunities | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=90mLpIGxhlc",
@@ -333,8 +333,8 @@
       "published": "2026-11-05T23:09:23+00:00",
       "summary": "Normally the narrative of a TTRPG is up to the players. But what happens when game mechanics start giving or taking away that control? Jenna Stoeber and Jesse Galena talk about it, take your questions, and make goofs.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Legend of Zelda: Ocarina of Time Remake Launch Day Stream w/ Jack, Jess, and Marty",
@@ -482,6 +482,50 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
+      "published": "2026-11-06T13:00:03+00:00",
+      "summary": "PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX NOVEMBER 25. GET TICKETS NOW: https://www.cliffboothfilm.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JELeov60obU",
+      "published": "2026-11-06T13:00:02+00:00",
+      "summary": "PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX NOVEMBER 25. GET TICKETS NOW. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fmfTCa0me9o",
+      "published": "2026-11-06T13:00:02+00:00",
+      "summary": "PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX 25 NOVEMBER. GET TICKETS NOW: https://www.cliffboothfilm.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tauhFj0Y0dM",
+      "published": "2026-11-06T13:00:02+00:00",
+      "summary": "PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX 26 NOVEMBER. GET TICKETS NOW. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Here's a Texas-sized recap of THE HUNTING WIVES SEASON 1 so you're ready for S2, coming Nov 26.",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -592,50 +636,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "PROXIES | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI",
-      "published": "2026-11-04T10:00:00+00:00",
-      "summary": "On December 11, Netflix presents ‘PROXIES’ the new mind-bending thriller from Oriol Paulo, director of ‘The Innocent,’ ‘God's Crooked Lines,’ and ‘The Invisible Guest,’ starring Eduard Fernández, Mario Casas, Blanca Suárez, Nicolás…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Love Is Blind S11: Boston | Finale Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=2eeTF0cs3_E",
-      "published": "2026-11-03T18:30:00+00:00",
-      "summary": "He loves me….he loves me not? The Love Is Blind S11: Boston Finale premieres tomorrow, and don’t miss the reunion this Sunday, November 8 at 9 PM ET / 6 PM PT, only on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Inspired By Mira: The Power of Movement | KPop Demon Hunters | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=dttJPAeSoqg",
-      "published": "2026-11-03T18:00:00+00:00",
-      "summary": "Discover how Mira gives HUNTR/X’s choreography its edge and unlock the skills behind her fearless moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Rob Lowe: The Outsider | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WxXQrtp5PDM",
-      "published": "2026-11-03T16:00:00+00:00",
-      "summary": "This definitive documentary goes beyond the highlight reel to reveal what it really took for Rob Lowe to survive Hollywood — and become one of its most enduring stars. Rob Lowe: The Outsider releases November 24, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Bad Monkey — Season 2 Official Trailer | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -686,6 +686,17 @@
       "url": "https://www.youtube.com/watch?v=tLfJ9HssYOE",
       "published": "2026-11-02T23:59:51+00:00",
       "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "She's still in training.#AwkwafinaTheUnlikelyCook — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=H4lM27Lcr8U",
+      "published": "2026-11-02T18:29:49+00:00",
+      "summary": "Awkwafina: The Unlikely Cook is now streaming on Apple TV. https://apple.co/_AwkwafinaTheUnlikelyCook Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -814,7 +825,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 27,
-    "sourceCount": 20
+    "trailerCount": 28,
+    "sourceCount": 22
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-06T10:01:00.188387Z
+Generated: 2026-11-06T14:00:02.838894Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live, Awkwafina: The Unlikely Cook review – the heir to a legendary eatery … who sets soup on fire, and ‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and their undimmed faith in humanity.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Further bomb threats disrupt at least another 18 flights across Europe, The Download: a humanoid cleans house and Samsung builds for the AI boom, and Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones.
 
 ## Briefing
 
@@ -33,95 +33,95 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live [10/10]
+### 1. Further bomb threats disrupt at least another 18 flights across Europe [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.
+Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats has disrupted air traffic across Europe but the affected planes landed safely and searches revealed…
 
-Link: https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates
+Link: https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe
 
-### 2. Awkwafina: The Unlikely Cook review – the heir to a legendary eatery … who sets soup on fire [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 2. The Download: a humanoid cleans house and Samsung builds for the AI boom [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-She is completely baffled in the kitchen, but the star valiantly resurrects her family’s famous restaurant. Her journey is chaotic, hilarious – and deeply moving It starts both very well and very badly does Awkwafina: The Unlikely Cook.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.
 
-Link: https://www.theguardian.com/tv-and-radio/2026/nov/06/awkwafina-the-unlikely-cook-review
+Link: https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/
 
-### 3. ‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and their undimmed faith in humanity [10/10]
+### 3. Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more
+
+Link: https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone
+
+### 4. ‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-After some so-so albums, can U2’s new one, Carnaval de Luz, restore them to glory? They discuss male egos, working with Dolly Parton, and explain why, despite Trump, they still believe in democracy – at least in their band La Petite…
+While some fear another full-scale war, others are less sure – but both agree repression at home will continue Just hours after the US midterm election results delivered a crushing defeat for the Republican party, pro-regime crowds…
 
-Link: https://www.theguardian.com/music/2026/nov/06/its-a-new-world-its-a-little-fascistic-and-it-needs-a-different-response-u2-on-50-years-together-and-their-undimmed-faith-in-humanity
+Link: https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression
 
-### 4. Experience: I helped jail the teacher who groomed me [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-At 15, having the cool 31-year-old PE teacher single me out felt thrilling. It took years to see his praise for what it really was I was 15 when Paul joined my high school in Queensland, Australia, as a PE teacher.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/06/experience-i-helped-jail-the-teacher-who-groomed-me
-
-### 5. Dolly Parton’s manager drops complaint accusing nephew of harassment [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tennessee filing gives no reason for withdrawal over Bryan Seaver after estate secured restraining order against him Dolly Parton’s longtime manager on Thursday dropped a complaint that accused the late singer’s nephew of threatening her…
-
-Link: https://www.theguardian.com/music/2026/nov/05/dolly-parton-nephew-harassment
-
-### 6. The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Former comedian long traded on his extreme persona, yet many will wonder how he was allowed to act in plain sight for so long In the early 1990s, when he was a student at the Italia Conti theatre school, a teenage Russell Brand became so…
-
-Link: https://www.theguardian.com/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist
-
-### 7. Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK [9/10]
+### 5. "It's a brave new world": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamcast game everyone…
+GTA 6 's PC release may come sooner than anticipated, according to former Rockstar North technical director Obbe Vermeij, because Rockstar and publishers Take-Two will be concerned about losing money to unofficial generative AI clones of…
 
-Link: https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk
+Link: https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director
 
-### 8. Salon is shutting down after 31 years [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication.
-
-Link: https://www.theverge.com/news/1028281/salon-dot-com-shuts-down
-
-### 9. US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show [9/10]
+### 6. Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’ [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Trump administration push emerges from a lawsuit alleging violations of national immigration regulations The Trump administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents obtained…
+Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employees Tuesday night’s explosive rout of the Republican party was supercharged by the fury of Hispanic Americans who turned…
 
-Link: https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians
+Link: https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump
 
-### 10. Schools to Get Billions in Funding With Passage of Prop. 3 [9/10]
+### 7. Low birth rates were emptying public schools. ICE deportations are now making it worse [10/10]
+**Source:** NPR Education  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.
+
+Link: https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate
+
+### 8. Opinion: In American Classrooms, Food Is the Missing Ingredient [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-California schools dodged a steep revenue cut on Tuesday as voters permanently extended an income tax on the wealthy. Prop. 3, put forth by the state’s largest teachers union, won with 59% of the vote compared to 41% against.
+They may wake up grumpy, but every day millions of American kids find their way to school. Parents see them off with a backpack and lunch, maybe some money for hot food at the cafeteria.
 
-Link: https://www.the74million.org/article/schools-to-get-billions-in-funding-with-passage-of-prop-3/
+Link: https://www.the74million.org/article/in-american-classrooms-food-is-the-missing-ingredient/
+
+### 9. Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his…
+
+Link: https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us
+
+### 10. Indianapolis Voters Overwhelmingly Pass Tax for Charter and District Schools [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Indianapolis voters on Election Day overwhelmingly backed the first-ever tax to be split between city and charter schools, a major step in a years-long movement by charter advocates to become equal partners in educating student.
+
+Link: https://www.the74million.org/article/indianapolis-voters-overwhelmingly-pass-tax-for-charter-and-district-schools/
 
 ### 11. Podcast: Proton’s CEO Is Putting AI Before Security [9/10]
 **Source:** 404 Media  
@@ -132,27 +132,27 @@ Inside Proton's AI reckoning, the AO3 outage, and why we're not tech support.
 
 Link: https://www.404media.co/podcast-protons-ceo-is-putting-ai-before-security/
 
-### 12. Co-op Horror Comedy Game ‘Grave Mistakes’ Opens Its Doors on November 26 [Trailer] [9/10]
-**Source:** Bloody Disgusting  
+### 12. Protesters break into Microsoft data center site in Amsterdam [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.
+
+Link: https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+
+### 13. New Godzilla Minus Zero Trailer Shows [REDACTED] [8/10]
+**Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Get ready to open up shop later this month with Happy Volcano and publisher Oro Interactive’s Grave Mistakes. The co-op horror comedy game about running a funceral home will launch on Steam on November 26.
+This isn’t Godzilla we’re talking about… The post New Godzilla Minus Zero Trailer Shows [REDACTED] appeared first on Reactor .
 
-Link: https://bloody-disgusting.com/video-games/3974764/co-op-horror-comedy-game-grave-mistakes-opens-its-doors-on-november-26-trailer/
-
-### 13. Teens worldwide aren't getting enough exercise -- especially girls [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.
-
-Link: https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap
+Link: https://reactormag.com/godzilla-minus-zero-trailer-king-ghidorah/
 
 ## YouTube
 
-### This Is The Future of AI - With Spencer Huang [8/10]
+### The Future of AI Is Absolutely Incredible (Spencer Huang) [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -179,7 +179,7 @@ Historian Carl Raymond joins WIRED to answer the internet’s burning questions 
 
 Link: https://www.youtube.com/watch?v=maS8LHbWm4A
 
-### Iran's response to midterm results / The blame game / Risks and opportunities [9/10]
+### Iran's response to midterm results / The blame game / Risks and opportunities | Sources & Methods [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -305,9 +305,9 @@ This video is brought to you by Slumber Realm, a 90s-inspired roguelike that let
 
 Link: https://www.youtube.com/watch?v=5FJTXuMpQ6Y
 
-### When Mechanics Control the Narrative w/ Jenna Stoeber | RPG Help Desk [8/10]
+### When Mechanics Control the Narrative w/ Jenna Stoeber | RPG Help Desk [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Normally the narrative of a TTRPG is up to the players. But what happens when game mechanics start giving or taking away that control? Jenna Stoeber and Jesse Galena talk about it, take your questions, and make goofs.
@@ -460,6 +460,42 @@ Amanda Vonn is coming for your Friday night. Tune into the premiere of The Rainm
 
 Link: https://www.youtube.com/watch?v=Vzly5YAYEhY
 
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX NOVEMBER 25. GET TICKETS NOW: https://www.cliffboothfilm.
+
+Link: https://www.youtube.com/watch?v=fJH-wfSXnWg
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX NOVEMBER 25. GET TICKETS NOW. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JELeov60obU
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX 25 NOVEMBER. GET TICKETS NOW: https://www.cliffboothfilm.
+
+Link: https://www.youtube.com/watch?v=fmfTCa0me9o
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PITT. TARANTINO. FINCHER. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. ONLY IN IMAX 26 NOVEMBER. GET TICKETS NOW. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=tauhFj0Y0dM
+
 ### Here's a Texas-sized recap of THE HUNTING WIVES SEASON 1 so you're ready for S2, coming Nov 26. [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -550,42 +586,6 @@ A heroic naval officer’s newfound connection to the secretary of defense leads
 
 Link: https://www.youtube.com/watch?v=oMeVvhr7GZw
 
-### PROXIES | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-On December 11, Netflix presents ‘PROXIES’ the new mind-bending thriller from Oriol Paulo, director of ‘The Innocent,’ ‘God's Crooked Lines,’ and ‘The Invisible Guest,’ starring Eduard Fernández, Mario Casas, Blanca Suárez, Nicolás…
-
-Link: https://www.youtube.com/watch?v=O-BNo1l6yPI
-
-### Love Is Blind S11: Boston | Finale Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-He loves me….he loves me not? The Love Is Blind S11: Boston Finale premieres tomorrow, and don’t miss the reunion this Sunday, November 8 at 9 PM ET / 6 PM PT, only on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=2eeTF0cs3_E
-
-### Inspired By Mira: The Power of Movement | KPop Demon Hunters | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Discover how Mira gives HUNTR/X’s choreography its edge and unlock the skills behind her fearless moves. Watch KPop Demon Hunters, only on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=dttJPAeSoqg
-
-### Rob Lowe: The Outsider | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This definitive documentary goes beyond the highlight reel to reveal what it really took for Rob Lowe to survive Hollywood — and become one of its most enduring stars. Rob Lowe: The Outsider releases November 24, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=WxXQrtp5PDM
-
 ### Bad Monkey — Season 2 Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -630,6 +630,15 @@ Link: https://www.youtube.com/watch?v=xUQh-Yj__bA
 Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
 
 Link: https://www.youtube.com/watch?v=tLfJ9HssYOE
+
+### She's still in training.#AwkwafinaTheUnlikelyCook — Now Streaming [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Awkwafina: The Unlikely Cook is now streaming on Apple TV. https://apple.co/_AwkwafinaTheUnlikelyCook Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.
+
+Link: https://www.youtube.com/watch?v=H4lM27Lcr8U
 
 ### Rise and shine. #WayOfTheWarriorKid premieres November 25 [10/10]
 **Source:** Apple TV  
