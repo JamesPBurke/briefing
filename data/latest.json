@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-05T19:00:57.577451Z",
-  "generatedAtDisplay": "2026-11-05 02:00 PM EST",
+  "generatedAt": "2026-11-06T05:00:03.879599Z",
+  "generatedAtDisplay": "2026-11-06 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Oldest Evidence of Getting High on Cannabis Discovered In 2,800-Year-Old Tomb: ‘Absolutely Crazy’, Indianapolis Voters Overwhelmingly Pass Tax for Charter and District Schools, and Schools to Get Billions in Funding With Passage of Prop. 3.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Dolly Parton’s manager drops complaint accusing nephew of harassment, Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks, and OpenAI is stepping back from NDAs for data center projects.",
   "mainItems": [
     {
-      "title": "Oldest Evidence of Getting High on Cannabis Discovered In 2,800-Year-Old Tomb: ‘Absolutely Crazy’",
-      "source": "404 Media",
+      "title": "Dolly Parton’s manager drops complaint accusing nephew of harassment",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/oldest-evidence-of-getting-high-on-cannabis-discovered-in-2800-year-old-tomb/",
-      "published": "2026-11-05T19:00:00+00:00",
-      "summary": "Archaeologists have discovered the oldest direct evidence of psychoactive cannabis use in a Siberian tomb that was used for human and horse sacrifices, a finding that sheds light on ancient rituals and could help revive wild strains of…",
+      "url": "https://www.theguardian.com/music/2026/nov/05/dolly-parton-nephew-harassment",
+      "published": "2026-11-06T01:45:45+00:00",
+      "summary": "Tennessee filing gives no reason for withdrawal over Bryan Seaver after estate secured restraining order against him Dolly Parton’s longtime manager on Thursday dropped a complaint that accused the late singer’s nephew of threatening her…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "published": "2026-11-06T01:22:49+00:00",
+      "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "published": "2026-11-06T00:37:56+00:00",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "published": "2026-11-05T23:09:36+00:00",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "published": "2026-11-05T22:26:50+00:00",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,54 +77,24 @@
       "score": 10
     },
     {
-      "title": "Claude AI can plug directly into your bank account",
+      "title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "published": "2026-11-05T22:55:20+00:00",
+      "summary": "My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamcast game everyone…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Salon is shutting down after 31 years",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "published": "2026-11-05T17:49:25+00:00",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "published": "2026-11-05T22:17:59+00:00",
+      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
-      "published": "2026-11-05T17:44:41+00:00",
-      "summary": "Dhillon is first high-level justice department official to leave after historic Republican defeat in 2026 midterms US midterms 2026 live – latest updates Harmeet Dhillon, a Donald Trump ally who led the justice department’s civil rights…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Heavy rains bring flash flooding to Georgia-Tennessee border area",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/heavy-rains-flash-flooding-georgia-tennessee",
-      "published": "2026-11-05T17:44:11+00:00",
-      "summary": "National Weather Service issues flood warning: ‘Seek higher ground now!’ Severe storms brought heavy rain and flash flooding to communities across the Georgia - Tennessee border area late on Wednesday and into Thursday morning that forced…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "published": "2026-11-05T17:10:19+00:00",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
-      "published": "2026-11-05T17:00:28+00:00",
-      "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Podcast: Proton’s CEO Is Putting AI Before Security",
@@ -94,27 +104,27 @@
       "published": "2026-11-05T16:49:39+00:00",
       "summary": "Inside Proton's AI reckoning, the AO3 outage, and why we're not tech support.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Voters Defeat Free School Meal Ballot Measure in North Dakota",
+      "title": "Opinion: Childcare’s Private Equity Crackdown Has a Blind Spot",
       "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/voters-defeat-free-school-meal-ballot-measure-in-north-dakota/",
-      "published": "2026-11-05T15:30:00+00:00",
-      "summary": "North Dakota voters have rejected a proposed constitutional amendment that sought to guarantee free school meals to all K-12 students in the state.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "An AI Fraud Kingpin’s Confessions",
-      "source": "404 Media",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.404media.co/an-ai-fraud-kingpins-confessions/",
-      "published": "2026-11-05T14:30:59+00:00",
-      "summary": "An AI fraud kingpin’s rise and fall; voters rejected data centers; and a new fear unlocked.",
+      "url": "https://www.the74million.org/zero2eight/childcares-private-equity-crackdown-has-a-blind-spot/",
+      "published": "2026-11-05T11:30:00+00:00",
+      "summary": "Nearly two years ago, I began following a pattern of closures among Guidepost Montessori schools — a network that at the time had more than 130 Montessori-inspired childcare programs, most of which focused on children younger than age 6.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "New Godzilla Minus Zero Trailer Shows [REDACTED]",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/godzilla-minus-zero-trailer-king-ghidorah/",
+      "published": "2026-11-05T18:53:30+00:00",
+      "summary": "This isn’t Godzilla we’re talking about… The post New Godzilla Minus Zero Trailer Shows [REDACTED] appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Teens worldwide aren't getting enough exercise -- especially girls",
@@ -124,16 +134,6 @@
       "published": "2026-11-05T12:24:14+00:00",
       "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "published": "2026-11-04T22:26:49+00:00",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 8
   }
 }
