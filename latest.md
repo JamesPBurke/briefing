@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-07T10:00:42.442348Z
+Generated: 2026-11-07T14:00:01.343204Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are TikTok accused of helping to promote sex industry to girls, What we've been playing - "Sniffing out the warehouses on Prawn Island", and Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are How UMD's historic campus farm remains a vital classroom for modern students, New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds, and ‘Potentially ugly’: taking war on gangs to Haiti poses risks for El Salvador’s leader.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. TikTok accused of helping to promote sex industry to girls [10/10]
+### 1. How UMD's historic campus farm remains a vital classroom for modern students [10/10]
+**Source:** NPR Education  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The University of Maryland's campus farm in College Park, Md., is both a remnant of the university's ag school roots and a place where students still learn.
+
+Link: https://www.npr.org/2026/11/07/nx-s1-6030640/how-umds-historic-campus-farm-remains-a-vital-classroom-for-modern-students
+
+### 2. New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development…
+
+Link: https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study
+
+### 3. ‘Potentially ugly’: taking war on gangs to Haiti poses risks for El Salvador’s leader [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Soldiers may end up in ferocious battles across sprawling slums, say experts who question Nayib Bukele’s motive It has been nearly five years since El Salvador’s authoritarian leader, Nayib Bukele, launched his controversial “war” on gangs…
+
+Link: https://www.theguardian.com/world/2026/nov/07/el-savador-war-on-gangs-haiti
+
+### 4. NYC’s Enrollment Free Fall Leaves Mamdani and Samuels With a Small Schools Crisis [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Nearly a year into his administration, Mayor Zohran Mamdani has not shared a vision for addressing many of the pressing challenges facing the New York City school system.
+
+Link: https://www.the74million.org/article/nycs-enrollment-free-fall-leaves-mamdani-and-samuels-with-a-small-schools-crisis/
+
+### 5. British soldier ignored order to pull his SIM card, then got blackmailed [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.
+
+Link: https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/
+
+### 6. Trump may have lost but don’t bet Democrats can fix the economy [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again.
+
+Link: https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis
+
+### 7. TikTok accused of helping to promote sex industry to girls [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,52 +96,16 @@ Researchers say popular performers covertly market OnlyFans content and tell fol
 
 Link: https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans
 
-### 2. What we've been playing - "Sniffing out the warehouses on Prawn Island" [10/10]
+### 8. Xbox is testing a way to use your phone as a controller on smart TVs [9/10]
 **Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Well, hello! I am once again wearing the Bertie hat in your usual host's absence, so joyous welcomes to our regular feature in which we talk about what we've been playing in recent times.
+Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more
 
-Link: https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever
+Link: https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect
 
-### 3. Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with…
-
-Link: https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested
-
-### 4. Three men charged in US with using AI to impersonate CEOs and steal millions [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over…
-
-Link: https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft
-
-### 5. Shure’s popular podcasting and streaming mic is almost $50 off [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls.
-
-Link: https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
-
-### 6. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping…
-
-Link: https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump
-
-### 7. OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO [9/10]
+### 9. OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,32 +114,14 @@ OpenAI is now valued at $1.25 trillion in a new round of funding that has raised
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
 
-### 8. After Midterm Wave, Democrats Inherit a School Choice Dilemma [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Google, Meta and TikTok sue to block California youth social media law [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Democrats made political history this week, winning the support of voters who hadn’t chosen them in decades.
+Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.
 
-Link: https://www.the74million.org/article/after-midterm-wave-democrats-inherit-a-school-choice-dilemma/
-
-### 9. Republican Robert Franklin Elected Oklahoma State Superintendent [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-OKLAHOMA CITY — A former teacher, school district leader and CareerTech center administrator who ran on his decades of experience in education has been elected Oklahoma’s state superintendent of public schools.
-
-Link: https://www.the74million.org/article/republican-robert-franklin-elected-oklahoma-state-superintendent/
-
-### 10. Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more
-
-Link: https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone
+Link: https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law
 
 ### 11. Trump's global health strategy is emerging. What will the Democratic Congress say? [8/10]
 **Source:** NPR Health  
@@ -132,14 +132,14 @@ The Trump Administration has ushered in a fundamental shift in the U.S. approach
 
 Link: https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress
 
-### 12. Behind the Blog: Dam's Bursting [7/10]
+### 12. How Earth Lost a Billion Years of Its History [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss election outcomes and code as a human endeavor.
+Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient supercontinents.
 
-Link: https://www.404media.co/behind-the-blog-dams-bursting/
+Link: https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/
 
 ### 13. Some of Our Favorite Sir Patrick Stewart Roles and Moments [6/10]
 **Source:** Reactor  
@@ -415,9 +415,9 @@ Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin 
 
 Link: https://www.youtube.com/watch?v=Rma1KLKyZWs
 
-### Resident Evil 2026 | Roundtable Series [7/10]
+### Resident Evil 2026 | Roundtable Series [6/10]
 **Source:** Sony Pictures Entertainment  
-**Verdict:** Worth a glance  
+**Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
