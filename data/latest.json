@@ -1,38 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-06T19:00:52.485420Z",
-  "generatedAtDisplay": "2026-11-06 02:00 PM EST",
+  "generatedAt": "2026-11-07T05:00:04.002472Z",
+  "generatedAtDisplay": "2026-11-07 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals, AI is the new dating dealbreaker, and US midterm elections 2026 live: Democrat inches ahead in Mississippi Senate count; another Trump loyalist resigns from justice department.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff, Man in custody after being found in vehicle near White House with guns, and Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material.",
   "mainItems": [
     {
-      "title": "Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals",
+      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+      "published": "2026-11-07T01:38:06+00:00",
+      "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Man in custody after being found in vehicle near White House with guns",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/doj-officials-resign",
-      "published": "2026-11-06T18:37:55+00:00",
-      "summary": "Jason Reding Quiñones led investigation into whether Trump’s rights were violated during 2020 election inquiry A US attorney overseeing the so-called “grand conspiracy” investigation into Donald Trump ’s rivals announced on Friday he is…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+      "published": "2026-11-07T00:31:59+00:00",
+      "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump The US secret service said a suspect has been taken into custody and charged after officers found him in a vehicle near…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "AI is the new dating dealbreaker",
-      "source": "The Verge",
+      "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+      "published": "2026-11-06T22:09:01+00:00",
+      "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "published": "2026-11-06T18:34:43+00:00",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "published": "2026-11-06T21:20:49+00:00",
+      "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US midterm elections 2026 live: Democrat inches ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
-      "source": "The Guardian US",
+      "title": "After Midterm Wave, Democrats Inherit a School Choice Dilemma",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-      "published": "2026-11-06T18:30:43+00:00",
-      "summary": "Scott Colom leading Republican incumbent Cindy Hyde-Smith in razor-thin race; president’s ally Jason Reding Quiñones steps down Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will…",
+      "url": "https://www.the74million.org/article/after-midterm-wave-democrats-inherit-a-school-choice-dilemma/",
+      "published": "2026-11-06T20:05:22+00:00",
+      "summary": "Democrats made political history this week, winning the support of voters who hadn’t chosen them in decades.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -41,103 +61,95 @@
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "published": "2026-11-06T18:15:26+00:00",
-      "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant.",
+      "published": "2026-11-06T20:00:43+00:00",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-      "source": "The Guardian US",
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-      "published": "2026-11-06T17:41:51+00:00",
-      "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with…",
+      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+      "published": "2026-11-06T19:47:02+00:00",
+      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Republican Robert Franklin elected Oklahoma state superintendent",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T23:46:18+00:00",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Republican Robert Franklin Elected Oklahoma State Superintendent",
       "source": "The 74",
       "category": "Education / pedagogy",
       "url": "https://www.the74million.org/article/republican-robert-franklin-elected-oklahoma-state-superintendent/",
       "published": "2026-11-06T17:30:00+00:00",
       "summary": "OKLAHOMA CITY — A former teacher, school district leader and CareerTech center administrator who ran on his decades of experience in education has been elected Oklahoma’s state superintendent of public schools.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "US tech stock rout: is the AI bubble bursting?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
-      "published": "2026-11-06T16:09:18+00:00",
-      "summary": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown? Business live – latest updates Global financial markets have been thrown into a tailspin as investors bet on an AI slowdown…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "published": "2026-11-06T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Why public schools nationwide are facing a massive drop in student enrollment",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "published": "2026-11-05T23:09:36+00:00",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "published": "2026-11-05T21:40:36+00:00",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
-      "published": "2026-11-06T13:03:38+00:00",
-      "summary": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/",
-      "published": "2026-11-05T21:01:55+00:00",
-      "summary": "Back to the drawing board!",
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "published": "2026-11-06T12:02:40+00:00",
+      "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+      "published": "2026-11-06T20:09:58+00:00",
+      "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Behind the Blog: Dam's Bursting",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/behind-the-blog-dams-bursting/",
+      "published": "2026-11-06T17:12:55+00:00",
+      "summary": "This week, we discuss election outcomes and code as a human endeavor.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Some of Our Favorite Sir Patrick Stewart Roles and Moments",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/some-of-our-favorite-sir-patrick-stewart-roles-and-moments/",
+      "published": "2026-11-06T15:00:00+00:00",
+      "summary": "We all have a Patrick Stewart story, it turns out. The post Some of Our Favorite Sir Patrick Stewart Roles and Moments appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "published": "2026-11-06T07:27:02+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +262,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 1,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 8
   }
 }

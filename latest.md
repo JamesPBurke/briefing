@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-06T19:00:52.485420Z
+Generated: 2026-11-07T05:00:04.002472Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals, AI is the new dating dealbreaker, and US midterm elections 2026 live: Democrat inches ahead in Mississippi Senate count; another Trump loyalist resigns from justice department.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff, Man in custody after being found in vehicle near White House with guns, and Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material.
 
 ## Briefing
 
@@ -33,52 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals [10/10]
+### 1. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping…
+
+Link: https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump
+
+### 2. Man in custody after being found in vehicle near White House with guns [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Jason Reding Quiñones led investigation into whether Trump’s rights were violated during 2020 election inquiry A US attorney overseeing the so-called “grand conspiracy” investigation into Donald Trump ’s rivals announced on Friday he is…
+Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump The US secret service said a suspect has been taken into custody and charged after officers found him in a vehicle near…
 
-Link: https://www.theguardian.com/us-news/2026/nov/06/doj-officials-resign
+Link: https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump
 
-### 2. AI is the new dating dealbreaker [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity
-
-### 3. US midterm elections 2026 live: Democrat inches ahead in Mississippi Senate count; another Trump loyalist resigns from justice department [10/10]
+### 3. Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Scott Colom leading Republican incumbent Cindy Hyde-Smith in razor-thin race; president’s ally Jason Reding Quiñones steps down Live results : see results from races in all 50 states Sign up for Breaking News US email Donald Trump will…
-
-Link: https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates
-
-### 4. Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Meta will now allow you to build customized, app-like experiences within its Muse AI assistant.
-
-Link: https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
-
-### 5. Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
 Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with…
 
 Link: https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested
 
-### 6. Republican Robert Franklin elected Oklahoma state superintendent [10/10]
+### 4. Three men charged in US with using AI to impersonate CEOs and steal millions [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over…
+
+Link: https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft
+
+### 5. After Midterm Wave, Democrats Inherit a School Choice Dilemma [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Democrats made political history this week, winning the support of voters who hadn’t chosen them in decades.
+
+Link: https://www.the74million.org/article/after-midterm-wave-democrats-inherit-a-school-choice-dilemma/
+
+### 6. Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Meta will now allow you to build customized, app-like experiences within Muse.
+
+Link: https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
+
+### 7. Shure’s popular podcasting and streaming mic is almost $50 off [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls.
+
+Link: https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
+
+### 8. OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+
+### 9. Republican Robert Franklin Elected Oklahoma State Superintendent [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -87,65 +114,80 @@ OKLAHOMA CITY — A former teacher, school district leader and CareerTech center
 
 Link: https://www.the74million.org/article/republican-robert-franklin-elected-oklahoma-state-superintendent/
 
-### 7. US tech stock rout: is the AI bubble bursting? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown? Business live – latest updates Global financial markets have been thrown into a tailspin as investors bet on an AI slowdown…
+Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more
 
-Link: https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer
+Link: https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone
 
-### 8. The Download: a humanoid cleans house and Samsung builds for the AI boom [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Trump's global health strategy is emerging. What will the Democratic Congress say? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.
+The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?
 
-Link: https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/
+Link: https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress
 
-### 9. Why public schools nationwide are facing a massive drop in student enrollment [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.
-
-Link: https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate
-
-### 10. Meet *sshole, the vulnerability that lets hackers SSH into Linux devices [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Certain configurations of Alpine are affected. Other distros may be as well.
-
-Link: https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/
-
-### 11. Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Google is technically offering schools more choice but not the choices anyone wants.
-
-Link: https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/
-
-### 12. Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his…
-
-Link: https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us
-
-### 13. Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause [8/10]
+### 12. Behind the Blog: Dam's Bursting [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Back to the drawing board!
+This week, we discuss election outcomes and code as a human endeavor.
 
-Link: https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/
+Link: https://www.404media.co/behind-the-blog-dams-bursting/
+
+### 13. Some of Our Favorite Sir Patrick Stewart Roles and Moments [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+We all have a Patrick Stewart story, it turns out. The post Some of Our Favorite Sir Patrick Stewart Roles and Moments appeared first on Reactor .
+
+Link: https://reactormag.com/some-of-our-favorite-sir-patrick-stewart-roles-and-moments/
+
+## YouTube
+
+### The Future of AI Is Absolutely Incredible (Spencer Huang) [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.
+
+Link: https://www.youtube.com/watch?v=XgC1QTs6A2U
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
