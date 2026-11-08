@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-08T10:00:43.777142Z
+Generated: 2026-11-08T14:00:02.404997Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Briton among six dead after gunman opens fire in Kraków market square, Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality, and Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Polish prosecutors open terrorism investigation into Kraków shooting, Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’, and In Maine, a new approach to practicing medicine in the sky.
 
 ## Briefing
 
@@ -33,52 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Briton among six dead after gunman opens fire in Kraków market square [10/10]
+### 1. Polish prosecutors open terrorism investigation into Kraków shooting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s…
+Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened…
 
-Link: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman
+Link: https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation
 
-### 2. Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality [10/10]
+### 2. Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’ [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session.
+
+Link: https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/
+
+### 3. In Maine, a new approach to practicing medicine in the sky [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.
+
+Link: https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing
+
+### 4. ‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+It’s tempting to ignore uncomfortable feelings – but maybe they’re the key to a happier, more successful future. Time to increase your psychological flexibility … Something infuriating happened to me recently.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life
+
+### 5. ‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative A new “golden age of America” is under way, Donald Trump repeatedly declared in his…
+Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world
+Link: https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment
 
-### 3. Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic? [10/10]
+### 6. ‘My dad said Great Balls of Fire was pagan music – and threw it out of the window’: Leo Sayer’s honest playlist [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale…
+The singer lives by the words of John Lennon, and once did karaoke surrounded by supermodels. But which song still makes him cry? The first song I fell in love with I first heard Bob Dylan through my cousin David when I was about 16.
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic
+Link: https://www.theguardian.com/music/2026/nov/08/leo-sayer-honest-playlist-jerry-lee-lewis-bob-marley-john-lennon
 
-### 4. Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall [10/10]
+### 7. The US let Nvidia sell chips to an empty office in China [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+
+### 8. US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules…
+
+Link: https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations
+
+### 9. How CrossFit helped shape the macho fitness culture of Trump’s America [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-With the global tide turning against him, the US president’s lame duck status could still aggravate old tensions and spark new explosions It was a victory for the world, too.
+The movement founded by Greg Glassman grew into an empire, helping popularize the masculinity aesthetic embraced by Pete Hegseth and RFK Jr Comparative machismo is hardly new, but when Donald Trump publicly admired Senator Jon Husted’s…
 
-Link: https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president
+Link: https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america
 
-### 5. Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Physicists listened to electrical noise to crack a superconductor mystery [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Years ago, I had this dream where I was parkouring through a greatly sunken version of Venice, no doubt sourced from the many hours I put into Assassin's Creed 2 as a teen who should have been studying for their GCSEs a lot more than they…
+Tuning in to electronic noise can tell us whether electrons have paired up or not.
 
-Link: https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome
+Link: https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/
 
-### 6. "This trailer is my way of saying goodbye": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers [9/10]
+### 11. "This trailer is my way of saying goodbye": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,43 +132,16 @@ By this point I'm probably safe in assuming that you all know EA are shutting do
 
 Link: https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers
 
-### 7. Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president [9/10]
+### 12. ‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition [8/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration…
+Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading…
 
-Link: https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty
+Link: https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition
 
-### 8. How UMD's historic campus farm remains a vital classroom for modern students [9/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The University of Maryland's campus farm in College Park, Md., is both a remnant of the university's ag school roots and a place where students still learn.
-
-Link: https://www.npr.org/2026/11/07/nx-s1-6030640/how-umds-historic-campus-farm-remains-a-vital-classroom-for-modern-students
-
-### 9. NYC’s Enrollment Free Fall Leaves Mamdani and Samuels With a Small Schools Crisis [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Nearly a year into his administration, Mayor Zohran Mamdani has not shared a vision for addressing many of the pressing challenges facing the New York City school system.
-
-Link: https://www.the74million.org/article/nycs-enrollment-free-fall-leaves-mamdani-and-samuels-with-a-small-schools-crisis/
-
-### 10. NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at.
-
-Link: https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
-
-### 11. A promising new medicine against heart disease fails unexpectedly [8/10]
+### 13. A promising new medicine against heart disease fails unexpectedly [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,24 +149,6 @@ Link: https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
 Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.
 
 Link: https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack
-
-### 12. How Earth Lost a Billion Years of Its History [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient supercontinents.
-
-Link: https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/
-
-### 13. Google, Meta and TikTok sue to block California youth social media law [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.
-
-Link: https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law
 
 ## YouTube
 

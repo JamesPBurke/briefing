@@ -1,60 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-08T10:00:43.777142Z",
-  "generatedAtDisplay": "2026-11-08 05:00 AM EST",
+  "generatedAt": "2026-11-08T14:00:02.404997Z",
+  "generatedAtDisplay": "2026-11-08 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Briton among six dead after gunman opens fire in Kraków market square, Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality, and Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Polish prosecutors open terrorism investigation into Kraków shooting, Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’, and In Maine, a new approach to practicing medicine in the sky.",
   "mainItems": [
     {
-      "title": "Briton among six dead after gunman opens fire in Kraków market square",
+      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-      "published": "2026-11-08T09:30:22+00:00",
-      "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s…",
+      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+      "published": "2026-11-08T11:50:15+00:00",
+      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
-      "source": "The Guardian US",
+      "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
+      "published": "2026-11-08T11:30:00+00:00",
+      "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "In Maine, a new approach to practicing medicine in the sky",
+      "source": "NPR Health",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-      "published": "2026-11-08T07:00:34+00:00",
-      "summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative A new “golden age of America” is under way, Donald Trump repeatedly declared in his…",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+      "published": "2026-11-08T11:00:00+00:00",
+      "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "title": "‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life",
+      "published": "2026-11-08T10:00:37+00:00",
+      "summary": "It’s tempting to ignore uncomfortable feelings – but maybe they’re the key to a happier, more successful future. Time to increase your psychological flexibility … Something infuriating happened to me recently.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-      "published": "2026-11-08T06:00:33+00:00",
-      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale…",
+      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
+      "published": "2026-11-08T10:00:36+00:00",
+      "summary": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
+      "title": "‘My dad said Great Balls of Fire was pagan music – and threw it out of the window’: Leo Sayer’s honest playlist",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-      "published": "2026-11-08T06:00:32+00:00",
-      "summary": "With the global tide turning against him, the US president’s lame duck status could still aggravate old tensions and spark new explosions It was a victory for the world, too.",
+      "url": "https://www.theguardian.com/music/2026/nov/08/leo-sayer-honest-playlist-jerry-lee-lewis-bob-marley-john-lennon",
+      "published": "2026-11-08T09:00:35+00:00",
+      "summary": "The singer lives by the words of John Lennon, and once did karaoke surrounded by supermodels. But which song still makes him cry? The first song I fell in love with I first heard Bob Dylan through my cousin David when I was about 16.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome",
-      "source": "Rock Paper Shotgun",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome",
-      "published": "2026-11-07T22:52:30+00:00",
-      "summary": "Years ago, I had this dream where I was parkouring through a greatly sunken version of Venice, no doubt sourced from the many hours I put into Assassin's Creed 2 as a teen who should have been studying for their GCSEs a lot more than they…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "published": "2026-11-08T13:00:40+00:00",
+      "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "How CrossFit helped shape the macho fitness culture of Trump’s America",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
+      "published": "2026-11-08T13:00:40+00:00",
+      "summary": "The movement founded by Greg Glassman grew into an empire, helping popularize the masculinity aesthetic embraced by Pete Hegseth and RFK Jr Comparative machismo is hardly new, but when Donald Trump publicly admired Senator Jon Husted’s…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "published": "2026-11-08T12:15:31+00:00",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers",
@@ -67,43 +117,13 @@
       "score": 9
     },
     {
-      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-      "published": "2026-11-07T15:15:11+00:00",
-      "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "How UMD's historic campus farm remains a vital classroom for modern students",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6030640/how-umds-historic-campus-farm-remains-a-vital-classroom-for-modern-students",
-      "published": "2026-11-07T12:41:04+00:00",
-      "summary": "The University of Maryland's campus farm in College Park, Md., is both a remnant of the university's ag school roots and a place where students still learn.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "NYC’s Enrollment Free Fall Leaves Mamdani and Samuels With a Small Schools Crisis",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/nycs-enrollment-free-fall-leaves-mamdani-and-samuels-with-a-small-schools-crisis/",
-      "published": "2026-11-07T11:30:00+00:00",
-      "summary": "Nearly a year into his administration, Mayor Zohran Mamdani has not shared a vision for addressing many of the pressing challenges facing the New York City school system.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "published": "2026-11-07T15:47:15+00:00",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+      "published": "2026-11-08T13:00:41+00:00",
+      "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     },
     {
@@ -115,26 +135,6 @@
       "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "How Earth Lost a Billion Years of Its History",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
-      "published": "2026-11-07T13:00:00+00:00",
-      "summary": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient supercontinents.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Google, Meta and TikTok sue to block California youth social media law",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
-      "published": "2026-11-07T12:41:13+00:00",
-      "summary": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -782,6 +782,6 @@
     "mainCount": 13,
     "youtubeCount": 22,
     "trailerCount": 26,
-    "sourceCount": 21
+    "sourceCount": 19
   }
 }
