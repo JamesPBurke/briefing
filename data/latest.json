@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-09T10:01:05.122167Z",
-  "generatedAtDisplay": "2026-11-09 05:01 AM EST",
+  "generatedAt": "2026-11-09T14:00:04.095336Z",
+  "generatedAtDisplay": "2026-11-09 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy, Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live, and Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live, The Download: empty AI climate claims, and an Nvidia investigation, and \"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous.",
   "mainItems": [
+    {
+      "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "published": "2026-11-09T13:18:12+00:00",
+      "summary": "Boss of world’s most valuable company admits affair as it investigates reports he was the target of ‘a foreign intelligence effort’ Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "published": "2026-11-09T13:15:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+      "published": "2026-11-09T13:15:00+00:00",
+      "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a suspected Chinese spy.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "published": "2026-11-09T13:00:00+00:00",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
+      "published": "2026-11-09T12:41:00+00:00",
+      "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid Pete.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Education Dept.’s Overhaul of Grant Rules Sparks Concern About ‘Instability’",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/education-dept-s-overhaul-of-grant-rules-sparks-concern-about-instability/",
+      "published": "2026-11-09T11:30:00+00:00",
+      "summary": "Last December, the Department of Education abruptly cut nearly $170 million in funding for community schools across 12 states because, officials said, the program was no longer in “the best interest of the federal government.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
+      "published": "2026-11-09T10:00:07+00:00",
+      "summary": "The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller “When I think of my wife, I always think of the back of her head,”…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
       "source": "The Verge",
@@ -13,16 +83,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "published": "2026-11-09T09:56:47+00:00",
       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
-      "published": "2026-11-09T09:42:38+00:00",
-      "summary": "Rolling coverage of the latest economic and financial news Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,83 +97,13 @@
       "score": 10
     },
     {
-      "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
-      "published": "2026-11-09T08:04:44+00:00",
-      "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes In Brazil, they rallied online by the millions, sharing videos and spreading memes.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Kraków shooting suspect who killed six has died, say police in Poland",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-      "published": "2026-11-09T06:58:03+00:00",
-      "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in a popular market square in Kraków has died in hospital, Polish police said early on Monday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
-      "published": "2026-11-09T05:29:22+00:00",
-      "summary": "Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "published": "2026-11-08T22:54:50+00:00",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "published": "2026-11-08T20:52:05+00:00",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-      "published": "2026-11-09T09:45:34+00:00",
-      "summary": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term The actor-comedian had been free but was taken into custody immediately after the jury returned the guilty verdicts last Thursday.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-      "published": "2026-11-09T09:42:57+00:00",
-      "summary": "Chipmaker Nvidia is launching an investigation of its CEO Jensen Huang after news reports he had an affair with a Chinese woman who was recruited to spy for Beijing.",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "published": "2026-11-09T10:47:00+00:00",
+      "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "COD: Modern Warfare 4 gets a surprisingly sudden free trial, so you can see what the game's extraction mode DMZ is like",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-free-trial-november",
-      "published": "2026-11-09T09:24:10+00:00",
-      "summary": "Activision has released the first trial for Call of Duty: Modern Warfare 4's extraction mode DMZ. The trial is available across PC (Steam / Battlenet), PlayStation 5 and Xbox Series X/S until Wednesday, 11th November. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -127,14 +117,24 @@
       "score": 9
     },
     {
-      "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
+      "title": "Arizona Is Among the Lowest-Ranked States for Reading. But There Are Bright Spots",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
-      "published": "2026-11-08T11:30:00+00:00",
-      "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session.",
+      "url": "https://www.the74million.org/article/arizona-is-among-the-lowest-ranked-states-for-reading-but-there-are-bright-spots/",
+      "published": "2026-11-09T13:30:00+00:00",
+      "summary": "Arizona does not have strong reading outcomes. On the 2024 NAEP tests, only five states did worse than Arizona did in fourth grade reading.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+      "published": "2026-11-09T10:00:00+00:00",
+      "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -291,6 +291,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Which Games Belong on the Zelda Mount Rushmore? | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=J1tP3qul0CQ",
+      "published": "2026-11-09T13:26:33+00:00",
+      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Becoming World Warriors in Street Fighter 6 | Super Smash Sunday",
@@ -714,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
+    "youtubeCount": 17,
     "trailerCount": 26,
-    "sourceCount": 17
+    "sourceCount": 19
   }
 }

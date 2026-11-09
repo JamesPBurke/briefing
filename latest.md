@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-09T10:01:05.122167Z
+Generated: 2026-11-09T14:00:04.095336Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy, Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live, and Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live, The Download: empty AI climate claims, and an Nvidia investigation, and "There is no excuse for what I did," Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous.
 
 ## Briefing
 
@@ -33,7 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy [10/10]
+### 1. Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Boss of world’s most valuable company admits affair as it investigates reports he was the target of ‘a foreign intelligence effort’ Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is…
+
+Link: https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates
+
+### 2. The Download: empty AI climate claims, and an Nvidia investigation [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/
+
+### 3. "There is no excuse for what I did," Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a suspected Chinese spy.
+
+Link: https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous
+
+### 4. Innovating with AI in the special chemicals industry [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of…
+
+Link: https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/
+
+### 5. Rockstar were "definitely" thinking about giving a Japanese studio the keys to GTA, says former tech director - "I have a name, but I'm not gonna say it" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid Pete.
+
+Link: https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it
+
+### 6. Education Dept.’s Overhaul of Grant Rules Sparks Concern About ‘Instability’ [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Last December, the Department of Education abruptly cut nearly $170 million in funding for community schools across 12 states because, officials said, the program was no longer in “the best interest of the federal government.
+
+Link: https://www.the74million.org/article/education-dept-s-overhaul-of-grant-rules-sparks-concern-about-instability/
+
+### 7. ‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller “When I think of my wife, I always think of the back of her head,”…
+
+Link: https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie
+
+### 8. Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +105,7 @@ Nvidia has announced that it is opening an investigation into CEO Jensen Huang a
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
 
-### 2. Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Rolling coverage of the latest economic and financial news Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence Huang is receiving support from some fellow tech executives, including Elon Musk.
-
-Link: https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates
-
-### 3. Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller [10/10]
+### 9. Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,79 +114,16 @@ President makes unusual acknowledgment that one of defining policies of his seco
 
 Link: https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration
 
-### 4. ‘A global political awakening’: how gen Z protests are sweeping the world [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes In Brazil, they rallied online by the millions, sharing videos and spreading memes.
-
-Link: https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world
-
-### 5. Kraków shooting suspect who killed six has died, say police in Poland [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in a popular market square in Kraków has died in hospital, Polish police said early on Monday.
-
-Link: https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead
-
-### 6. Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them…
-
-Link: https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders
-
-### 7. Here’s the full text of Jensen Huang’s memo to Nvidia [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
-
-### 8. Epic Games Launcher is coming to SteamOS [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro.
-
-Link: https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos
-
-### 9. Russell Brand to be sentenced for rape and sexual assault today – latest updates [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term The actor-comedian had been free but was taken into custody immediately after the jury returned the guilty verdicts last Thursday.
-
-Link: https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates
-
-### 10. Nvidia launches investigation into CEO's alleged relationship with Chinese spy [9/10]
+### 10. Why a South Korean city is turning to a U.S. college to outsmart AI? [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Chipmaker Nvidia is launching an investigation of its CEO Jensen Huang after news reports he had an affair with a Chinese woman who was recruited to spy for Beijing.
+Through civic participation and liberal education, South Korean educators hope to "quietly stitch the fabric of our democracy…before it unravels beyond repair."
 
-Link: https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy
+Link: https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai
 
-### 11. COD: Modern Warfare 4 gets a surprisingly sudden free trial, so you can see what the game's extraction mode DMZ is like [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Activision has released the first trial for Call of Duty: Modern Warfare 4's extraction mode DMZ. The trial is available across PC (Steam / Battlenet), PlayStation 5 and Xbox Series X/S until Wednesday, 11th November. Read more
-
-Link: https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-free-trial-november
-
-### 12. Elvis and Eminem rights holders are suing Suno [9/10]
+### 11. Elvis and Eminem rights holders are suing Suno [9/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -141,14 +132,23 @@ Suno is facing yet another pair of lawsuits.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
 
-### 13. Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’ [9/10]
+### 12. Arizona Is Among the Lowest-Ranked States for Reading. But There Are Bright Spots [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session.
+Arizona does not have strong reading outcomes. On the 2024 NAEP tests, only five states did worse than Arizona did in fourth grade reading.
 
-Link: https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/
+Link: https://www.the74million.org/article/arizona-is-among-the-lowest-ranked-states-for-reading-but-there-are-bright-spots/
+
+### 13. Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.
+
+Link: https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance
 
 ## YouTube
 
@@ -277,6 +277,15 @@ Link: https://www.youtube.com/watch?v=v0F5-iGvRus
 ► Watch the Full Video Here: https://youtu.be/c51uWCN-mGI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=XIZP0ABp85U
+
+### Which Games Belong on the Zelda Mount Rushmore? | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.
+
+Link: https://www.youtube.com/watch?v=J1tP3qul0CQ
 
 ### Becoming World Warriors in Street Fighter 6 | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
