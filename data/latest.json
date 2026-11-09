@@ -1,19 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-08T19:00:58.860500Z",
-  "generatedAtDisplay": "2026-11-08 02:00 PM EST",
+  "generatedAt": "2026-11-09T05:00:01.394528Z",
+  "generatedAtDisplay": "2026-11-09 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Education / pedagogy. The strongest items in this run are Trump set to lurch further right, claiming US took ‘giant step back’ in elections, The political playbook that unraveled US transgender rights in the past decade, and Chatbots might be coming to Apple’s HomeView.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘I can’t bear it’: young family takes refuge in bedroom as choking haze engulfs Indonesian city, Trump tells 60 Minutes that deportation policy was ‘too tough’, and Nvidia is investigating Jensen Huang’s relationship with a Chinese spy.",
   "mainItems": [
     {
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "title": "‘I can’t bear it’: young family takes refuge in bedroom as choking haze engulfs Indonesian city",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/09/indonesia-air-pollution-toxic-haze-family-takes-refuge-in-bedroom",
+      "published": "2026-11-09T04:05:24+00:00",
+      "summary": "Mother tells of desperate efforts to keep her five-month-old son healthy as residents of Palangkaraya flock to clean-air ‘safe houses’ to escape toxic haze Every day in Palangkaraya starts with an air quality check.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "published": "2026-11-08T17:58:43+00:00",
-      "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+      "published": "2026-11-09T03:59:31+00:00",
+      "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liability Donald Trump has admitted that his deportation policy was “too tough” and has offered to strike an…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-09T02:24:39+00:00",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "published": "2026-11-09T02:11:25+00:00",
+      "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "published": "2026-11-08T22:54:50+00:00",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "published": "2026-11-08T20:52:05+00:00",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "published": "2026-11-08T19:18:19+00:00",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -27,14 +87,24 @@
       "score": 10
     },
     {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "published": "2026-11-08T15:00:30+00:00",
-      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Godzilla Minus Zero takes US box office by storm in opening weekend",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/09/godzilla-minus-zero-takes-us-box-office-by-storm-in-opening-weekend",
+      "published": "2026-11-09T04:21:59+00:00",
+      "summary": "The foreign-language film topped the North American box office with $31.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "published": "2026-11-09T00:25:28+00:00",
+      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Missouri Childcare Subsidy Waitlist Grows as Providers Struggle to Fill Classrooms",
@@ -47,84 +117,14 @@
       "score": 9
     },
     {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "published": "2026-11-08T17:23:19+00:00",
-      "summary": "Suno is facing yet another pair of lawsuits.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "‘I was in a darker place than I’d ever been. ECT was my only hope’: how Ted Scheinman finally broke through his depression",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression",
-      "published": "2026-11-08T14:00:42+00:00",
-      "summary": "Troubled from the age of three, by 35 the American journalist viewed himself as ‘the lowest piece of dirt on the Earth’ – and neither therapy nor drugs seemed to help.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-      "published": "2026-11-08T13:00:40+00:00",
-      "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair",
-      "published": "2026-11-08T12:00:40+00:00",
-      "summary": "The once-bearded New York mayor has downsized his facial hair. Does it work? I’ve battled with facial hair almost my entire adult life. I started growing it early, turning me into a pubescent villain from a spaghetti western.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
-      "published": "2026-11-08T12:00:40+00:00",
-      "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut Overdoses involving stimulants are on the rise in many parts of the country, according to recently available data from the Centers for…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-      "published": "2026-11-08T11:50:15+00:00",
-      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
-      "published": "2026-11-08T11:30:00+00:00",
-      "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-      "published": "2026-11-08T11:00:00+00:00",
-      "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
+      "published": "2026-11-08T16:41:10+00:00",
+      "summary": "The Phasmophobia community has raised more than $230,000 (around £173,000) for the American Heart Association, more than doubling last year's total. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
     },
     {
       "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
@@ -134,10 +134,33 @@
       "published": "2026-11-08T13:00:41+00:00",
       "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading…",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "published": "2026-11-07T16:24:47+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "published": "2026-11-06T07:27:02+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +273,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 2,
     "trailerCount": 0,
-    "sourceCount": 4
+    "sourceCount": 5
   }
 }
