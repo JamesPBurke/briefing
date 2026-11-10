@@ -1,39 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-10T10:01:02.015303Z",
-  "generatedAtDisplay": "2026-11-10 05:01 AM EST",
+  "generatedAt": "2026-11-10T14:00:02.055682Z",
+  "generatedAtDisplay": "2026-11-10 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are US reportedly evacuates aircraft from RAF Mildenhall over Iran threat, Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy, and Russell Brand’s conviction won’t end abusive behaviour in the creative industries, but at least whistleblowing is now possible | Helena Kennedy.",
+  "summary": "Today's sweep leans toward CS education / AI policy, Democracy / anti-fascism, AI / privacy. The strongest items in this run are White supremacist Nick Fuentes linked to college Republican group, records show, US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin, and Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy.",
   "mainItems": [
     {
-      "title": "US reportedly evacuates aircraft from RAF Mildenhall over Iran threat",
+      "title": "White supremacist Nick Fuentes linked to college Republican group, records show",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-      "published": "2026-11-10T09:32:55+00:00",
-      "summary": "Evacuation comes weeks after US withdrew bombers from RAF Fairford over suspected Iran-linked security incident The US military has reportedly evacuated aircraft from a second airbase in ⁠Britain after a threat from Iran.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "published": "2026-11-10T07:30:15+00:00",
-      "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Russell Brand’s conviction won’t end abusive behaviour in the creative industries, but at least whistleblowing is now possible | Helena Kennedy",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/russell-brand-jailed-sex-attackers-music-film-tv-theatre-abuse-ciisa",
-      "published": "2026-11-10T06:00:32+00:00",
-      "summary": "Workers in music, film, TV and theatre may not feel they can speak up about abuse, but the authority I lead is able to help them Helena Kennedy KC is a Labour peer and the chair of the Creative Industries Independent Standards Authority…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
+      "published": "2026-11-10T13:00:54+00:00",
+      "summary": "Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company A college Republican coalition claiming 31 affiliated student groups in 14 states that attacked the Trump…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -41,29 +21,39 @@
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-      "published": "2026-11-10T05:00:29+00:00",
-      "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe US officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with…",
+      "published": "2026-11-10T12:48:32+00:00",
+      "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "published": "2026-11-10T00:02:17+00:00",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "published": "2026-11-10T12:45:54+00:00",
+      "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
-      "source": "Eurogamer",
+      "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
-      "published": "2026-11-09T22:47:40+00:00",
-      "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company.",
+      "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+      "published": "2026-11-10T12:26:20+00:00",
+      "summary": "Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those \"Framerate Estimator\" text strings : a framerate estimator for the Steam Deck .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "One leg in the air like you just don’t care? Eight classic power poses – and what they really mean",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/10/eight-classic-power-poses-and-what-they-really-mean",
+      "published": "2026-11-10T11:30:50+00:00",
+      "summary": "The pose of the moment is eye-catching and a little alarming. But it’s not the first to cause a stir.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -77,6 +67,26 @@
       "score": 10
     },
     {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "published": "2026-11-09T15:23:20+00:00",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "AI Needn’t be Trustworthy, Teens Say. It Just Has to be Less Risky Than People",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/ai-neednt-be-trustworthy-young-people-say-it-just-has-to-be-less-risky-than-people/",
+      "published": "2026-11-10T12:01:00+00:00",
+      "summary": "Imagine you’re 14 and have just worked up the nerve to ask that pretty girl out, only to find out that she actually likes someone else.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
       "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -87,14 +97,14 @@
       "score": 9
     },
     {
-      "title": "New AI ‘Ultimatum’ Sparks Concern Over Google’s Power in California Schools",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/googles-new-ai-ultimatum-sparks-concern-over-tech-giants-power-in-ca-schools/",
-      "published": "2026-11-09T17:30:00+00:00",
-      "summary": "Google has long been woven into California students’ education, with Google search, Chromebooks and Gmail quietly in the background in students’ daily lives.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+      "published": "2026-11-10T12:28:36+00:00",
+      "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women",
@@ -104,16 +114,6 @@
       "published": "2026-11-09T20:47:13+00:00",
       "summary": "I said what I said The post The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "How I Did the Story: Uncovering Students’ Secret Struggles",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-i-did-the-story-uncovering-students-secret-struggles/",
-      "published": "2026-11-09T18:52:46+00:00",
-      "summary": "How I Did the Story: Uncovering Students’ Secret Struggles",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "Is Software Over?",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "published": "2026-11-10T10:15:57+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "OpenAI's Astra Just Opened The Black Box Of AI",
       "source": "Two Minute Papers",
@@ -326,17 +337,6 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Slayground | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=XsReYk7AqPg",
-      "published": "2026-10-20T13:00:34+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
     },
     {
       "title": "NAZA - Official Trailer - Now Playing In Theaters",
@@ -659,8 +659,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
-    "trailerCount": 23,
-    "sourceCount": 20
+    "youtubeCount": 15,
+    "trailerCount": 22,
+    "sourceCount": 19
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-10T10:01:02.015303Z
+Generated: 2026-11-10T14:00:02.055682Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are US reportedly evacuates aircraft from RAF Mildenhall over Iran threat, Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy, and Russell Brand’s conviction won’t end abusive behaviour in the creative industries, but at least whistleblowing is now possible | Helena Kennedy.
+Today's sweep leans toward CS education / AI policy, Democracy / anti-fascism, AI / privacy. The strongest items in this run are White supremacist Nick Fuentes linked to college Republican group, records show, US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin, and Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy.
 
 ## Briefing
 
@@ -33,61 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US reportedly evacuates aircraft from RAF Mildenhall over Iran threat [10/10]
+### 1. White supremacist Nick Fuentes linked to college Republican group, records show [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company A college Republican coalition claiming 31 affiliated student groups in 14 states that attacked the Trump…
+
+Link: https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans
+
+### 2. US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Evacuation comes weeks after US withdrew bombers from RAF Fairford over suspected Iran-linked security incident The US military has reportedly evacuated aircraft from a second airbase in ⁠Britain after a threat from Iran.
+First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between…
 
-Link: https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat
+Link: https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks
 
-### 2. Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy [10/10]
+### 3. Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…
+California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…
 
 Link: https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi
 
-### 3. Russell Brand’s conviction won’t end abusive behaviour in the creative industries, but at least whistleblowing is now possible | Helena Kennedy [10/10]
+### 4. Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those "Framerate Estimator" text strings : a framerate estimator for the Steam Deck .
+
+Link: https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet
+
+### 5. One leg in the air like you just don’t care? Eight classic power poses – and what they really mean [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Workers in music, film, TV and theatre may not feel they can speak up about abuse, but the authority I lead is able to help them Helena Kennedy KC is a Labour peer and the chair of the Creative Industries Independent Standards Authority…
+The pose of the moment is eye-catching and a little alarming. But it’s not the first to cause a stir.
 
-Link: https://www.theguardian.com/commentisfree/2026/nov/10/russell-brand-jailed-sex-attackers-music-film-tv-theatre-abuse-ciisa
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/10/eight-classic-power-poses-and-what-they-really-mean
 
-### 4. US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe US officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with…
-
-Link: https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks
-
-### 5. Here’s what Trump said he knew about Jensen Huang [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.
-
-Link: https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference
-
-### 6. As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games "remains the purview of human beings" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company.
-
-Link: https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview
-
-### 7. Vulnerability that lets hackers SSH into Linux devices is under active exploitation [10/10]
+### 6. Vulnerability that lets hackers SSH into Linux devices is under active exploitation [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -96,7 +87,25 @@ Link: https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview
 
 Link: https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/
 
-### 8. Investigation continues into Nvidia CEO's alleged relationship with Chinese spy [9/10]
+### 7. Nvidia CEO's affair becomes a national security problem [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.
+
+Link: https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/
+
+### 8. AI Needn’t be Trustworthy, Teens Say. It Just Has to be Less Risky Than People [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Imagine you’re 14 and have just worked up the nerve to ask that pretty girl out, only to find out that she actually likes someone else.
+
+Link: https://www.the74million.org/article/ai-neednt-be-trustworthy-young-people-say-it-just-has-to-be-less-risky-than-people/
+
+### 9. Investigation continues into Nvidia CEO's alleged relationship with Chinese spy [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,16 +114,16 @@ Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of havin
 
 Link: https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy
 
-### 9. New AI ‘Ultimatum’ Sparks Concern Over Google’s Power in California Schools [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Google has long been woven into California students’ education, with Google search, Chromebooks and Gmail quietly in the background in students’ daily lives.
+"School Girls; Or, The African Mean Girls Play," is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.
 
-Link: https://www.the74million.org/article/googles-new-ai-ultimatum-sparks-concern-over-tech-giants-power-in-ca-schools/
+Link: https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you
 
-### 10. The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women [8/10]
+### 11. The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -122,15 +131,6 @@ Link: https://www.the74million.org/article/googles-new-ai-ultimatum-sparks-conce
 I said what I said The post The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women appeared first on Reactor .
 
 Link: https://reactormag.com/the-fox-trailer-olivia-colman/
-
-### 11. How I Did the Story: Uncovering Students’ Secret Struggles [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-How I Did the Story: Uncovering Students’ Secret Struggles
-
-Link: https://www.the74million.org/article/how-i-did-the-story-uncovering-students-secret-struggles/
 
 ### 12. Bad news for kinky Brits [7/10]
 **Source:** 404 Media  
@@ -151,6 +151,15 @@ The decision to add a Mini Muffin Pan to my pan collection was not made lightly.
 Link: https://www.kingarthurbaking.com/blog/2026/11/09/mini-muffin-pan-recipes
 
 ## YouTube
+
+### Is Software Over? [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.
+
+Link: https://www.youtube.com/watch?v=vug73goPJaM
 
 ### OpenAI's Astra Just Opened The Black Box Of AI [8/10]
 **Creator:** Two Minute Papers  
@@ -333,15 +342,6 @@ Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
 Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
 
 Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
-
-### Slayground | Official Teaser HD | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jeremy Saulnier and starring Cory Michael Smith, Chase Sui Wonders, Stanley Simons, Sophie Wilde, Young Mazino, Imogen Poots, Matty Matheson, with James Badge Dale and Stephen Root.
-
-Link: https://www.youtube.com/watch?v=XsReYk7AqPg
 
 ### NAZA - Official Trailer - Now Playing In Theaters [8/10]
 **Source:** NEON  
