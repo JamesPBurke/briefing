@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-11T14:00:02.197655Z",
-  "generatedAtDisplay": "2026-11-11 09:00 AM EST",
+  "generatedAt": "2026-11-11T19:00:52.730514Z",
+  "generatedAtDisplay": "2026-11-11 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: California’s Charter Schools Are Public Schools. They Deserve Facilities Funding, Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act, and Pennsylvania Tax Credit Offers National Model of Benefits for Public School Kids.",
+  "summary": "Today's sweep leans toward Education / pedagogy, Democracy / press freedom, AI / computing. The strongest items in this run are Trump’s $10bn BBC battle goes ahead - The Latest, State-Appointed Managers in Texas Takeover School Districts Brace for Imminent Removal, and It’s impeachment season! After the attempt on Pete Hegseth, will Donald Trump be next? | Arwa Mahdawi.",
   "mainItems": [
+    {
+      "title": "Trump’s $10bn BBC battle goes ahead - The Latest",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/news/video/2026/nov/11/trumps-10bn-bbc-battle-goes-ahead-the-latest",
+      "published": "2026-11-11T18:35:03+00:00",
+      "summary": "Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after the corporation’s attempt to get it dismissed was thrown out by a Trump-appointed Florida judge.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "State-Appointed Managers in Texas Takeover School Districts Brace for Imminent Removal",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/state-appointed-managers-in-texas-takeover-school-districts-brace-for-imminent-removal/",
+      "published": "2026-11-11T17:30:00+00:00",
+      "summary": "Appointed school board managers in some of Texas’ districts under a state takeover said Friday that they are preparing to be out of a job as soon as January. Gov.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "It’s impeachment season! After the attempt on Pete Hegseth, will Donald Trump be next? | Arwa Mahdawi",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump",
+      "published": "2026-11-11T17:00:55+00:00",
+      "summary": "Trump has already made history as the only president to be impeached twice.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The best early Black Friday deals you can already shop",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "published": "2026-11-11T15:53:55+00:00",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "published": "2026-11-11T14:18:08+00:00",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Opinion: California’s Charter Schools Are Public Schools. They Deserve Facilities Funding",
       "source": "The 74",
@@ -14,16 +64,6 @@
       "published": "2026-11-11T13:30:00+00:00",
       "summary": "A school building does more than house an education. It can expand opportunities for students — or limit what’s possible for them.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
-      "published": "2026-11-11T13:30:00+00:00",
-      "summary": "Loot boxes, dark patterns, virtual currencies, subscription services, pay-to-win systems, and many other trappings of diabolical digital serfdom all face extensive regulation under the European Commission's proposed Digital Fairness Act,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,73 +77,43 @@
       "score": 10
     },
     {
-      "title": "Project 2025 had a plan to target federal data. The Trump administration obeyed",
-      "source": "The Guardian US",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
-      "published": "2026-11-11T11:00:47+00:00",
-      "summary": "Hundreds of datasets and websites that contradict government’s ideology have been altered or wiped – a tactic taken straight from Heritage Foundation’s policy blueprint Even amid Donald Trump’s failures – the Iran war, soaring prices and a…",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards",
-      "published": "2026-11-11T10:28:40+00:00",
-      "summary": "Content warning for discussion of extreme violence and self-harm. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "AI hoaxes are deceiving 911 dispatchers, and they're only getting harder to detect",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
-      "published": "2026-11-11T10:00:00+00:00",
-      "summary": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "published": "2026-11-11T13:41:52+00:00",
-      "summary": "Trump hails ‘exoneration of a Great American Patriot’ as moves against his defense secretary fail for now House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email After a federal judge has allowed Donald…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "published": "2026-11-11T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’",
+      "title": "‘The world we know is over’ without urgent climate action, Marshall Islands president tells Cop31",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest",
-      "published": "2026-11-11T12:00:49+00:00",
-      "summary": "Richard Trahant says accusers have been vindicated after Catholic church officially classifies Paul Hart as sex abuser An attorney who was fined more than $400,000 after getting an abusive Roman Catholic priest removed as a New Orleans…",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+      "published": "2026-11-11T18:52:08+00:00",
+      "summary": "Hilda Heine warns of effects of catastrophic global heating as world leaders meet in Turkey amid calls for urgent action on fossil fuels Cop31 live – latest updates Failure to provide an overwhelming response to the climate crisis means…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Virginia Report Reveals Gaps in Access to Career and Technical Education",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/virginia-report-reveals-gaps-in-access-to-career-and-technical-education/",
-      "published": "2026-11-10T19:30:00+00:00",
-      "summary": "Virginia’s career and technical education review found regional disparities in access to courses and credentials, according to a state report released Oct. 1.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "What to know about this year’s UN climate talks",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "published": "2026-11-11T17:00:00+00:00",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "published": "2026-11-11T14:15:27+00:00",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -117,525 +127,18 @@
       "score": 8
     },
     {
-      "title": "Come and Take It",
+      "title": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/come-and-take-it/",
-      "published": "2026-11-10T14:41:26+00:00",
-      "summary": "AI companies crack down on 'reverse engineer anything.'",
+      "url": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "It's likely an ultra-rare supermassive neutron star.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "M. John Harrison’s The End of Everything Wins the Booker Prize",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
-      "published": "2026-11-10T19:14:19+00:00",
-      "summary": "The sci-fi book takes place in a post-Apocalyptic England The post M. John Harrison’s The End of Everything Wins the Booker Prize appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Is Software Over?",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "published": "2026-11-10T10:15:57+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Astronomer Answers: What's The Most Extreme Exoplanet?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=-5Dp2zyYCw8",
-      "published": "2026-11-10T20:30:03+00:00",
-      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Astronomer Answers Exoplanet Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=qJY5PattAao",
-      "published": "2026-11-10T17:00:07+00:00",
-      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Newly elected members of Congress descend on Washington, D.C.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mQKUtURQgsY",
-      "published": "2026-11-10T17:30:41+00:00",
-      "summary": "Dozens of newly elected members of Congress are descending upon Washington, D.C., as Democrats prepare to retake control of the House and Senate in January.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Defense Secretary Pete Hegseth calls articles of impeachment a 'farce,' 'stunt'",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-4oDkHGtT2M",
-      "published": "2026-11-10T16:11:45+00:00",
-      "summary": "Defense Secretary Pete Hegseth is rejecting impeachment articles introduced against him yesterday by outgoing Republican congressman Thomas Massie. Massie reintroduced the articles of impeachment on the House floor yesterday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Sacha Baron Cohen revives his controversial character, Ali G | Morning Edition | NPR",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ymp1UqJWbSQ",
-      "published": "2026-11-10T15:52:28+00:00",
-      "summary": "Sacha Baron Cohen revived his controversial character, Ali G, in the new movie “Ali G: Who Iz I?” Host: A Martínez • Read or listen to: \"Sacha Baron Cohen's Ali G returns to the big screen in 'Ali G: Who Iz I?'\" at https://www.npr.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "NASA is looking for new astronauts open to living, working on the moon",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kKcIz4dkjVg",
-      "published": "2026-11-09T17:44:54+00:00",
-      "summary": "For the first time in more than two years, NASA is accepting applications from those interested in becoming an astronaut. NASA Administrator Jared Isaacman says those chosen could live and work on the moon. U.S. citizens can apply.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Stephen Miller begins his new role as Trump’s new White House chief of staff",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=R1A3JV6igU8",
-      "published": "2026-11-09T16:09:04+00:00",
-      "summary": "Today is the first day for President Trump’s new chief of staff, Stephen Miller, known for leading Trump’s extremely hard line on immigration and mass deportations.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "E-bike injuries on the rise among children and teens",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=pki328kqWlM",
-      "published": "2026-11-08T17:10:52+00:00",
-      "summary": "A new study finds rates of e-bike and scooter injuries are on the rise among children and teens across the country.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The Legend Of Zelda: Ocarina Of Time - Essential on Switch 2",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=PkaZzWmQQ3M",
-      "published": "2026-11-10T19:00:39+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI?si=24sc2BGP-UyVIwlj ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should Developers Target Games For Potato-Level PCs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=8j-ecLCywxU",
-      "published": "2026-11-10T18:00:03+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "God of Laufey Delayed By Three Months - And That's A Good Thing",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=v7j8BvbNpIY",
-      "published": "2026-11-10T17:00:38+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Testing Using RTX 5090 Unacceptable At This Point?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=bLY4y-3J7Dc",
-      "published": "2026-11-09T18:00:31+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Claude Blocked From Creating AI Recompilations... But Will It Work?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=NnqPuwRZAhw",
-      "published": "2026-11-09T17:00:13+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "10 Years Of PS4 Pro: What Is Its Legacy?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eHbiT1wmYfw",
-      "published": "2026-11-08T17:00:25+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/c51uWCN-mGI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Sega Saturn + Dreamcast: Why Didn't They Use Arcade Technology?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LxcK258Ixwk",
-      "published": "2026-11-08T16:00:03+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Checking Out Slumber Realm, a '90s-Soaked Dice Roguelike w/ Nick and Jess",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=LNinLKVBP2o",
-      "published": "2026-11-10T23:01:44+00:00",
-      "summary": "This video is brought to you by Slumber Realm, a '90s-inspired roguelike that lets you battle your childhood fears with dice. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Control Resonant May Have Lost the Plot",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=CmTrfaFRX6w",
-      "published": "2026-11-10T19:00:10+00:00",
-      "summary": "In his latest video essay, KC Nwosu digs into the ways Control Resonant succeeds (and fails) at bringing Remedy's formula into the open world.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Godzilla Minus Zero Is a Film About the Difficulty of Making a Godzilla Sequel | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=jJaXWevWtN0",
-      "published": "2026-11-10T16:00:06+00:00",
-      "summary": "In the latest episode of The Backdrop, Darren Mooney digs into how Godzilla Minus Zero is a lesson in sequel making. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Failing to Cooperate in Escape Academy 2 | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8F8Q9C-_ZXo",
-      "published": "2026-11-10T02:22:44+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Which Games Belong on the Zelda Mount Rushmore? | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=J1tP3qul0CQ",
-      "published": "2026-11-09T19:22:54+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "How to Spot AI Art in Games | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=SiVdvWdgKbY",
-      "published": "2026-11-09T16:00:26+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Becoming World Warriors in Street Fighter 6 | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=-J3Cv6OMVag",
-      "published": "2026-11-08T19:39:43+00:00",
-      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Rma1KLKyZWs",
-      "published": "2026-11-06T23:50:45+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Resident Evil 2026 | Roundtable Series",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=-0YLuOYAcGw",
-      "published": "2026-11-06T23:20:32+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-      "published": "2026-10-28T13:00:39+00:00",
-      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Debut | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
-      "published": "2026-11-10T14:00:15+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "NAZA - Official Trailer - Now Playing In Theaters",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=FquMSRj9z8s",
-      "published": "2026-10-30T16:00:05+00:00",
-      "summary": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Unholy Night | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=H_uly3CPQa0",
-      "published": "2026-11-09T16:01:33+00:00",
-      "summary": "A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Holy Boy | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=yGILDBbzoe0",
-      "published": "2026-10-28T17:12:06+00:00",
-      "summary": "In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Cycle | Deborah Ann Woll | Trailer",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=u_nIsrnN4Ro",
-      "published": "2026-10-24T00:01:42+00:00",
-      "summary": "Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Saw | Let the Game Begin",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=blTNfNeCt5k",
-      "published": "2026-10-26T19:00:14+00:00",
-      "summary": "Get into the seasonal mood, drop your favorite trap in the comments",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Permafrost | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=G18Dztgn81c",
-      "published": "2026-11-11T08:00:00+00:00",
-      "summary": "Two unlikely partners. Two separate investigations. And one plot to sabotage the Nobel Banquet.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tank, Jekalyn Carr, and Yolanda Adams perform at the premiere of The Gospel of Christmas 🎄",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=O3hwJNGrtKc",
-      "published": "2026-11-10T23:00:00+00:00",
-      "summary": "Y’all better sang! Durrell 'Tank' Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas 🎄 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Tyler Perry's The Gospel of Christmas Cast performs \"Do You Hear What I Hear?\" | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=cXVOT0NSHvw",
-      "published": "2026-11-10T23:00:00+00:00",
-      "summary": "Durrell “Tank” Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas. The film premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Body is coming tomorrow",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Xs7jCmyiK_A",
-      "published": "2026-11-10T22:30:00+00:00",
-      "summary": "My body is ready Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Willy Chavarria Loves Love On The Spectrum",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=4okS2MTfe7M",
-      "published": "2026-11-10T18:30:00+00:00",
-      "summary": "Find the love stories you never knew you needed. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INK | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IdIaiqvtUCw",
-      "published": "2026-11-10T14:30:00+00:00",
-      "summary": "Jack O’Connell, Guy Pearce, and Claire Foy star in INK, from Academy Award-winning director Danny Boyle.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "All About \"Possible Love\" | Inside Look | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Fd0yUFfCCCU",
-      "published": "2026-11-10T03:00:00+00:00",
-      "summary": "Go beyond the screen with director Lee Chang-dong as he unravels the deeper meanings behind his film, alongside exclusive insights from the cast and creative teams.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Dawn | Find The Thing You Never Knew You Needed | What Next? | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=GXobFRQ_EN4",
-      "published": "2026-11-09T14:10:00+00:00",
-      "summary": "When you find the thing you never knew you needed, it takes over, and you’ll do anything to keep watching. Find the thing you never knew you needed. https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Hypersleep | Find The Thing You Never Knew You Needed | What Next? | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=1fZs7bo_Eq0",
-      "published": "2026-11-09T14:05:00+00:00",
-      "summary": "When you find the thing you never knew you needed, you desperately need to share it with someone else. Find the thing you never knew you needed. https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Axolotl | Find The Thing You Never Knew You Needed | What Next? | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IqB9ldirzZo",
-      "published": "2026-11-09T14:00:00+00:00",
-      "summary": "When you find the thing you never knew you needed, it can bring everyone together. Find the thing you never knew you needed. https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=08b-bR4sBLo",
-      "published": "2026-11-11T02:59:46+00:00",
-      "summary": "Where’s Wanda? Season 2 is now streaming on Apple TV. https://apple.co/WheresWanda Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Fraggle Rock: A Holiday Gift — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JhIwpmslObY",
-      "published": "2026-11-10T16:44:50+00:00",
-      "summary": "A new holiday tradition is coming to the Rock. Fraggle Rock: A Holiday Gift — December 4 #FraggleRock #Trailer #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Power through the spice. #AwkwafinaTheUnlikelyCook — Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7QnZLmCYX-M",
-      "published": "2026-11-06T16:59:58+00:00",
-      "summary": "Awkwafina: The Unlikely Cook is now streaming on Apple TV. https://apple.co/_AwkwafinaTheUnlikelyCook Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -747,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
-    "trailerCount": 22,
-    "sourceCount": 20
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
