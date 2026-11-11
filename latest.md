@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-11T10:00:45.539320Z
+Generated: 2026-11-11T14:00:02.197655Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live, PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away, and Baby found alive after being buried in dog crate for 24 hours, South Carolina police say.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: California’s Charter Schools Are Public Schools. They Deserve Facilities Funding, Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act, and Pennsylvania Tax Credit Offers National Model of Benefits for Public School Kids.
 
 ## Briefing
 
@@ -33,79 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live [10/10]
+### 1. Opinion: California’s Charter Schools Are Public Schools. They Deserve Facilities Funding [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A school building does more than house an education. It can expand opportunities for students — or limit what’s possible for them.
+
+Link: https://www.the74million.org/article/californias-charter-schools-are-public-schools-they-deserve-facilities-funding/
+
+### 2. Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Loot boxes, dark patterns, virtual currencies, subscription services, pay-to-win systems, and many other trappings of diabolical digital serfdom all face extensive regulation under the European Commission's proposed Digital Fairness Act,…
+
+Link: https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act
+
+### 3. Pennsylvania Tax Credit Offers National Model of Benefits for Public School Kids [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+School counselors in Pennsylvania can have caseloads of more than 300 students. In high school, that means they’re not only responding to students’ mental health needs, but helping them meet all of their college application deadlines.
+
+Link: https://www.the74million.org/article/pennsylvania-tax-credit-offers-national-model-of-benefits-for-public-school-kids/
+
+### 4. Project 2025 had a plan to target federal data. The Trump administration obeyed [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Rolling coverage of the latest economic and financial news Reuters have spotted that a Chinese university with deep ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export…
+Hundreds of datasets and websites that contradict government’s ideology have been altered or wiped – a tactic taken straight from Heritage Foundation’s policy blueprint Even amid Donald Trump’s failures – the Iran war, soaring prices and a…
 
-Link: https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration
 
-### 2. PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames.
-
-Link: https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven
-
-### 3. Baby found alive after being buried in dog crate for 24 hours, South Carolina police say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Koah was found ‘clinging to life’ in a shallow grave after he went missing while in the care of his father, Lexington sheriff’s department said An 11-month-old boy was found alive in South ⁠Carolina after he was believed to have been…
-
-Link: https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina
-
-### 4. Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A deal giving Moscow a slice of Ukrainian territory and sanctions relief could be on the table in weeks – yet European leaders are busy squabbling Donald Trump has lost substantial power over domestic policy after last week’s devastating…
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders
-
-### 5. ‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast.
-
-Link: https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent
-
-### 6. Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration , asking a federal judge to…
-
-Link: https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk
-
-### 7. Oura is acquiring medical AI chatbot startup Counsel Health [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year.
-
-Link: https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition
-
-### 8. Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their "technical defences" and "legal activites" over piracy [9/10]
+### 5. Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a very popular game that I won't link to for…
+Content warning for discussion of extreme violence and self-harm. Read more
 
-Link: https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy
+Link: https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards
 
-### 9. Virginia Report Reveals Gaps in Access to Career and Technical Education [9/10]
+### 6. AI hoaxes are deceiving 911 dispatchers, and they're only getting harder to detect [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.
+
+Link: https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting
+
+### 7. GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Trump hails ‘exoneration of a Great American Patriot’ as moves against his defense secretary fail for now House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email After a federal judge has allowed Donald…
+
+Link: https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates
+
+### 8. The Download: preserving minds and weighing open AI risks [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/
+
+### 9. New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Richard Trahant says accusers have been vindicated after Catholic church officially classifies Paul Hart as sex abuser An attorney who was fined more than $400,000 after getting an abusive Roman Catholic priest removed as a New Orleans…
+
+Link: https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest
+
+### 10. Virginia Report Reveals Gaps in Access to Career and Technical Education [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -114,7 +123,7 @@ Virginia’s career and technical education review found regional disparities in
 
 Link: https://www.the74million.org/article/virginia-report-reveals-gaps-in-access-to-career-and-technical-education/
 
-### 10. Ebola tops 11,000 cases in Congo's deadliest outbreak [8/10]
+### 11. Ebola tops 11,000 cases in Congo's deadliest outbreak [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a
 
 Link: https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak
 
-### 11. Come and Take It [8/10]
+### 12. Come and Take It [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak
 AI companies crack down on 'reverse engineer anything.'
 
 Link: https://www.404media.co/come-and-take-it/
-
-### 12. AI Needn’t be Trustworthy, Teens Say. It Just Has to be Less Risky Than People [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Imagine you’re 14 and have just worked up the nerve to ask that pretty girl out, only to find out that she actually likes someone else.
-
-Link: https://www.the74million.org/article/ai-neednt-be-trustworthy-young-people-say-it-just-has-to-be-less-risky-than-people/
 
 ### 13. M. John Harrison’s The End of Everything Wins the Booker Prize [7/10]
 **Source:** Reactor  
@@ -152,9 +152,9 @@ Link: https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize
 
 ## YouTube
 
-### Is Software Over? [8/10]
+### Is Software Over? [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.
@@ -478,7 +478,7 @@ Two unlikely partners. Two separate investigations. And one plot to sabotage the
 
 Link: https://www.youtube.com/watch?v=G18Dztgn81c
 
-### Tank, Jekalyn Carr, and Yolanda Adams perform at the premiere of The Gospel of Christmas 🎄 [10/10]
+### Tank, Jekalyn Carr, and Yolanda Adams perform at the premiere of The Gospel of Christmas 🎄 [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -487,7 +487,7 @@ Y’all better sang! Durrell 'Tank' Babbs, Jekalyn Carr, and Yolanda Adams perfo
 
 Link: https://www.youtube.com/watch?v=O3hwJNGrtKc
 
-### The Tyler Perry's The Gospel of Christmas Cast performs "Do You Hear What I Hear?" | Netflix [10/10]
+### The Tyler Perry's The Gospel of Christmas Cast performs "Do You Hear What I Hear?" | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -558,15 +558,6 @@ Link: https://www.youtube.com/watch?v=1fZs7bo_Eq0
 When you find the thing you never knew you needed, it can bring everyone together. Find the thing you never knew you needed. https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=IqB9ldirzZo
-
-### Salish's 12 Games of Christmas | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Salish Matter and seven of her closest friends go head to head in 12 epic holiday challenges for a mountain of Christmas presents, with her dad, Jordan, as host.
-
-Link: https://www.youtube.com/watch?v=ylYSnvZEH0Y
 
 ### Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen [10/10]
 **Source:** Apple TV  
