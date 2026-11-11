@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-10T19:00:49.929812Z
+Generated: 2026-11-11T05:00:03.881811Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Google’s Pixel Tag tracker is now available, ChatGPT is getting verified AI ‘Business Agents’, and Anthropic targets valuation of up to $1.4tn in stock market flotation.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Two white students at University of Mississippi make monkey gestures in Ring video, Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee, and Ring cameras go mobile as Amazon debuts AI-powered security drone and robot.
 
 ## Briefing
 
@@ -33,106 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Google’s Pixel Tag tracker is now available [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase.
-
-Link: https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding
-
-### 2. ChatGPT is getting verified AI ‘Business Agents’ [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-ChatGPT is going to let you chat with verified "Business Agents" that represent a brand to help you with things like comparison shopping.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub
-
-### 3. Anthropic targets valuation of up to $1.4tn in stock market flotation [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.
-
-Link: https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai
-
-### 4. Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Juan Vargas, a congressman, says he’s working to reunite the third-grader with loved ones Relatives of an eight-year-old Haitian boy who was taken into custody by federal immigration authorities in California are unable to locate the…
-
-Link: https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california
-
-### 5. Singapore seizes US-operated cruise ship that offered ‘permanent’ life at sea [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-MV Odyssey impounded by authorities almost a fortnight after passengers left stranded in Cambodian port Singapore has seized a US-operated cruise ship that offered retirees a “permanent” life at sea but instead offloaded them in Cambodia…
-
-Link: https://www.theguardian.com/world/2026/nov/10/singapore-seizes-us-operated-cruise-ship-mv-odyssey
-
-### 6. White supremacist Nick Fuentes linked to college Republican group, records show [10/10]
+### 1. Two white students at University of Mississippi make monkey gestures in Ring video [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company A college Republican coalition claiming 31 affiliated student groups in 14 states that attacked the Trump…
+Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok Two white students at the University of Mississippi were captured making offensive monkey gestures in a widely panned Ring video…
 
-Link: https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans
+Link: https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures
 
-### 7. Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy [10/10]
+### 2. Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…
+Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life.
 
-Link: https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi
+Link: https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced
 
-### 8. Vulnerability that lets hackers SSH into Linux devices is under active exploitation [10/10]
+### 3. Ring cameras go mobile as Amazon debuts AI-powered security drone and robot [10/10]
 **Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-"*sshole" poses a serious threat to Internet security.
+Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.
 
-Link: https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/
+Link: https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
 
-### 9. The Download: Pelosi’s successor targets AI and data centers face power woes [9/10]
-**Source:** MIT Technology Review  
+### 4. Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+You know, I'm sure that Sony had every intention of following through on their intention to release 10 live service games by 2026, as they mentioned way back in 2022 .
+
+Link: https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works
+
+### 5. The PlayStation Plus PC app is shutting down next month [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown.
 
-Link: https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/
+Link: https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down
 
-### 10. AI Needn’t be Trustworthy, Teens Say. It Just Has to be Less Risky Than People [9/10]
+### 6. Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+If I wasn't so sick of hearing about AI every day of my life at the moment I might have found it funny to hear that one of the biggest peddlers of the poison around Nvidia CEO Jensen Huang was caught having an affair with an alleged…
+
+Link: https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair
+
+### 7. Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their "technical defences" and "legal activites" over piracy [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a very popular game that I won't link to for…
+
+Link: https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy
+
+### 8. Even Martin Scorsese uses AI for storyboards. Can the art survive? [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions.
+
+Link: https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai
+
+### 9. The Surprising Place Young People Get Emotional Support? AI [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Imagine you’re 14 and have just worked up the nerve to ask that pretty girl out, only to find out that she actually likes someone else.
+The Surprising Place Young People Get Emotional Support? AI
 
-Link: https://www.the74million.org/article/ai-neednt-be-trustworthy-young-people-say-it-just-has-to-be-less-risky-than-people/
+Link: https://www.the74million.org/article/the-surprising-place-young-people-get-emotional-support-ai/
 
-### 11. Investigation continues into Nvidia CEO's alleged relationship with Chinese spy [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.
-
-Link: https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy
-
-### 12. Come and Take It [8/10]
+### 10. Come and Take It [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,11 +123,71 @@ AI companies crack down on 'reverse engineer anything.'
 
 Link: https://www.404media.co/come-and-take-it/
 
-### 13. Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you [8/10]
+### 11. How word of mouth is helping an Amish community's fight against measles [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-"School Girls; Or, The African Mean Girls Play," is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.
+In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.
 
-Link: https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you
+Link: https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust
+
+### 12. Investigation continues into Nvidia CEO's alleged relationship with Chinese spy [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.
+
+Link: https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy
+
+### 13. M. John Harrison’s The End of Everything Wins the Booker Prize [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The sci-fi book takes place in a post-Apocalyptic England The post M. John Harrison’s The End of Everything Wins the Booker Prize appeared first on Reactor .
+
+Link: https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### The Debut | Official Trailer 2 HD | A24 [7/10]
+**Source:** A24  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.
+
+Link: https://www.youtube.com/watch?v=lF9n06SMDPU

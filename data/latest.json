@@ -1,120 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-10T19:00:49.929812Z",
-  "generatedAtDisplay": "2026-11-10 02:00 PM EST",
+  "generatedAt": "2026-11-11T05:00:03.881811Z",
+  "generatedAtDisplay": "2026-11-11 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Google’s Pixel Tag tracker is now available, ChatGPT is getting verified AI ‘Business Agents’, and Anthropic targets valuation of up to $1.4tn in stock market flotation.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Two white students at University of Mississippi make monkey gestures in Ring video, Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee, and Ring cameras go mobile as Amazon debuts AI-powered security drone and robot.",
   "mainItems": [
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "published": "2026-11-10T17:45:52+00:00",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "published": "2026-11-10T16:34:41+00:00",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-      "published": "2026-11-10T16:13:13+00:00",
-      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
-      "published": "2026-11-10T15:51:42+00:00",
-      "summary": "Juan Vargas, a congressman, says he’s working to reunite the third-grader with loved ones Relatives of an eight-year-old Haitian boy who was taken into custody by federal immigration authorities in California are unable to locate the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Singapore seizes US-operated cruise ship that offered ‘permanent’ life at sea",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/10/singapore-seizes-us-operated-cruise-ship-mv-odyssey",
-      "published": "2026-11-10T15:46:04+00:00",
-      "summary": "MV Odyssey impounded by authorities almost a fortnight after passengers left stranded in Cambodian port Singapore has seized a US-operated cruise ship that offered retirees a “permanent” life at sea but instead offloaded them in Cambodia…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "White supremacist Nick Fuentes linked to college Republican group, records show",
+      "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
-      "published": "2026-11-10T13:00:54+00:00",
-      "summary": "Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company A college Republican coalition claiming 31 affiliated student groups in 14 states that attacked the Trump…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures",
+      "published": "2026-11-11T02:26:10+00:00",
+      "summary": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok Two white students at the University of Mississippi were captured making offensive monkey gestures in a widely panned Ring video…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+      "published": "2026-11-11T01:53:38+00:00",
+      "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
+      "published": "2026-11-10T21:28:00+00:00",
+      "summary": "You know, I'm sure that Sony had every intention of following through on their intention to release 10 live service games by 2026, as they mentioned way back in 2022 .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "published": "2026-11-10T20:42:09+00:00",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
+      "source": "Rock Paper Shotgun",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "published": "2026-11-10T12:45:54+00:00",
-      "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen…",
+      "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
+      "published": "2026-11-10T18:00:00+00:00",
+      "summary": "If I wasn't so sick of hearing about AI every day of my life at the moment I might have found it funny to hear that one of the biggest peddlers of the poison around Nvidia CEO Jensen Huang was caught having an affair with an alleged…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "published": "2026-11-09T19:41:34+00:00",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "published": "2026-11-10T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+      "published": "2026-11-10T19:59:40+00:00",
+      "summary": "It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a very popular game that I won't link to for…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "AI Needn’t be Trustworthy, Teens Say. It Just Has to be Less Risky Than People",
+      "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+      "published": "2026-11-10T13:00:24+00:00",
+      "summary": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "The Surprising Place Young People Get Emotional Support? AI",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/ai-neednt-be-trustworthy-young-people-say-it-just-has-to-be-less-risky-than-people/",
-      "published": "2026-11-10T12:01:00+00:00",
-      "summary": "Imagine you’re 14 and have just worked up the nerve to ask that pretty girl out, only to find out that she actually likes someone else.",
+      "url": "https://www.the74million.org/article/the-surprising-place-young-people-get-emotional-support-ai/",
+      "published": "2026-11-10T21:17:00+00:00",
+      "summary": "The Surprising Place Young People Get Emotional Support? AI",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
-      "published": "2026-11-10T09:38:11+00:00",
-      "summary": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Come and Take It",
@@ -127,18 +107,50 @@
       "score": 8
     },
     {
-      "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+      "title": "How word of mouth is helping an Amish community's fight against measles",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-      "published": "2026-11-10T12:28:36+00:00",
-      "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+      "published": "2026-11-10T10:00:00+00:00",
+      "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
+      "published": "2026-11-10T09:38:11+00:00",
+      "summary": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "M. John Harrison’s The End of Everything Wins the Booker Prize",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
+      "published": "2026-11-10T19:14:19+00:00",
+      "summary": "The sci-fi book takes place in a post-Apocalyptic England The post M. John Harrison’s The End of Everything Wins the Booker Prize appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "The Debut | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
+      "published": "2026-11-10T14:00:15+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +263,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "trailerCount": 1,
+    "sourceCount": 10
   }
 }
