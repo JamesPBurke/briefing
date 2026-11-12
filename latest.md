@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-12T10:00:47.730357Z
+Generated: 2026-11-12T14:00:02.114125Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live, Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges, and Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Nvidia CEO Jensen Huang resigns amid spy, affair scandals, ‘Screwed twice’: The CFPB says it’s looking out for consumers. Its own data tells a different story, and Democratic Gains Make Arizona a ‘Test Case’ for Longevity of School Choice.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Here is Eurostar’s statement in response to my inquiries: “ At the request of the French authorities, trains are currently…
-
-Link: https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates
-
-### 2. Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the…
-
-Link: https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair
-
-### 3. Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas
-
-### 4. I wear a feline leotard and ears to see Cats – and meet all the other theatre superfans going crazy for costumes [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Skeleton suits for Phantom of the Opera, garish wigs for Beetlejuice, a Don’t Tell Mama dress for Cabaret … our critic meets the crowds going wild for costumes – and attends Cats in kitty costume It’s an hour before curtain-up and the…
-
-Link: https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats
-
-### 5. The (alleged) spy who loved me: the Nvidia scandal - podcast [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Global technology editor Dan Milmo on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy Nvidia is one of the biggest companies in the world.
-
-Link: https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast
-
-### 6. Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. [10/10]
-**Source:** Ars Technica  
+### 1. Nvidia CEO Jensen Huang resigns amid spy, affair scandals [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Any amount of AI coding is too much for many Independent Games Festival judges.
+Nvidia's board has separated from Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang.
 
-Link: https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/
+Link: https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia
 
-### 7. United won’t let your AI agent book your flight [9/10]
+### 2. ‘Screwed twice’: The CFPB says it’s looking out for consumers. Its own data tells a different story [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Complaints about banks and other financial players keep rising as Trump officials squelch enforcement actions at the Consumer Financial Protection Bureau This story was supported and co-published by the journalism non-profit the Economic…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers
+
+### 3. Democratic Gains Make Arizona a ‘Test Case’ for Longevity of School Choice [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A Facebook group in Arizona for those using the state’s universal school choice program is typically filled with threads about favorite curricula, microschool recommendations and ads for new gymnastics classes or music lessons.
+
+Link: https://www.the74million.org/article/democratic-gains-make-arizona-a-test-case-for-longevity-of-school-choice/
+
+### 4. Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts One thing we all know about the tech billionaires is they are super-smart.
+
+Link: https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia
+
+### 5. Ring confirms its camera drone won’t have manual controls after crashing on CBS News [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself.
+
+Link: https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls
+
+### 6. How angry parents helped flip Texas: choosing real education over culture wars [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blue Michelle Palmer has run for the Texas state board of education twice before, but this time felt different.
+
+Link: https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars
+
+### 7. "One of those ways where you can use AI ethically": CDPR have modified Geralt's Polish voice in The Witcher 3: Songs of the Past with genAI, due to actor's stroke [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+CD Projekt Red have reportedly enlisted Ukrainian AI firm Respeecher to modify voice lines recorded for the Polish version of Geralt of Rivia in The Witcher 3 's upcoming Songs of the Past expansion .
+
+Link: https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke
+
+### 8. How Much YouTube Is Too Much? A Pediatrician’s Take on Setting Guardrails [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+How much YouTube is too much for kids? What counts as educational content? How can adults who don’t feel in control over their own media consumption develop safeguards that promote healthy development for their young children? To help…
+
+Link: https://www.the74million.org/zero2eight/how-much-youtube-is-too-much-a-pediatricians-take-on-setting-guardrails/
+
+### 9. Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Paradox Interactive's Frederik Wester has announced he's stepping down from the role of CEO after a combined decade and a half leading the company.
+
+Link: https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down
+
+### 10. United won’t let your AI agent book your flight [9/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -95,33 +122,6 @@ Link: https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-t
 United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
-
-### 8. State-Appointed Managers in Texas Takeover School Districts Brace for Imminent Removal [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Appointed school board managers in some of Texas’ districts under a state takeover said Friday that they are preparing to be out of a job as soon as January. Gov.
-
-Link: https://www.the74million.org/article/state-appointed-managers-in-texas-takeover-school-districts-brace-for-imminent-removal/
-
-### 9. The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The European Commission has published its proposed Digital Fairness Act, which has the potential to change how video games are monetised - worldwide - forever.
-
-Link: https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games
-
-### 10. Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day Zack Polanski , leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today…
-
-Link: https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit
 
 ### 11. The best Thanksgiving baking tips from Ina Garten, Erin McDowell, and more pro bakers: Top tips from the Things Bakers Know podcast. [8/10]
 **Source:** King Arthur Baking  
@@ -151,6 +151,15 @@ It's likely an ultra-rare supermassive neutron star.
 Link: https://www.404media.co/scientists-discovered-an-invisible-object-in-space/
 
 ## YouTube
+
+### DeepMind’s AI Just Did The Impossible [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.
+
+Link: https://www.youtube.com/watch?v=gPNiuyYirfw
 
 ### Is Software Over? [7/10]
 **Creator:** Two Minute Papers  
@@ -242,15 +251,6 @@ Sacha Baron Cohen revived his controversial character, Ali G, in the new movie �
 
 Link: https://www.youtube.com/watch?v=ymp1UqJWbSQ
 
-### NASA is looking for new astronauts open to living, working on the moon [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-For the first time in more than two years, NASA is accepting applications from those interested in becoming an astronaut. NASA Administrator Jared Isaacman says those chosen could live and work on the moon. U.S. citizens can apply.
-
-Link: https://www.youtube.com/watch?v=kKcIz4dkjVg
-
 ### Xbox's FSR 4.1.2 Tech Is Seriously Fast On Series X [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -314,6 +314,15 @@ Link: https://www.youtube.com/watch?v=bLY4y-3J7Dc
 
 Link: https://www.youtube.com/watch?v=NnqPuwRZAhw
 
+### Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.
+
+Link: https://www.youtube.com/watch?v=ICM7Nj8fFmE
+
 ### The Big Second Wind Third Anniversary Channel Update! [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -332,9 +341,9 @@ KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. 
 
 Link: https://www.youtube.com/watch?v=UKhbuFgmidM
 
-### Yahtzee Tries... WendyQuest and Monomoon [7/10]
+### Yahtzee Tries... WendyQuest and Monomoon [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…
@@ -376,15 +385,6 @@ Link: https://www.youtube.com/watch?v=CmTrfaFRX6w
 In the latest episode of The Backdrop, Darren Mooney digs into how Godzilla Minus Zero is a lesson in sequel making. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=jJaXWevWtN0
-
-### Failing to Cooperate in Escape Academy 2 | Hot Monday Energy [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.
-
-Link: https://www.youtube.com/watch?v=8F8Q9C-_ZXo
 
 ## Entertainment Recommendations
 
@@ -496,6 +496,15 @@ Get into the seasonal mood, drop your favorite trap in the comments
 
 Link: https://www.youtube.com/watch?v=blTNfNeCt5k
 
+### Maestro in Blue: Season 4 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Back on Paxos, Orestis and Klelia confront uncertain futures as Sofia's criminal dealings put her family on a collision course with a grieving widow. The fourth and final season of Maestro in Blue premieres December 18, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=rgBOD9hcRE4
+
 ### Russell Brand: Open Secret | Announcement | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -514,7 +523,7 @@ Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight
 
 Link: https://www.youtube.com/watch?v=xnrCzYjT-O0
 
-### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix [10/10]
+### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -523,7 +532,7 @@ Carter Faith steps onstage at Robert’s Western World in Nashville for a specia
 
 Link: https://www.youtube.com/watch?v=DqjpYC7x4_k
 
-### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix [10/10]
+### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -576,15 +585,6 @@ Link: https://www.youtube.com/watch?v=G18Dztgn81c
 Y’all better sang! Durrell 'Tank' Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas 🎄 Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=O3hwJNGrtKc
-
-### The Tyler Perry's The Gospel of Christmas Cast performs "Do You Hear What I Hear?" | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Durrell “Tank” Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas. The film premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=cXVOT0NSHvw
 
 ### Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen [10/10]
 **Source:** Apple TV  

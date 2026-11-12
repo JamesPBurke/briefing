@@ -1,70 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-12T10:00:47.730357Z",
-  "generatedAtDisplay": "2026-11-12 05:00 AM EST",
+  "generatedAt": "2026-11-12T14:00:02.114125Z",
+  "generatedAtDisplay": "2026-11-12 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live, Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges, and Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Nvidia CEO Jensen Huang resigns amid spy, affair scandals, ‘Screwed twice’: The CFPB says it’s looking out for consumers. Its own data tells a different story, and Democratic Gains Make Arizona a ‘Test Case’ for Longevity of School Choice.",
   "mainItems": [
     {
-      "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-      "published": "2026-11-12T09:45:20+00:00",
-      "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Here is Eurostar’s statement in response to my inquiries: “ At the request of the French authorities, trains are currently…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-      "published": "2026-11-12T07:43:13+00:00",
-      "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
-      "published": "2026-11-12T05:00:11+00:00",
-      "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "I wear a feline leotard and ears to see Cats – and meet all the other theatre superfans going crazy for costumes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats",
-      "published": "2026-11-12T05:00:09+00:00",
-      "summary": "Skeleton suits for Phantom of the Opera, garish wigs for Beetlejuice, a Don’t Tell Mama dress for Cabaret … our critic meets the crowds going wild for costumes – and attends Cats in kitty costume It’s an hour before curtain-up and the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The (alleged) spy who loved me: the Nvidia scandal - podcast",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast",
-      "published": "2026-11-12T03:00:07+00:00",
-      "summary": "Global technology editor Dan Milmo on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy Nvidia is one of the biggest companies in the world.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "source": "Ars Technica",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "published": "2026-11-11T17:37:32+00:00",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+      "published": "2026-11-12T13:59:21+00:00",
+      "summary": "Nvidia's board has separated from Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "‘Screwed twice’: The CFPB says it’s looking out for consumers. Its own data tells a different story",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers",
+      "published": "2026-11-12T12:00:48+00:00",
+      "summary": "Complaints about banks and other financial players keep rising as Trump officials squelch enforcement actions at the Consumer Financial Protection Bureau This story was supported and co-published by the journalism non-profit the Economic…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Democratic Gains Make Arizona a ‘Test Case’ for Longevity of School Choice",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/democratic-gains-make-arizona-a-test-case-for-longevity-of-school-choice/",
+      "published": "2026-11-12T11:30:00+00:00",
+      "summary": "A Facebook group in Arizona for those using the state’s universal school choice program is typically filled with threads about favorite curricula, microschool recommendations and ads for new gymnastics classes or music lessons.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
+      "published": "2026-11-12T11:17:51+00:00",
+      "summary": "Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts One thing we all know about the tech billionaires is they are super-smart.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "published": "2026-11-12T11:12:32+00:00",
+      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How angry parents helped flip Texas: choosing real education over culture wars",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars",
+      "published": "2026-11-12T11:00:48+00:00",
+      "summary": "Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blue Michelle Palmer has run for the Texas state board of education twice before, but this time felt different.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"One of those ways where you can use AI ethically\": CDPR have modified Geralt's Polish voice in The Witcher 3: Songs of the Past with genAI, due to actor's stroke",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke",
+      "published": "2026-11-12T10:40:10+00:00",
+      "summary": "CD Projekt Red have reportedly enlisted Ukrainian AI firm Respeecher to modify voice lines recorded for the Polish version of Geralt of Rivia in The Witcher 3 's upcoming Songs of the Past expansion .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How Much YouTube Is Too Much? A Pediatrician’s Take on Setting Guardrails",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/how-much-youtube-is-too-much-a-pediatricians-take-on-setting-guardrails/",
+      "published": "2026-11-12T13:30:00+00:00",
+      "summary": "How much YouTube is too much for kids? What counts as educational content? How can adults who don’t feel in control over their own media consumption develop safeguards that promote healthy development for their young children? To help…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
+      "published": "2026-11-12T13:22:00+00:00",
+      "summary": "Paradox Interactive's Frederik Wester has announced he's stepping down from the role of CEO after a combined decade and a half leading the company.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "United won’t let your AI agent book your flight",
@@ -75,36 +105,6 @@
       "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
-    },
-    {
-      "title": "State-Appointed Managers in Texas Takeover School Districts Brace for Imminent Removal",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/state-appointed-managers-in-texas-takeover-school-districts-brace-for-imminent-removal/",
-      "published": "2026-11-11T17:30:00+00:00",
-      "summary": "Appointed school board managers in some of Texas’ districts under a state takeover said Friday that they are preparing to be out of a job as soon as January. Gov.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
-      "published": "2026-11-11T17:25:50+00:00",
-      "summary": "The European Commission has published its proposed Digital Fairness Act, which has the potential to change how video games are monetised - worldwide - forever.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-      "published": "2026-11-12T09:48:20+00:00",
-      "summary": "World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day Zack Polanski , leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
     },
     {
       "title": "The best Thanksgiving baking tips from Ina Garten, Erin McDowell, and more pro bakers: Top tips from the Things Bakers Know podcast.",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind’s AI Just Did The Impossible",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+      "published": "2026-11-12T13:41:41+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Is Software Over?",
       "source": "Two Minute Papers",
@@ -249,17 +260,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "NASA is looking for new astronauts open to living, working on the moon",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kKcIz4dkjVg",
-      "published": "2026-11-09T17:44:54+00:00",
-      "summary": "For the first time in more than two years, NASA is accepting applications from those interested in becoming an astronaut. NASA Administrator Jared Isaacman says those chosen could live and work on the moon. U.S. citizens can apply.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "Xbox's FSR 4.1.2 Tech Is Seriously Fast On Series X",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -337,6 +337,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ICM7Nj8fFmE",
+      "published": "2026-11-12T13:25:32+00:00",
+      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Big Second Wind Third Anniversary Channel Update!",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -366,8 +377,8 @@
       "published": "2026-11-11T23:10:13+00:00",
       "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Castlevania: Belmont's Curse | Fully Ramblomatic",
@@ -412,17 +423,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Failing to Cooperate in Escape Academy 2 | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8F8Q9C-_ZXo",
-      "published": "2026-11-10T02:22:44+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -526,6 +526,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "Maestro in Blue: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rgBOD9hcRE4",
+      "published": "2026-11-12T10:00:00+00:00",
+      "summary": "Back on Paxos, Orestis and Klelia confront uncertain futures as Sofia's criminal dealings put her family on a collision course with a grieving widow. The fourth and final season of Maestro in Blue premieres December 18, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Russell Brand: Open Secret | Announcement | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -555,7 +566,7 @@
       "published": "2026-11-12T00:49:06+00:00",
       "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -566,7 +577,7 @@
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -620,17 +631,6 @@
       "url": "https://www.youtube.com/watch?v=O3hwJNGrtKc",
       "published": "2026-11-10T23:00:00+00:00",
       "summary": "Y’all better sang! Durrell 'Tank' Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas 🎄 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Tyler Perry's The Gospel of Christmas Cast performs \"Do You Hear What I Hear?\" | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=cXVOT0NSHvw",
-      "published": "2026-11-10T23:00:00+00:00",
-      "summary": "Durrell “Tank” Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas. The film premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
