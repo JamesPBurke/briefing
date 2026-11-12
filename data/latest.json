@@ -1,28 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-12T05:00:03.367505Z",
-  "generatedAtDisplay": "2026-11-12 12:00 AM EST",
+  "generatedAt": "2026-11-12T10:00:47.730357Z",
+  "generatedAtDisplay": "2026-11-12 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live, ‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction, and The (alleged) spy who loved me: the Nvidia scandal - podcast.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live, Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges, and Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç.",
   "mainItems": [
     {
-      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "published": "2026-11-12T04:30:16+00:00",
-      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading The scandal surrounding Nvidia chief Jensen Huang has been closely…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "published": "2026-11-12T09:45:20+00:00",
+      "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Here is Eurostar’s statement in response to my inquiries: “ At the request of the French authorities, trains are currently…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction",
+      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
-      "published": "2026-11-12T03:33:38+00:00",
-      "summary": "Seoul’s ‘scarf uncle’ has become a South Korean sensation for a sales technique that consists of talking customers out of purchases By mid-morning the main alley of Namdaemun market in Seoul is ringed by private security guards and police,…",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+      "published": "2026-11-12T07:43:13+00:00",
+      "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
+      "published": "2026-11-12T05:00:11+00:00",
+      "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "I wear a feline leotard and ears to see Cats – and meet all the other theatre superfans going crazy for costumes",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats",
+      "published": "2026-11-12T05:00:09+00:00",
+      "summary": "Skeleton suits for Phantom of the Opera, garish wigs for Beetlejuice, a Don’t Tell Mama dress for Cabaret … our critic meets the crowds going wild for costumes – and attends Cats in kitty costume It’s an hour before curtain-up and the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,26 +57,6 @@
       "score": 10
     },
     {
-      "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
-      "published": "2026-11-11T23:18:36+00:00",
-      "summary": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi’s first Black senator since Reconstruction The ad is simple, less than half a minute long, but many say it was the moment the nation took notice…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump’s $10bn BBC battle goes ahead - The Latest",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/news/video/2026/nov/11/trumps-10bn-bbc-battle-goes-ahead-the-latest",
-      "published": "2026-11-11T18:35:03+00:00",
-      "summary": "Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after the corporation’s attempt to get it dismissed was thrown out by a Trump-appointed Florida judge.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -67,23 +67,13 @@
       "score": 10
     },
     {
-      "title": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
-      "published": "2026-11-11T17:25:50+00:00",
-      "summary": "The European Commission has published its proposed Digital Fairness Act, which has the potential to change how video games are monetised - worldwide - forever.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
-      "published": "2026-11-11T18:52:08+00:00",
-      "summary": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firms Failure to provide an overwhelming response to the climate crisis means “the world we know is over”, the president of the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "United won’t let your AI agent book your flight",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "published": "2026-11-11T21:54:21+00:00",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -97,6 +87,26 @@
       "score": 9
     },
     {
+      "title": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
+      "published": "2026-11-11T17:25:50+00:00",
+      "summary": "The European Commission has published its proposed Digital Fairness Act, which has the potential to change how video games are monetised - worldwide - forever.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
+      "published": "2026-11-12T09:48:20+00:00",
+      "summary": "World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day Zack Polanski , leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
       "title": "The best Thanksgiving baking tips from Ina Garten, Erin McDowell, and more pro bakers: Top tips from the Things Bakers Know podcast.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
@@ -104,16 +114,6 @@
       "published": "2026-11-11T15:00:00+00:00",
       "summary": "It’s the most wonderful baking season of the year, and to help you bake your best, we have top tips from some of the country’s best bakers, pulled from conversations on the Things Bakers Know podcast .",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-      "published": "2026-11-11T09:16:01+00:00",
-      "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -139,6 +139,39 @@
   ],
   "youtube": [
     {
+      "title": "Is Software Over?",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "published": "2026-11-10T10:15:57+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Astronomer Answers: What's The Most Extreme Exoplanet?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=-5Dp2zyYCw8",
+      "published": "2026-11-10T20:30:03+00:00",
+      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Astronomer Answers Exoplanet Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=qJY5PattAao",
+      "published": "2026-11-10T17:00:07+00:00",
+      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Draft of MLK’s ‘I Have a Dream’ speech going up for auction",
       "source": "NPR",
       "category": "News / analysis",
@@ -146,8 +179,8 @@
       "published": "2026-11-11T17:45:40+00:00",
       "summary": "A newly identified draft of Martin Luther King Jr.’s iconic “I Have a Dream” speech is going up for auction early next year.⁠ ⁠ King spoke on the steps of the Lincoln Memorial in 1963 during the March on Washington.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Schumer faces resistance to leading the Senate as Sanders, Slotkin pull their support",
@@ -225,6 +258,83 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Xbox's FSR 4.1.2 Tech Is Seriously Fast On Series X",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=fup4cHfTGQg",
+      "published": "2026-11-11T18:00:36+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Zelda: Ocarina of Time Remake - Would DLSS Have Made A Difference?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=9-ObC6KqMUE",
+      "published": "2026-11-11T17:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Legend Of Zelda: Ocarina Of Time - Essential on Switch 2",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=PkaZzWmQQ3M",
+      "published": "2026-11-10T19:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI?si=24sc2BGP-UyVIwlj ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Should Developers Target Games For Potato-Level PCs?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=8j-ecLCywxU",
+      "published": "2026-11-10T18:00:03+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "God of Laufey Delayed By Three Months - And That's A Good Thing",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=v7j8BvbNpIY",
+      "published": "2026-11-10T17:00:38+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Is Testing Using RTX 5090 Unacceptable At This Point?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=bLY4y-3J7Dc",
+      "published": "2026-11-09T18:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Claude Blocked From Creating AI Recompilations... But Will It Work?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=NnqPuwRZAhw",
+      "published": "2026-11-09T17:00:13+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Big Second Wind Third Anniversary Channel Update!",
@@ -315,7 +425,239 @@
       "verdict": "Worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rma1KLKyZWs",
+      "published": "2026-11-06T23:50:45+00:00",
+      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Resident Evil 2026 | Roundtable Series",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-0YLuOYAcGw",
+      "published": "2026-11-06T23:20:32+00:00",
+      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+      "published": "2026-10-28T13:00:39+00:00",
+      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
+      "published": "2026-11-10T14:00:15+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "NAZA - Official Trailer - Now Playing In Theaters",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FquMSRj9z8s",
+      "published": "2026-10-30T16:00:05+00:00",
+      "summary": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Unholy Night | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=H_uly3CPQa0",
+      "published": "2026-11-09T16:01:33+00:00",
+      "summary": "A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Holy Boy | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=yGILDBbzoe0",
+      "published": "2026-10-28T17:12:06+00:00",
+      "summary": "In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Cycle | Deborah Ann Woll | Trailer",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=u_nIsrnN4Ro",
+      "published": "2026-10-24T00:01:42+00:00",
+      "summary": "Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Saw | Let the Game Begin",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=blTNfNeCt5k",
+      "published": "2026-10-26T19:00:14+00:00",
+      "summary": "Get into the seasonal mood, drop your favorite trap in the comments",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Russell Brand: Open Secret | Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wiXS3J3LeOA",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "RUSSELL BRAND: OPEN SECRET, charts the comedian’s meteoric rise and steep fall following allegations of sexual offences.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Meet Me on the Dance Floor (from the Steps Soundtrack) | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xnrCzYjT-O0",
+      "published": "2026-11-12T05:00:00+00:00",
+      "summary": "Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight. 👀💃 “Meet Me on the Dance Floor” (performed by Rose Gray) is out now. STEPS premieres Nov 20! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DqjpYC7x4_k",
+      "published": "2026-11-12T00:49:06+00:00",
+      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=-KWOE2GHtbU",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Teezo Touchdown Loves The Hunting Wives",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pNHkEPkfazs",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Don’t worry, THE HUNTING WIVES brings out the messy b— in all of us. Find the messy drama you never knew you needed. Season 2 drops November 26 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Guarding Stars | Sneak Peek | Mistletoe Rodeo Kiss Cam | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JCGvi4lci24",
+      "published": "2026-11-11T17:00:07+00:00",
+      "summary": "Nothing like a mistletoe rodeo kiss cam to kick the \"fake dating\" trope into high-gear. GUARDING STARS is out in 1 week! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "World War II: Behind Enemy Lines | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7eqt8zY3D0Y",
+      "published": "2026-11-11T16:30:00+00:00",
+      "summary": "Witness one US Army unit's battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Permafrost | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=G18Dztgn81c",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "Two unlikely partners. Two separate investigations. And one plot to sabotage the Nobel Banquet.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tank, Jekalyn Carr, and Yolanda Adams perform at the premiere of The Gospel of Christmas 🎄",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=O3hwJNGrtKc",
+      "published": "2026-11-10T23:00:00+00:00",
+      "summary": "Y’all better sang! Durrell 'Tank' Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas 🎄 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Tyler Perry's The Gospel of Christmas Cast performs \"Do You Hear What I Hear?\" | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=cXVOT0NSHvw",
+      "published": "2026-11-10T23:00:00+00:00",
+      "summary": "Durrell “Tank” Babbs, Jekalyn Carr, and Yolanda Adams performing “Do You Hear What I Hear?” at the premiere of Tyler Perry’s The Gospel of Christmas. The film premieres November 11, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=08b-bR4sBLo",
+      "published": "2026-11-11T02:59:46+00:00",
+      "summary": "Where’s Wanda? Season 2 is now streaming on Apple TV. https://apple.co/WheresWanda Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Fraggle Rock: A Holiday Gift — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JhIwpmslObY",
+      "published": "2026-11-10T16:44:50+00:00",
+      "summary": "A new holiday tradition is coming to the Rock. Fraggle Rock: A Holiday Gift — December 4 #FraggleRock #Trailer #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -427,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 26,
+    "trailerCount": 21,
+    "sourceCount": 20
   }
 }
