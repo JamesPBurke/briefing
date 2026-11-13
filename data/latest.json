@@ -1,69 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-13T14:00:03.265226Z",
-  "generatedAtDisplay": "2026-11-13 09:00 AM EST",
+  "generatedAt": "2026-11-13T19:00:57.624229Z",
+  "generatedAtDisplay": "2026-11-13 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Microsoft’s massive Outlook outage continues, Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live, and Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’, Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live, and You can adjust the position of the trackball on Keychron’s new wireless mouse.",
   "mainItems": [
+    {
+      "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "published": "2026-11-13T18:46:43+00:00",
+      "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "published": "2026-11-13T18:42:32+00:00",
+      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "published": "2026-11-13T18:10:41+00:00",
+      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Miami-Dade District Seeks Microschools to Lease Empty Classroom Space",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/miami-dade-district-seeks-microschools-to-lease-empty-classroom-space/",
+      "published": "2026-11-13T17:30:00+00:00",
+      "summary": "The Miami-Dade school district, one of the nation’s largest, is inviting independent microschools to lease empty classroom space — providing a new revenue stream as public school enrollment drops sharply.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published": "2026-11-13T17:25:45+00:00",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "She gets 16 pelvic exams a day – so yours don’t hurt",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students",
+      "published": "2026-11-13T17:00:20+00:00",
+      "summary": "Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams On her busiest days, Molly Callahan, has 16 speculums inserted into her vagina.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The new Apple TV has a YouTube problem",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "published": "2026-11-13T16:55:57+00:00",
+      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "published": "2026-11-13T16:26:32+00:00",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
     {
       "title": "Microsoft’s massive Outlook outage continues",
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "published": "2026-11-13T13:59:42+00:00",
+      "published": "2026-11-13T16:17:11+00:00",
       "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+      "title": "US university students tell surveillance cameras to Flock off",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "published": "2026-11-13T13:36:09+00:00",
-      "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Sign up for the Breaking News US email There has been a wave of calls from Republican lawmakers in Congress…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/parent-civic-groups-raise-student-achievement-but-mostly-in-wealthier-schools/",
-      "published": "2026-11-13T13:30:00+00:00",
-      "summary": "Consider the weekly parent-teacher group meeting in the library. The booster club that funds the band trip. The scholarship fund named after a coach. These are among the most consistent predictors of how well children do in school.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "published": "2026-11-13T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
-      "published": "2026-11-13T12:19:50+00:00",
-      "summary": "Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed Wolfenstein: The New Order , Wolfenstein 2: The New Colossal, and 2024's celebrated Indiana Jones and the Great…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Mauricio Pochettino’s switch from USA to Manchester United confirmed",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa",
-      "published": "2026-11-13T12:17:24+00:00",
-      "summary": "Pochettino to take charge of two final USMNT matches He has signed two-and-a-half-year United contract Mauricio Pochettino’s switch from the US men’s national team to Manchester United has been confirmed.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "published": "2026-11-13T12:00:18+00:00",
+      "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -77,598 +117,28 @@
       "score": 10
     },
     {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "published": "2026-11-12T18:57:45+00:00",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "A Virginia ‘School-Wide Read’ Has Sparked Engagement in Classes and Literacy",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/a-virginia-school-wide-read-has-sparked-engagement-in-classes-and-literacy/",
-      "published": "2026-11-13T11:30:00+00:00",
-      "summary": "At one Virginia middle school, an annual school-wide book club has sparked student engagement, connection and increased interest in reading.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-      "published": "2026-11-12T22:53:40+00:00",
-      "summary": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 9
-    },
-    {
-      "title": "Children of Blood and Bone Trailer Showcases Movie’s Soundtrack",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/children-of-blood-and-bone-trailer-soundtrack/",
-      "published": "2026-11-12T19:03:39+00:00",
-      "summary": "We also see more of Thuso Mbedu as the magical Zelie The post Children of Blood and Bone Trailer Showcases Movie’s Soundtrack appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+      "published": "2026-11-13T15:46:35+00:00",
+      "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-      "published": "2026-11-13T12:06:28+00:00",
-      "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "'Way more terrifying than I expected'",
+      "title": "Behind the Blog: Priorities, Priorities",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/way-more-terrifying-than-i-expected/",
-      "published": "2026-11-12T16:46:42+00:00",
-      "summary": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
+      "url": "https://www.404media.co/behind-the-blog-priorities-priorities/",
+      "published": "2026-11-13T17:28:17+00:00",
+      "summary": "This week, we discuss getting inspired and how things get prioritized.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "DeepMind’s AI Just Did The Impossible",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-      "published": "2026-11-12T13:41:41+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Atomic Operations - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=BHOw09O3ZsI",
-      "published": "2026-11-12T14:59:29+00:00",
-      "summary": "Operations that complete without interruption, known as 'atomic' operations are extremely useful and allow us to go about our business unimpeded. Matt Godbolt of 'Compiler Explorer' fame explains. Computerphile is supported by Jane Street.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Astronomer Answers: What's The Most Extreme Exoplanet?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=-5Dp2zyYCw8",
-      "published": "2026-11-10T20:30:03+00:00",
-      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Astronomer Answers Exoplanet Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=qJY5PattAao",
-      "published": "2026-11-10T17:00:07+00:00",
-      "summary": "Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Gaza’s Health Ministry says six people killed by Israeli airstrike on hospital",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=SeDdnb0h1YA",
-      "published": "2026-11-13T13:15:20+00:00",
-      "summary": "Gaza’s Health Ministry says six people were killed in an Israeli airstrike on one of Gaza’s biggest hospitals more than a year into a ceasefire with Hamas. Israel says it was targeting a senior Hamas figure.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=JntHcfQ2buU",
-      "published": "2026-11-13T12:44:25+00:00",
-      "summary": "This week Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace. According to the New York Times, U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Spy scandal / Hegseth’s future / Are we still at war with Iran? | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Bpkl8PstNIE",
-      "published": "2026-11-12T23:22:02+00:00",
-      "summary": "An American tech giant in the arms of an alleged Chinese spy. Now, Jensen Huang and Nvidia are at the center of a national security crisis.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Abdul El-Sayed: \"I worry that we may not earn our mandate\"",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=b93RTrenE44",
-      "published": "2026-11-12T17:16:10+00:00",
-      "summary": "Abdul El-Sayed is one of the breakout figures of the newly elected Democratic Congress. Voters in Michigan elected the epidemiologist and former public health official to serve in the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should Cory and Topanga really have been endgame?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kS8BpDhkFu8",
-      "published": "2026-11-12T17:15:41+00:00",
-      "summary": "Danielle Fishel, who played one half of the young couple on the hit ’90s sitcom “Boy Meets World,” knows there’s now a critical eye cast on the portrayal of teenagers who chose to commit to each other and get married before even graduating…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Democrat Scott Colom wins Mississippi Senate seat",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Wmy_Q6zuLKU",
-      "published": "2026-11-12T15:30:24+00:00",
-      "summary": "The Associated Press has called the U.S. Senate race in Mississippi for Democratic challenger Scott Colom, who will be the state’s first Black senator since reconstruction.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nintendo's Basic HDR For First Party Games Could Be Much Better",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=mX3KdOlHS8k",
-      "published": "2026-11-12T17:00:07+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Xbox's FSR 4.1.2 Tech Is Seriously Fast On Series X",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=fup4cHfTGQg",
-      "published": "2026-11-11T18:00:36+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Remake - Would DLSS Have Made A Difference?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=9-ObC6KqMUE",
-      "published": "2026-11-11T17:00:20+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Legend Of Zelda: Ocarina Of Time - Essential on Switch 2",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=PkaZzWmQQ3M",
-      "published": "2026-11-10T19:00:39+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI?si=24sc2BGP-UyVIwlj ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Should Developers Target Games For Potato-Level PCs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=8j-ecLCywxU",
-      "published": "2026-11-10T18:00:03+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "God of Laufey Delayed By Three Months - And That's A Good Thing",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=v7j8BvbNpIY",
-      "published": "2026-11-10T17:00:38+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=d7fbxt8qNKI",
-      "published": "2026-11-13T02:01:25+00:00",
-      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Making Memorable Encounters w/ Red (OSP and Rolling with Difficulty) | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=y5vJcDeiFMI",
-      "published": "2026-11-12T23:30:18+00:00",
-      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ICM7Nj8fFmE",
-      "published": "2026-11-12T20:12:59+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Big Second Wind Third Anniversary Channel Update!",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=kVlD1iiY3lY",
-      "published": "2026-11-12T16:00:07+00:00",
-      "summary": "It's our third anniversary! We've got a lot of plans and goals for 2027. If you've enjoyed our content these last three years, we're asking you support us over on Patreon! https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Gears of War: E-Day Co-op, aka, Big Meaty Men Slapping Meat w/ KC and Marty - Part 4",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=UKhbuFgmidM",
-      "published": "2026-11-12T02:07:16+00:00",
-      "summary": "KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Tries... WendyQuest and Monomoon",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8LDHhFB0z_I",
-      "published": "2026-11-11T23:10:13+00:00",
-      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Castlevania: Belmont's Curse | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DdwGCvM74WE",
-      "published": "2026-11-11T17:00:20+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Castlevania: Belmont's Curse. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Rma1KLKyZWs",
-      "published": "2026-11-06T23:50:45+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Resident Evil 2026 | Roundtable Series",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=-0YLuOYAcGw",
-      "published": "2026-11-06T23:20:32+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-      "published": "2026-10-28T13:00:39+00:00",
-      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Debut | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
-      "published": "2026-11-10T14:00:15+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "NAZA - Official Trailer - Now Playing In Theaters",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=FquMSRj9z8s",
-      "published": "2026-10-30T16:00:05+00:00",
-      "summary": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Unholy Night | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=H_uly3CPQa0",
-      "published": "2026-11-09T16:01:33+00:00",
-      "summary": "A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Holy Boy | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=yGILDBbzoe0",
-      "published": "2026-10-28T17:12:06+00:00",
-      "summary": "In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Cycle | Deborah Ann Woll | Trailer",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=u_nIsrnN4Ro",
-      "published": "2026-10-24T00:01:42+00:00",
-      "summary": "Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Saw | Let the Game Begin",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=blTNfNeCt5k",
-      "published": "2026-10-26T19:00:14+00:00",
-      "summary": "Get into the seasonal mood, drop your favorite trap in the comments",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "The Riot | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KgVcfmbfnhg",
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "December 1989, Poland. Everyone is celebrating freedom and change. Everyone except those behind bars. For them, change is only a promise, and hope turns out to be the most dangerous weapon of all.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Isamaya Ffrench Loves The Deepest Breath",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=4rvfqN8EwPU",
-      "published": "2026-11-12T18:00:00+00:00",
-      "summary": "Beauty runs deep. Find the breathtaking documentary you never knew you needed. 🎥: THE DEEPEST BREATH Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Baddest Speechwriter of All | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=gHV06F8JJKQ",
-      "published": "2026-11-12T18:00:00+00:00",
-      "summary": "Martin Luther King Jr.'s lawyer and speechwriter, Dr. Clarence B. Jones, reveals the personal cost and surprising truths of making history, offering an insider’s view of the Civil Rights Movement. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Jean-Michel Basquiat | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=eLuySKwDvhM",
-      "published": "2026-11-12T16:00:00+00:00",
-      "summary": "Jean-Michel Basquiat is a reclamation of what has been lost in the legacy of a globally renowned artist.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ray Gunn | Official Trailer #2 | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Lo0DJm3tTz0",
-      "published": "2026-11-12T14:30:02+00:00",
-      "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ray Gunn | Official Trailer #2 | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oAmCTknTA6I",
-      "published": "2026-11-12T14:30:02+00:00",
-      "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Maestro in Blue: Season 4 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=rgBOD9hcRE4",
-      "published": "2026-11-12T10:00:00+00:00",
-      "summary": "Back on Paxos, Orestis and Klelia confront uncertain futures as Sofia's criminal dealings put her family on a collision course with a grieving widow. The fourth and final season of Maestro in Blue premieres December 18, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Russell Brand: Open Secret | Announcement | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wiXS3J3LeOA",
-      "published": "2026-11-12T08:00:00+00:00",
-      "summary": "RUSSELL BRAND: OPEN SECRET, charts the comedian’s meteoric rise and steep fall following allegations of sexual offences.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Meet Me on the Dance Floor (from the Steps Soundtrack) | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=xnrCzYjT-O0",
-      "published": "2026-11-12T05:00:00+00:00",
-      "summary": "Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight. 👀💃 “Meet Me on the Dance Floor” (performed by Rose Gray) is out now. STEPS premieres Nov 20! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=DqjpYC7x4_k",
-      "published": "2026-11-12T00:49:06+00:00",
-      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-KWOE2GHtbU",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Teezo Touchdown Loves The Hunting Wives",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pNHkEPkfazs",
-      "published": "2026-11-11T19:00:00+00:00",
-      "summary": "Don’t worry, THE HUNTING WIVES brings out the messy b— in all of us. Find the messy drama you never knew you needed. Season 2 drops November 26 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Guarding Stars | Sneak Peek | Mistletoe Rodeo Kiss Cam | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JCGvi4lci24",
-      "published": "2026-11-11T17:00:07+00:00",
-      "summary": "Nothing like a mistletoe rodeo kiss cam to kick the \"fake dating\" trope into high-gear. GUARDING STARS is out in 1 week! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "World War II: Behind Enemy Lines | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7eqt8zY3D0Y",
-      "published": "2026-11-11T16:30:00+00:00",
-      "summary": "Witness one US Army unit's battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=08b-bR4sBLo",
-      "published": "2026-11-11T02:59:46+00:00",
-      "summary": "Where’s Wanda? Season 2 is now streaming on Apple TV. https://apple.co/WheresWanda Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Fraggle Rock: A Holiday Gift — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JhIwpmslObY",
-      "published": "2026-11-10T16:44:50+00:00",
-      "summary": "A new holiday tradition is coming to the Rock. Fraggle Rock: A Holiday Gift — December 4 #FraggleRock #Trailer #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -780,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
-    "trailerCount": 25,
-    "sourceCount": 24
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
