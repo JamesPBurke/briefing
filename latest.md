@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-13T05:00:03.181589Z
+Generated: 2026-11-13T10:00:46.690652Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / design. The strongest items in this run are Microsoft struggles to fix huge outage affecting Outlook and Teams, Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’, and Slay the Spire 2's "biggest" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / design. The strongest items in this run are Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption, Nvidia scandal: Howard Lutnick under pressure over alleged lack of action, and World is now in ‘age of electricity’, energy agency chief says.
 
 ## Briefing
 
@@ -33,16 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Microsoft struggles to fix huge outage affecting Outlook and Teams [10/10]
+### 1. Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more…
+Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world.
 
-Link: https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports
+Link: https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news
 
-### 2. Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’ [10/10]
+### 2. Nvidia scandal: Howard Lutnick under pressure over alleged lack of action [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklist Analysis: Jensen Huang built an AI kingdom.
+
+Link: https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
+
+### 3. World is now in ‘age of electricity’, energy agency chief says [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading…
+
+Link: https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea
+
+### 4. Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’ [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -51,7 +69,7 @@ Ann Lawani was taken from her home, sparking a huge outcry among students and fa
 
 Link: https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody
 
-### 3. Slay the Spire 2's "biggest" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at [10/10]
+### 5. Slay the Spire 2's "biggest" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -60,32 +78,14 @@ Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone wh
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at
 
-### 4. FAA expands AI advice to manage air traffic congestion across entire US airspace [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.
-
-Link: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
-
-### 5. Jensen Huang resigns as Nvidia CEO after alleged affairs [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees Nvidia crisis – live updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen…
-
-Link: https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns
-
-### 6. Google’s new Gemini model is better at understanding complicated questions [10/10]
+### 6. Here are the 25 original Xbox games you can now play on PC [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests.
+For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid "next-gen game preservation" promise.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+Link: https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility
 
 ### 7. Google faces calls for AI moratoriums in schools after Gemini pilot backlash [10/10]
 **Source:** Ars Technica  
@@ -96,14 +96,14 @@ Families confront Google after teen’s lawsuit labels Gemini a “suicide coach
 
 Link: https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/
 
-### 8. Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: "A small team will be able to build worlds that today demand hundreds of developers" [10/10]
+### 8. Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, "this winter" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon. Read more
+Last night, Xbox Game Studios and Halo Studios have announced a free update for the recently-released Halo: Campaign Evolved, which promises to add the four-player co-operative PvE mode, Firefight, to the game. Read more
 
-Link: https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo
+Link: https://www.eurogamer.net/halo-campaign-evovled-firefight-mode
 
 ### 9. Michigan Voters Support More Education Funding, but Paying for It Is Complicated [9/10]
 **Source:** The 74  
@@ -114,23 +114,23 @@ Jen Stroven, an organizer for Kalamazoo’s Yes For Families campaign, knew what
 
 Link: https://www.the74million.org/article/michigan-voters-support-more-education-funding-but-paying-for-it-is-complicated/
 
-### 10. Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts One thing we all know about the tech billionaires is they are super-smart.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia
-
-### 11. Is Outlook down? Widespread outage hits Microsoft email and other apps [8/10]
+### 10. Microsoft investigating widespread outage that took email and other apps offline [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.
+NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.
 
-Link: https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps
+Link: https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline
+
+### 11. Experience: I was disembowelled by a hippo on my honeymoon [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+A mother hippopotamus protecting her young is one of the most fearsome forces of nature. Luckily, I’d just married someone ready to meet it head-on Anna and I got married in Portugal in September last year.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon
 
 ### 12. Children of Blood and Bone Trailer Showcases Movie’s Soundtrack [8/10]
 **Source:** Reactor  
@@ -179,7 +179,133 @@ Operations that complete without interruption, known as 'atomic' operations are 
 
 Link: https://www.youtube.com/watch?v=BHOw09O3ZsI
 
-### Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast [10/10]
+### Astronomer Answers: What's The Most Extreme Exoplanet? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.
+
+Link: https://www.youtube.com/watch?v=-5Dp2zyYCw8
+
+### Astronomer Answers Exoplanet Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Astronomer and Associate Curator of Astrophysics at the American Museum of Natural History Dr. Ruth Angus joins WIRED to answer the internet’s burning questions about exoplanets.
+
+Link: https://www.youtube.com/watch?v=qJY5PattAao
+
+### Spy scandal / Hegseth’s future / Are we still at war with Iran? [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+An American tech giant in the arms of an alleged Chinese spy. Now, Jensen Huang and Nvidia are at the center of a national security crisis.
+
+Link: https://www.youtube.com/watch?v=Bpkl8PstNIE
+
+### Abdul El-Sayed: "I worry that we may not earn our mandate" [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Abdul El-Sayed is one of the breakout figures of the newly elected Democratic Congress. Voters in Michigan elected the epidemiologist and former public health official to serve in the U.S.
+
+Link: https://www.youtube.com/watch?v=b93RTrenE44
+
+### Should Cory and Topanga really have been endgame? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Danielle Fishel, who played one half of the young couple on the hit ’90s sitcom “Boy Meets World,” knows there’s now a critical eye cast on the portrayal of teenagers who chose to commit to each other and get married before even graduating…
+
+Link: https://www.youtube.com/watch?v=kS8BpDhkFu8
+
+### Democrat Scott Colom wins Mississippi Senate seat [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Associated Press has called the U.S. Senate race in Mississippi for Democratic challenger Scott Colom, who will be the state’s first Black senator since reconstruction.
+
+Link: https://www.youtube.com/watch?v=Wmy_Q6zuLKU
+
+### Draft of MLK’s ‘I Have a Dream’ speech going up for auction [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+A newly identified draft of Martin Luther King Jr.’s iconic “I Have a Dream” speech is going up for auction early next year.⁠ ⁠ King spoke on the steps of the Lincoln Memorial in 1963 during the March on Washington.
+
+Link: https://www.youtube.com/watch?v=zugbS6dyogo
+
+### Schumer faces resistance to leading the Senate as Sanders, Slotkin pull their support [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Senate Minority Leader Chuck Schumer says he’s confident he’ll keep his job as the top Democrat in the Senate next year when the party retakes a majority – even as he faces calls from independent Sen.
+
+Link: https://www.youtube.com/watch?v=UoPHYKKJJog
+
+### Nintendo's Basic HDR For First Party Games Could Be Much Better [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=mX3KdOlHS8k
+
+### Xbox's FSR 4.1.2 Tech Is Seriously Fast On Series X [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=fup4cHfTGQg
+
+### Zelda: Ocarina of Time Remake - Would DLSS Have Made A Difference? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=9-ObC6KqMUE
+
+### The Legend Of Zelda: Ocarina Of Time - Essential on Switch 2 [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI?si=24sc2BGP-UyVIwlj ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=PkaZzWmQQ3M
+
+### Should Developers Target Games For Potato-Level PCs? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/-6HSoCPCNMA ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=8j-ecLCywxU
+
+### God of Laufey Delayed By Three Months - And That's A Good Thing [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=v7j8BvbNpIY
+
+### Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -197,9 +323,9 @@ This video is brought to you by The Snackbar at the End of the World, a bittersw
 
 Link: https://www.youtube.com/watch?v=y5vJcDeiFMI
 
-### Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty [7/10]
+### Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.
@@ -271,7 +397,97 @@ Link: https://www.youtube.com/watch?v=DdwGCvM74WE
 
 ## Trailers / Previews
 
-### Isamaya Ffrench Loves The Deepest Breath [10/10]
+### RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=Rma1KLKyZWs
+
+### Resident Evil 2026 | Roundtable Series [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
+
+### JUMANJI: OPEN WORLD - New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
+
+### The Debut | Official Trailer 2 HD | A24 [7/10]
+**Source:** A24  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.
+
+Link: https://www.youtube.com/watch?v=lF9n06SMDPU
+
+### NAZA - Official Trailer - Now Playing In Theaters [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.
+
+Link: https://www.youtube.com/watch?v=FquMSRj9z8s
+
+### Unholy Night | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.
+
+Link: https://www.youtube.com/watch?v=H_uly3CPQa0
+
+### The Holy Boy | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.
+
+Link: https://www.youtube.com/watch?v=yGILDBbzoe0
+
+### The Cycle | Deborah Ann Woll | Trailer [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every family has some skeletons in their closet. The wait is almost over. THE CYCLE is streaming now on Shudder. #shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.
+
+Link: https://www.youtube.com/watch?v=u_nIsrnN4Ro
+
+### Saw | Let the Game Begin [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Get into the seasonal mood, drop your favorite trap in the comments
+
+Link: https://www.youtube.com/watch?v=blTNfNeCt5k
+
+### The Riot | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+December 1989, Poland. Everyone is celebrating freedom and change. Everyone except those behind bars. For them, change is only a promise, and hope turns out to be the most dangerous weapon of all.
+
+Link: https://www.youtube.com/watch?v=KgVcfmbfnhg
+
+### Isamaya Ffrench Loves The Deepest Breath [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -280,7 +496,7 @@ Beauty runs deep. Find the breathtaking documentary you never knew you needed. �
 
 Link: https://www.youtube.com/watch?v=4rvfqN8EwPU
 
-### The Baddest Speechwriter of All | Official Trailer | Netflix [10/10]
+### The Baddest Speechwriter of All | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -387,3 +603,21 @@ Link: https://www.youtube.com/watch?v=JCGvi4lci24
 Witness one US Army unit's battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=7eqt8zY3D0Y
+
+### Eins von Rüdigers vielen Gesichtern. #WheresWanda? — Jetzt ansehen [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Where’s Wanda? Season 2 is now streaming on Apple TV. https://apple.co/WheresWanda Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.
+
+Link: https://www.youtube.com/watch?v=08b-bR4sBLo
+
+### Fraggle Rock: A Holiday Gift — Official Trailer | Apple TV [8/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A new holiday tradition is coming to the Rock. Fraggle Rock: A Holiday Gift — December 4 #FraggleRock #Trailer #AppleTV
+
+Link: https://www.youtube.com/watch?v=JhIwpmslObY
