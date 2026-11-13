@@ -1,13 +1,73 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-12T19:00:50.289794Z",
-  "generatedAtDisplay": "2026-11-12 02:00 PM EST",
+  "generatedAt": "2026-11-13T05:00:03.181589Z",
+  "generatedAtDisplay": "2026-11-13 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks, How angry parents helped flip Texas: ‘People don’t like for their kids to be messed with’, and AI chatbots are recommending fake retail websites, study finds.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / design. The strongest items in this run are Microsoft struggles to fix huge outage affecting Outlook and Teams, Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’, and Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at.",
   "mainItems": [
     {
-      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "published": "2026-11-13T04:24:26+00:00",
+      "summary": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+      "published": "2026-11-13T00:19:54+00:00",
+      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+      "published": "2026-11-12T22:53:40+00:00",
+      "summary": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 10
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published": "2026-11-12T22:28:47+00:00",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+      "published": "2026-11-12T22:05:28+00:00",
+      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees Nvidia crisis – live updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "published": "2026-11-12T21:55:32+00:00",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
       "source": "Ars Technica",
       "category": "AI / privacy",
       "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
@@ -17,73 +77,13 @@
       "score": 10
     },
     {
-      "title": "How angry parents helped flip Texas: ‘People don’t like for their kids to be messed with’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars",
-      "published": "2026-11-12T18:50:22+00:00",
-      "summary": "Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blue Michelle Palmer has run for the Texas state board of education twice before, but this time felt different.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "published": "2026-11-12T18:35:54+00:00",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "published": "2026-11-12T18:31:45+00:00",
-      "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: Preparing Kids for the Future Takes More Than the School Day",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/preparing-kids-for-the-future-takes-more-than-the-school-day/",
-      "published": "2026-11-12T17:30:00+00:00",
-      "summary": "As artificial intelligence changes how we learn and work, schools face growing pressure to prepare students for an uncertain future. Academic knowledge remains essential.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-      "published": "2026-11-12T17:26:51+00:00",
-      "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-      "published": "2026-11-12T16:57:34+00:00",
-      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google Wallet can finally unlock doors with digital home keys",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
-      "published": "2026-11-12T16:56:33+00:00",
-      "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+      "published": "2026-11-12T17:32:20+00:00",
+      "summary": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -94,37 +94,37 @@
       "published": "2026-11-12T15:30:00+00:00",
       "summary": "Jen Stroven, an organizer for Kalamazoo’s Yes For Families campaign, knew what she was up against: ‘Affordability, affordability, affordability.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Share your reaction to Scott Colom’s Mississippi Senate win",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-mississippi-senate-win-reader-reaction",
-      "published": "2026-11-12T14:24:12+00:00",
-      "summary": "We would like to hear your reaction to Colom’s election win and your hopes for his leadership Democrat Scott Colom has unseated Cindy Hyde-Smith , the incumbent Republican senator, to become the first Black senator in Mississippi elected…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+      "title": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-      "published": "2026-11-12T16:39:47+00:00",
-      "summary": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to…",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
+      "published": "2026-11-12T11:17:51+00:00",
+      "summary": "Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts One thing we all know about the tech billionaires is they are super-smart.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
-      "published": "2026-11-12T14:17:20+00:00",
-      "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+      "published": "2026-11-13T01:26:24+00:00",
+      "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "Children of Blood and Bone Trailer Showcases Movie’s Soundtrack",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/children-of-blood-and-bone-trailer-soundtrack/",
+      "published": "2026-11-12T19:03:39+00:00",
+      "summary": "We also see more of Thuso Mbedu as the magical Zelie The post Children of Blood and Bone Trailer Showcases Movie’s Soundtrack appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "'Way more terrifying than I expected'",
@@ -137,8 +137,263 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepMind’s AI Just Did The Impossible",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+      "published": "2026-11-12T13:41:41+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Is Software Over?",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "published": "2026-11-10T10:15:57+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Atomic Operations - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=BHOw09O3ZsI",
+      "published": "2026-11-12T14:59:29+00:00",
+      "summary": "Operations that complete without interruption, known as 'atomic' operations are extremely useful and allow us to go about our business unimpeded. Matt Godbolt of 'Compiler Explorer' fame explains. Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=d7fbxt8qNKI",
+      "published": "2026-11-13T02:01:25+00:00",
+      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Making Memorable Encounters w/ Red (OSP and Rolling with Difficulty) | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=y5vJcDeiFMI",
+      "published": "2026-11-12T23:30:18+00:00",
+      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ICM7Nj8fFmE",
+      "published": "2026-11-12T20:12:59+00:00",
+      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Big Second Wind Third Anniversary Channel Update!",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kVlD1iiY3lY",
+      "published": "2026-11-12T16:00:07+00:00",
+      "summary": "It's our third anniversary! We've got a lot of plans and goals for 2027. If you've enjoyed our content these last three years, we're asking you support us over on Patreon! https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Gears of War: E-Day Co-op, aka, Big Meaty Men Slapping Meat w/ KC and Marty - Part 4",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UKhbuFgmidM",
+      "published": "2026-11-12T02:07:16+00:00",
+      "summary": "KC and Marty are going to show off a few hours of Gears of War: E-Day in co-op. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... WendyQuest and Monomoon",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=8LDHhFB0z_I",
+      "published": "2026-11-11T23:10:13+00:00",
+      "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DdwGCvM74WE",
+      "published": "2026-11-11T17:00:20+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Castlevania: Belmont's Curse. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Isamaya Ffrench Loves The Deepest Breath",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4rvfqN8EwPU",
+      "published": "2026-11-12T18:00:00+00:00",
+      "summary": "Beauty runs deep. Find the breathtaking documentary you never knew you needed. 🎥: THE DEEPEST BREATH Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Baddest Speechwriter of All | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gHV06F8JJKQ",
+      "published": "2026-11-12T18:00:00+00:00",
+      "summary": "Martin Luther King Jr.'s lawyer and speechwriter, Dr. Clarence B. Jones, reveals the personal cost and surprising truths of making history, offering an insider’s view of the Civil Rights Movement. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Jean-Michel Basquiat | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=eLuySKwDvhM",
+      "published": "2026-11-12T16:00:00+00:00",
+      "summary": "Jean-Michel Basquiat is a reclamation of what has been lost in the legacy of a globally renowned artist.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ray Gunn | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Lo0DJm3tTz0",
+      "published": "2026-11-12T14:30:02+00:00",
+      "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ray Gunn | Official Trailer #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oAmCTknTA6I",
+      "published": "2026-11-12T14:30:02+00:00",
+      "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Maestro in Blue: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rgBOD9hcRE4",
+      "published": "2026-11-12T10:00:00+00:00",
+      "summary": "Back on Paxos, Orestis and Klelia confront uncertain futures as Sofia's criminal dealings put her family on a collision course with a grieving widow. The fourth and final season of Maestro in Blue premieres December 18, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Russell Brand: Open Secret | Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wiXS3J3LeOA",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "RUSSELL BRAND: OPEN SECRET, charts the comedian’s meteoric rise and steep fall following allegations of sexual offences.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Meet Me on the Dance Floor (from the Steps Soundtrack) | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xnrCzYjT-O0",
+      "published": "2026-11-12T05:00:00+00:00",
+      "summary": "Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight. 👀💃 “Meet Me on the Dance Floor” (performed by Rose Gray) is out now. STEPS premieres Nov 20! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DqjpYC7x4_k",
+      "published": "2026-11-12T00:49:06+00:00",
+      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=-KWOE2GHtbU",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Teezo Touchdown Loves The Hunting Wives",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pNHkEPkfazs",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Don’t worry, THE HUNTING WIVES brings out the messy b— in all of us. Find the messy drama you never knew you needed. Season 2 drops November 26 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Guarding Stars | Sneak Peek | Mistletoe Rodeo Kiss Cam | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JCGvi4lci24",
+      "published": "2026-11-11T17:00:07+00:00",
+      "summary": "Nothing like a mistletoe rodeo kiss cam to kick the \"fake dating\" trope into high-gear. GUARDING STARS is out in 1 week! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "World War II: Behind Enemy Lines | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7eqt8zY3D0Y",
+      "published": "2026-11-11T16:30:00+00:00",
+      "summary": "Witness one US Army unit's battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +505,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "youtubeCount": 10,
+    "trailerCount": 13,
+    "sourceCount": 13
   }
 }
