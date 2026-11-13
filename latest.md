@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-13T10:00:46.690652Z
+Generated: 2026-11-13T14:00:03.265226Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / design. The strongest items in this run are Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption, Nvidia scandal: Howard Lutnick under pressure over alleged lack of action, and World is now in ‘age of electricity’, energy agency chief says.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Microsoft’s massive Outlook outage continues, Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live, and Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption [10/10]
+### 1. Microsoft’s massive Outlook outage continues [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world.
+
+Link: https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage
+
+### 2. Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world.
+Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Sign up for the Breaking News US email There has been a wave of calls from Republican lawmakers in Congress…
 
-Link: https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news
+Link: https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer
 
-### 2. Nvidia scandal: Howard Lutnick under pressure over alleged lack of action [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklist Analysis: Jensen Huang built an AI kingdom.
-
-Link: https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
-
-### 3. World is now in ‘age of electricity’, energy agency chief says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading…
-
-Link: https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea
-
-### 4. Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’ [10/10]
-**Source:** The Guardian US  
+### 3. Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up…
+Consider the weekly parent-teacher group meeting in the library. The booster club that funds the band trip. The scholarship fund named after a coach. These are among the most consistent predictors of how well children do in school.
 
-Link: https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody
+Link: https://www.the74million.org/article/parent-civic-groups-raise-student-achievement-but-mostly-in-wealthier-schools/
 
-### 5. Slay the Spire 2's "biggest" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.
-
-Link: https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at
-
-### 6. Here are the 25 original Xbox games you can now play on PC [10/10]
-**Source:** The Verge  
+### 4. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid "next-gen game preservation" promise.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future.
 
-Link: https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility
+Link: https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/
 
-### 7. Google faces calls for AI moratoriums in schools after Gemini pilot backlash [10/10]
+### 5. Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut "bloodbath" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed Wolfenstein: The New Order , Wolfenstein 2: The New Colossal, and 2024's celebrated Indiana Jones and the Great…
+
+Link: https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox
+
+### 6. Mauricio Pochettino’s switch from USA to Manchester United confirmed [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Pochettino to take charge of two final USMNT matches He has signed two-and-a-half-year United contract Mauricio Pochettino’s switch from the US men’s national team to Manchester United has been confirmed.
+
+Link: https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa
+
+### 7. Why is Google cutting off Search from AI-free schools? Here are some theories [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.
+
+Link: https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools
+
+### 8. Google faces calls for AI moratoriums in schools after Gemini pilot backlash [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -96,43 +105,25 @@ Families confront Google after teen’s lawsuit labels Gemini a “suicide coach
 
 Link: https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/
 
-### 8. Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, "this winter" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Last night, Xbox Game Studios and Halo Studios have announced a free update for the recently-released Halo: Campaign Evolved, which promises to add the four-player co-operative PvE mode, Firefight, to the game. Read more
-
-Link: https://www.eurogamer.net/halo-campaign-evovled-firefight-mode
-
-### 9. Michigan Voters Support More Education Funding, but Paying for It Is Complicated [9/10]
+### 9. A Virginia ‘School-Wide Read’ Has Sparked Engagement in Classes and Literacy [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Jen Stroven, an organizer for Kalamazoo’s Yes For Families campaign, knew what she was up against: ‘Affordability, affordability, affordability.
+At one Virginia middle school, an annual school-wide book club has sparked student engagement, connection and increased interest in reading.
 
-Link: https://www.the74million.org/article/michigan-voters-support-more-education-funding-but-paying-for-it-is-complicated/
+Link: https://www.the74million.org/article/a-virginia-school-wide-read-has-sparked-engagement-in-classes-and-literacy/
 
-### 10. Microsoft investigating widespread outage that took email and other apps offline [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 10. Slay the Spire 2's "biggest" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
 
-NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.
+Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.
 
-Link: https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline
+Link: https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at
 
-### 11. Experience: I was disembowelled by a hippo on my honeymoon [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-A mother hippopotamus protecting her young is one of the most fearsome forces of nature. Luckily, I’d just married someone ready to meet it head-on Anna and I got married in Portugal in September last year.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon
-
-### 12. Children of Blood and Bone Trailer Showcases Movie’s Soundtrack [8/10]
+### 11. Children of Blood and Bone Trailer Showcases Movie’s Soundtrack [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,6 +131,15 @@ Link: https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowel
 We also see more of Thuso Mbedu as the magical Zelie The post Children of Blood and Bone Trailer Showcases Movie’s Soundtrack appeared first on Reactor .
 
 Link: https://reactormag.com/children-of-blood-and-bone-trailer-soundtrack/
+
+### 12. Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!
+
+Link: https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity
 
 ### 13. 'Way more terrifying than I expected' [7/10]
 **Source:** 404 Media  
@@ -160,15 +160,6 @@ Link: https://www.404media.co/way-more-terrifying-than-i-expected/
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.
 
 Link: https://www.youtube.com/watch?v=gPNiuyYirfw
-
-### Is Software Over? [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.
-
-Link: https://www.youtube.com/watch?v=vug73goPJaM
 
 ### Atomic Operations - Computerphile [8/10]
 **Creator:** Computerphile  
@@ -197,7 +188,25 @@ Astronomer and Associate Curator of Astrophysics at the American Museum of Natur
 
 Link: https://www.youtube.com/watch?v=qJY5PattAao
 
-### Spy scandal / Hegseth’s future / Are we still at war with Iran? [9/10]
+### Gaza’s Health Ministry says six people killed by Israeli airstrike on hospital [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Gaza’s Health Ministry says six people were killed in an Israeli airstrike on one of Gaza’s biggest hospitals more than a year into a ceasefire with Hamas. Israel says it was targeting a senior Hamas figure.
+
+Link: https://www.youtube.com/watch?v=SeDdnb0h1YA
+
+### Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+This week Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace. According to the New York Times, U.S.
+
+Link: https://www.youtube.com/watch?v=JntHcfQ2buU
+
+### Spy scandal / Hegseth’s future / Are we still at war with Iran? | Sources & Methods [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -232,24 +241,6 @@ Link: https://www.youtube.com/watch?v=kS8BpDhkFu8
 The Associated Press has called the U.S. Senate race in Mississippi for Democratic challenger Scott Colom, who will be the state’s first Black senator since reconstruction.
 
 Link: https://www.youtube.com/watch?v=Wmy_Q6zuLKU
-
-### Draft of MLK’s ‘I Have a Dream’ speech going up for auction [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-A newly identified draft of Martin Luther King Jr.’s iconic “I Have a Dream” speech is going up for auction early next year.⁠ ⁠ King spoke on the steps of the Lincoln Memorial in 1963 during the March on Washington.
-
-Link: https://www.youtube.com/watch?v=zugbS6dyogo
-
-### Schumer faces resistance to leading the Senate as Sanders, Slotkin pull their support [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Senate Minority Leader Chuck Schumer says he’s confident he’ll keep his job as the top Democrat in the Senate next year when the party retakes a majority – even as he faces calls from independent Sen.
-
-Link: https://www.youtube.com/watch?v=UoPHYKKJJog
 
 ### Nintendo's Basic HDR For First Party Games Could Be Much Better [8/10]
 **Creator:** Digital Foundry  
@@ -314,9 +305,9 @@ This video is brought to you by The Snackbar at the End of the World, a bittersw
 
 Link: https://www.youtube.com/watch?v=d7fbxt8qNKI
 
-### Making Memorable Encounters w/ Red (OSP and Rolling with Difficulty) | RPG Help Desk [7/10]
+### Making Memorable Encounters w/ Red (OSP and Rolling with Difficulty) | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…

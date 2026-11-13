@@ -1,69 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-13T10:00:46.690652Z",
-  "generatedAtDisplay": "2026-11-13 05:00 AM EST",
+  "generatedAt": "2026-11-13T14:00:03.265226Z",
+  "generatedAtDisplay": "2026-11-13 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / design. The strongest items in this run are Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption, Nvidia scandal: Howard Lutnick under pressure over alleged lack of action, and World is now in ‘age of electricity’, energy agency chief says.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Microsoft’s massive Outlook outage continues, Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live, and Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools.",
   "mainItems": [
     {
-      "title": "Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption",
-      "source": "The Guardian US",
+      "title": "Microsoft’s massive Outlook outage continues",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "published": "2026-11-13T09:54:00+00:00",
-      "summary": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world.",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "published": "2026-11-13T13:59:42+00:00",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "published": "2026-11-13T09:41:22+00:00",
-      "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklist Analysis: Jensen Huang built an AI kingdom.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "published": "2026-11-13T13:36:09+00:00",
+      "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Sign up for the Breaking News US email There has been a wave of calls from Republican lawmakers in Congress…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "World is now in ‘age of electricity’, energy agency chief says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-      "published": "2026-11-13T05:00:11+00:00",
-      "summary": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
-      "source": "The Guardian US",
+      "title": "Opinion: Parent & Civic Groups Raise Student Achievement, but Mostly in Wealthier Schools",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
-      "published": "2026-11-13T00:19:54+00:00",
-      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up…",
+      "url": "https://www.the74million.org/article/parent-civic-groups-raise-student-achievement-but-mostly-in-wealthier-schools/",
+      "published": "2026-11-13T13:30:00+00:00",
+      "summary": "Consider the weekly parent-teacher group meeting in the library. The booster club that funds the band trip. The scholarship fund named after a coach. These are among the most consistent predictors of how well children do in school.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-      "published": "2026-11-12T22:53:40+00:00",
-      "summary": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "published": "2026-11-13T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "published": "2026-11-12T21:33:35+00:00",
-      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+      "published": "2026-11-13T12:19:50+00:00",
+      "summary": "Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed Wolfenstein: The New Order , Wolfenstein 2: The New Colossal, and 2024's celebrated Indiana Jones and the Great…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Mauricio Pochettino’s switch from USA to Manchester United confirmed",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa",
+      "published": "2026-11-13T12:17:24+00:00",
+      "summary": "Pochettino to take charge of two final USMNT matches He has signed two-and-a-half-year United contract Mauricio Pochettino’s switch from the US men’s national team to Manchester United has been confirmed.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -77,44 +87,24 @@
       "score": 10
     },
     {
-      "title": "Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, \"this winter\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
-      "published": "2026-11-13T09:36:20+00:00",
-      "summary": "Last night, Xbox Game Studios and Halo Studios have announced a free update for the recently-released Halo: Campaign Evolved, which promises to add the four-player co-operative PvE mode, Firefight, to the game. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Michigan Voters Support More Education Funding, but Paying for It Is Complicated",
+      "title": "A Virginia ‘School-Wide Read’ Has Sparked Engagement in Classes and Literacy",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/michigan-voters-support-more-education-funding-but-paying-for-it-is-complicated/",
-      "published": "2026-11-12T15:30:00+00:00",
-      "summary": "Jen Stroven, an organizer for Kalamazoo’s Yes For Families campaign, knew what she was up against: ‘Affordability, affordability, affordability.",
+      "url": "https://www.the74million.org/article/a-virginia-school-wide-read-has-sparked-engagement-in-classes-and-literacy/",
+      "published": "2026-11-13T11:30:00+00:00",
+      "summary": "At one Virginia middle school, an annual school-wide book club has sparked student engagement, connection and increased interest in reading.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Microsoft investigating widespread outage that took email and other apps offline",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline",
-      "published": "2026-11-13T09:43:44+00:00",
-      "summary": "NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Experience: I was disembowelled by a hippo on my honeymoon",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon",
-      "published": "2026-11-13T05:00:12+00:00",
-      "summary": "A mother hippopotamus protecting her young is one of the most fearsome forces of nature. Luckily, I’d just married someone ready to meet it head-on Anna and I got married in Portugal in September last year.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
+      "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+      "published": "2026-11-12T22:53:40+00:00",
+      "summary": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 9
     },
     {
       "title": "Children of Blood and Bone Trailer Showcases Movie’s Soundtrack",
@@ -125,6 +115,16 @@
       "summary": "We also see more of Thuso Mbedu as the magical Zelie The post Children of Blood and Bone Trailer Showcases Movie’s Soundtrack appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
+    },
+    {
+      "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+      "published": "2026-11-13T12:06:28+00:00",
+      "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
       "title": "'Way more terrifying than I expected'",
@@ -148,17 +148,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Is Software Over?",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "published": "2026-11-10T10:15:57+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Atomic Operations - Computerphile",
@@ -194,7 +183,29 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Spy scandal / Hegseth’s future / Are we still at war with Iran?",
+      "title": "Gaza’s Health Ministry says six people killed by Israeli airstrike on hospital",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=SeDdnb0h1YA",
+      "published": "2026-11-13T13:15:20+00:00",
+      "summary": "Gaza’s Health Ministry says six people were killed in an Israeli airstrike on one of Gaza’s biggest hospitals more than a year into a ceasefire with Hamas. Israel says it was targeting a senior Hamas figure.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=JntHcfQ2buU",
+      "published": "2026-11-13T12:44:25+00:00",
+      "summary": "This week Jensen Huang went from one of the most powerful CEO’s in the world to resigning in disgrace. According to the New York Times, U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Spy scandal / Hegseth’s future / Are we still at war with Iran? | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=Bpkl8PstNIE",
@@ -233,28 +244,6 @@
       "url": "https://www.youtube.com/watch?v=Wmy_Q6zuLKU",
       "published": "2026-11-12T15:30:24+00:00",
       "summary": "The Associated Press has called the U.S. Senate race in Mississippi for Democratic challenger Scott Colom, who will be the state’s first Black senator since reconstruction.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Draft of MLK’s ‘I Have a Dream’ speech going up for auction",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=zugbS6dyogo",
-      "published": "2026-11-11T17:45:40+00:00",
-      "summary": "A newly identified draft of Martin Luther King Jr.’s iconic “I Have a Dream” speech is going up for auction early next year.⁠ ⁠ King spoke on the steps of the Lincoln Memorial in 1963 during the March on Washington.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Schumer faces resistance to leading the Senate as Sanders, Slotkin pull their support",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=UoPHYKKJJog",
-      "published": "2026-11-11T16:00:54+00:00",
-      "summary": "Senate Minority Leader Chuck Schumer says he’s confident he’ll keep his job as the top Democrat in the Senate next year when the party retakes a majority – even as he faces calls from independent Sen.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -344,8 +333,8 @@
       "published": "2026-11-12T23:30:18+00:00",
       "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty",
@@ -791,8 +780,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
+    "youtubeCount": 23,
     "trailerCount": 25,
-    "sourceCount": 22
+    "sourceCount": 24
   }
 }
