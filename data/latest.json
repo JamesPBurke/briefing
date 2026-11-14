@@ -1,58 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-13T19:00:57.624229Z",
-  "generatedAtDisplay": "2026-11-13 02:00 PM EST",
+  "generatedAt": "2026-11-14T05:00:03.722104Z",
+  "generatedAtDisplay": "2026-11-14 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’, Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live, and You can adjust the position of the trackball on Keychron’s new wireless mouse.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?, FAA expands AI advice to manage air traffic congestion across entire US airspace, and ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you.",
   "mainItems": [
     {
-      "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+      "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "published": "2026-11-13T18:46:43+00:00",
-      "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What…",
+      "url": "https://www.theguardian.com/news/2026/nov/14/two-courtrooms-one-celebrity-russell-brand-case-compare-rape-trial-next-door",
+      "published": "2026-11-14T04:00:34+00:00",
+      "summary": "One was a high-profile defendant watched by more than 100 journalists. Another was an unknown man who preyed on a girl almost half his age.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "published": "2026-11-13T18:42:32+00:00",
-      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "published": "2026-11-13T18:10:41+00:00",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Miami-Dade District Seeks Microschools to Lease Empty Classroom Space",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/miami-dade-district-seeks-microschools-to-lease-empty-classroom-space/",
-      "published": "2026-11-13T17:30:00+00:00",
-      "summary": "The Miami-Dade school district, one of the nation’s largest, is inviting independent microschools to lease empty classroom space — providing a new revenue stream as public school enrollment drops sharply.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published": "2026-11-13T21:20:47+00:00",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "published": "2026-11-13T17:25:45+00:00",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "published": "2026-11-13T20:45:10+00:00",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
@@ -67,14 +47,34 @@
       "score": 10
     },
     {
-      "title": "The new Apple TV has a YouTube problem",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "published": "2026-11-13T16:55:57+00:00",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+      "published": "2026-11-13T20:07:07+00:00",
+      "summary": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher Lauren Boebert, the firebrand conservative Republican Colorado representative whose three terms in Congress have been…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Miami-Dade District Seeks Microschools to Lease Empty Classroom Space",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/miami-dade-district-seeks-microschools-to-lease-empty-classroom-space/",
+      "published": "2026-11-13T17:30:00+00:00",
+      "summary": "The Miami-Dade school district, one of the nation’s largest, is inviting independent microschools to lease empty classroom space — providing a new revenue stream as public school enrollment drops sharply.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
+      "published": "2026-11-13T16:34:50+00:00",
+      "summary": "What's the best prank you ever pulled on a teacher in school, assuming you went to school? By which I mean, a genuinely funny prank that didn't cause any injuries, break any of the more important laws (legal or ethical), or leave anybody…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -84,27 +84,7 @@
       "published": "2026-11-13T16:26:32+00:00",
       "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft’s massive Outlook outage continues",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "published": "2026-11-13T16:17:11+00:00",
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US university students tell surveillance cameras to Flock off",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
-      "published": "2026-11-13T12:00:18+00:00",
-      "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
@@ -114,7 +94,17 @@
       "published": "2026-11-13T10:00:00+00:00",
       "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Friday the 13th Producer Explains Why Steve Miner Was Chosen to Bring Back Jason",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/why-friday-the-13th-is-bringing-back-director-steve-miner-after-more-than-40-years/",
+      "published": "2026-11-13T17:09:29+00:00",
+      "summary": "It's all apparently part of a 45 year(!) plan for the franchise The post Friday the 13th Producer Explains Why Steve Miner Was Chosen to Bring Back Jason appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
@@ -122,7 +112,7 @@
       "category": "Science / health",
       "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
       "published": "2026-11-13T15:46:35+00:00",
-      "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
+      "summary": "He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -134,6 +124,16 @@
       "published": "2026-11-13T17:28:17+00:00",
       "summary": "This week, we discuss getting inspired and how things get prioritized.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
+      "published": "2026-11-13T15:02:10+00:00",
+      "summary": "Slay the Spire 2, which released into early access earlier this year, is expanding once more with a major new beta update.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 7
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 10
   }
 }
