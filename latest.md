@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-14T10:00:45.766134Z
+Generated: 2026-11-14T14:00:01.373314Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made, ‘It’s like the wild west’: how AI has rocked the literary world, and She gets 16 pelvic exams a day – so yours don’t hurt.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Science / computing. The strongest items in this run are Underwater salt mine closure in Ohio raises safety and supply concerns for winter, Microsoft says services fully restored after global outage hits governments, and Protests in Chicago After Google Warns Schools About Disabling AI Feature.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-"Get the limey out of here," Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio.
-
-Link: https://www.eurogamer.net/gta-vice-city-retrospective
-
-### 2. ‘It’s like the wild west’: how AI has rocked the literary world [10/10]
+### 1. Underwater salt mine closure in Ohio raises safety and supply concerns for winter [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry.
+Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only…
 
-Link: https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world
+Link: https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter
 
-### 3. She gets 16 pelvic exams a day – so yours don’t hurt [10/10]
+### 2. Microsoft says services fully restored after global outage hits governments [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments,…
+
+Link: https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage
+
+### 3. Protests in Chicago After Google Warns Schools About Disabling AI Feature [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams On her busiest days, Molly Callahan, has 16 speculums inserted into her vagina.
+Pushback on the use of artificial intelligence in the classroom is seeing renewed fervor after tensions flared this month between some U.S. school districts and one of the biggest tech giants in the world.
 
-Link: https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students
+Link: https://www.the74million.org/article/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/
 
-### 4. What we've been playing - "Whether he means to or not, he serves sass all over town" [9/10]
+### 4. Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.
+
+Link: https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims
+
+### 5. Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2 [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Another week has climaxed and I'm so sorry you had to read that on a Saturday morning. But here we are again, with our regular feature, where we talk about what we've been playing in order that you do too.
+Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. Read more
 
-Link: https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina
+Link: https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report
 
-### 5. How I survived being forced into pornography: ‘I died in that hotel room. I was a walking corpse’ [9/10]
+### 6. Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-In 2016, Mariah Rief, then 19, thought she was going to a modelling job at a hotel. Once there, she was sex trafficked.
+Experts warn of risks of platforms hosting bets tied to US public health – including vaccine mandates and drug trials The sign was pasted on a construction fence next to an elementary school in the Brooklyn borough of New York City.
 
-Link: https://www.theguardian.com/society/2026/nov/14/how-i-survived-being-forced-into-pornography-i-died-in-that-hotel-room-i-was-a-walking-corpse
+Link: https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting
 
-### 6. Here’s how you can save on your GTA VI preorder ahead of launch [9/10]
+### 7. ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy.
+After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.
 
-Link: https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale
+Link: https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
 
-### 7. Miami-Dade District Seeks Microschools to Lease Empty Classroom Space [9/10]
+### 8. Miami-Dade District Seeks Microschools to Lease Empty Classroom Space [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,7 +105,7 @@ The Miami-Dade school district, one of the nation’s largest, is inviting indep
 
 Link: https://www.the74million.org/article/miami-dade-district-seeks-microschools-to-lease-empty-classroom-space/
 
-### 8. Windows 0-day dropped by disgruntled researcher hands hackers System rights [9/10]
+### 9. Windows 0-day dropped by disgruntled researcher hands hackers System rights [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,16 +114,16 @@ Link: https://www.the74million.org/article/miami-dade-district-seeks-microschool
 
 Link: https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/
 
-### 9. Microsoft outage disrupts work and gives some a chance to unplug [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 10. Scientists Made Monkeys Watch Minions to Study Their Brains [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.
+To better understand how primates make meaning from visuals, a team studied the brainwaves and eye movements of humans and macaques as they watched Minions and nature documentaries.
 
-Link: https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-work-and-gives-some-a-chance-to-unplug
+Link: https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/
 
-### 10. How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front [8/10]
+### 11. How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,15 +131,6 @@ Link: https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-wor
 He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision.
 
 Link: https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid
-
-### 11. Behind the Blog: Priorities, Priorities [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss getting inspired and how things get prioritized.
-
-Link: https://www.404media.co/behind-the-blog-priorities-priorities/
 
 ### 12. Friday the 13th Producer Explains Why Steve Miner Was Chosen to Bring Back Jason [7/10]
 **Source:** Reactor  
@@ -152,7 +152,7 @@ Link: https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-th
 
 ## YouTube
 
-### Funkiest Zoom meeting EVER (Surprise video) [8/10]
+### Funkiest Teams meeting EVER (Surprise video) [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
