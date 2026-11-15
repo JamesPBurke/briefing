@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-14T19:00:54.487030Z",
-  "generatedAtDisplay": "2026-11-14 02:00 PM EST",
+  "generatedAt": "2026-11-15T05:00:02.779549Z",
+  "generatedAtDisplay": "2026-11-15 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Opinion: I Research Play – and Here’s Why Recess is Much More Important Than Just a Fun Break, LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists, and Andy Burnham says UK has ‘lost more than we gained’ through Brexit.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Italy fines Meta $887m for accessing Android users’ photos and videos, An NPR correspondent on what she learned following special education teachers all year, and LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists.",
   "mainItems": [
     {
-      "title": "Opinion: I Research Play – and Here’s Why Recess is Much More Important Than Just a Fun Break",
-      "source": "The 74",
+      "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+      "published": "2026-11-15T02:02:01+00:00",
+      "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "An NPR correspondent on what she learned following special education teachers all year",
+      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break/",
-      "published": "2026-11-14T17:30:00+00:00",
-      "summary": "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk.",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6035713/an-npr-correspondent-on-what-she-learned-following-special-education-teachers-all-year",
+      "published": "2026-11-14T22:48:33+00:00",
+      "summary": "NPR's Jonaki Mehta talks about she learned from following special education teachers throughout a school year.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
@@ -27,36 +37,6 @@
       "score": 10
     },
     {
-      "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-      "published": "2026-11-14T15:34:54+00:00",
-      "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "published": "2026-11-14T15:22:41+00:00",
-      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms",
-      "published": "2026-11-14T15:00:47+00:00",
-      "summary": "In region where migrants have settled to work at abattoirs and feedyards, harsh raids pushed people to vote Democrat José Del Real looked over the crowd from the stage in a park, at hundreds of his neighbors with furious signs tucked under…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -67,53 +47,63 @@
       "score": 10
     },
     {
-      "title": "Protests in Chicago After Google Warns Schools About Disabling AI Feature",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/",
-      "published": "2026-11-14T11:30:00+00:00",
-      "summary": "Pushback on the use of artificial intelligence in the classroom is seeing renewed fervor after tensions flared this month between some U.S. school districts and one of the biggest tech giants in the world.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "published": "2026-11-15T00:17:14+00:00",
+      "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "published": "2026-11-14T00:06:40+00:00",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+      "published": "2026-11-14T21:31:00+00:00",
+      "summary": "The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring , I've typically just been a coward when it comes to the idea of fighting another, real person.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
       "source": "The Guardian US",
       "category": "AI / privacy",
       "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
-      "published": "2026-11-14T17:53:03+00:00",
+      "published": "2026-11-14T19:54:38+00:00",
       "summary": "Port also succeeds in seizing tanker, Atlantic Asphalt, to recoup damages after it crashes into cruise ship New Orleans port officials have filed a lawsuit seeking more than $1m in damages from the owner and operator of an asphalt tanker…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims",
-      "published": "2026-11-14T12:40:27+00:00",
-      "summary": "NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+      "published": "2026-11-14T17:59:00+00:00",
+      "summary": "Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Meat Boy entered into a new dimension in the aptly named Super Meat Boy 3D. I've not played it but it seems like a good take on the format.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-      "published": "2026-11-14T15:00:47+00:00",
-      "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Opinion: I Research Play – and Here’s Why Recess is Much More Important Than Just a Fun Break",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break/",
+      "published": "2026-11-14T17:30:00+00:00",
+      "summary": "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "published": "2026-11-15T00:40:59+00:00",
+      "summary": "It felt like stepping into the future.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -127,12 +117,22 @@
       "score": 8
     },
     {
-      "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
+      "title": "Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims",
+      "published": "2026-11-14T12:40:27+00:00",
+      "summary": "NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "US has lost measles elimination status, global health authorities say",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-      "published": "2026-11-14T10:00:00+00:00",
-      "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+      "published": "2026-11-14T22:15:02+00:00",
+      "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 8
   }
 }
