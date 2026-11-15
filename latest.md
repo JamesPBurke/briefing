@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-15T10:00:42.183708Z
+Generated: 2026-11-15T14:00:01.646526Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are World’s top court to rule if Myanmar committed genocide against Rohingya, ‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests, and An NPR correspondent on what she learned following special education teachers all year.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are The Sony Aibo was a robot revolution dressed like a dog, Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live, and Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis.
 
 ## Briefing
 
@@ -33,34 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. World’s top court to rule if Myanmar committed genocide against Rohingya [10/10]
+### 1. The Sony Aibo was a robot revolution dressed like a dog [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots.
+
+Link: https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history
+
+### 2. Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide…
+Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf…
 
-Link: https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj
+Link: https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis
 
-### 2. ‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests [10/10]
+### 3. Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream.
+
+Link: https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price
+
+### 4. Trump administration planning to reimburse doctors treating vaccine ‘injury’ [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit The Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from…
+
+Link: https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration
+
+### 5. Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.
+
+Link: https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/
+
+### 6. Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Educators voice concerns as thousands of children facing exams miss up to 150 hours of class For several weeks, Alex, 16, has woken at 4am and walked 90 minutes in the dark from his northern Paris suburb so he can help gather wheelie bins…
+The latest instalment of the epic crime saga is finally here.
 
-Link: https://www.theguardian.com/world/2026/nov/15/we-need-to-get-back-to-class-some-teachers-lose-patience-as-france-enters-its-eighth-week-of-student-protests
+Link: https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games
 
-### 3. An NPR correspondent on what she learned following special education teachers all year [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-NPR's Jonaki Mehta talks about she learned from following special education teachers throughout a school year.
-
-Link: https://www.npr.org/2026/11/14/nx-s1-6035713/an-npr-correspondent-on-what-she-learned-following-special-education-teachers-all-year
-
-### 4. LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists [10/10]
+### 7. LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,34 +96,34 @@ Civil society campaigners form protective cordon around LGBTQ+ campaigners as th
 
 Link: https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists
 
-### 5. Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’ [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 8. How the tech industry and markets have responded to Jensen Huang's resignation [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly…
+We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.
 
-Link: https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students
+Link: https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation
 
-### 6. The Big Question: What's the best GTA? [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. This Comic Kills Technofascists [9/10]
+**Source:** 404 Media  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-As we teeter on the brink of gaming's biggest launch of 2026 - perhaps even decade - so many questions swirl: which GTA 6 cars will make the best vrrrrm? Is it possible for me to be any more obsessed with that Justice theme song ? On a…
+'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.
 
-Link: https://www.eurogamer.net/the-big-question-whats-the-best-gta
+Link: https://www.404media.co/this-comic-kills-technofascists/
 
-### 7. UK government to consider changing age of consent after allegations against Russell Brand [9/10]
+### 10. Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly…
+New exhibition restores painter’s place as leading figure in French movement that revolutionised art As a painter, friend, and collaborator of Edgar Degas, who exhibited with impressionist artists including Claude Monet and Camille…
 
-Link: https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand
+Link: https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism
 
-### 8. Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks [9/10]
+### 11. Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -105,50 +132,23 @@ The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Soul
 
 Link: https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks
 
-### 9. New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Port also succeeds in seizing tanker, Atlantic Asphalt, to recoup damages after it crashes into cruise ship New Orleans port officials have filed a lawsuit seeking more than $1m in damages from the owner and operator of an asphalt tanker…
-
-Link: https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit
-
-### 10. Here are our favorite deals from REI’s giant Holiday Sale [8/10]
-**Source:** The Verge  
+### 12. How the world’s fires changed while humanity hit pause [8/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday.
+COVID-19 lockdowns cut global fire activity by 12.3 percent.
 
-Link: https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026
+Link: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/
 
-### 11. Scientists Made Monkeys Watch Minions to Study Their Brains [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-To better understand how primates make meaning from visuals, a team studied the brainwaves and eye movements of humans and macaques as they watched Minions and nature documentaries.
-
-Link: https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/
-
-### 12. Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.
-
-Link: https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims
-
-### 13. US has lost measles elimination status, global health authorities say [7/10]
+### 13. A new generation of disability rights activists carry on Judy Heumann's legacy [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.
+The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they "carry the torch" today.
 
-Link: https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho
+Link: https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights
 
 ## YouTube
 
@@ -160,15 +160,6 @@ Link: https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status
 After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it.
 
 Link: https://www.youtube.com/watch?v=x7iwI6WfWS0
-
-### DeepMind’s AI Just Did The Impossible [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.
-
-Link: https://www.youtube.com/watch?v=gPNiuyYirfw
 
 ### Atomic Operations - Computerphile [7/10]
 **Creator:** Computerphile  
