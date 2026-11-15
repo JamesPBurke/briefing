@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-15T14:00:01.646526Z",
-  "generatedAtDisplay": "2026-11-15 09:00 AM EST",
+  "generatedAt": "2026-11-15T19:00:49.453631Z",
+  "generatedAtDisplay": "2026-11-15 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are The Sony Aibo was a robot revolution dressed like a dog, Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live, and Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile, Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service, and Saturday Night Live: is John Mulaney the best modern host we have?.",
   "mainItems": [
+    {
+      "title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+      "published": "2026-11-15T17:47:40+00:00",
+      "summary": "Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+      "published": "2026-11-15T15:14:10+00:00",
+      "summary": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Saturday Night Live: is John Mulaney the best modern host we have?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/saturday-night-live-john-mulaney-host",
+      "published": "2026-11-15T14:19:34+00:00",
+      "summary": "The comic returns for the seventh time for the best episode so far this season which takes aim at tech bros and brings back a former cast member as guest This edition of Saturday Night Live opens at the CIA headquarters.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "The Sony Aibo was a robot revolution dressed like a dog",
       "source": "The Verge",
@@ -13,26 +43,6 @@
       "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
       "published": "2026-11-15T13:57:30+00:00",
       "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "published": "2026-11-15T13:34:32+00:00",
-      "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
-      "published": "2026-11-15T13:00:14+00:00",
-      "summary": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/",
-      "published": "2026-11-15T11:30:00+00:00",
-      "summary": "A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
       "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -67,14 +67,24 @@
       "score": 10
     },
     {
-      "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-      "published": "2026-11-14T17:08:18+00:00",
-      "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+      "published": "2026-11-15T17:39:20+00:00",
+      "summary": "A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+      "published": "2026-11-15T14:43:00+00:00",
+      "summary": "Blade Runner 2099 - an upcoming TV miniseries coming to Amazon Prime Video, acting as a sequel to Blade Runner (1982) and Blade Runner 2049 (2017) - might be getting a video game. And a 'triple-A' video game, at that.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
@@ -97,42 +107,32 @@
       "score": 9
     },
     {
-      "title": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism",
-      "published": "2026-11-15T11:29:58+00:00",
-      "summary": "New exhibition restores painter’s place as leading figure in French movement that revolutionised art As a painter, friend, and collaborator of Edgar Degas, who exhibited with impressionist artists including Claude Monet and Camille…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/",
+      "published": "2026-11-15T11:30:00+00:00",
+      "summary": "A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-      "published": "2026-11-14T21:31:00+00:00",
-      "summary": "The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring , I've typically just been a coward when it comes to the idea of fighting another, real person.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "How the world’s fires changed while humanity hit pause",
-      "source": "Ars Technica",
+      "title": "Apple’s first smart glasses are coming together",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-      "published": "2026-11-15T12:07:34+00:00",
-      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "published": "2026-11-15T16:59:16+00:00",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
-      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+      "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-      "published": "2026-11-15T10:00:00+00:00",
-      "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+      "published": "2026-11-15T13:11:30+00:00",
+      "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -150,17 +150,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Atomic Operations - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=BHOw09O3ZsI",
-      "published": "2026-11-12T14:59:29+00:00",
-      "summary": "Operations that complete without interruption, known as 'atomic' operations are extremely useful and allow us to go about our business unimpeded. Matt Godbolt of 'Compiler Explorer' fame explains. Computerphile is supported by Jane Street.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Professor Fact Checks Ancient Greece Slop",
       "source": "WIRED",
       "category": "Tech / media",
@@ -170,6 +159,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=J3ev25c5opY",
+      "published": "2026-11-15T18:00:29+00:00",
+      "summary": "A new car now costs $51,000, on average — a new record, according to the Kelley Blue Book. Every month, the Kelley Blue Book reports how much people paid for a new car in the previous month.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "The final episode of “Sources & Methods” with Mary Louise Kelly | Sources & Methods | NPR",
@@ -238,15 +238,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Gaza’s Health Ministry says six people killed by Israeli airstrike on hospital",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=SeDdnb0h1YA",
-      "published": "2026-11-13T13:15:20+00:00",
-      "summary": "Gaza’s Health Ministry says six people were killed in an Israeli airstrike on one of Gaza’s biggest hospitals more than a year into a ceasefire with Hamas. Israel says it was targeting a senior Hamas figure.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "The Legend of Zelda: Ocarina Of Time - Let's Look Back At N64 + 3DS!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=BfZIlDpMl0I",
+      "published": "2026-11-15T17:00:30+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "DF Retro's Tomb Raider Retrospective Has Become Iconic",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5OzxM-RSSqs",
+      "published": "2026-11-15T16:00:14+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Is It Time For DLSS Frame Generation To Come To Switch 2?",
@@ -256,8 +267,8 @@
       "published": "2026-11-14T17:00:03+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/T0FpqWP4bZ8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "EA's 30th Anniversary Remasters Are Simply Superb",
@@ -267,8 +278,8 @@
       "published": "2026-11-14T16:00:19+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Ex-Sony Boss Shawn Layden Wants A $300 PS5 Over $1200 PS6 - But Is It Even Possible?",
@@ -293,15 +304,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Nintendo's Basic HDR For First Party Games Could Be Much Better",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=mX3KdOlHS8k",
-      "published": "2026-11-12T17:00:07+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Come Quarter Up For Some Street Fighter 6 | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=nzPAayBoqH0",
+      "published": "2026-11-15T14:44:43+00:00",
+      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Queen’s Domain, Potato Please, WendyQuest, and Monomoon | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=W9DOuj3I_-s",
+      "published": "2026-11-15T16:00:21+00:00",
+      "summary": "This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Game of the Year Is Going to Be Weird | Second Screen",
@@ -354,28 +376,6 @@
       "url": "https://www.youtube.com/watch?v=y5vJcDeiFMI",
       "published": "2026-11-12T23:30:18+00:00",
       "summary": "This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ICM7Nj8fFmE",
-      "published": "2026-11-12T20:12:59+00:00",
-      "summary": "This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Big Second Wind Third Anniversary Channel Update!",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=kVlD1iiY3lY",
-      "published": "2026-11-12T16:00:07+00:00",
-      "summary": "It's our third anniversary! We've got a lot of plans and goals for 2027. If you've enjoyed our content these last three years, we're asking you support us over on Patreon! https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -500,8 +500,8 @@
       "published": "2026-11-14T19:00:35+00:00",
       "summary": "Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "Saw | Let the Game Begin",
@@ -771,6 +771,6 @@
     "mainCount": 13,
     "youtubeCount": 22,
     "trailerCount": 25,
-    "sourceCount": 20
+    "sourceCount": 18
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-15T14:00:01.646526Z
+Generated: 2026-11-15T19:00:49.453631Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are The Sony Aibo was a robot revolution dressed like a dog, Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live, and Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile, Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service, and Saturday Night Live: is John Mulaney the best modern host we have?.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The Sony Aibo was a robot revolution dressed like a dog [10/10]
+### 1. Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more
+
+Link: https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested
+
+### 2. Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer.
+
+Link: https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs
+
+### 3. Saturday Night Live: is John Mulaney the best modern host we have? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The comic returns for the seventh time for the best episode so far this season which takes aim at tech bros and brings back a former cast member as guest This edition of Saturday Night Live opens at the CIA headquarters.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/nov/15/saturday-night-live-john-mulaney-host
+
+### 4. The Sony Aibo was a robot revolution dressed like a dog [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +69,7 @@ In the 1990s, Sony was absolutely convinced that we were on the precipice of a r
 
 Link: https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history
 
-### 2. Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf…
-
-Link: https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis
-
-### 3. Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream.
-
-Link: https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price
-
-### 4. Trump administration planning to reimburse doctors treating vaccine ‘injury’ [10/10]
+### 5. Trump administration planning to reimburse doctors treating vaccine ‘injury’ [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -68,15 +77,6 @@ Link: https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-ca
 Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit The Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from…
 
 Link: https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration
-
-### 5. Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.
-
-Link: https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/
 
 ### 6. Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI [10/10]
 **Source:** The Guardian US  
@@ -87,16 +87,25 @@ The latest instalment of the epic crime saga is finally here.
 
 Link: https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games
 
-### 7. LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the…
+A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more
 
-Link: https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists
+Link: https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod
 
-### 8. How the tech industry and markets have responded to Jensen Huang's resignation [9/10]
+### 8. Blade Runner 2099 bosses hint at a possible "triple-A" Blade Runner game in the future - just don't expect it any time soon [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Blade Runner 2099 - an upcoming TV miniseries coming to Amazon Prime Video, acting as a sequel to Blade Runner (1982) and Blade Runner 2049 (2017) - might be getting a video game. And a 'triple-A' video game, at that.
+
+Link: https://www.eurogamer.net/blade-runner-2099-triple-a-talks
+
+### 9. How the tech industry and markets have responded to Jensen Huang's resignation [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,7 +114,7 @@ We look at the industry and market response to news that NVIDIA founder and CEO 
 
 Link: https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation
 
-### 9. This Comic Kills Technofascists [9/10]
+### 10. This Comic Kills Technofascists [9/10]
 **Source:** 404 Media  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -114,41 +123,32 @@ Link: https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-mar
 
 Link: https://www.404media.co/this-comic-kills-technofascists/
 
-### 10. Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-New exhibition restores painter’s place as leading figure in French movement that revolutionised art As a painter, friend, and collaborator of Edgar Degas, who exhibited with impressionist artists including Claude Monet and Camille…
+A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.
 
-Link: https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism
+Link: https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/
 
-### 11. Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring , I've typically just been a coward when it comes to the idea of fighting another, real person.
-
-Link: https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks
-
-### 12. How the world’s fires changed while humanity hit pause [8/10]
-**Source:** Ars Technica  
+### 12. Apple’s first smart glasses are coming together [8/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-COVID-19 lockdowns cut global fire activity by 12.3 percent.
+Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year.
 
-Link: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/
+Link: https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together
 
-### 13. A new generation of disability rights activists carry on Judy Heumann's legacy [7/10]
+### 13. Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they "carry the torch" today.
+Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.
 
-Link: https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights
+Link: https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back
 
 ## YouTube
 
@@ -161,15 +161,6 @@ After finishing this song, it took me 3 months to gather the courage to stand in
 
 Link: https://www.youtube.com/watch?v=x7iwI6WfWS0
 
-### Atomic Operations - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Operations that complete without interruption, known as 'atomic' operations are extremely useful and allow us to go about our business unimpeded. Matt Godbolt of 'Compiler Explorer' fame explains. Computerphile is supported by Jane Street.
-
-Link: https://www.youtube.com/watch?v=BHOw09O3ZsI
-
 ### Professor Fact Checks Ancient Greece Slop [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -178,6 +169,15 @@ Link: https://www.youtube.com/watch?v=BHOw09O3ZsI
 AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor of Ancient Greek History Paul Christesen as we fact check the internet, Ancient Greece edition.
 
 Link: https://www.youtube.com/watch?v=2-8DSSlZoHg
+
+### The average cost for a new vehicle in the U.S. hits a record high: over $51,000 [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+A new car now costs $51,000, on average — a new record, according to the Kelley Blue Book. Every month, the Kelley Blue Book reports how much people paid for a new car in the previous month.
+
+Link: https://www.youtube.com/watch?v=J3ev25c5opY
 
 ### The final episode of “Sources & Methods” with Mary Louise Kelly | Sources & Methods | NPR [7/10]
 **Creator:** NPR  
@@ -233,27 +233,36 @@ Voters in Michigan elected Abdul El-Sayed, an epidemiologist and former public h
 
 Link: https://www.youtube.com/watch?v=tPj7kk6baPw
 
-### Gaza’s Health Ministry says six people killed by Israeli airstrike on hospital [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Gaza’s Health Ministry says six people were killed in an Israeli airstrike on one of Gaza’s biggest hospitals more than a year into a ceasefire with Hamas. Israel says it was targeting a senior Hamas figure.
-
-Link: https://www.youtube.com/watch?v=SeDdnb0h1YA
-
-### Is It Time For DLSS Frame Generation To Come To Switch 2? [7/10]
+### The Legend of Zelda: Ocarina Of Time - Let's Look Back At N64 + 3DS! [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=BfZIlDpMl0I
+
+### DF Retro's Tomb Raider Retrospective Has Become Iconic [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5OzxM-RSSqs
+
+### Is It Time For DLSS Frame Generation To Come To Switch 2? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/T0FpqWP4bZ8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=88KZsxyCzSc
 
-### EA's 30th Anniversary Remasters Are Simply Superb [7/10]
+### EA's 30th Anniversary Remasters Are Simply Superb [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,14 +287,23 @@ Link: https://www.youtube.com/watch?v=2FXUBUtbrsg
 
 Link: https://www.youtube.com/watch?v=FuAoHz50ens
 
-### Nintendo's Basic HDR For First Party Games Could Be Much Better [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Come Quarter Up For Some Street Fighter 6 | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=mX3KdOlHS8k
+Link: https://www.youtube.com/watch?v=nzPAayBoqH0
+
+### Queen’s Domain, Potato Please, WendyQuest, and Monomoon | Yahtzee Tries [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=W9DOuj3I_-s
 
 ### Game of the Year Is Going to Be Weird | Second Screen [8/10]
 **Creator:** Second Wind  
@@ -331,24 +349,6 @@ Link: https://www.youtube.com/watch?v=d7fbxt8qNKI
 This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…
 
 Link: https://www.youtube.com/watch?v=y5vJcDeiFMI
-
-### Getting Our CSI on in Death at Fleming Manor w/ Jack, Jess, and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Death at Fleming Manor, a forensic mystery with art inspired by 1960s European detective comics. Explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. – https://store.
-
-Link: https://www.youtube.com/watch?v=ICM7Nj8fFmE
-
-### The Big Second Wind Third Anniversary Channel Update! [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's our third anniversary! We've got a lot of plans and goals for 2027. If you've enjoyed our content these last three years, we're asking you support us over on Patreon! https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=kVlD1iiY3lY
 
 ## Entertainment Recommendations
 
@@ -469,9 +469,9 @@ In Italy's happiest village, a haunted teacher discovers dark secret behind week
 
 Link: https://www.youtube.com/watch?v=yGILDBbzoe0
 
-### The Rainmaker S2 | The Bag [8/10]
+### The Rainmaker S2 | The Bag [7/10]
 **Source:** Blumhouse  
-**Verdict:** Looks promising  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
