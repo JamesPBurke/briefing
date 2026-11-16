@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-16T10:00:45.689782Z
+Generated: 2026-11-16T14:00:03.228158Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story, Congress wants to tighten export rules on AI chips after Nvidia spy scandal, and NPR's Student Podcast Challenge is back for 2027.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live, International student enrollments at US universities plunge this fall, data shows, and This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer.
 
 ## Briefing
 
@@ -33,16 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story [10/10]
+### 1. Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Democrat Mary Peltola is leading Republican incumbent…
+
+Link: https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates
+
+### 2. International student enrollments at US universities plunge this fall, data shows [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend.
+Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education Fewer international students are studying at US universities as the Trump administration cracks down on immigration and reshapes…
 
-Link: https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch
+Link: https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump
 
-### 2. Congress wants to tighten export rules on AI chips after Nvidia spy scandal [10/10]
+### 3. This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer
+
+### 4. The next Xbox, Project Helix, is a console and "not a PC" says Microsoft, as it clarifies that computational power isn't sole focus this time [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Microsoft has stressed that its next-generation Xbox console, Project Helix, "is not a PC that can also play console games", but rather "a console that is also capable of playing games from your PC".
+
+Link: https://www.eurogamer.net/microsoft-project-helix-interview-details
+
+### 5. ‘No rhyme or reason’: how Trump’s immigration courts put families on a fast track to deportation [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Attorneys say federal officials are expediting immigration hearings and exhausting legal tools to prioritize mass deportations without any semblance of due process Four days.
+
+Link: https://www.theguardian.com/us-news/2026/nov/16/trump-immigration-courts-families-mass-deportations
+
+### 6. AI for the People: What Happens When a School Pauses for a Week to Build [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+By Shilpa Agrawal, CSTA Responsible AI Fellow and Director of Computer Science at Comp Sci High An app that sends...
+
+Link: https://csteachers.org/ai-for-the-people-what-happens-when-a-school-pauses-for-a-week-to-build/
+
+### 7. The Democratic party is at a critical crossroad. Can it do the right thing? | Osita Nwanevu [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010.
+
+Link: https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad
+
+### 8. ‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+She threw a (metaphorical) brick through Spotify’s window and exposed industry failings with her ‘Butts for Tour Buses’ campaign.
+
+Link: https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans
+
+### 9. Congress wants to tighten export rules on AI chips after Nvidia spy scandal [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,70 +114,34 @@ Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Hua
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
 
-### 3. NPR's Student Podcast Challenge is back for 2027 [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.
-
-Link: https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline
-
-### 4. Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter [9/10]
+### 10. Cop31 live: draft climate deal calls for faster shift away from fossil fuels [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-CEO ousted after affair with suspected Chinese spy reportedly plans comeback, as US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of…
+‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference…
 
-Link: https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo
+Link: https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates
 
-### 5. Huge waves pummel California coast, forcing closure of popular piers [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. The Download: testing tech promises and searching for cognitive immortality [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the…
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed
+Link: https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/
 
-### 6. Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more
-
-Link: https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested
-
-### 7. Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer.
-
-Link: https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs
-
-### 8. Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a…
-
-Link: https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb
-
-### 9. Why sleep matters when it comes to weight gain and loss [8/10]
+### 12. Why sleep matters when it comes to weight gain and loss [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-If you want to maintain a healthy weight, you know you should watch what you eat and get some exercise, maybe hit the gym. But what about hitting the hay? We look at how sleep can have a powerful impact on weight.
+Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.
 
-Link: https://www.npr.org/2026/11/16/nx-s1-6037761/why-sleep-matters-when-it-comes-to-weight-gain-and-loss
+Link: https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss
 
-### 10. It's not just the U.S., the movement against data centers is global [8/10]
+### 13. It's not just the U.S., the movement against data centers is global [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -122,33 +149,6 @@ Link: https://www.npr.org/2026/11/16/nx-s1-6037761/why-sleep-matters-when-it-com
 Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. "We are coordinated and we are together," said one Spanish activist.
 
 Link: https://www.npr.org/2026/11/16/nx-s1-6000601/its-not-just-the-u-s-the-movement-against-data-centers-is-global
-
-### 11. Jensen Huang might be plotting a return and more of the latest Nvidia drama [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.
-
-Link: https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed
-
-### 12. Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more
-
-Link: https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod
-
-### 13. This Comic Kills Technofascists [8/10]
-**Source:** 404 Media  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.
-
-Link: https://www.404media.co/this-comic-kills-technofascists/
 
 ## YouTube
 
@@ -286,6 +286,15 @@ Link: https://www.youtube.com/watch?v=2FXUBUtbrsg
 ► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=FuAoHz50ens
+
+### Do Point-and-Click Adventure Games Hold Up? | Windbreaker Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=6323So70xJA
 
 ### Come Quarter Up For Some Street Fighter 6 | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
@@ -469,6 +478,15 @@ Get into the seasonal mood, drop your favorite trap in the comments
 
 Link: https://www.youtube.com/watch?v=blTNfNeCt5k
 
+### The Palace of Secrets | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Madrid, 18th century. Julia Ponce, the daughter of the court painter, arrives at the royal palace and is dazzled by its splendor. There she meets Gonzalo, the crown prince, who has returned to Spain at the king’s command to get married.
+
+Link: https://www.youtube.com/watch?v=m9RuywPHFCw
+
 ### PLANESWALKER | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -567,21 +585,3 @@ Link: https://www.youtube.com/watch?v=wiXS3J3LeOA
 Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight. 👀💃 “Meet Me on the Dance Floor” (performed by Rose Gray) is out now. STEPS premieres Nov 20! Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=xnrCzYjT-O0
-
-### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=DqjpYC7x4_k
-
-### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=-KWOE2GHtbU

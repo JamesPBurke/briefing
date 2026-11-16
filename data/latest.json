@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-16T10:00:45.689782Z",
-  "generatedAtDisplay": "2026-11-16 05:00 AM EST",
+  "generatedAt": "2026-11-16T14:00:03.228158Z",
+  "generatedAtDisplay": "2026-11-16 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story, Congress wants to tighten export rules on AI chips after Nvidia spy scandal, and NPR's Student Podcast Challenge is back for 2027.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live, International student enrollments at US universities plunge this fall, data shows, and This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer.",
   "mainItems": [
     {
-      "title": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+      "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "published": "2026-11-16T13:37:34+00:00",
+      "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Democrat Mary Peltola is leading Republican incumbent…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "International student enrollments at US universities plunge this fall, data shows",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch",
-      "published": "2026-11-16T05:00:33+00:00",
-      "summary": "She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump",
+      "published": "2026-11-16T13:32:52+00:00",
+      "summary": "Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education Fewer international students are studying at US universities as the Trump administration cracks down on immigration and reshapes…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
+      "published": "2026-11-16T12:54:10+00:00",
+      "summary": "Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+      "published": "2026-11-16T12:08:40+00:00",
+      "summary": "Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from your PC\".",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘No rhyme or reason’: how Trump’s immigration courts put families on a fast track to deportation",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-immigration-courts-families-mass-deportations",
+      "published": "2026-11-16T12:00:58+00:00",
+      "summary": "Attorneys say federal officials are expediting immigration hearings and exhausting legal tools to prioritize mass deportations without any semblance of due process Four days.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI for the People: What Happens When a School Pauses for a Week to Build",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/ai-for-the-people-what-happens-when-a-school-pauses-for-a-week-to-build/",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "By Shilpa Agrawal, CSTA Responsible AI Fellow and Director of Computer Science at Comp Sci High An app that sends...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Democratic party is at a critical crossroad. Can it do the right thing? | Osita Nwanevu",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad",
+      "published": "2026-11-16T11:00:57+00:00",
+      "summary": "Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans",
+      "published": "2026-11-16T08:00:36+00:00",
+      "summary": "She threw a (metaphorical) brick through Spotify’s window and exposed industry failings with her ‘Butts for Tour Buses’ campaign.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -27,72 +97,32 @@
       "score": 10
     },
     {
-      "title": "NPR's Student Podcast Challenge is back for 2027",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
-      "published": "2026-11-16T10:00:00+00:00",
-      "summary": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-      "published": "2026-11-16T08:18:12+00:00",
-      "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, as US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of…",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "published": "2026-11-16T13:47:12+00:00",
+      "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Huge waves pummel California coast, forcing closure of popular piers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-      "published": "2026-11-16T01:00:42+00:00",
-      "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-      "published": "2026-11-15T17:47:40+00:00",
-      "summary": "Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-      "published": "2026-11-15T15:14:10+00:00",
-      "summary": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-      "published": "2026-11-15T14:00:19+00:00",
-      "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "published": "2026-11-16T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
       "title": "Why sleep matters when it comes to weight gain and loss",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/why-sleep-matters-when-it-comes-to-weight-gain-and-loss",
-      "published": "2026-11-16T09:46:00+00:00",
-      "summary": "If you want to maintain a healthy weight, you know you should watch what you eat and get some exercise, maybe hit the gym. But what about hitting the hay? We look at how sleep can have a powerful impact on weight.",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+      "published": "2026-11-16T10:00:00+00:00",
+      "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -104,36 +134,6 @@
       "published": "2026-11-16T09:44:39+00:00",
       "summary": "Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. \"We are coordinated and we are together,\" said one Spanish activist.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "published": "2026-11-16T04:17:05+00:00",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
-      "published": "2026-11-15T17:39:20+00:00",
-      "summary": "A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "This Comic Kills Technofascists",
-      "source": "404 Media",
-      "category": "Security / computing",
-      "url": "https://www.404media.co/this-comic-kills-technofascists/",
-      "published": "2026-11-15T13:00:00+00:00",
-      "summary": "'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     }
   ],
@@ -302,6 +302,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Do Point-and-Click Adventure Games Hold Up? | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=6323So70xJA",
+      "published": "2026-11-16T13:16:16+00:00",
+      "summary": "This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
+      "verdict": "Watch it"
     },
     {
       "title": "Come Quarter Up For Some Street Fighter 6 | Super Smash Sunday",
@@ -493,6 +504,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "The Palace of Secrets | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=m9RuywPHFCw",
+      "published": "2026-11-16T10:00:00+00:00",
+      "summary": "Madrid, 18th century. Julia Ponce, the daughter of the court painter, arrives at the royal palace and is dazzled by its splendor. There she meets Gonzalo, the crown prince, who has returned to Spain at the king’s command to get married.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "PLANESWALKER | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -612,28 +634,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=DqjpYC7x4_k",
-      "published": "2026-11-12T00:49:06+00:00",
-      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-KWOE2GHtbU",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -747,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
-    "trailerCount": 25,
-    "sourceCount": 18
+    "youtubeCount": 21,
+    "trailerCount": 24,
+    "sourceCount": 19
   }
 }
