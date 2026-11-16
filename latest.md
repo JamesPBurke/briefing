@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-16T05:00:02.816760Z
+Generated: 2026-11-16T10:00:45.689782Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Huge waves pummel California coast, forcing closure of popular piers, Congress wants to tighten export rules on AI chips after Nvidia spy scandal, and Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story, Congress wants to tighten export rules on AI chips after Nvidia spy scandal, and NPR's Student Podcast Challenge is back for 2027.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Huge waves pummel California coast, forcing closure of popular piers [10/10]
+### 1. ‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the…
+She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend.
 
-Link: https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed
+Link: https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch
 
 ### 2. Congress wants to tighten export rules on AI chips after Nvidia spy scandal [10/10]
 **Source:** The Verge  
@@ -51,43 +51,34 @@ Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Hua
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
 
-### 3. Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 3. NPR's Student Podcast Challenge is back for 2027 [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The latest instalment of the epic crime saga is finally here.
+The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.
 
-Link: https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games
+Link: https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline
 
 ### 4. Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’ Elon Musk and a host of other tech executives are among more than 165,000…
+CEO ousted after affair with suspected Chinese spy reportedly plans comeback, as US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of…
 
 Link: https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo
 
-### 5. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows [9/10]
+### 5. Huge waves pummel California coast, forcing closure of popular piers [9/10]
 **Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has…
+Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the…
 
-Link: https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes
+Link: https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed
 
-### 6. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This was the first total mission failure in United Launch Alliance's 20-year history.
-
-Link: https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
-
-### 7. Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile [9/10]
+### 6. Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile [9/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,16 +87,7 @@ Police have arrested a suspect after a drive-by shooting at an office campus in 
 
 Link: https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested
 
-### 8. Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more
-
-Link: https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod
-
-### 9. Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service [9/10]
+### 7. Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service [9/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -114,7 +96,7 @@ Treyarch's former Senior lead writer, Craig Houston, has been laid off after app
 
 Link: https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs
 
-### 10. Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal [9/10]
+### 8. Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -123,36 +105,232 @@ Defence briefing released under freedom of information laws shows ADF beholden t
 
 Link: https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb
 
-### 11. Opinion: Changing HS Admissions May Cost NYC Students — While Doing Nothing for Diversity [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A coalition of elected officials are urging New York City Mayor Zohran Mamdani to change admission requirements to some of the city’s high-performing, specialized public high schools, in the interest of increasing diversity.
-
-Link: https://www.the74million.org/article/changing-hs-admissions-may-cost-nyc-students-while-doing-nothing-for-diversity/
-
-### 12. How the tech industry and markets have responded to Jensen Huang's resignation [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.
-
-Link: https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation
-
-### 13. Who makes Sydney Sweeney's American Eagle jeans — and under what conditions? [7/10]
+### 9. Why sleep matters when it comes to weight gain and loss [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?
+If you want to maintain a healthy weight, you know you should watch what you eat and get some exercise, maybe hit the gym. But what about hitting the hay? We look at how sleep can have a powerful impact on weight.
 
-Link: https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry
+Link: https://www.npr.org/2026/11/16/nx-s1-6037761/why-sleep-matters-when-it-comes-to-weight-gain-and-loss
+
+### 10. It's not just the U.S., the movement against data centers is global [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. "We are coordinated and we are together," said one Spanish activist.
+
+Link: https://www.npr.org/2026/11/16/nx-s1-6000601/its-not-just-the-u-s-the-movement-against-data-centers-is-global
+
+### 11. Jensen Huang might be plotting a return and more of the latest Nvidia drama [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.
+
+Link: https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed
+
+### 12. Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more
+
+Link: https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod
+
+### 13. This Comic Kills Technofascists [8/10]
+**Source:** 404 Media  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.
+
+Link: https://www.404media.co/this-comic-kills-technofascists/
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### AI Can Do Everything…Except This [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it.
+
+Link: https://www.youtube.com/watch?v=x7iwI6WfWS0
+
+### Professor Fact Checks Ancient Greece Slop [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Professor of Ancient Greek History Paul Christesen as we fact check the internet, Ancient Greece edition.
+
+Link: https://www.youtube.com/watch?v=2-8DSSlZoHg
+
+### The average cost for a new vehicle in the U.S. hits a record high: over $51,000 [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A new car now costs $51,000, on average — a new record, according to the Kelley Blue Book. Every month, the Kelley Blue Book reports how much people paid for a new car in the previous month.
+
+Link: https://www.youtube.com/watch?v=J3ev25c5opY
+
+### The final episode of “Sources & Methods” with Mary Louise Kelly | Sources & Methods | NPR [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+This week marks the final episode of “Sources & Methods” with Mary Louise Kelly. At the end of this episode, Mary Louise acknowledged the team who she’s worked with the last 15 months to bring you NPR’s national security podcast.
+
+Link: https://www.youtube.com/watch?v=exsoikzlHfk
+
+### Rachel Maddow discusses her new book, 'Department of Fate' | Morning Edition | NPR [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In a new book, “Department of Fate,” Rachel Maddow details the Department of Justice’s history and argues that the department is on the brink of collapse, presenting an opportunity to reimagine its checks and balances.
+
+Link: https://www.youtube.com/watch?v=xat9eMr_ddQ
+
+### Trisha Paytas comes clean in 'Crying on the Kitchen Floor' [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Trisha Paytas posted her first YouTube clip in 2007, just as the platform was getting started. She’s been very online ever since, and at times, things have gotten messy.
+
+Link: https://www.youtube.com/watch?v=hfGw3WC9Ln0
+
+### Chris Van Hollen will challenge Chuck Schumer for Senate majority leader [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A leadership contest is taking shape among Senate Democrats as the party prepares to retake control of the chamber in January — Maryland Sen. Chris Van Hollen says he will challenge longtime Democratic leader Chuck Schumer for the top job.
+
+Link: https://www.youtube.com/watch?v=eiXC7UD2lZc
+
+### Amid the war in Ukraine, the Kremlin has passed a web of wartime censorship laws | NPR [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Amid the war in Ukraine, the Kremlin has passed a web of wartime censorship laws. Those laws forced most independent Russian media to close or flee into exile. But there was one exception until this week.
+
+Link: https://www.youtube.com/watch?v=8VN5__Nlq3M
+
+### Abdul El-Sayed thinks Democrats should drop the decorum [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Voters in Michigan elected Abdul El-Sayed, an epidemiologist and former public health official, to serve in the U.S. Senate. He will be the first Muslim to serve in the upper chamber. Winning that election wasn’t easy.
+
+Link: https://www.youtube.com/watch?v=tPj7kk6baPw
+
+### The Legend of Zelda: Ocarina Of Time - Let's Look Back At N64 + 3DS! [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=BfZIlDpMl0I
+
+### DF Retro's Tomb Raider Retrospective Has Become Iconic [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5OzxM-RSSqs
+
+### Is It Time For DLSS Frame Generation To Come To Switch 2? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/T0FpqWP4bZ8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=88KZsxyCzSc
+
+### EA's 30th Anniversary Remasters Are Simply Superb [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IYpSSm_nfSc
+
+### Ex-Sony Boss Shawn Layden Wants A $300 PS5 Over $1200 PS6 - But Is It Even Possible? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/T0FpqWP4bZ8 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2FXUBUtbrsg
+
+### Nvidia's Classic 8800 GTX 20th Anniversary - The Best GPU Of Its Generation [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/tmgPFGh3l-I ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=FuAoHz50ens
+
+### Come Quarter Up For Some Street Fighter 6 | Super Smash Sunday [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=nzPAayBoqH0
+
+### Queen’s Domain, Potato Please, WendyQuest, and Monomoon | Yahtzee Tries [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Slumber Realm, a 90s-inspired roguelike that lets you battle your childhood fears with dice. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=W9DOuj3I_-s
+
+### Game of the Year Is Going to Be Weird | Second Screen [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The GOTY 2026 race at The Game Awards is going to be a strange one. Marty breaks down the strange race between the likes of Grand Theft Auto VI, The Legend of Zelda: Ocarina of Time, Resident Evil Requiem, and more.
+
+Link: https://www.youtube.com/watch?v=OjplOzBEAPk
+
+### Big Walk's Big AI Controversy | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by The Snackbar at the End of the World, a bittersweet story of love, defiance, and… pasta? Take over a struggling restaurant to save your family in this hand-drawn, narrative adventure RPG set in magical 1960s…
+
+Link: https://www.youtube.com/watch?v=TjjYd52B6Fo
+
+### A New Channel, the Next Adventure is Nigh Campaign, and a Kickstarter! [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Back our Kickstarter at: https://kickstarter.adventureisnigh.
+
+Link: https://www.youtube.com/watch?v=KbsVAd_XH8A
 
 ## Entertainment Recommendations
 
@@ -183,4 +361,227 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=Rma1KLKyZWs
+
+### Resident Evil 2026 | Roundtable Series [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
+
+### JUMANJI: OPEN WORLD - New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
+
+### The Debut | Official Trailer 2 HD | A24 [7/10]
+**Source:** A24  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.
+
+Link: https://www.youtube.com/watch?v=lF9n06SMDPU
+
+### NAZA - Official Trailer - Now Playing In Theaters [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.
+
+Link: https://www.youtube.com/watch?v=FquMSRj9z8s
+
+### NEW GROUP | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A student appears on the playground, crawling on all fours. Days later, others join, forming a human pyramid. It marks the start of a bizarre phenomenon that spreads across the community. NEW GROUP drops November 6 on Shudder.
+
+Link: https://www.youtube.com/watch?v=dhezj9Mjccw
+
+### Tinsman Road | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the dark backwoods of New Jersey, a young man navigates the serpentine mystery surrounding his long-missing sister and their family home. TINSMAN ROAD premieres November 13 on Shudder. #Shudder #TinsmanRoad Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=wh0bX4gb5rE
+
+### New Group Trailer | J-Horror | Shudder [10/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A bizarre new obsession is sweeping through a Japanese high school, and participation is quickly becoming non-negotiable. From the director of Best Wishes to All, NEW GROUP is streaming now on Shudder. #Shudder Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=ZIz9Q3eACdY
+
+### Unholy Night | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.
+
+Link: https://www.youtube.com/watch?v=H_uly3CPQa0
+
+### The Holy Boy | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding behind joy.
+
+Link: https://www.youtube.com/watch?v=yGILDBbzoe0
+
+### The Rainmaker S2 | The Bag [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Z23cr_4L340
+
+### Saw | Let the Game Begin [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Get into the seasonal mood, drop your favorite trap in the comments
+
+Link: https://www.youtube.com/watch?v=blTNfNeCt5k
+
+### PLANESWALKER | Sneak Peek | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Step into the worlds of PLANESWALKER and meet the people who will shape them. Every great story begins with a spark. Here’s your first look at PLANESWALKER, based on Magic: The Gathering. Coming to Netflix in 2027.
+
+Link: https://www.youtube.com/watch?v=5u4JESTNAFw
+
+### Compton Cowboys Love Maria [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Cowboys love opera, too. Find the heartbreaking biopic you never knew you needed. 📺: MARIA Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_UwN4JKgolc
+
+### The Riot | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+December 1989, Poland. Everyone is celebrating freedom and change. Everyone except those behind bars. For them, change is only a promise, and hope turns out to be the most dangerous weapon of all.
+
+Link: https://www.youtube.com/watch?v=KgVcfmbfnhg
+
+### Isamaya Ffrench Loves The Deepest Breath [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Beauty runs deep. Find the breathtaking documentary you never knew you needed. 🎥: THE DEEPEST BREATH Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=4rvfqN8EwPU
+
+### The Baddest Speechwriter of All | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Martin Luther King Jr.'s lawyer and speechwriter, Dr. Clarence B. Jones, reveals the personal cost and surprising truths of making history, offering an insider’s view of the Civil Rights Movement. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=gHV06F8JJKQ
+
+### Jean-Michel Basquiat | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Jean-Michel Basquiat is a reclamation of what has been lost in the legacy of a globally renowned artist.
+
+Link: https://www.youtube.com/watch?v=eLuySKwDvhM
+
+### Ray Gunn | Official Trailer #2 | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.
+
+Link: https://www.youtube.com/watch?v=Lo0DJm3tTz0
+
+### Ray Gunn | Official Trailer #2 | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.
+
+Link: https://www.youtube.com/watch?v=oAmCTknTA6I
+
+### Maestro in Blue: Season 4 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Back on Paxos, Orestis and Klelia confront uncertain futures as Sofia's criminal dealings put her family on a collision course with a grieving widow. The fourth and final season of Maestro in Blue premieres December 18, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=rgBOD9hcRE4
+
+### Russell Brand: Open Secret | Announcement | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+RUSSELL BRAND: OPEN SECRET, charts the comedian’s meteoric rise and steep fall following allegations of sexual offences.
+
+Link: https://www.youtube.com/watch?v=wiXS3J3LeOA
+
+### Meet Me on the Dance Floor (from the Steps Soundtrack) | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Every Cinderella story needs a villain. Priscilla’s been hiding in plain sight. 👀💃 “Meet Me on the Dance Floor” (performed by Rose Gray) is out now. STEPS premieres Nov 20! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=xnrCzYjT-O0
+
+### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World #HeartlandNetflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=DqjpYC7x4_k
+
+### Carter Faith Performs “Still the Sparrow Sings” at Robert’s Western World | Heartland | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Carter Faith steps onstage at Robert’s Western World in Nashville for a special live performance of “Still the Sparrow Sings” from her new movie Heartland, premiering November 13. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=-KWOE2GHtbU
