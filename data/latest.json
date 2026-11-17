@@ -1,28 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-17T05:00:03.625702Z",
-  "generatedAtDisplay": "2026-11-17 12:00 AM EST",
+  "generatedAt": "2026-11-17T10:00:39.626135Z",
+  "generatedAtDisplay": "2026-11-17 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are United Airlines says ‘widespread’ system outage resolved, Cause of death released for partner of Gypsy Rose Blanchard, and California sues OpenAI over rogue AI hacking incidents.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Education / pedagogy, Games / criticism. The strongest items in this run are Cop31 live: first draft of agreement under pressure as climate negotiations enter final days, Do school cellphone bans work? New study says yes – but it's complicated, and Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?.",
   "mainItems": [
     {
-      "title": "United Airlines says ‘widespread’ system outage resolved",
+      "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-      "published": "2026-11-17T02:57:06+00:00",
-      "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal…",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
+      "published": "2026-11-17T09:58:11+00:00",
+      "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Perhaps the cosiest corner of Cop31 is tucked against a wall filled with hopes for the future.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+      "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/do-school-cellphone-bans-work-new-study-says-yes-but-its-complicated",
+      "published": "2026-11-17T09:44:46+00:00",
+      "summary": "A new, nationwide study of school cell phone bans found they had a meaningful impact on the achievement of individual students.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "published": "2026-11-17T09:31:20+00:00",
+      "summary": "PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games . One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Robert Pattinson is James Bond. So what happens next?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
-      "published": "2026-11-16T23:14:41+00:00",
-      "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released.",
+      "url": "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next",
+      "published": "2026-11-17T07:00:08+00:00",
+      "summary": "The wait for the new Bond is over but that’s only the beginning – there are still small issues such as the script, title, setting, casting, branding and promotion … • Robert Pattinson announced as James Bond – news • Share your thoughts on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,14 +57,24 @@
       "score": 10
     },
     {
-      "title": "California sues OpenAI over hacking risks",
+      "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
+      "published": "2026-11-17T09:51:30+00:00",
+      "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred. Read more",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
       "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-      "published": "2026-11-16T22:06:22+00:00",
-      "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
+      "published": "2026-11-17T09:45:01+00:00",
+      "summary": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
     },
     {
       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
@@ -57,23 +87,13 @@
       "score": 9
     },
     {
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-      "published": "2026-11-16T18:49:26+00:00",
-      "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
-      "published": "2026-11-16T15:36:40+00:00",
-      "summary": "A hacker has pleaded guilty to a number of online crimes, including the 2022 breach of Rockstar Games which resulted in a bunch of mid-development clips of GTA 6 in action leaking onto the net . Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Check Out the New Demo for Lovecraftian Card-Based Survival Game ‘Dark Route’ [Trailer]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3975817/check-out-the-new-demo-for-lovecraftian-card-based-survival-game-dark-route-trailer/",
+      "published": "2026-11-16T18:30:39+00:00",
+      "summary": "Publisher Samar Studio and developer HuHu Game have given Lovecraftian horror gamers a taste of what’s to come with a demo for their upcoming survival horror title Dark Route.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -87,33 +107,13 @@
       "score": 9
     },
     {
-      "title": "AI for the People: What Happens When a School Pauses for a Week to Build",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/ai-for-the-people-what-happens-when-a-school-pauses-for-a-week-to-build/",
-      "published": "2026-11-16T12:00:00+00:00",
-      "summary": "By Shilpa Agrawal, CSTA Responsible AI Fellow and Director of Computer Science at Comp Sci High An app that sends...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "How to turn any bread dough into rolls: Transform your favorite bread loaf into shareable rolls.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/11/16/convert-bread-dough-into-rolls",
-      "published": "2026-11-16T19:00:00+00:00",
-      "summary": "So you have a beloved bread recipe that you'd like to turn into fluffy, single-serving rolls, but you don’t know where to start.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and-squirrels/",
-      "published": "2026-11-16T16:00:00+00:00",
-      "summary": "Talking animals, magical games, and childhood trauma... The post Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+      "published": "2026-11-17T09:46:43+00:00",
+      "summary": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -127,28 +127,17 @@
       "score": 8
     },
     {
-      "title": "Why sleep matters when it comes to weight gain and loss",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
-      "published": "2026-11-16T10:00:00+00:00",
-      "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "title": "How to turn any bread dough into rolls: Transform your favorite bread loaf into shareable rolls.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/11/16/convert-bread-dough-into-rolls",
+      "published": "2026-11-16T19:00:00+00:00",
+      "summary": "So you have a beloved bread recipe that you'd like to turn into fluffy, single-serving rolls, but you don’t know where to start.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "AI Can Do Everything…Except This",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
-      "published": "2026-11-14T08:40:55+00:00",
-      "summary": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "NASA asks for help marking Voyager 1 reaching 1 light-day from Earth",
       "source": "NPR",
@@ -168,8 +157,8 @@
       "published": "2026-11-16T20:00:40+00:00",
       "summary": "Amazon MGM Studios has announced that Robert Pattinson will be the next actor to play the role of James Bond.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "New Orleans port sues owners of tanker after cruise ship collision",
@@ -179,8 +168,8 @@
       "published": "2026-11-16T18:00:47+00:00",
       "summary": "The Port of New Orleans has sued the owners of the tanker that collided with a docked cruise ship for $1 million.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Airline industry continues to recover from Friday’s ground stop",
@@ -278,8 +267,8 @@
       "published": "2026-11-17T02:11:33+00:00",
       "summary": "This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Do Point-and-Click Adventure Games Hold Up? | Windbreaker Podcast",
@@ -471,6 +460,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "Love is Blind: South Africa | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JDolc99G3dA",
+      "published": "2026-11-17T09:00:00+00:00",
+      "summary": "Love Is Blind has landed in Mzansi! Singles. Pods. A wall. No peeking.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "GRWM: stepsister edition 💀 | Steps | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -478,7 +478,7 @@
       "published": "2026-11-16T18:00:01+00:00",
       "summary": "STEPS premieres this Friday! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -585,17 +585,6 @@
       "source": "Netflix",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=Lo0DJm3tTz0",
-      "published": "2026-11-12T14:30:02+00:00",
-      "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ray Gunn | Official Trailer #2 | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oAmCTknTA6I",
       "published": "2026-11-12T14:30:02+00:00",
       "summary": "Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.",
       "whyItMatters": "Relevant to your current interest graph.",
@@ -714,7 +703,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
+    "youtubeCount": 18,
     "trailerCount": 23,
     "sourceCount": 20
   }

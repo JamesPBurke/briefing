@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-17T05:00:03.625702Z
+Generated: 2026-11-17T10:00:39.626135Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are United Airlines says ‘widespread’ system outage resolved, Cause of death released for partner of Gypsy Rose Blanchard, and California sues OpenAI over rogue AI hacking incidents.
+Today's sweep leans toward Democracy / anti-fascism, Education / pedagogy, Games / criticism. The strongest items in this run are Cop31 live: first draft of agreement under pressure as climate negotiations enter final days, Do school cellphone bans work? New study says yes – but it's complicated, and Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?.
 
 ## Briefing
 
@@ -33,25 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. United Airlines says ‘widespread’ system outage resolved [10/10]
+### 1. Cop31 live: first draft of agreement under pressure as climate negotiations enter final days [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal…
+Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Perhaps the cosiest corner of Cop31 is tucked against a wall filled with hopes for the future.
 
-Link: https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage
+Link: https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days
 
-### 2. Cause of death released for partner of Gypsy Rose Blanchard [10/10]
+### 2. Do school cellphone bans work? New study says yes – but it's complicated [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A new, nationwide study of school cell phone bans found they had a meaningful impact on the achievement of individual students.
+
+Link: https://www.npr.org/2026/11/17/nx-s1-6035684/do-school-cellphone-bans-work-new-study-says-yes-but-its-complicated
+
+### 3. Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it? [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games . One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse.
+
+Link: https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it
+
+### 4. Robert Pattinson is James Bond. So what happens next? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released.
+The wait for the new Bond is over but that’s only the beginning – there are still small issues such as the script, title, setting, casting, branding and promotion … • Robert Pattinson announced as James Bond – news • Share your thoughts on…
 
-Link: https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner
+Link: https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next
 
-### 3. California sues OpenAI over rogue AI hacking incidents [10/10]
+### 5. California sues OpenAI over rogue AI hacking incidents [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,16 +78,25 @@ California is suing OpenAI after its AI agents broke out of their testing enviro
 
 Link: https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit
 
-### 4. California sues OpenAI over hacking risks [10/10]
+### 6. World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold [9/10]
+**Source:** Eurogamer  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred. Read more
+
+Link: https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit
+
+### 7. Nvidia scandal and CEO's resignation rock Silicon Valley [9/10]
 **Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was "entirely foreseeable" due to OpenAI's poor security practices.
+Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.
 
-Link: https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident
+Link: https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley
 
-### 5. Tech leaders are convinced that Jensen Huang’s exit was a plot against him [9/10]
+### 8. Tech leaders are convinced that Jensen Huang’s exit was a plot against him [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -78,25 +105,16 @@ Jensen Huang's stunning resignation from Nvidia after more than 33 years has sen
 
 Link: https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories
 
-### 6. U.S. tightens controls on remote access to AI technology amid Nvidia fallout [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 9. Check Out the New Demo for Lovecraftian Card-Based Survival Game ‘Dark Route’ [Trailer] [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.
+Publisher Samar Studio and developer HuHu Game have given Lovecraftian horror gamers a taste of what’s to come with a demo for their upcoming survival horror title Dark Route.
 
-Link: https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department
+Link: https://bloody-disgusting.com/video-games/3975817/check-out-the-new-demo-for-lovecraftian-card-based-survival-game-dark-route-trailer/
 
-### 7. GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A hacker has pleaded guilty to a number of online crimes, including the 2022 breach of Rockstar Games which resulted in a bunch of mid-development clips of GTA 6 in action leaking onto the net . Read more
-
-Link: https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million
-
-### 8. Parents of Students With Disabilities Fear Losing Texas’ “Life-Changing” School Vouchers [9/10]
+### 10. Parents of Students With Disabilities Fear Losing Texas’ “Life-Changing” School Vouchers [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,32 +123,14 @@ For about two months, Kelci Jagge tried to send her adopted son to a public scho
 
 Link: https://www.the74million.org/article/parents-of-students-with-disabilities-fear-losing-texas-life-changing-school-vouchers/
 
-### 9. AI for the People: What Happens When a School Pauses for a Week to Build [9/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Health organization to announce that the U.S. has lost its measles elimination status [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-By Shilpa Agrawal, CSTA Responsible AI Fellow and Director of Computer Science at Comp Sci High An app that sends...
+The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.
 
-Link: https://csteachers.org/ai-for-the-people-what-happens-when-a-school-pauses-for-a-week-to-build/
-
-### 10. How to turn any bread dough into rolls: Transform your favorite bread loaf into shareable rolls. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-So you have a beloved bread recipe that you'd like to turn into fluffy, single-serving rolls, but you don’t know where to start.
-
-Link: https://www.kingarthurbaking.com/blog/2026/11/16/convert-bread-dough-into-rolls
-
-### 11. Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Talking animals, magical games, and childhood trauma... The post Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels appeared first on Reactor .
-
-Link: https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and-squirrels/
+Link: https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status
 
 ### 12. AI-Powered Copyright Hell [8/10]
 **Source:** 404 Media  
@@ -141,25 +141,16 @@ Link: https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and
 
 Link: https://www.404media.co/ai-powered-copyright-hell/
 
-### 13. Why sleep matters when it comes to weight gain and loss [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. How to turn any bread dough into rolls: Transform your favorite bread loaf into shareable rolls. [7/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
 
-Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.
+So you have a beloved bread recipe that you'd like to turn into fluffy, single-serving rolls, but you don’t know where to start.
 
-Link: https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss
+Link: https://www.kingarthurbaking.com/blog/2026/11/16/convert-bread-dough-into-rolls
 
 ## YouTube
-
-### AI Can Do Everything…Except This [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it.
-
-Link: https://www.youtube.com/watch?v=x7iwI6WfWS0
 
 ### NASA asks for help marking Voyager 1 reaching 1 light-day from Earth [7/10]
 **Creator:** NPR  
@@ -170,18 +161,18 @@ The most distant human-made object ever built is set to hit a new milestone this
 
 Link: https://www.youtube.com/watch?v=favw4hznAao
 
-### British actor Robert Pattinson will be the next James Bond [9/10]
+### British actor Robert Pattinson will be the next James Bond [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Amazon MGM Studios has announced that Robert Pattinson will be the next actor to play the role of James Bond.
 
 Link: https://www.youtube.com/watch?v=7NpyKdtm6k0
 
-### New Orleans port sues owners of tanker after cruise ship collision [8/10]
+### New Orleans port sues owners of tanker after cruise ship collision [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Port of New Orleans has sued the owners of the tanker that collided with a docked cruise ship for $1 million.
@@ -260,9 +251,9 @@ Link: https://www.youtube.com/watch?v=88KZsxyCzSc
 
 Link: https://www.youtube.com/watch?v=IYpSSm_nfSc
 
-### Penguin Colony Is Lovecraftian Horror With Some Cute Little Flightless Birds | Hot Monday Energy [9/10]
+### Penguin Colony Is Lovecraftian Horror With Some Cute Little Flightless Birds | Hot Monday Energy [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.
@@ -451,7 +442,16 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
-### GRWM: stepsister edition 💀 | Steps | Netflix [10/10]
+### Love is Blind: South Africa | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Love Is Blind has landed in Mzansi! Singles. Pods. A wall. No peeking.
+
+Link: https://www.youtube.com/watch?v=JDolc99G3dA
+
+### GRWM: stepsister edition 💀 | Steps | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -549,12 +549,3 @@ Link: https://www.youtube.com/watch?v=eLuySKwDvhM
 Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.
 
 Link: https://www.youtube.com/watch?v=Lo0DJm3tTz0
-
-### Ray Gunn | Official Trailer #2 | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Brad Bird, the visionary director of The Incredibles, Ratatouille, and The Iron Giant, brings you a whole new world to investigate… and everyone’s a suspect.
-
-Link: https://www.youtube.com/watch?v=oAmCTknTA6I
