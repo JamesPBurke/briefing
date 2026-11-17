@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-17T10:00:39.626135Z
+Generated: 2026-11-17T14:00:01.910730Z
 
-Today's sweep leans toward Democracy / anti-fascism, Education / pedagogy, Games / criticism. The strongest items in this run are Cop31 live: first draft of agreement under pressure as climate negotiations enter final days, Do school cellphone bans work? New study says yes – but it's complicated, and Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live, China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live, and School phone bans result in ‘modest’ academic gains for students, study shows.
 
 ## Briefing
 
@@ -33,25 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Cop31 live: first draft of agreement under pressure as climate negotiations enter final days [10/10]
+### 1. Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Two departments have confirmed they are investigating computing company…
+
+Link: https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates
+
+### 2. China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Perhaps the cosiest corner of Cop31 is tucked against a wall filled with hopes for the future.
+Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened…
 
-Link: https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days
+Link: https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates
 
-### 2. Do school cellphone bans work? New study says yes – but it's complicated [10/10]
-**Source:** NPR Education  
+### 3. School phone bans result in ‘modest’ academic gains for students, study shows [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+More than 40 US states have passed laws restricting phones at schools with goal of boosting students’ focus and learning A large-scale study published Tuesday found strict cellphone restrictions in US schools – ones that require students…
+
+Link: https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students
+
+### 4. The Download: Jensen Huang’s open-source dilemma and cognitive immortality [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/
+
+### 5. "Games are best made by people": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+As part of a summit meeting in Manchester yesterday, the IWGB Game Workers union have joined up with other unions spanning the Republic of Ireland's GWUI, Germany's GDRT, Italy's FIOM-CGIL, France's STJV, and Spain's CSVI to publish a…
+
+Link: https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai
+
+### 6. Fewer Than Half of States Require K-12 Native American Education [10/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A new, nationwide study of school cell phone bans found they had a meaningful impact on the achievement of individual students.
+Cammie DuPuis-Pablo had reached her breaking point. For years, her two sons had been bullied at school because of their Native American heritage. They were called girls because of their long, dark braids.
 
-Link: https://www.npr.org/2026/11/17/nx-s1-6035684/do-school-cellphone-bans-work-new-study-says-yes-but-its-complicated
+Link: https://www.the74million.org/article/fewer-than-half-of-states-require-k-12-native-american-education/
 
-### 3. Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it? [10/10]
+### 7. Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron.
+
+Link: https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply
+
+### 8. Do school cellphone bans work? New study says yes – but it's complicated [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.
+
+Link: https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research
+
+### 9. Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it? [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -60,77 +114,23 @@ PC players have been conditioned for decades to accept the keyboard-and-mouse se
 
 Link: https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it
 
-### 4. Robert Pattinson is James Bond. So what happens next? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The wait for the new Bond is over but that’s only the beginning – there are still small issues such as the script, title, setting, casting, branding and promotion … • Robert Pattinson announced as James Bond – news • Share your thoughts on…
-
-Link: https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next
-
-### 5. California sues OpenAI over rogue AI hacking incidents [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit
-
-### 6. World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold [9/10]
-**Source:** Eurogamer  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred. Read more
-
-Link: https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit
-
-### 7. Nvidia scandal and CEO's resignation rock Silicon Valley [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.
-
-Link: https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley
-
-### 8. Tech leaders are convinced that Jensen Huang’s exit was a plot against him [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.
-
-Link: https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories
-
-### 9. Check Out the New Demo for Lovecraftian Card-Based Survival Game ‘Dark Route’ [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Publisher Samar Studio and developer HuHu Game have given Lovecraftian horror gamers a taste of what’s to come with a demo for their upcoming survival horror title Dark Route.
-
-Link: https://bloody-disgusting.com/video-games/3975817/check-out-the-new-demo-for-lovecraftian-card-based-survival-game-dark-route-trailer/
-
-### 10. Parents of Students With Disabilities Fear Losing Texas’ “Life-Changing” School Vouchers [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-For about two months, Kelci Jagge tried to send her adopted son to a public school in San Antonio. But Ruslan, who has cerebral palsy and a seizure disorder, could never make it through a single full day of class in East Central ISD.
-
-Link: https://www.the74million.org/article/parents-of-students-with-disabilities-fear-losing-texas-life-changing-school-vouchers/
-
-### 11. Health organization to announce that the U.S. has lost its measles elimination status [8/10]
+### 10. I'm a human doctor with human intelligence. But I sure do like my AI notetaker [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.
+Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.
 
-Link: https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status
+Link: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe
+
+### 11. Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Talking animals, magical games, and childhood trauma... The post Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels appeared first on Reactor .
+
+Link: https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and-squirrels/
 
 ### 12. AI-Powered Copyright Hell [8/10]
 **Source:** 404 Media  
@@ -152,9 +152,27 @@ Link: https://www.kingarthurbaking.com/blog/2026/11/16/convert-bread-dough-into-
 
 ## YouTube
 
-### NASA asks for help marking Voyager 1 reaching 1 light-day from Earth [7/10]
+### OpenAI's New Breakthrough Is... Utter Chaos [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.
+
+Link: https://www.youtube.com/watch?v=gl2U4fGTr6g
+
+### Emotional dysregulation the toughest parts of ADHD is left out of the diagnosis [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.
+
+Link: https://www.youtube.com/watch?v=z9jihuFnpDU
+
+### NASA asks for help marking Voyager 1 reaching 1 light-day from Earth [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The most distant human-made object ever built is set to hit a new milestone this week, and NASA wants you to help mark the occasion. On Wednesday, NASA’s Voyager 1 will reach a distance of one light-day from Earth.

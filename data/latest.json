@@ -1,29 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-17T10:00:39.626135Z",
-  "generatedAtDisplay": "2026-11-17 05:00 AM EST",
+  "generatedAt": "2026-11-17T14:00:01.910730Z",
+  "generatedAtDisplay": "2026-11-17 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Education / pedagogy, Games / criticism. The strongest items in this run are Cop31 live: first draft of agreement under pressure as climate negotiations enter final days, Do school cellphone bans work? New study says yes – but it's complicated, and Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live, China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live, and School phone bans result in ‘modest’ academic gains for students, study shows.",
   "mainItems": [
     {
-      "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
+      "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "published": "2026-11-17T13:42:54+00:00",
+      "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Two departments have confirmed they are investigating computing company…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-      "published": "2026-11-17T09:58:11+00:00",
-      "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Perhaps the cosiest corner of Cop31 is tucked against a wall filled with hopes for the future.",
+      "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "published": "2026-11-17T13:37:23+00:00",
+      "summary": "Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Do school cellphone bans work? New study says yes – but it's complicated",
-      "source": "NPR Education",
+      "title": "School phone bans result in ‘modest’ academic gains for students, study shows",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
+      "published": "2026-11-17T13:22:40+00:00",
+      "summary": "More than 40 US states have passed laws restricting phones at schools with goal of boosting students’ focus and learning A large-scale study published Tuesday found strict cellphone restrictions in US schools – ones that require students…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "published": "2026-11-17T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
+      "published": "2026-11-17T12:30:00+00:00",
+      "summary": "As part of a summit meeting in Manchester yesterday, the IWGB Game Workers union have joined up with other unions spanning the Republic of Ireland's GWUI, Germany's GDRT, Italy's FIOM-CGIL, France's STJV, and Spain's CSVI to publish a…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Fewer Than Half of States Require K-12 Native American Education",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/do-school-cellphone-bans-work-new-study-says-yes-but-its-complicated",
-      "published": "2026-11-17T09:44:46+00:00",
-      "summary": "A new, nationwide study of school cell phone bans found they had a meaningful impact on the achievement of individual students.",
+      "url": "https://www.the74million.org/article/fewer-than-half-of-states-require-k-12-native-american-education/",
+      "published": "2026-11-17T11:30:00+00:00",
+      "summary": "Cammie DuPuis-Pablo had reached her breaking point. For years, her two sons had been bullied at school because of their Native American heritage. They were called girls because of their long, dark braids.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+      "published": "2026-11-17T10:27:30+00:00",
+      "summary": "A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+      "published": "2026-11-17T10:00:00+00:00",
+      "summary": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -37,83 +97,23 @@
       "score": 10
     },
     {
-      "title": "Robert Pattinson is James Bond. So what happens next?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next",
-      "published": "2026-11-17T07:00:08+00:00",
-      "summary": "The wait for the new Bond is over but that’s only the beginning – there are still small issues such as the script, title, setting, casting, branding and promotion … • Robert Pattinson announced as James Bond – news • Share your thoughts on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "published": "2026-11-16T23:04:02+00:00",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
-      "source": "Eurogamer",
-      "category": "Security / computing",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
-      "published": "2026-11-17T09:51:30+00:00",
-      "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred. Read more",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
-      "published": "2026-11-17T09:45:01+00:00",
-      "summary": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "published": "2026-11-16T23:20:44+00:00",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Check Out the New Demo for Lovecraftian Card-Based Survival Game ‘Dark Route’ [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3975817/check-out-the-new-demo-for-lovecraftian-card-based-survival-game-dark-route-trailer/",
-      "published": "2026-11-16T18:30:39+00:00",
-      "summary": "Publisher Samar Studio and developer HuHu Game have given Lovecraftian horror gamers a taste of what’s to come with a demo for their upcoming survival horror title Dark Route.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Parents of Students With Disabilities Fear Losing Texas’ “Life-Changing” School Vouchers",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/parents-of-students-with-disabilities-fear-losing-texas-life-changing-school-vouchers/",
-      "published": "2026-11-16T15:30:00+00:00",
-      "summary": "For about two months, Kelci Jagge tried to send her adopted son to a public school in San Antonio. But Ruslan, who has cerebral palsy and a seizure disorder, could never make it through a single full day of class in East Central ISD.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
-      "published": "2026-11-17T09:46:43+00:00",
-      "summary": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+      "published": "2026-11-17T11:00:00+00:00",
+      "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and-squirrels/",
+      "published": "2026-11-16T16:00:00+00:00",
+      "summary": "Talking animals, magical games, and childhood trauma... The post Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -139,6 +139,28 @@
   ],
   "youtube": [
     {
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "published": "2026-11-17T12:46:24+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Emotional dysregulation the toughest parts of ADHD is left out of the diagnosis",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=z9jihuFnpDU",
+      "published": "2026-11-17T11:30:28+00:00",
+      "summary": "ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "NASA asks for help marking Voyager 1 reaching 1 light-day from Earth",
       "source": "NPR",
       "category": "News / analysis",
@@ -146,8 +168,8 @@
       "published": "2026-11-17T00:30:39+00:00",
       "summary": "The most distant human-made object ever built is set to hit a new milestone this week, and NASA wants you to help mark the occasion. On Wednesday, NASA’s Voyager 1 will reach a distance of one light-day from Earth.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "British actor Robert Pattinson will be the next James Bond",
@@ -703,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 20,
     "trailerCount": 23,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }
