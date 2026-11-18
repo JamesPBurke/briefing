@@ -1,28 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-18T05:00:02.168148Z",
-  "generatedAtDisplay": "2026-11-18 12:00 AM EST",
+  "generatedAt": "2026-11-18T10:00:44.793216Z",
+  "generatedAtDisplay": "2026-11-18 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Science / computing. The strongest items in this run are Not even Sam Altman is safe from AI deepfakes on Instagram, Read everything that Nvidia’s board chair had to say about Jensen Huang, and The MacBook Neo is receiving a rare $50 discount ahead of Black Friday.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Special education teachers shared their stories. You told NPR you felt seen, Government Accountability Office IT director discusses the recent tech outages, and Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West.",
   "mainItems": [
     {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "source": "The Verge",
+      "title": "Special education teachers shared their stories. You told NPR you felt seen",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+      "published": "2026-11-18T10:00:00+00:00",
+      "summary": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Government Accountability Office IT director discusses the recent tech outages",
+      "source": "NPR Tech",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "published": "2026-11-17T23:52:34+00:00",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
+      "published": "2026-11-18T09:42:54+00:00",
+      "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "source": "The Verge",
+      "title": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
+      "published": "2026-11-18T09:13:30+00:00",
+      "summary": "Ben Feder, the former Take-Two CEO who oversaw the launch of massive hits like Grand Theft Auto 4, Red Dead Redemption, Borderlands, and BioShock during his tenure, believes the resistance against gen-AI in games will vanish once the games…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "published": "2026-11-17T22:58:03+00:00",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+      "published": "2026-11-18T06:26:49+00:00",
+      "summary": "The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days US secretary of state Marco Rubio has sought to assure Americans that there’s…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,34 +67,14 @@
       "score": 10
     },
     {
-      "title": "An Educator May Finally Lead Texas Schools. Families Say It’s Overdue",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/texas-next-schools-chief-is-poised-to-be-an-educator-teachers-parents-say-its-past-due/",
-      "published": "2026-11-17T19:30:00+00:00",
-      "summary": "Gov.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
-      "published": "2026-11-17T18:13:20+00:00",
-      "summary": "Civilization and XCOM developer Firaxis Games has laid off around 60 people. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era",
+      "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era",
-      "published": "2026-11-17T14:00:14+00:00",
-      "summary": "Overwrought and boring, this nadir of a prequel to the Games’ death match saga is nothing but a cash grab for an exhausted franchise Here is yet another iteration of the utterly exhausted, unbearably extended and now surreally boring…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+      "published": "2026-11-18T04:25:29+00:00",
+      "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
@@ -107,22 +107,22 @@
       "score": 9
     },
     {
+      "title": "Massive New Study Shows How Young People Feel About AI Companions",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/gallup-study-friendship-ai-companions/",
+      "published": "2026-11-18T05:01:00+00:00",
+      "summary": "Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "U.S. officially loses its measles elimination status",
       "source": "NPR Health",
       "category": "Science / health",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
       "published": "2026-11-17T21:53:30+00:00",
       "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The AI in ‘Musk’ Is Cringe",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/the-ai-in-musk-is-cringe/",
-      "published": "2026-11-17T14:09:37+00:00",
-      "summary": "The sprawling four hour long documentary is weighed down by an AI Elon and pointless video game sequences.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -223,8 +223,8 @@
       "published": "2026-11-17T18:15:10+00:00",
       "summary": "The nominations for the 69th annual Grammy Awards were announced Monday, and women across genres dominated the major categories. This year’s nominees for best new artist ranged from country to rap to indie rock.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Dolores Huerta becomes first woman to lie in honor at California State Capitol",
@@ -278,8 +278,8 @@
       "published": "2026-11-17T17:00:07+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/7PLhEMgXdQs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Xbox FSR 4 vs PS5 QSSR - Will Platform Comparisons Become Interesting Again?",
@@ -333,8 +333,8 @@
       "published": "2026-11-17T21:34:10+00:00",
       "summary": "This week on The Rewind, Jack, Darren, and Marty chat about the news that Robert Pattinson will be playing James Bond, thoughts on Nathan Fielder's You Can See Everything, and whatever else they've been watching.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Gunn’s DCU Was Always Going to End Like This | The Backdrop",
@@ -544,7 +544,7 @@
       "published": "2026-11-17T20:00:00+00:00",
       "summary": "The only way to save the holidays (and his life) is for her to be his fake girlfriend. GUARDING STARS, starring Leighton Meester and Jared Padalecki, debuts November 18! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -555,7 +555,7 @@
       "published": "2026-11-17T19:00:00+00:00",
       "summary": "See how Julia Garner and Anthony Boyle transform into Caroline Ellison and Sam Bankman-Fried, the duo behind an 8 billion dollar scandal. The Altruists drops on Netflix November 19. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -566,7 +566,7 @@
       "published": "2026-11-17T18:00:00+00:00",
       "summary": "A fairytale is nothing without proper villain energy. STEPS PREMIERES THIS FRIDAY! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {

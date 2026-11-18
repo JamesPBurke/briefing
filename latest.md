@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-18T05:00:02.168148Z
+Generated: 2026-11-18T10:00:44.793216Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Science / computing. The strongest items in this run are Not even Sam Altman is safe from AI deepfakes on Instagram, Read everything that Nvidia’s board chair had to say about Jensen Huang, and The MacBook Neo is receiving a rare $50 discount ahead of Black Friday.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Special education teachers shared their stories. You told NPR you felt seen, Government Accountability Office IT director discusses the recent tech outages, and Former GTA 4 and Red Dead boss thinks "we are one Toy Story moment away" from people accepting gen-AI in game development in the West.
 
 ## Briefing
 
@@ -33,25 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Not even Sam Altman is safe from AI deepfakes on Instagram [10/10]
-**Source:** The Verge  
+### 1. Special education teachers shared their stories. You told NPR you felt seen [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.
+
+Link: https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response
+
+### 2. Government Accountability Office IT director discusses the recent tech outages [10/10]
+**Source:** NPR Tech  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.
+NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.
 
-Link: https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake
+Link: https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages
 
-### 2. Read everything that Nvidia’s board chair had to say about Jensen Huang [10/10]
-**Source:** The Verge  
+### 3. Former GTA 4 and Red Dead boss thinks "we are one Toy Story moment away" from people accepting gen-AI in game development in the West [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ben Feder, the former Take-Two CEO who oversaw the launch of massive hits like Grand Theft Auto 4, Red Dead Redemption, Borderlands, and BioShock during his tenure, believes the resistance against gen-AI in games will vanish once the games…
+
+Link: https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story
+
+### 4. ‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones.
+The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days US secretary of state Marco Rubio has sought to assure Americans that there’s…
 
-Link: https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang
+Link: https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio
 
-### 3. The MacBook Neo is receiving a rare $50 discount ahead of Black Friday [10/10]
+### 5. The MacBook Neo is receiving a rare $50 discount ahead of Black Friday [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,7 +78,7 @@ If you’re looking for a new laptop or a gift for the student in your life, you
 
 Link: https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale
 
-### 4. Air travel, Microsoft, banking: Why are our IT systems failing? [10/10]
+### 6. Air travel, Microsoft, banking: Why are our IT systems failing? [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -69,32 +87,14 @@ NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about t
 
 Link: https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing
 
-### 5. An Educator May Finally Lead Texas Schools. Families Say It’s Overdue [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Gov.
-
-Link: https://www.the74million.org/article/texas-next-schools-chief-is-poised-to-be-an-educator-teachers-parents-say-its-past-due/
-
-### 6. Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Civilization and XCOM developer Firaxis Games has laid off around 60 people. Read more
-
-Link: https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen
-
-### 7. The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era [10/10]
+### 7. ‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Overwrought and boring, this nadir of a prequel to the Games’ death match saga is nothing but a cash grab for an exhausted franchise Here is yet another iteration of the utterly exhausted, unbearably extended and now surreally boring…
+Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the…
 
-Link: https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era
+Link: https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis
 
 ### 8. Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing [9/10]
 **Source:** The Verge  
@@ -123,7 +123,16 @@ Link: https://arstechnica.com/security/2026/11/malicious-code-delivered-through-
 
 Link: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/
 
-### 11. U.S. officially loses its measles elimination status [8/10]
+### 11. Massive New Study Shows How Young People Feel About AI Companions [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.
+
+Link: https://www.404media.co/gallup-study-friendship-ai-companions/
+
+### 12. U.S. officially loses its measles elimination status [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/
 The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.
 
 Link: https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status
-
-### 12. The AI in ‘Musk’ Is Cringe [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The sprawling four hour long documentary is weighed down by an AI Elon and pointless video game sequences.
-
-Link: https://www.404media.co/the-ai-in-musk-is-cringe/
 
 ### 13. Read an Excerpt From King of Masks by Petra Lord [7/10]
 **Source:** Reactor  
@@ -215,9 +215,9 @@ Across the U.S.
 
 Link: https://www.youtube.com/watch?v=GhX_t_V63FA
 
-### Ella Langley, Slayyyter, Remi Wolf among Grammy nominees for best new artist [7/10]
+### Ella Langley, Slayyyter, Remi Wolf among Grammy nominees for best new artist [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The nominations for the 69th annual Grammy Awards were announced Monday, and women across genres dominated the major categories. This year’s nominees for best new artist ranged from country to rap to indie rock.
@@ -260,9 +260,9 @@ Link: https://www.youtube.com/watch?v=favw4hznAao
 
 Link: https://www.youtube.com/watch?v=dMXLom6iHSA
 
-### Jensen Huang Quits Nvidia - What Next For PC Gaming? [8/10]
+### Jensen Huang Quits Nvidia - What Next For PC Gaming? [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/7PLhEMgXdQs ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -305,9 +305,9 @@ Link: https://www.youtube.com/watch?v=BfZIlDpMl0I
 
 Link: https://www.youtube.com/watch?v=5OzxM-RSSqs
 
-### Temperature Check on Robert Pattinson as James Bond | The Rewind Podcast [7/10]
+### Temperature Check on Robert Pattinson as James Bond | The Rewind Podcast [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on The Rewind, Jack, Darren, and Marty chat about the news that Robert Pattinson will be playing James Bond, thoughts on Nathan Fielder's You Can See Everything, and whatever else they've been watching.
@@ -505,7 +505,7 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
-### GUARDING STARS debuts in 12 HOURS!!! [10/10]
+### GUARDING STARS debuts in 12 HOURS!!! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -514,7 +514,7 @@ The only way to save the holidays (and his life) is for her to be his fake girlf
 
 Link: https://www.youtube.com/watch?v=gMb_i2QzeE4
 
-### Becoming Sam and Caroline #TheAltruistsNetflix [10/10]
+### Becoming Sam and Caroline #TheAltruistsNetflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -523,7 +523,7 @@ See how Julia Garner and Anthony Boyle transform into Caroline Ellison and Sam B
 
 Link: https://www.youtube.com/watch?v=zyJrnIfizqk
 
-### Priscilla Can't Stand Cinderella #StepsNetflix [10/10]
+### Priscilla Can't Stand Cinderella #StepsNetflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
