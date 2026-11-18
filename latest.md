@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-18T10:00:44.793216Z
+Generated: 2026-11-18T14:00:01.815136Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Special education teachers shared their stories. You told NPR you felt seen, Government Accountability Office IT director discusses the recent tech outages, and Former GTA 4 and Red Dead boss thinks "we are one Toy Story moment away" from people accepting gen-AI in game development in the West.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are SteamDB will add "affiliate links to authorised game retailers" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms, Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain, and This Muslim civil rights group defended pro-Palestine protesters. Then Florida labeled it a terrorist organization.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Special education teachers shared their stories. You told NPR you felt seen [10/10]
+### 1. SteamDB will add "affiliate links to authorised game retailers" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In a first substantial update since acquiring SteamDB from its founders back in September, the owners of Nexus Mods have outlined some new additions coming to , the two sides in the deal have announced some additions coming to the…
+
+Link: https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms
+
+### 2. Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Goat Simulator and Satisfactory outfit Coffee Stain Group have bought the intellectual property rights and assets for Chronicles: Medieval, the Tom Hardy-garnished strategy RPG that was originally in development at now-bankrupt Raw Power…
+
+Link: https://www.rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain
+
+### 3. This Muslim civil rights group defended pro-Palestine protesters. Then Florida labeled it a terrorist organization [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Cair-Florida is suing state officials after designation meant it had to shut its doors to victims of harassment and discrimination Omar Soboh, a student at the University of Florida, was organizing a campus panel about Islamophobia when he…
+
+Link: https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights
+
+### 4. Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are "obsessed" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit's roguelike deckbuilder, is estimated to have sold 7.9m copies since its release in Steam Early Access in March. Read more
+
+Link: https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates
+
+### 5. Why Jensen Huang’s Downfall Is No Victory for Progressives [10/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Tobita Chow The big winners are anti-China hawks in the national security establishment and OpenAI and Anthropic. The post Why Jensen Huang’s Downfall Is No Victory for Progressives appeared first on The Nation .
+
+Link: https://www.thenation.com/article/politics/jensen-huang-nvidia-us-china-ai-chip-war/
+
+### 6. Special education teachers shared their stories. You told NPR you felt seen [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -42,43 +87,7 @@ NPR is following along as about a dozen special education teachers navigate this
 
 Link: https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response
 
-### 2. Government Accountability Office IT director discusses the recent tech outages [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.
-
-Link: https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages
-
-### 3. Former GTA 4 and Red Dead boss thinks "we are one Toy Story moment away" from people accepting gen-AI in game development in the West [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Ben Feder, the former Take-Two CEO who oversaw the launch of massive hits like Grand Theft Auto 4, Red Dead Redemption, Borderlands, and BioShock during his tenure, believes the resistance against gen-AI in games will vanish once the games…
-
-Link: https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story
-
-### 4. ‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days US secretary of state Marco Rubio has sought to assure Americans that there’s…
-
-Link: https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio
-
-### 5. The MacBook Neo is receiving a rare $50 discount ahead of Black Friday [10/10]
-**Source:** The Verge  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors.
-
-Link: https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale
-
-### 6. Air travel, Microsoft, banking: Why are our IT systems failing? [10/10]
+### 7. Air travel, Microsoft, banking: Why are our IT systems failing? [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -87,25 +96,25 @@ NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about t
 
 Link: https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing
 
-### 7. ‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the…
-
-Link: https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis
-
-### 8. Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing [9/10]
+### 8. Grand Theft Auto VI has arrived [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.
+More than a decade after Grand Theft Auto V was first released, its sequel is finally launching.
 
-Link: https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang
+Link: https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news
 
-### 9. Hundreds of websites deliver potent malware cocktail to unsuspecting visitors [9/10]
+### 9. Republicans could expedite bill to make big oil immune to lawsuits, warn experts [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and…
+
+Link: https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate
+
+### 10. Hundreds of websites deliver potent malware cocktail to unsuspecting visitors [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -114,16 +123,16 @@ Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among 
 
 Link: https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/
 
-### 10. A Man and His Muse AI Agent Sue Meta [9/10]
-**Source:** 404 Media  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 11. The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-"Meta shut my accounts down because they detected my AI. She jumped right up and set up emails to Congressmen, Senator Tim Scott. She filed the whole lawsuit herself."
+After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.
 
-Link: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/
+Link: https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe
 
-### 11. Massive New Study Shows How Young People Feel About AI Companions [8/10]
+### 12. Massive New Study Shows How Young People Feel About AI Companions [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/
 Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.
 
 Link: https://www.404media.co/gallup-study-friendship-ai-companions/
-
-### 12. U.S. officially loses its measles elimination status [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.
-
-Link: https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status
 
 ### 13. Read an Excerpt From King of Masks by Petra Lord [7/10]
 **Source:** Reactor  
@@ -161,9 +161,9 @@ Link: https://reactormag.com/excerpts-king-of-masks-by-petra-lord/
 
 Link: https://www.youtube.com/watch?v=gl2U4fGTr6g
 
-### Is It Possible For Iron Man's Arc Reactor To Exist? [8/10]
+### Is It Possible For Iron Man's Arc Reactor To Exist? [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Nuclear engineer and physicist Annie Kritcher joins WIRED to answer the internet’s burning questions about nuclear physics.
@@ -179,36 +179,54 @@ Nuclear engineer and physicist Annie Kritcher joins WIRED to answer the internet
 
 Link: https://www.youtube.com/watch?v=AUZOZNMPhk0
 
-### Paris Hilton on combating non-consensual sexually explicit deepfakes [7/10]
+### John Malkovich on his new movie, 'Wild Horse Nine' [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+John Malkovich has spent decades on stage and screen, usually portraying characters who are morally compromised. His character, Chris Carlisle, in the new movie “Wild Horse Nine,” is no different.
+
+Link: https://www.youtube.com/watch?v=Ux0WzF5Jdg8
+
+### Designer Karl Kani on the inspiration behind his iconic last name [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In the 1990s, designer Karl Kani exploded into the fashion scene as one of the forefathers of streetwear. His clothes were worn by artists ranging from Tupac to Aaliyah and The Notorious B.I.G. Kani was raised in Brooklyn and self-taught.
+
+Link: https://www.youtube.com/watch?v=FV8o1BU-iis
+
+### Paris Hilton on combating non-consensual sexually explicit deepfakes [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 When Paris Hilton was 19, her ex-boyfriend shared an intimate video of her without her consent.
 
 Link: https://www.youtube.com/watch?v=y9BxFC6XqB8
 
-### Rachel Maddow on what to do now that the Justice Department has been 'decimated' [9/10]
+### Rachel Maddow on what to do now that the Justice Department has been 'decimated' [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In a new book, “Department of Fate,” Rachel Maddow details the Department of Justice’s history and argues that the department is on the brink of collapse, presenting an opportunity to reimagine its checks and balances.
 
 Link: https://www.youtube.com/watch?v=7ykoPLmdgL8
 
-### Why Sacha Baron Cohen made his new movie, 'Ali G: Who Iz I?' [7/10]
+### Why Sacha Baron Cohen made his new movie, 'Ali G: Who Iz I?' [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Sacha Baron Cohen revived his controversial character, Ali G, in the new movie “Ali G: Who Iz I?” Listen to the full conversation at NPR.org: Sacha Baron Cohen's Ali G returns to the big screen in 'Ali G: Who Iz I?' (https://www.npr.
 
 Link: https://www.youtube.com/watch?v=HVee9-aslRM
 
-### U.S. data centers are driving as much pollution as the country of Denmark, report says [8/10]
+### U.S. data centers are driving as much pollution as the country of Denmark, report says [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Across the U.S.
@@ -232,24 +250,6 @@ Link: https://www.youtube.com/watch?v=ZGnPK832eQo
 The late civil rights and labor leader Dolores Huerta became the first woman — and first non-elected person — to lie in honor at the California State Capitol this week.
 
 Link: https://www.youtube.com/watch?v=6izFOvShws8
-
-### Emotional dysregulation the toughest parts of ADHD is left out of the diagnosis [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.
-
-Link: https://www.youtube.com/watch?v=z9jihuFnpDU
-
-### NASA asks for help marking Voyager 1 reaching 1 light-day from Earth [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-The most distant human-made object ever built is set to hit a new milestone this week, and NASA wants you to help mark the occasion. On Wednesday, NASA’s Voyager 1 will reach a distance of one light-day from Earth.
-
-Link: https://www.youtube.com/watch?v=favw4hznAao
 
 ### GTA 6 Confirmed At 30FPS On All Systems + PS5 Pro Features Revealed [7/10]
 **Creator:** Digital Foundry  
@@ -424,15 +424,6 @@ Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin 
 
 Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
 
-### JUMANJI: OPEN WORLD - New Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
-
-Link: https://www.youtube.com/watch?v=nIw1O3zvOfE
-
 ### The Debut | Official Trailer 2 HD | A24 [7/10]
 **Source:** A24  
 **Verdict:** Worth a glance  
@@ -504,6 +495,42 @@ Link: https://www.youtube.com/watch?v=yGILDBbzoe0
 Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=eEEh1EPD1ro
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=0aecVqwHOLs
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2jrLoIKydyk
+
+### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 25 NOVEMBER. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=phLXSizEvH8
 
 ### GUARDING STARS debuts in 12 HOURS!!! [9/10]
 **Source:** Netflix  
@@ -594,21 +621,3 @@ Link: https://www.youtube.com/watch?v=BJ2rq4gu_dI
 Based on the incredible true story of Lenore Lindsey, Give Me Some Sugah follows a Chicago bakery owner who is stunned by an incredible discovery that inspires her to reclaim lost time, heal old wounds, and find purpose in life’s…
 
 Link: https://www.youtube.com/watch?v=tLdpJLVaVRQ
-
-### 14th | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-From filmmaker Ava DuVernay, the Academy Award-nominated director of 13th, comes 14th, a powerful and timely new documentary that exposes a hidden layer of American culture operating in plain sight.
-
-Link: https://www.youtube.com/watch?v=xO92LnyDxQg
-
-### The Palace of Secrets | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Madrid, 18th century. Julia Ponce, the daughter of the court painter, arrives at the royal palace and is dazzled by its splendor. There she meets Gonzalo, the crown prince, who has returned to Spain at the king’s command to get married.
-
-Link: https://www.youtube.com/watch?v=m9RuywPHFCw

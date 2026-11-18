@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-18T10:00:44.793216Z",
-  "generatedAtDisplay": "2026-11-18 05:00 AM EST",
+  "generatedAt": "2026-11-18T14:00:01.815136Z",
+  "generatedAtDisplay": "2026-11-18 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Special education teachers shared their stories. You told NPR you felt seen, Government Accountability Office IT director discusses the recent tech outages, and Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms, Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain, and This Muslim civil rights group defended pro-Palestine protesters. Then Florida labeled it a terrorist organization.",
   "mainItems": [
+    {
+      "title": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms",
+      "published": "2026-11-18T13:25:50+00:00",
+      "summary": "In a first substantial update since acquiring SteamDB from its founders back in September, the owners of Nexus Mods have outlined some new additions coming to , the two sides in the deal have announced some additions coming to the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain",
+      "published": "2026-11-18T12:53:00+00:00",
+      "summary": "Goat Simulator and Satisfactory outfit Coffee Stain Group have bought the intellectual property rights and assets for Chronicles: Medieval, the Tom Hardy-garnished strategy RPG that was originally in development at now-bankrupt Raw Power…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "This Muslim civil rights group defended pro-Palestine protesters. Then Florida labeled it a terrorist organization",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights",
+      "published": "2026-11-18T12:00:59+00:00",
+      "summary": "Cair-Florida is suing state officials after designation meant it had to shut its doors to victims of harassment and discrimination Omar Soboh, a student at the University of Florida, was organizing a campus panel about Islamophobia when he…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\"",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
+      "published": "2026-11-18T11:33:00+00:00",
+      "summary": "One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit's roguelike deckbuilder, is estimated to have sold 7.9m copies since its release in Steam Early Access in March. Read more",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 10
+    },
+    {
+      "title": "Why Jensen Huang’s Downfall Is No Victory for Progressives",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/politics/jensen-huang-nvidia-us-china-ai-chip-war/",
+      "published": "2026-11-18T10:00:00+00:00",
+      "summary": "Tobita Chow The big winners are anti-China hawks in the national security establishment and OpenAI and Anthropic. The post Why Jensen Huang’s Downfall Is No Victory for Progressives appeared first on The Nation .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Special education teachers shared their stories. You told NPR you felt seen",
       "source": "NPR Education",
@@ -14,46 +64,6 @@
       "published": "2026-11-18T10:00:00+00:00",
       "summary": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Government Accountability Office IT director discusses the recent tech outages",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
-      "published": "2026-11-18T09:42:54+00:00",
-      "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
-      "published": "2026-11-18T09:13:30+00:00",
-      "summary": "Ben Feder, the former Take-Two CEO who oversaw the launch of massive hits like Grand Theft Auto 4, Red Dead Redemption, Borderlands, and BioShock during his tenure, believes the resistance against gen-AI in games will vanish once the games…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "published": "2026-11-18T06:26:49+00:00",
-      "summary": "The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days US secretary of state Marco Rubio has sought to assure Americans that there’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "source": "The Verge",
-      "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "published": "2026-11-17T22:16:15+00:00",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -67,23 +77,23 @@
       "score": 10
     },
     {
-      "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-      "published": "2026-11-18T04:25:29+00:00",
-      "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Grand Theft Auto VI has arrived",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "published": "2026-11-18T13:27:13+00:00",
+      "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "published": "2026-11-17T22:50:29+00:00",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+      "published": "2026-11-18T13:00:04+00:00",
+      "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -97,14 +107,14 @@
       "score": 9
     },
     {
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "source": "404 Media",
-      "category": "AI / privacy",
-      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "published": "2026-11-17T19:41:33+00:00",
-      "summary": "\"Meta shut my accounts down because they detected my AI. She jumped right up and set up emails to Congressmen, Senator Tim Scott. She filed the whole lawsuit herself.\"",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+      "published": "2026-11-18T13:03:38+00:00",
+      "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Massive New Study Shows How Young People Feel About AI Companions",
@@ -113,16 +123,6 @@
       "url": "https://www.404media.co/gallup-study-friendship-ai-companions/",
       "published": "2026-11-18T05:01:00+00:00",
       "summary": "Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "U.S. officially loses its measles elimination status",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
-      "published": "2026-11-17T21:53:30+00:00",
-      "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -157,8 +157,8 @@
       "published": "2026-11-17T22:10:02+00:00",
       "summary": "Nuclear engineer and physicist Annie Kritcher joins WIRED to answer the internet’s burning questions about nuclear physics.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Nuclear Scientist Answers Nuclear Physics Questions",
@@ -172,6 +172,28 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "John Malkovich on his new movie, 'Wild Horse Nine'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Ux0WzF5Jdg8",
+      "published": "2026-11-18T12:30:22+00:00",
+      "summary": "John Malkovich has spent decades on stage and screen, usually portraying characters who are morally compromised. His character, Chris Carlisle, in the new movie “Wild Horse Nine,” is no different.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Designer Karl Kani on the inspiration behind his iconic last name",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FV8o1BU-iis",
+      "published": "2026-11-18T10:30:21+00:00",
+      "summary": "In the 1990s, designer Karl Kani exploded into the fashion scene as one of the forefathers of streetwear. His clothes were worn by artists ranging from Tupac to Aaliyah and The Notorious B.I.G. Kani was raised in Brooklyn and self-taught.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Paris Hilton on combating non-consensual sexually explicit deepfakes",
       "source": "NPR",
       "category": "News / analysis",
@@ -179,8 +201,8 @@
       "published": "2026-11-18T00:30:16+00:00",
       "summary": "When Paris Hilton was 19, her ex-boyfriend shared an intimate video of her without her consent.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Rachel Maddow on what to do now that the Justice Department has been 'decimated'",
@@ -190,8 +212,8 @@
       "published": "2026-11-17T23:19:51+00:00",
       "summary": "In a new book, “Department of Fate,” Rachel Maddow details the Department of Justice’s history and argues that the department is on the brink of collapse, presenting an opportunity to reimagine its checks and balances.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Why Sacha Baron Cohen made his new movie, 'Ali G: Who Iz I?'",
@@ -201,8 +223,8 @@
       "published": "2026-11-17T22:38:31+00:00",
       "summary": "Sacha Baron Cohen revived his controversial character, Ali G, in the new movie “Ali G: Who Iz I?” Listen to the full conversation at NPR.org: Sacha Baron Cohen's Ali G returns to the big screen in 'Ali G: Who Iz I?' (https://www.npr.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "U.S. data centers are driving as much pollution as the country of Denmark, report says",
@@ -212,8 +234,8 @@
       "published": "2026-11-17T22:30:34+00:00",
       "summary": "Across the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Ella Langley, Slayyyter, Remi Wolf among Grammy nominees for best new artist",
@@ -233,28 +255,6 @@
       "url": "https://www.youtube.com/watch?v=6izFOvShws8",
       "published": "2026-11-17T16:00:24+00:00",
       "summary": "The late civil rights and labor leader Dolores Huerta became the first woman — and first non-elected person — to lie in honor at the California State Capitol this week.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Emotional dysregulation the toughest parts of ADHD is left out of the diagnosis",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=z9jihuFnpDU",
-      "published": "2026-11-17T11:30:28+00:00",
-      "summary": "ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "NASA asks for help marking Voyager 1 reaching 1 light-day from Earth",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=favw4hznAao",
-      "published": "2026-11-17T00:30:39+00:00",
-      "summary": "The most distant human-made object ever built is set to hit a new milestone this week, and NASA wants you to help mark the occasion. On Wednesday, NASA’s Voyager 1 will reach a distance of one light-day from Earth.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -438,17 +438,6 @@
       "verdict": "Optional"
     },
     {
-      "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-      "published": "2026-10-28T13:00:39+00:00",
-      "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "The Debut | Official Trailer 2 HD | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -535,6 +524,50 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 7,
       "verdict": "Worth a glance"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=eEEh1EPD1ro",
+      "published": "2026-11-18T13:00:01+00:00",
+      "summary": "CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0aecVqwHOLs",
+      "published": "2026-11-18T13:00:00+00:00",
+      "summary": "CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2jrLoIKydyk",
+      "published": "2026-11-18T13:00:00+00:00",
+      "summary": "CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=phLXSizEvH8",
+      "published": "2026-11-18T13:00:00+00:00",
+      "summary": "CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 25 NOVEMBER. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
     },
     {
       "title": "GUARDING STARS debuts in 12 HOURS!!!",
@@ -642,28 +675,6 @@
       "url": "https://www.youtube.com/watch?v=tLdpJLVaVRQ",
       "published": "2026-11-16T16:00:01+00:00",
       "summary": "Based on the incredible true story of Lenore Lindsey, Give Me Some Sugah follows a Chicago bakery owner who is stunned by an incredible discovery that inspires her to reclaim lost time, heal old wounds, and find purpose in life’s…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "14th | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=xO92LnyDxQg",
-      "published": "2026-11-16T14:30:00+00:00",
-      "summary": "From filmmaker Ava DuVernay, the Academy Award-nominated director of 13th, comes 14th, a powerful and timely new documentary that exposes a hidden layer of American culture operating in plain sight.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Palace of Secrets | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=m9RuywPHFCw",
-      "published": "2026-11-16T10:00:00+00:00",
-      "summary": "Madrid, 18th century. Julia Ponce, the daughter of the court painter, arrives at the royal palace and is dazzled by its splendor. There she meets Gonzalo, the crown prince, who has returned to Spain at the king’s command to get married.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -781,7 +792,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 24,
-    "sourceCount": 21
+    "trailerCount": 25,
+    "sourceCount": 23
   }
 }
