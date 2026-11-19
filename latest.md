@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-19T05:00:02.178237Z
+Generated: 2026-11-19T10:01:44.257211Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, Windows Server 2028 trades compatibility for out-of-the-box security, and NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?, ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, and Windows Server 2028 trades compatibility for out-of-the-box security.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece [10/10]
+### 1. Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The more you gaze at ​these 10 surviving works, ​with their cryptic inscriptions and even fool’s gold, the more the Flemish master trips you up​ – but being laughed at like this is all part of the glorious pleasure Van Eyck: The Portraits…
+
+Link: https://www.theguardian.com/artanddesign/2026/nov/19/jan-van-eyck-portraits-national-gallery-frames-inscriptions
+
+### 2. ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Good things clearly come to those who wait.
+Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Tell us: are you playing Grand Theft Auto VI? Good things clearly come to those who wait.
 
 Link: https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece
 
-### 2. Windows Server 2028 trades compatibility for out-of-the-box security [10/10]
+### 3. Windows Server 2028 trades compatibility for out-of-the-box security [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,23 +60,14 @@ Hardened defaults align with DoD standards, but there may be growing pains.
 
 Link: https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/
 
-### 3. NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 4. Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-New York City’s public schools lost about 23,000 students, or nearly 3%, from the year before, according to preliminary numbers the Education Department released Monday.
+The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time.
 
-Link: https://www.the74million.org/article/nyc-public-school-enrollment-drops-raising-questions-over-budgets-and-closures/
-
-### 4. Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Chataigniers en fleurs (Chestnut Trees in Blossom), which was painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist A Vincent van Gogh masterpiece sold for a record-breaking $190.4m (£144.
-
-Link: https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million
+Link: https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog
 
 ### 5. Tech lawsuits defined 2026 — and lawmakers want more [9/10]
 **Source:** The Verge  
@@ -78,14 +78,14 @@ With just a few weeks remaining, lawmakers are trying to pass new protections fo
 
 Link: https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act
 
-### 6. GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 6. NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story. Read more
+New York City’s public schools lost about 23,000 students, or nearly 3%, from the year before, according to preliminary numbers the Education Department released Monday.
 
-Link: https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story
+Link: https://www.the74million.org/article/nyc-public-school-enrollment-drops-raising-questions-over-budgets-and-closures/
 
 ### 7. Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are "obsessed" [9/10]
 **Source:** Eurogamer  
@@ -96,25 +96,7 @@ One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit
 
 Link: https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates
 
-### 8. OpenAI announces new AI safety program; researchers worry it won't be enough [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-OpenAI CEO Sam Altman said he would grant "employee level" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.
-
-Link: https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics
-
-### 9. Special education teachers shared their stories. You told NPR you felt seen [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.
-
-Link: https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response
-
-### 10. After Nepal's epic flood, they're restoring their community ... and their lives [8/10]
+### 8. After Nepal's epic flood, they're restoring their community ... and their lives [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +105,16 @@ As the emergency response to the flood ends, aid workers turn to the hard work o
 
 Link: https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change
 
-### 11. The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come” [8/10]
+### 9. A Deep Dive Into Alabama’s Reading Gains [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Updated November 18, 2026 In recent years, four southern states appear to be leading the way in reading growth: Mississippi, Louisiana, Tennessee and Alabama.
+
+Link: https://www.the74million.org/article/a-deep-dive-into-alabamas-reading-gains/
+
+### 10. The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come” [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,16 +123,16 @@ A terrifying presence commands children around the world to stand in the corner 
 
 Link: https://reactormag.com/reading-the-weird-brian-hodges-one-possible-shape-of-things-to-come/
 
-### 12. Massive New Study Shows How Young People Feel About AI Companions [8/10]
+### 11. Broken World [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.
+Toward a theory of why everything is breaking.
 
-Link: https://www.404media.co/gallup-study-friendship-ai-companions/
+Link: https://www.404media.co/broken-world/
 
-### 13. The two-second step to caramelize your pie crust : Just add sugar. [7/10]
+### 12. The two-second step to caramelize your pie crust : Just add sugar. [7/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -150,7 +141,25 @@ Most pie recipes will instruct you to sprinkle sparkling sugar or turbinado suga
 
 Link: https://www.kingarthurbaking.com/blog/2026/11/18/how-to-caramelize-pie-crust
 
+### 13. Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.
+
+Link: https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece
+
 ## YouTube
+
+### DeepMind’s New AI Is A Gift To Humanity [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome 2paper is available here: https://deepmind.
+
+Link: https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
 
 ### OpenAI's New Breakthrough Is... Utter Chaos [8/10]
 **Creator:** Two Minute Papers  
@@ -179,27 +188,27 @@ Nuclear engineer and physicist Annie Kritcher joins WIRED to answer the internet
 
 Link: https://www.youtube.com/watch?v=AUZOZNMPhk0
 
-### Powerful waves batter California coast as El Niño raises fears of flooding [8/10]
+### Powerful waves batter California coast as El Niño raises fears of flooding [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Fueled by a strong El Niño, massive waves reaching nearly 30 feet high have pounded the California coast over the past week — and more of these monster waves are to come.
 
 Link: https://www.youtube.com/watch?v=mxauKWBgh1U
 
-### Why Paris Hilton is using her platform to push Congress to pass the DEFIANCE Act [8/10]
+### Why Paris Hilton is using her platform to push Congress to pass the DEFIANCE Act [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Paris Hilton visited Washington to push for the passage of the DEFIANCE Act, which aims to offer legal recourse for people whose images get used in sexually explicit deepfake content.
 
 Link: https://www.youtube.com/watch?v=yGFwboP78yU
 
-### Designer Karl Kani on the biggest fashion mistakes men make as they age [7/10]
+### Designer Karl Kani on the biggest fashion mistakes men make as they age [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 In the 1990s, designer Karl Kani exploded into the fashion scene as one of the forefathers of streetwear. He spoke with NPR’s A Martínez about his new memoir “Karl Kani: A Life By Design” and provided some style tips for older men.
@@ -469,7 +478,7 @@ In secret conversations on the rooftops of Tel Aviv at night, the systems behind
 
 Link: https://www.youtube.com/watch?v=FquMSRj9z8s
 
-### Red Snow | Official Trailer | Shudder [10/10]
+### Red Snow | Official Trailer | Shudder [9/10]
 **Source:** Shudder  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -532,7 +541,7 @@ After leaving behind a dark past, Parni (Sha Ine Febriyanti) must once again fac
 
 Link: https://www.youtube.com/watch?v=sp3iPAOs0UQ
 
-### She kisses the wrong hot brother. IN A HOLIDAZE is yours in 2 weeks! #InaHolidaze [10/10]
+### She kisses the wrong hot brother. IN A HOLIDAZE is yours in 2 weeks! #InaHolidaze [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -541,7 +550,7 @@ She kisses the wrong hot brother, and then gets caught in a Christmas time loop 
 
 Link: https://www.youtube.com/watch?v=oe8kPuRt4ss
 
-### Collect & Praise | Official Trailer | Netflix [10/10]
+### Collect & Praise | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

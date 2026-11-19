@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-19T05:00:02.178237Z",
-  "generatedAtDisplay": "2026-11-19 12:00 AM EST",
+  "generatedAt": "2026-11-19T10:01:44.257211Z",
+  "generatedAtDisplay": "2026-11-19 05:01 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, Windows Server 2028 trades compatibility for out-of-the-box security, and NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?, ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, and Windows Server 2028 trades compatibility for out-of-the-box security.",
   "mainItems": [
+    {
+      "title": "Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/19/jan-van-eyck-portraits-national-gallery-frames-inscriptions",
+      "published": "2026-11-19T05:00:19+00:00",
+      "summary": "The more you gaze at ​these 10 surviving works, ​with their cryptic inscriptions and even fool’s gold, the more the Flemish master trips you up​ – but being laughed at like this is all part of the glorious pleasure Van Eyck: The Portraits…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
       "published": "2026-11-19T04:00:16+00:00",
-      "summary": "Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Good things clearly come to those who wait.",
+      "summary": "Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Tell us: are you playing Grand Theft Auto VI? Good things clearly come to those who wait.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,23 +37,13 @@
       "score": 10
     },
     {
-      "title": "NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/nyc-public-school-enrollment-drops-raising-questions-over-budgets-and-closures/",
-      "published": "2026-11-18T17:30:00+00:00",
-      "summary": "New York City’s public schools lost about 23,000 students, or nearly 3%, from the year before, according to preliminary numbers the Education Department released Monday.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million",
-      "published": "2026-11-19T02:35:05+00:00",
-      "summary": "Chataigniers en fleurs (Chestnut Trees in Blossom), which was painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist A Vincent van Gogh masterpiece sold for a record-breaking $190.4m (£144.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
+      "published": "2026-11-19T09:05:00+00:00",
+      "summary": "The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -57,13 +57,13 @@
       "score": 9
     },
     {
-      "title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
-      "published": "2026-11-18T18:42:20+00:00",
-      "summary": "Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/nyc-public-school-enrollment-drops-raising-questions-over-budgets-and-closures/",
+      "published": "2026-11-18T17:30:00+00:00",
+      "summary": "New York City’s public schools lost about 23,000 students, or nearly 3%, from the year before, according to preliminary numbers the Education Department released Monday.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -77,26 +77,6 @@
       "score": 9
     },
     {
-      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
-      "published": "2026-11-18T10:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Special education teachers shared their stories. You told NPR you felt seen",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
-      "published": "2026-11-18T10:00:00+00:00",
-      "summary": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
       "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
       "source": "NPR Health",
       "category": "Science / health",
@@ -107,6 +87,16 @@
       "score": 8
     },
     {
+      "title": "A Deep Dive Into Alabama’s Reading Gains",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/a-deep-dive-into-alabamas-reading-gains/",
+      "published": "2026-11-18T19:30:00+00:00",
+      "summary": "Updated November 18, 2026 In recent years, four southern states appear to be leading the way in reading growth: Mississippi, Louisiana, Tennessee and Alabama.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
+    },
+    {
       "title": "The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come”",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -114,17 +104,17 @@
       "published": "2026-11-18T18:00:00+00:00",
       "summary": "A terrifying presence commands children around the world to stand in the corner and await punishment… The post The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come” appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "Massive New Study Shows How Young People Feel About AI Companions",
+      "title": "Broken World",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/gallup-study-friendship-ai-companions/",
-      "published": "2026-11-18T05:01:00+00:00",
-      "summary": "Gallup’s new survey studied the complex relationships people have online, in-person, and with AI.",
+      "url": "https://www.404media.co/broken-world/",
+      "published": "2026-11-18T15:50:43+00:00",
+      "summary": "Toward a theory of why everything is breaking.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "The two-second step to caramelize your pie crust : Just add sugar.",
@@ -135,9 +125,30 @@
       "summary": "Most pie recipes will instruct you to sprinkle sparkling sugar or turbinado sugar on top of your egg-washed pie crust just before baking, so the coarse sugar can make those edges extra-crunchy and add a bit of glittery sheen.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
+    },
+    {
+      "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+      "published": "2026-11-18T11:00:00+00:00",
+      "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind’s New AI Is A Gift To Humanity",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+      "published": "2026-11-19T09:26:19+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome 2paper is available here: https://deepmind.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "OpenAI's New Breakthrough Is... Utter Chaos",
       "source": "Two Minute Papers",
@@ -179,8 +190,8 @@
       "published": "2026-11-18T21:35:24+00:00",
       "summary": "Fueled by a strong El Niño, massive waves reaching nearly 30 feet high have pounded the California coast over the past week — and more of these monster waves are to come.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Why Paris Hilton is using her platform to push Congress to pass the DEFIANCE Act",
@@ -190,8 +201,8 @@
       "published": "2026-11-18T20:15:09+00:00",
       "summary": "Paris Hilton visited Washington to push for the passage of the DEFIANCE Act, which aims to offer legal recourse for people whose images get used in sexually explicit deepfake content.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Designer Karl Kani on the biggest fashion mistakes men make as they age",
@@ -201,8 +212,8 @@
       "published": "2026-11-18T19:00:26+00:00",
       "summary": "In the 1990s, designer Karl Kani exploded into the fashion scene as one of the forefathers of streetwear. He spoke with NPR’s A Martínez about his new memoir “Karl Kani: A Life By Design” and provided some style tips for older men.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The wait is over for fans of the video game \"Grand Theft Auto\"",
@@ -500,7 +511,7 @@
       "published": "2026-11-18T17:28:46+00:00",
       "summary": "A 16-year-old emo teen's vampire fantasies take a bloody turn when she encounters Martti, a beer-bellied, balding bloodsucker who dons a Santa suit to terrorize unsuspecting families. RED SNOW premieres December 11 on Shudder.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -577,7 +588,7 @@
       "published": "2026-11-18T22:00:00+00:00",
       "summary": "She kisses the wrong hot brother, and then gets caught in a Christmas time loop to make it right. IN A HOLIDAZE is yours in 2 weeks! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -588,7 +599,7 @@
       "published": "2026-11-18T18:30:00+00:00",
       "summary": "Druski and Mike Epps play a money-hungry megachurch pastor and his unpredictable deacon in Collect & Praise, a brand new series premiering Dec 1. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -835,8 +846,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 27,
     "trailerCount": 27,
-    "sourceCount": 24
+    "sourceCount": 23
   }
 }
