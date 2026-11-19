@@ -1,59 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-19T10:01:44.257211Z",
-  "generatedAtDisplay": "2026-11-19 05:01 AM EST",
+  "generatedAt": "2026-11-19T14:00:01.825849Z",
+  "generatedAtDisplay": "2026-11-19 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?, ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, and Windows Server 2028 trades compatibility for out-of-the-box security.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Canva adds an AI ‘off’ button, GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release, and Jeff Buckley was a 90s indie darling. Now gen Z think he’s the ‘yearner final boss’.",
   "mainItems": [
     {
-      "title": "Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/19/jan-van-eyck-portraits-national-gallery-frames-inscriptions",
-      "published": "2026-11-19T05:00:19+00:00",
-      "summary": "The more you gaze at ​these 10 surviving works, ​with their cryptic inscriptions and even fool’s gold, the more the Flemish master trips you up​ – but being laughed at like this is all part of the glorious pleasure Van Eyck: The Portraits…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
-      "published": "2026-11-19T04:00:16+00:00",
-      "summary": "Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Tell us: are you playing Grand Theft Auto VI? Good things clearly come to those who wait.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-      "source": "Ars Technica",
+      "title": "Canva adds an AI ‘off’ button",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "published": "2026-11-18T20:41:12+00:00",
-      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "published": "2026-11-19T13:08:05+00:00",
+      "summary": "Canva will now allow you to turn off its generative AI features.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
+      "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
-      "published": "2026-11-19T09:05:00+00:00",
-      "summary": "The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time.",
+      "url": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
+      "published": "2026-11-19T13:03:30+00:00",
+      "summary": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "published": "2026-11-18T19:07:29+00:00",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Jeff Buckley was a 90s indie darling. Now gen Z think he’s the ‘yearner final boss’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/nov/19/jeff-buckley-gen-z-nostalgia",
+      "published": "2026-11-19T13:00:49+00:00",
+      "summary": "With his unguarded lyricism and earnest delivery, the late singer-songwriter is having a moment among a generation that fetishizes unrequited desire Sydney Tripoli has collected Jeff Buckley memorabilia since 2019.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+      "published": "2026-11-19T12:39:20+00:00",
+      "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "GTA 6 developers at Rockstar are worried about being laid off after shipping \"the biggest game of all time\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
+      "published": "2026-11-19T12:16:00+00:00",
+      "summary": "Rockstar has successfully shipped Grand Theft Auto 6 , after years of work and more than a billion dollars spent.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+      "published": "2026-11-19T10:00:25+00:00",
+      "summary": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "published": "2026-11-19T10:00:00+00:00",
+      "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -67,14 +87,14 @@
       "score": 9
     },
     {
-      "title": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\"",
-      "source": "Eurogamer",
-      "category": "Games / design",
-      "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
-      "published": "2026-11-18T11:33:00+00:00",
-      "summary": "One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit's roguelike deckbuilder, is estimated to have sold 7.9m copies since its release in Steam Early Access in March. Read more",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 9
+      "title": "Opinion: The Trouble with Looking for Miracle Cures in Education",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/the-trouble-with-looking-for-miracle-cures-in-education/",
+      "published": "2026-11-19T13:30:00+00:00",
+      "summary": "Imagine finding the one instructional approach that could finally solve our reading problems, close achievement gaps, and give every child the education they deserve. No more arguments about pedagogy.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
@@ -87,13 +107,13 @@
       "score": 8
     },
     {
-      "title": "A Deep Dive Into Alabama’s Reading Gains",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/a-deep-dive-into-alabamas-reading-gains/",
-      "published": "2026-11-18T19:30:00+00:00",
-      "summary": "Updated November 18, 2026 In recent years, four southern states appear to be leading the way in reading growth: Mississippi, Louisiana, Tennessee and Alabama.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Charting American Culture in News Footage of ‘Grand Theft Auto’",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/",
+      "published": "2026-11-19T13:21:40+00:00",
+      "summary": "From death to sex to money, the panics around GTA map onto American anxieties.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
     {
@@ -107,16 +127,6 @@
       "score": 7
     },
     {
-      "title": "Broken World",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/broken-world/",
-      "published": "2026-11-18T15:50:43+00:00",
-      "summary": "Toward a theory of why everything is breaking.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
       "title": "The two-second step to caramelize your pie crust : Just add sugar.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
@@ -125,21 +135,11 @@
       "summary": "Most pie recipes will instruct you to sprinkle sparkling sugar or turbinado sugar on top of your egg-washed pie crust just before baking, so the coarse sugar can make those edges extra-crunchy and add a bit of glittery sheen.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
-    },
-    {
-      "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-      "published": "2026-11-18T11:00:00+00:00",
-      "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [
     {
-      "title": "DeepMind’s New AI Is A Gift To Humanity",
+      "title": "DeepMind Just Did Something Extraordinary For Humanity",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
@@ -260,17 +260,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Paris Hilton on combating non-consensual sexually explicit deepfakes",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=y9BxFC6XqB8",
-      "published": "2026-11-18T00:30:16+00:00",
-      "summary": "When Paris Hilton was 19, her ex-boyfriend shared an intimate video of her without her consent.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "Grand Theft Auto 6: Xbox Series X|S Performance + Resolution Tests",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -366,8 +355,8 @@
       "published": "2026-11-18T23:08:26+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try Func Key and Derelikt. https://store.steampowered.com/app/4268590/Func_Key/ https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Star Wars: Galactic Racer | Fully Ramblomatic",
@@ -570,6 +559,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "Living The Dream | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=kufMgxRyA9k",
+      "published": "2026-11-19T13:00:00+00:00",
+      "summary": "At a London ecofood corporation, two cash-strapped best friends stumble into wild misadventures as they try to climb the career ladder and find love. Living the Dream, an 8-part series, coming 18 December, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Secrets | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -697,17 +697,6 @@
       "url": "https://www.youtube.com/watch?v=WR-wo2hHMig",
       "published": "2026-11-17T17:00:00+00:00",
       "summary": "Go beyond the headlines as Nick Cannon balances 12 children, 6 mothers, a massive career, and personal health battles. RAISING THE CANNONS offers an unfiltered inside look at fatherhood, fame, and the Cannon family name.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Nick Cannon Opens Up About Life with 12 Kids | Raising the Cannons | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lgH2lLebDGA",
-      "published": "2026-11-17T17:00:00+00:00",
-      "summary": "12 children 6 women 1 big happy family? Nick Cannon offers an unfiltered inside look at fatherhood, fame, and his modern family. RAISING THE CANNONS premieres December 18. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -846,8 +835,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 27,
+    "youtubeCount": 26,
     "trailerCount": 27,
-    "sourceCount": 23
+    "sourceCount": 22
   }
 }

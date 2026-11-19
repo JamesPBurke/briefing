@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-19T10:01:44.257211Z
+Generated: 2026-11-19T14:00:01.825849Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?, ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece, and Windows Server 2028 trades compatibility for out-of-the-box security.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Canva adds an AI ‘off’ button, GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release, and Jeff Buckley was a 90s indie darling. Now gen Z think he’s the ‘yearner final boss’.
 
 ## Briefing
 
@@ -33,52 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The more you gaze at ​these 10 surviving works, ​with their cryptic inscriptions and even fool’s gold, the more the Flemish master trips you up​ – but being laughed at like this is all part of the glorious pleasure Van Eyck: The Portraits…
-
-Link: https://www.theguardian.com/artanddesign/2026/nov/19/jan-van-eyck-portraits-national-gallery-frames-inscriptions
-
-### 2. ‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours Tell us: are you playing Grand Theft Auto VI? Good things clearly come to those who wait.
-
-Link: https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece
-
-### 3. Windows Server 2028 trades compatibility for out-of-the-box security [10/10]
-**Source:** Ars Technica  
+### 1. Canva adds an AI ‘off’ button [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Hardened defaults align with DoD standards, but there may be growing pains.
+Canva will now allow you to turn off its generative AI features.
 
-Link: https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/
+Link: https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button
 
-### 4. Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world [9/10]
+### 2. GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time.
+Ryan Cohen, CEO of GameStop - the self-proclaimed "world's largest retail gaming and trade-in destination" - is not happy with the emerging trend of games releasing without discs.
 
-Link: https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog
+Link: https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo
 
-### 5. Tech lawsuits defined 2026 — and lawmakers want more [9/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 3. Jeff Buckley was a 90s indie darling. Now gen Z think he’s the ‘yearner final boss’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.
+With his unguarded lyricism and earnest delivery, the late singer-songwriter is having a moment among a generation that fetishizes unrequited desire Sydney Tripoli has collected Jeff Buckley memorabilia since 2019.
 
-Link: https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act
+Link: https://www.theguardian.com/music/2026/nov/19/jeff-buckley-gen-z-nostalgia
 
-### 6. NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures [9/10]
+### 4. Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board…
+
+Link: https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website
+
+### 5. GTA 6 developers at Rockstar are worried about being laid off after shipping "the biggest game of all time" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Rockstar has successfully shipped Grand Theft Auto 6 , after years of work and more than a billion dollars spent.
+
+Link: https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries
+
+### 6. You Can See Everything review – unblinking, unhinged and unmissable [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist…
+
+Link: https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes
+
+### 7. AI giant Anthropic raises more than $100 billion in record-setting IPO [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.
+
+Link: https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion
+
+### 8. NYC Public School Enrollment Drops, Raising Questions Over Budgets and Closures [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,16 +105,16 @@ New York City’s public schools lost about 23,000 students, or nearly 3%, from 
 
 Link: https://www.the74million.org/article/nyc-public-school-enrollment-drops-raising-questions-over-budgets-and-closures/
 
-### 7. Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are "obsessed" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
+### 9. Opinion: The Trouble with Looking for Miracle Cures in Education [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-One million copies for each month on sale, it seems. Slay the Spire 2, Mega Crit's roguelike deckbuilder, is estimated to have sold 7.9m copies since its release in Steam Early Access in March. Read more
+Imagine finding the one instructional approach that could finally solve our reading problems, close achievement gaps, and give every child the education they deserve. No more arguments about pedagogy.
 
-Link: https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates
+Link: https://www.the74million.org/article/the-trouble-with-looking-for-miracle-cures-in-education/
 
-### 8. After Nepal's epic flood, they're restoring their community ... and their lives [8/10]
+### 10. After Nepal's epic flood, they're restoring their community ... and their lives [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -105,16 +123,16 @@ As the emergency response to the flood ends, aid workers turn to the hard work o
 
 Link: https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change
 
-### 9. A Deep Dive Into Alabama’s Reading Gains [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Charting American Culture in News Footage of ‘Grand Theft Auto’ [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Updated November 18, 2026 In recent years, four southern states appear to be leading the way in reading growth: Mississippi, Louisiana, Tennessee and Alabama.
+From death to sex to money, the panics around GTA map onto American anxieties.
 
-Link: https://www.the74million.org/article/a-deep-dive-into-alabamas-reading-gains/
+Link: https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/
 
-### 10. The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come” [7/10]
+### 12. The Worst Angles of Our Nature: Brian Hodge’s “One Possible Shape of Things to Come” [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,16 +141,7 @@ A terrifying presence commands children around the world to stand in the corner 
 
 Link: https://reactormag.com/reading-the-weird-brian-hodges-one-possible-shape-of-things-to-come/
 
-### 11. Broken World [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Toward a theory of why everything is breaking.
-
-Link: https://www.404media.co/broken-world/
-
-### 12. The two-second step to caramelize your pie crust : Just add sugar. [7/10]
+### 13. The two-second step to caramelize your pie crust : Just add sugar. [7/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -141,18 +150,9 @@ Most pie recipes will instruct you to sprinkle sparkling sugar or turbinado suga
 
 Link: https://www.kingarthurbaking.com/blog/2026/11/18/how-to-caramelize-pie-crust
 
-### 13. Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.
-
-Link: https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece
-
 ## YouTube
 
-### DeepMind’s New AI Is A Gift To Humanity [9/10]
+### DeepMind Just Did Something Extraordinary For Humanity [9/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -251,15 +251,6 @@ In the 1990s, designer Karl Kani exploded into the fashion scene as one of the f
 
 Link: https://www.youtube.com/watch?v=FV8o1BU-iis
 
-### Paris Hilton on combating non-consensual sexually explicit deepfakes [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-When Paris Hilton was 19, her ex-boyfriend shared an intimate video of her without her consent.
-
-Link: https://www.youtube.com/watch?v=y9BxFC6XqB8
-
 ### Grand Theft Auto 6: Xbox Series X|S Performance + Resolution Tests [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -332,9 +323,9 @@ This video is brought to you by Kumitantei: Old-School Slaughter, an episodic mu
 
 Link: https://www.youtube.com/watch?v=JSZraJHB6UQ
 
-### Yahtzee Tries... Func Key and Derelikt [7/10]
+### Yahtzee Tries... Func Key and Derelikt [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try Func Key and Derelikt. https://store.steampowered.com/app/4268590/Func_Key/ https://store.steampowered.
@@ -532,6 +523,15 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
+### Living The Dream | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+At a London ecofood corporation, two cash-strapped best friends stumble into wild misadventures as they try to climb the career ladder and find love. Living the Dream, an 8-part series, coming 18 December, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=kufMgxRyA9k
+
 ### Secrets | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -639,15 +639,6 @@ Link: https://www.youtube.com/watch?v=jc8QfRa9xP0
 Go beyond the headlines as Nick Cannon balances 12 children, 6 mothers, a massive career, and personal health battles. RAISING THE CANNONS offers an unfiltered inside look at fatherhood, fame, and the Cannon family name.
 
 Link: https://www.youtube.com/watch?v=WR-wo2hHMig
-
-### Nick Cannon Opens Up About Life with 12 Kids | Raising the Cannons | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-12 children 6 women 1 big happy family? Nick Cannon offers an unfiltered inside look at fatherhood, fame, and his modern family. RAISING THE CANNONS premieres December 18. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=lgH2lLebDGA
 
 ### Great Movies to Watch on Apple TV [8/10]
 **Source:** Apple TV  
