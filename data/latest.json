@@ -1,39 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-20T05:00:03.470999Z",
-  "generatedAtDisplay": "2026-11-20 12:00 AM EST",
+  "generatedAt": "2026-11-20T10:00:41.406761Z",
+  "generatedAtDisplay": "2026-11-20 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Apple is hiring engineers to build its own AI agent, Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO, and A brief history of Nvidia’s recent stock fluctuations.",
+  "summary": "Today's sweep leans toward Science / computing, Democracy / press freedom, Security / computing. The strongest items in this run are AI models are propelling rapid growth and revealing vulnerabilities, Business opportunity or security threat? Nvidia case raises questions about China, and Experience: I discovered my dad was a killer on the run – and turned him in.",
   "mainItems": [
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "published": "2026-11-19T23:13:01+00:00",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+      "published": "2026-11-20T09:43:11+00:00",
+      "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
-      "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+      "title": "Business opportunity or security threat? Nvidia case raises questions about China",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
+      "published": "2026-11-20T09:42:24+00:00",
+      "summary": "The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Experience: I discovered my dad was a killer on the run – and turned him in",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "published": "2026-11-19T22:09:18+00:00",
-      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in",
+      "published": "2026-11-20T05:00:24+00:00",
+      "summary": "After a childhood marked by horrifying cruelty, the day finally came when I held my father’s life in the balance Growing up, I lived in fear of my father’s moods.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "published": "2026-11-19T21:59:35+00:00",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "‘I was drinking at 15, going to parties, being groomed and abused’: the grim reality of age-gap relationships",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
+      "published": "2026-11-20T05:00:24+00:00",
+      "summary": "Do teenagers need more protection from predatory adults? As campaigners in the UK call for changes to the law on consent, we talk to five people who became entangled with much older men and women In the wake of the allegations against…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 10
     },
     {
@@ -57,13 +67,33 @@
       "score": 10
     },
     {
-      "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
+      "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
-      "published": "2026-11-19T21:08:50+00:00",
-      "summary": "CyberLeek, the persona of a hacker group that was responsible for leaking GTA 6 gameplay before the game launched, has reappeared today, claiming to have released a development build of the final version of the game on its site.",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
+      "published": "2026-11-20T09:58:10+00:00",
+      "summary": "As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+      "published": "2026-11-20T09:53:44+00:00",
+      "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Physical Premium Edition of ‘Darkenstein 3D’ Coming to PlayStation 5 Next Year",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3976295/physical-premium-edition-of-darkenstein-3d-coming-to-playstation-5-next-year/",
+      "published": "2026-11-19T18:30:49+00:00",
+      "summary": "Released on Steam last year (for free, no less), solo developer Rowye’s Darkenstein 3D is heading to the PlayStation 5 in a new physical Premium Edition, courtesy of Dolores Entertainment and Tesura Games.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -77,26 +107,6 @@
       "score": 9
     },
     {
-      "title": "Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-tech-outages",
-      "published": "2026-11-19T11:00:24+00:00",
-      "summary": "In normal times, we’d expect serious answers from our leaders on a topic of this magnitude. Not under this administration As outages and disruptions have piled up over recent days, Americans have been searching for answers.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/hunger-games-director-original-stars-ending/",
-      "published": "2026-11-19T19:51:53+00:00",
-      "summary": "Yes, we’re talking about Peeta and Katniss (and an older Haymitch) The post Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
       "title": "The 'Magic Six': How to strengthen your marriage in midlife",
       "source": "NPR Health",
       "category": "Science / health",
@@ -104,16 +114,6 @@
       "published": "2026-11-19T18:28:23+00:00",
       "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-      "published": "2026-11-19T10:00:00+00:00",
-      "summary": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -190,8 +190,8 @@
       "published": "2026-11-19T21:45:21+00:00",
       "summary": "Ben Shapiro is trying to make sense of the Republican party’s disaster in this year’s midterm elections. Shapiro is a popular conservative podcaster and co-founder of The Daily Wire, a conservative news and entertainment site.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Protests continue over Jared Kushner, Ivanka Trump's plans for a resort for the super-rich",
@@ -201,8 +201,8 @@
       "published": "2026-11-19T20:15:06+00:00",
       "summary": "Albanian Prime Minister Edi Rama ultimately changed national law so that Jared Kushner and Ivanka Trump could plan a resort for the super-rich.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Myanmar committed genocide against its Muslim minority, the U.N.’s top court rules",
@@ -212,8 +212,8 @@
       "published": "2026-11-19T18:10:29+00:00",
       "summary": "The U.N.’s top court, the International Court of Justice, in The Hague, has ruled that Myanmar committed genocide against its Rohingya Muslim minority.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump, Xi and Putin meet for historic trilateral talks",
@@ -333,7 +333,7 @@
       "published": "2026-11-20T01:35:59+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about their early hours in Grand Theft Auto VI as well as thoughts on the 2026 Game Award nominations. Back our Kickstarter at: https://kickstarter.adventureisnigh.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10,
+      "score": 9,
       "verdict": "Watch it"
     },
     {
@@ -355,8 +355,8 @@
       "published": "2026-11-19T20:21:12+00:00",
       "summary": "Jack and Jess are going to be joined by Marty to check out the opening few hours of Grand Theft Auto VI. Back our Kickstarter at: https://kickstarter.adventureisnigh.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Is Puzzled | Semi-Ramblomatic",
@@ -555,7 +555,7 @@
       "published": "2026-11-19T18:30:16+00:00",
       "summary": "You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -815,6 +815,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 26,
-    "sourceCount": 23
+    "sourceCount": 22
   }
 }
