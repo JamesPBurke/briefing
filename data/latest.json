@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-20T10:00:41.406761Z",
-  "generatedAtDisplay": "2026-11-20 05:00 AM EST",
+  "generatedAt": "2026-11-20T14:00:02.579154Z",
+  "generatedAtDisplay": "2026-11-20 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Science / computing, Democracy / press freedom, Security / computing. The strongest items in this run are AI models are propelling rapid growth and revealing vulnerabilities, Business opportunity or security threat? Nvidia case raises questions about China, and Experience: I discovered my dad was a killer on the run – and turned him in.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As measles surges in countries where it was under control, children are paying the price, Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy, and UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\".",
   "mainItems": [
+    {
+      "title": "As measles surges in countries where it was under control, children are paying the price",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
+      "published": "2026-11-20T13:38:57+00:00",
+      "summary": "The US, Mexico and Bolivia this week joined the unenviable club of nations that have lost their measles-free status Deaths caused by measles are not peaceful.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
+      "published": "2026-11-20T13:26:36+00:00",
+      "summary": "Federal judge in Colorado finds immigration officials in contempt but takes no more action after they end practice A federal judge said that the US Immigration and Customs ⁠Enforcement agency ( ICE ) “made a mockery of court orders” in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
+      "published": "2026-11-20T13:08:30+00:00",
+      "summary": "Grand Theft Auto 6 's seismic launch has registered on a governmental level. A spokesperson for UK Prime Minister Andy Burnham has hailed the game as a \"British success story\", but confirmed Burnham himself won't be playing it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "published": "2026-11-20T12:30:47+00:00",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "AI models are propelling rapid growth and revealing vulnerabilities",
       "source": "NPR Tech",
@@ -14,26 +54,6 @@
       "published": "2026-11-20T09:43:11+00:00",
       "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "Business opportunity or security threat? Nvidia case raises questions about China",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
-      "published": "2026-11-20T09:42:24+00:00",
-      "summary": "The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "Experience: I discovered my dad was a killer on the run – and turned him in",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in",
-      "published": "2026-11-20T05:00:24+00:00",
-      "summary": "After a childhood marked by horrifying cruelty, the day finally came when I held my father’s life in the balance Growing up, I lived in fear of my father’s moods.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "published": "2026-11-19T20:19:28+00:00",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
       "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -67,33 +77,13 @@
       "score": 10
     },
     {
-      "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
-      "published": "2026-11-20T09:58:10+00:00",
-      "summary": "As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
+      "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-      "published": "2026-11-20T09:53:44+00:00",
-      "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang .",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "published": "2026-11-20T13:32:11+00:00",
+      "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Physical Premium Edition of ‘Darkenstein 3D’ Coming to PlayStation 5 Next Year",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3976295/physical-premium-edition-of-darkenstein-3d-coming-to-playstation-5-next-year/",
-      "published": "2026-11-19T18:30:49+00:00",
-      "summary": "Released on Steam last year (for free, no less), solo developer Rowye’s Darkenstein 3D is heading to the PlayStation 5 in a new physical Premium Edition, courtesy of Dolores Entertainment and Tesura Games.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -105,6 +95,16 @@
       "summary": "WASHINGTON (AP) — The Trump administration on Friday said it would cancel a rule mandating pay increases for teachers in Head Start, the federally funded early education program that serves more than 700,000 of the nation’s neediest…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/hunger-games-director-original-stars-ending/",
+      "published": "2026-11-19T19:51:53+00:00",
+      "summary": "Yes, we’re talking about Peeta and Katniss (and an older Haymitch) The post Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "The 'Magic Six': How to strengthen your marriage in midlife",
@@ -145,17 +145,6 @@
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published": "2026-11-19T09:26:19+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
-      "published": "2026-11-17T12:46:24+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -813,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 24,
     "trailerCount": 26,
-    "sourceCount": 22
+    "sourceCount": 23
   }
 }

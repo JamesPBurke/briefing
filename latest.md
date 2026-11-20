@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-20T10:00:41.406761Z
+Generated: 2026-11-20T14:00:02.579154Z
 
-Today's sweep leans toward Science / computing, Democracy / press freedom, Security / computing. The strongest items in this run are AI models are propelling rapid growth and revealing vulnerabilities, Business opportunity or security threat? Nvidia case raises questions about China, and Experience: I discovered my dad was a killer on the run – and turned him in.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As measles surges in countries where it was under control, children are paying the price, Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy, and UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a "British success story".
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. AI models are propelling rapid growth and revealing vulnerabilities [10/10]
+### 1. As measles surges in countries where it was under control, children are paying the price [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The US, Mexico and Bolivia this week joined the unenviable club of nations that have lost their measles-free status Deaths caused by measles are not peaceful.
+
+Link: https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia
+
+### 2. Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Federal judge in Colorado finds immigration officials in contempt but takes no more action after they end practice A federal judge said that the US Immigration and Customs ⁠Enforcement agency ( ICE ) “made a mockery of court orders” in…
+
+Link: https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders
+
+### 3. UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a "British success story" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Grand Theft Auto 6 's seismic launch has registered on a governmental level. A spokesperson for UK Prime Minister Andy Burnham has hailed the game as a "British success story", but confirmed Burnham himself won't be playing it.
+
+Link: https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham
+
+### 4. Signal is blocking Gemini and Siri AI from reading your screen [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
+
+### 5. AI models are propelling rapid growth and revealing vulnerabilities [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -42,25 +78,7 @@ AI models are exposing the internet's longstanding insecurity, driving rapid cha
 
 Link: https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities
 
-### 2. Business opportunity or security threat? Nvidia case raises questions about China [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China.
-
-Link: https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china
-
-### 3. Experience: I discovered my dad was a killer on the run – and turned him in [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After a childhood marked by horrifying cruelty, the day finally came when I held my father’s life in the balance Growing up, I lived in fear of my father’s moods.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in
-
-### 4. ‘I was drinking at 15, going to parties, being groomed and abused’: the grim reality of age-gap relationships [10/10]
+### 6. ‘I was drinking at 15, going to parties, being groomed and abused’: the grim reality of age-gap relationships [10/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -69,16 +87,7 @@ Do teenagers need more protection from predatory adults? As campaigners in the U
 
 Link: https://www.theguardian.com/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships
 
-### 5. Traumatized teens sue school, cops after Doritos bag triggers AI gun alert [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Lawsuit: Over 99% of school system’s AI gun alerts were false positives.
-
-Link: https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/
-
-### 6. "You’re right"—LLMs will get climate info wrong if you ask [10/10]
+### 7. "You’re right"—LLMs will get climate info wrong if you ask [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,34 +96,16 @@ Some models fare better, but all fail in similar ways.
 
 Link: https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/
 
-### 7. "You broke my heart" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6 [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game.
-
-Link: https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack
-
-### 8. Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live [9/10]
+### 8. Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang .
+Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN…
 
-Link: https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news
+Link: https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates
 
-### 9. Physical Premium Edition of ‘Darkenstein 3D’ Coming to PlayStation 5 Next Year [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Released on Steam last year (for free, no less), solo developer Rowye’s Darkenstein 3D is heading to the PlayStation 5 in a new physical Premium Edition, courtesy of Dolores Entertainment and Tesura Games.
-
-Link: https://bloody-disgusting.com/video-games/3976295/physical-premium-edition-of-darkenstein-3d-coming-to-playstation-5-next-year/
-
-### 10. Trump Administration Cancels Mandatory Pay Hike for Head Start Teachers [9/10]
+### 9. Trump Administration Cancels Mandatory Pay Hike for Head Start Teachers [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -122,6 +113,15 @@ Link: https://bloody-disgusting.com/video-games/3976295/physical-premium-edition
 WASHINGTON (AP) — The Trump administration on Friday said it would cancel a rule mandating pay increases for teachers in Head Start, the federally funded early education program that serves more than 700,000 of the nation’s neediest…
 
 Link: https://www.the74million.org/zero2eight/trump-administration-cancels-mandatory-pay-hike-for-head-start-teachers/
+
+### 10. Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Yes, we’re talking about Peeta and Katniss (and an older Haymitch) The post Hunger Games Director Says Reuniting Original Stars Helped Give Sunrise on the Reaping a Hopeful Ending appeared first on Reactor .
+
+Link: https://reactormag.com/hunger-games-director-original-stars-ending/
 
 ### 11. The 'Magic Six': How to strengthen your marriage in midlife [8/10]
 **Source:** NPR Health  
@@ -160,15 +160,6 @@ Link: https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-p
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.
 
 Link: https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
-
-### OpenAI's New Breakthrough Is... Utter Chaos [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.
-
-Link: https://www.youtube.com/watch?v=gl2U4fGTr6g
 
 ### Is It Possible For Iron Man's Arc Reactor To Exist? [7/10]
 **Creator:** WIRED  
