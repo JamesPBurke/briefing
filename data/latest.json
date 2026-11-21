@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-21T05:00:02.287450Z",
-  "generatedAtDisplay": "2026-11-21 12:00 AM EST",
+  "generatedAt": "2026-11-21T10:00:44.885259Z",
+  "generatedAtDisplay": "2026-11-21 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, YouTube is reportedly preparing to settle social media addiction claims for $3 billion, and SpaceX's Starshield troubles in Ukraine could threaten its broader military business.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\", ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, and YouTube is reportedly preparing to settle social media addiction claims for $3 billion.",
   "mainItems": [
+    {
+      "title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+      "published": "2026-11-21T08:00:00+00:00",
+      "summary": "Did anything notable happen this week? Not that I can remember. The weather was quite rainy - will that do? I'm just being silly, of course.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
       "source": "The Guardian US",
@@ -67,26 +77,6 @@
       "score": 10
     },
     {
-      "title": "Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/",
-      "published": "2026-11-20T17:30:00+00:00",
-      "summary": "Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "AI models are propelling rapid growth and revealing vulnerabilities",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
-      "published": "2026-11-20T09:43:11+00:00",
-      "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
       "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -107,14 +97,24 @@
       "score": 9
     },
     {
-      "title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
-      "published": "2026-11-20T17:19:50+00:00",
-      "summary": "An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and \"cultish\" behaviour…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/",
+      "published": "2026-11-20T17:30:00+00:00",
+      "summary": "Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "published": "2026-11-20T22:11:29+00:00",
+      "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "The Hunger Games: Sunrise on the Reaping Cares a Little Too Much About Heroes",
@@ -157,8 +157,8 @@
       "published": "2026-11-20T17:02:03+00:00",
       "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join former NASA scientist and Senior Scientist at Planetary Science Institute Dr.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Protesters raise alarms after Anthropic’s record-breaking IPO initial public offering",
@@ -168,8 +168,8 @@
       "published": "2026-11-20T17:51:57+00:00",
       "summary": "On the same day the AI giant Anthropic posted the biggest initial public offering on record, ​four people were arrested for blocking an entrance to the company’s San Francisco offices Thursday.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Tributes pour in for beloved Cincinnati Zoo hippo, Fiona",
@@ -245,8 +245,8 @@
       "published": "2026-11-20T18:00:31+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Xbox's Big Project Helix Info Reveal - And We Like The Sound Of It",
@@ -522,7 +522,7 @@
       "published": "2026-11-20T18:00:00+00:00",
       "summary": "Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-21T05:00:02.287450Z
+Generated: 2026-11-21T10:00:44.885259Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, YouTube is reportedly preparing to settle social media addiction claims for $3 billion, and SpaceX's Starshield troubles in Ukraine could threaten its broader military business.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What we've been playing - "It's slow, it's awkward, it's weird, and it's hard", ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, and YouTube is reportedly preparing to settle social media addiction claims for $3 billion.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says [10/10]
+### 1. What we've been playing - "It's slow, it's awkward, it's weird, and it's hard" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Did anything notable happen this week? Not that I can remember. The weather was quite rainy - will that do? I'm just being silly, of course.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard
+
+### 2. ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +51,7 @@ The announcement from Rockstar Games would mean GTA VI has already earned more t
 
 Link: https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says
 
-### 2. YouTube is reportedly preparing to settle social media addiction claims for $3 billion [10/10]
+### 3. YouTube is reportedly preparing to settle social media addiction claims for $3 billion [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,7 +60,7 @@ YouTube is preparing to pay $3 billion to thousands of school districts to settl
 
 Link: https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement
 
-### 3. SpaceX's Starshield troubles in Ukraine could threaten its broader military business [10/10]
+### 4. SpaceX's Starshield troubles in Ukraine could threaten its broader military business [10/10]
 **Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +69,7 @@ Link: https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-
 
 Link: https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/
 
-### 4. Rockstar says GTA VI made $3.79 billion in its first day [10/10]
+### 5. Rockstar says GTA VI made $3.79 billion in its first day [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +78,7 @@ GTA VI earned $3.79 billion in its first day of sales, which set "a new record f
 
 Link: https://www.theverge.com/games/1036279/gta-vi-sales
 
-### 5. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad [10/10]
+### 6. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,7 @@ President gives wide-ranging White House press conference and says he has ‘fan
 
 Link: https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house
 
-### 6. Podcast: I Spoke to an AI Fraud Kingpin [10/10]
+### 7. Podcast: I Spoke to an AI Fraud Kingpin [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,25 +96,7 @@ The man who created OnlyFake; a Muse agent is suing Meta; and the Justice Depart
 
 Link: https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/
 
-### 7. Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.
-
-Link: https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/
-
-### 8. AI models are propelling rapid growth and revealing vulnerabilities [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.
-
-Link: https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities
-
-### 9. Republican senator blocks Trump cyber nominee over January 6 denial [9/10]
+### 8. Republican senator blocks Trump cyber nominee over January 6 denial [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -114,7 +105,7 @@ Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hear
 
 Link: https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee
 
-### 10. Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer [9/10]
+### 9. Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -123,14 +114,23 @@ German company faced 65,000 claims from people who said they developed cancer af
 
 Link: https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation
 
-### 11. Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and "cultish" behaviour…
+Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.
 
-Link: https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment
+Link: https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/
+
+### 11. S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.
+
+Link: https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative
 
 ### 12. The Hunger Games: Sunrise on the Reaping Cares a Little Too Much About Heroes [8/10]
 **Source:** Reactor  
@@ -161,18 +161,18 @@ Link: https://www.404media.co/behind-the-blog-keeping-it-together/
 
 Link: https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
 
-### Former NASA Scientist Fact Checks Alien Slop [8/10]
+### Former NASA Scientist Fact Checks Alien Slop [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join former NASA scientist and Senior Scientist at Planetary Science Institute Dr.
 
 Link: https://www.youtube.com/watch?v=QUtRLGRSCeM
 
-### Protesters raise alarms after Anthropic’s record-breaking IPO initial public offering [9/10]
+### Protesters raise alarms after Anthropic’s record-breaking IPO initial public offering [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 On the same day the AI giant Anthropic posted the biggest initial public offering on record, ​four people were arrested for blocking an entrance to the company’s San Francisco offices Thursday.
@@ -233,9 +233,9 @@ President Trump has completed his trip to China, ending with a trilateral meetin
 
 Link: https://www.youtube.com/watch?v=ilL_oEXLT6A
 
-### Grand Theft Auto 6: Beyond The Tech - Our Gameplay Thoughts [8/10]
+### Grand Theft Auto 6: Beyond The Tech - Our Gameplay Thoughts [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -487,7 +487,7 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
-### Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! [10/10]
+### Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
