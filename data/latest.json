@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-21T10:00:44.885259Z",
-  "generatedAtDisplay": "2026-11-21 05:00 AM EST",
+  "generatedAt": "2026-11-21T14:00:01.841694Z",
+  "generatedAtDisplay": "2026-11-21 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\", ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, and YouTube is reportedly preparing to settle social media addiction claims for $3 billion.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results, Promise Me, America by Joe Biden review – former president defends his decisions, and Letby trial doctor barred from treating patients was expert witness in another case.",
   "mainItems": [
+    {
+      "title": "LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/",
+      "published": "2026-11-21T11:30:00+00:00",
+      "summary": "A majority of students are complying with Los Angeles Unified’s cellphone ban and paying more attention in class, at least according to school staff.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Promise Me, America by Joe Biden review – former president defends his decisions",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/nov/21/promise-me-america-joe-biden-memoir-review",
+      "published": "2026-11-21T10:00:55+00:00",
+      "summary": "New memoir tells of policy feats and battles with Trump but struggles to take responsibility for re-election debacle Inevitably, readers of Joe Biden’s new memoir will flick forward to find what he says about the events that ended his…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+      "published": "2026-11-21T08:00:52+00:00",
+      "summary": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode A doctor who gave expert evidence that helped to convict Lucy Letby, and who was barred during the trial from treating…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
       "source": "Eurogamer",
@@ -14,46 +44,6 @@
       "published": "2026-11-21T08:00:00+00:00",
       "summary": "Did anything notable happen this week? Not that I can remember. The weather was quite rainy - will that do? I'm just being silly, of course.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-      "published": "2026-11-21T03:51:03+00:00",
-      "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "published": "2026-11-20T22:51:40+00:00",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "published": "2026-11-20T22:16:51+00:00",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "published": "2026-11-20T22:10:53+00:00",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -77,42 +67,42 @@
       "score": 10
     },
     {
-      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "title": "International talks on controlling use of autonomous weapons collapse",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-      "published": "2026-11-20T23:48:38+00:00",
-      "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly…",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "published": "2026-11-21T13:15:29+00:00",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-      "source": "The Guardian US",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "published": "2026-11-21T12:01:13+00:00",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-      "published": "2026-11-20T23:42:43+00:00",
-      "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published": "2026-11-20T20:59:08+00:00",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/",
-      "published": "2026-11-20T17:30:00+00:00",
-      "summary": "Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-      "published": "2026-11-20T22:11:29+00:00",
-      "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+      "published": "2026-11-21T10:00:00+00:00",
+      "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
@@ -127,12 +117,22 @@
       "score": 8
     },
     {
-      "title": "Behind the Blog: Keeping It Together",
+      "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+      "published": "2026-11-21T12:40:10+00:00",
+      "summary": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-keeping-it-together/",
-      "published": "2026-11-20T15:40:21+00:00",
-      "summary": "This week, we discuss hippo physiology, Shenmue, and tricky interviews.",
+      "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+      "published": "2026-11-21T12:00:00+00:00",
+      "summary": "Scientists discovered that eagles hunt large adult baboons in Chad, suggesting that birds of prey attacked human ancestors far more recently than previously known.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }

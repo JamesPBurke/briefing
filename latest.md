@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-21T10:00:44.885259Z
+Generated: 2026-11-21T14:00:01.841694Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are What we've been playing - "It's slow, it's awkward, it's weird, and it's hard", ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says, and YouTube is reportedly preparing to settle social media addiction claims for $3 billion.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results, Promise Me, America by Joe Biden review – former president defends his decisions, and Letby trial doctor barred from treating patients was expert witness in another case.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What we've been playing - "It's slow, it's awkward, it's weird, and it's hard" [10/10]
+### 1. LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A majority of students are complying with Los Angeles Unified’s cellphone ban and paying more attention in class, at least according to school staff.
+
+Link: https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/
+
+### 2. Promise Me, America by Joe Biden review – former president defends his decisions [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+New memoir tells of policy feats and battles with Trump but struggles to take responsibility for re-election debacle Inevitably, readers of Joe Biden’s new memoir will flick forward to find what he says about the events that ended his…
+
+Link: https://www.theguardian.com/books/2026/nov/21/promise-me-america-joe-biden-memoir-review
+
+### 3. Letby trial doctor barred from treating patients was expert witness in another case [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode A doctor who gave expert evidence that helped to convict Lucy Letby, and who was barred during the trial from treating…
+
+Link: https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case
+
+### 4. What we've been playing - "It's slow, it's awkward, it's weird, and it's hard" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,43 +69,7 @@ Did anything notable happen this week? Not that I can remember. The weather was 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard
 
-### 2. ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.
-
-Link: https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says
-
-### 3. YouTube is reportedly preparing to settle social media addiction claims for $3 billion [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg.
-
-Link: https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement
-
-### 4. SpaceX's Starshield troubles in Ukraine could threaten its broader military business [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-"Explain the changes that were made to the Starshield service in October 2026."
-
-Link: https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/
-
-### 5. Rockstar says GTA VI made $3.79 billion in its first day [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-GTA VI earned $3.79 billion in its first day of sales, which set "a new record for entertainment across any medium," according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies.
-
-Link: https://www.theverge.com/games/1036279/gta-vi-sales
-
-### 6. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad [10/10]
+### 5. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,7 +78,7 @@ President gives wide-ranging White House press conference and says he has ‘fan
 
 Link: https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house
 
-### 7. Podcast: I Spoke to an AI Fraud Kingpin [10/10]
+### 6. Podcast: I Spoke to an AI Fraud Kingpin [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,43 +87,43 @@ The man who created OnlyFake; a Muse agent is suing Meta; and the Justice Depart
 
 Link: https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/
 
-### 8. Republican senator blocks Trump cyber nominee over January 6 denial [9/10]
+### 7. International talks on controlling use of autonomous weapons collapse [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly…
+Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons…
 
-Link: https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee
+Link: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse
 
-### 9. Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer [9/10]
-**Source:** The Guardian US  
+### 8. “Race realism” isn’t realistic—and it isn’t good science [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Modern genetics does not support claims of innate racial differences in intelligence.
+
+Link: https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/
+
+### 9. Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. [9/10]
+**Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.
+Test using prompts with unique, trackable secrets proves that data doesn't stay private.
 
-Link: https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation
+Link: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
 
-### 10. Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district.
-
-Link: https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/
-
-### 11. S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year [8/10]
+### 10. Anthropic says it will put humanity first. Will its IPO change that? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.
+Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.
 
-Link: https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative
+Link: https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety
 
-### 12. The Hunger Games: Sunrise on the Reaping Cares a Little Too Much About Heroes [8/10]
+### 11. The Hunger Games: Sunrise on the Reaping Cares a Little Too Much About Heroes [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,14 +132,23 @@ Haymitch Abernathy doesn't need to be the arena's best boy for this story to wor
 
 Link: https://reactormag.com/movie-review-the-hunger-games-sunrise-on-the-reaping/
 
-### 13. Behind the Blog: Keeping It Together [7/10]
+### 12. Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.
+
+Link: https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles
+
+### 13. Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss hippo physiology, Shenmue, and tricky interviews.
+Scientists discovered that eagles hunt large adult baboons in Chad, suggesting that birds of prey attacked human ancestors far more recently than previously known.
 
-Link: https://www.404media.co/behind-the-blog-keeping-it-together/
+Link: https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/
 
 ## YouTube
 
