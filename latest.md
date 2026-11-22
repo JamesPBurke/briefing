@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-22T05:00:03.648111Z
+Generated: 2026-11-22T10:01:00.325361Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are California train burglars carefully executed heists for ‘staggering’ $22m haul, Two New Jersey women indicted over alleged false claims of violent attack, and Google employees protest AI in schools policy.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I've never known a moment like this in video games, My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri, and The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield.
 
 ## Briefing
 
@@ -33,25 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. California train burglars carefully executed heists for ‘staggering’ $22m haul [10/10]
+### 1. I've never known a moment like this in video games [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock.
+
+Link: https://www.eurogamer.net/gta-6-video-games-biggest-moment
+
+### 2. My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…
+You clearly love him, but do you love yourself enough to stop letting him get away with this? I’ ve got a very upsetting problem in my marriage: my husband has extremely bad breath.
 
-Link: https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist
 
-### 2. Two New Jersey women indicted over alleged false claims of violent attack [10/10]
+### 3. The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…
+Europe’s future will be fought over at the ballot box and on Ukraine’s frontline.
 
-Link: https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted
+Link: https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen
 
-### 3. Google employees protest AI in schools policy [10/10]
+### 4. Google employees protest AI in schools policy [10/10]
 **Source:** NPR Tech  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +69,25 @@ More than 550 Google employees signed a petition to allow schools access to Sear
 
 Link: https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy
 
-### 4. Review: Godzilla Minus Zero joins the list of truly stellar sequels [9/10]
+### 5. California train burglars carefully executed heists for ‘staggering’ $22m haul [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…
+
+Link: https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists
+
+### 6. Two New Jersey women indicted over alleged false claims of violent attack [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…
+
+Link: https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted
+
+### 7. Review: Godzilla Minus Zero joins the list of truly stellar sequels [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +96,7 @@ Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the mo
 
 Link: https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/
 
-### 5. Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do [9/10]
+### 8. Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -77,33 +104,6 @@ Link: https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-ever
 Oh I do love an eldritch horror creature, I do, especially one that at first glance may only be slightly different from what I'm used to seeing.
 
 Link: https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do
-
-### 6. "Everyone agrees it's more fun this way": Toby Fox won't tell his team how Deltarune ends until they've built enough of it [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Toby Fox is a purposefully mysterious person.
-
-Link: https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it
-
-### 7. SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The viral satirization of the caregiving burden left to women and daughters hit home for many viewers The Saturday Night Live sketch , titled Sister quickly went viral this week for its satirization of the burden that women and daughters…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving
-
-### 8. Our go-to earbuds for taking calls have fallen to their lowest price to date [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now.
-
-Link: https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale
 
 ### 9. LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results [9/10]
 **Source:** The 74  
@@ -114,14 +114,14 @@ A majority of students are complying with Los Angeles Unified’s cellphone ban 
 
 Link: https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/
 
-### 10. Las Vegas Grand Prix: Formula One 2026 race updates – live [8/10]
+### 10. Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Updates from the Formula 1 GP in Las Vegas Any thoughts? Get in touch with an email Lap 2/50 Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz . Continue reading...
+A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel…
 
-Link: https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live
+Link: https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates
 
 ### 11. Killer robots: U.N. talks fall short of hopes for legally binding rules [8/10]
 **Source:** NPR Tech  
@@ -152,15 +152,6 @@ Link: https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-w
 
 ## YouTube
 
-### DeepMind Just Released The Best Thing AI Ever Did [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.
-
-Link: https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
-
 ### Former NASA Scientist Fact Checks Alien Slop [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -170,9 +161,9 @@ AI slop is littering your feed and spreading misinformation, so WIRED’s here t
 
 Link: https://www.youtube.com/watch?v=QUtRLGRSCeM
 
-### Early flu season could hinder holiday travel and Thanksgiving gatherings [8/10]
+### Early flu season could hinder holiday travel and Thanksgiving gatherings [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Thanksgiving is almost here, but with an earlier-than-usual flu season, holiday gatherings could spread illness.
@@ -233,9 +224,9 @@ The U.N.’s top court, the International Court of Justice, in The Hague, has ru
 
 Link: https://www.youtube.com/watch?v=yPCFixyFI78
 
-### Will Jensen's Nvidia Exit Impact Nintendo Switch 3? [8/10]
+### Will Jensen's Nvidia Exit Impact Nintendo Switch 3? [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -451,6 +442,15 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
+### 'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+One week until SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=PbrI4UaDDE0
+
 ### KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -549,15 +549,6 @@ Link: https://www.youtube.com/watch?v=aUKLfYruB04
 CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=eEEh1EPD1ro
-
-### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=0aecVqwHOLs
 
 ### Linda Cardellini is Sarah, the mom everyone wants to have. #WayOfTheWarriorKid — November 25 [10/10]
 **Source:** Apple TV  

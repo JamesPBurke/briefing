@@ -1,28 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-22T05:00:03.648111Z",
-  "generatedAtDisplay": "2026-11-22 12:00 AM EST",
+  "generatedAt": "2026-11-22T10:01:00.325361Z",
+  "generatedAtDisplay": "2026-11-22 05:01 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are California train burglars carefully executed heists for ‘staggering’ $22m haul, Two New Jersey women indicted over alleged false claims of violent attack, and Google employees protest AI in schools policy.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I've never known a moment like this in video games, My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri, and The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield.",
   "mainItems": [
     {
-      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "title": "I've never known a moment like this in video games",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+      "published": "2026-11-22T09:00:00+00:00",
+      "summary": "It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-      "published": "2026-11-22T00:20:41+00:00",
-      "summary": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist",
+      "published": "2026-11-22T06:00:21+00:00",
+      "summary": "You clearly love him, but do you love yourself enough to stop letting him get away with this? I’ ve got a very upsetting problem in my marriage: my husband has extremely bad breath.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Two New Jersey women indicted over alleged false claims of violent attack",
+      "title": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted",
-      "published": "2026-11-21T23:46:43+00:00",
-      "summary": "Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen",
+      "published": "2026-11-22T05:00:17+00:00",
+      "summary": "Europe’s future will be fought over at the ballot box and on Ukraine’s frontline.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -35,6 +45,26 @@
       "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+      "published": "2026-11-22T00:20:41+00:00",
+      "summary": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Two New Jersey women indicted over alleged false claims of violent attack",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted",
+      "published": "2026-11-21T23:46:43+00:00",
+      "summary": "Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -57,36 +87,6 @@
       "score": 9
     },
     {
-      "title": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
-      "published": "2026-11-21T17:54:00+00:00",
-      "summary": "Toby Fox is a purposefully mysterious person.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-      "published": "2026-11-21T15:00:01+00:00",
-      "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers The Saturday Night Live sketch , titled Sister quickly went viral this week for its satirization of the burden that women and daughters…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "published": "2026-11-21T14:55:28+00:00",
-      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -97,12 +97,12 @@
       "score": 9
     },
     {
-      "title": "Las Vegas Grand Prix: Formula One 2026 race updates – live",
+      "title": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live",
-      "published": "2026-11-22T04:55:16+00:00",
-      "summary": "Updates from the Formula 1 GP in Las Vegas Any thoughts? Get in touch with an email Lap 2/50 Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz . Continue reading...",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "published": "2026-11-22T09:56:10+00:00",
+      "summary": "A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -139,17 +139,6 @@
   ],
   "youtube": [
     {
-      "title": "DeepMind Just Released The Best Thing AI Ever Did",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
-      "published": "2026-11-19T09:26:19+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "Former NASA Scientist Fact Checks Alien Slop",
       "source": "WIRED",
       "category": "Tech / media",
@@ -168,8 +157,8 @@
       "published": "2026-11-21T17:00:29+00:00",
       "summary": "Thanksgiving is almost here, but with an earlier-than-usual flu season, holiday gatherings could spread illness.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Protesters raise alarms after Anthropic’s record-breaking IPO initial public offering",
@@ -245,8 +234,8 @@
       "published": "2026-11-21T17:00:19+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Is 30FPS A Deal Breaker For Grand Theft Auto 6?",
@@ -471,6 +460,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PbrI4UaDDE0",
+      "published": "2026-11-22T05:45:00+00:00",
+      "summary": "One week until SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -587,17 +587,6 @@
       "url": "https://www.youtube.com/watch?v=eEEh1EPD1ro",
       "published": "2026-11-18T13:00:01+00:00",
       "summary": "CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0aecVqwHOLs",
-      "published": "2026-11-18T13:00:00+00:00",
-      "summary": "CLIFF BOOTH IS BACK IN ONE WEEK. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX NOVEMBER 25. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -747,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
+    "youtubeCount": 18,
     "trailerCount": 26,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }
