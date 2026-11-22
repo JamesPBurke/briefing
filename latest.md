@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-22T10:01:00.325361Z
+Generated: 2026-11-22T14:00:02.076770Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I've never known a moment like this in video games, My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri, and The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it, Are you team ‘stuffing’ or ‘dressing’? Why Americans can’t agree on a beloved Thanksgiving side dish, and The life, death and improbable rebirth of LA’s most beloved diner.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. I've never known a moment like this in video games [10/10]
+### 1. Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more
+
+Link: https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed
+
+### 2. Are you team ‘stuffing’ or ‘dressing’? Why Americans can’t agree on a beloved Thanksgiving side dish [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The dish itself is undeniably popular, and the lines between camps and terminology are not always clear Tell us: do you have a special food tradition to ring in the new year? Thanksgiving is a holiday of strong culinary convictions.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/nov/22/thanksgiving-stuffing-dressing-food
+
+### 3. The life, death and improbable rebirth of LA’s most beloved diner [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back Sometimes, an old-school American diner is just a diner.
+
+Link: https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles
+
+### 4. The best thing I ever ate? Lunch on the strait of Hormuz [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The idea of any guest being hungry, or there not being enough food, is an unspeakable proposition for an Iranian host When most people think of the strait of Hormuz, the warm, tropical waterway connecting the Persian Gulf and the Gulf of…
+
+Link: https://www.theguardian.com/food/2026/nov/22/best-thing-i-ever-ate-lunch-strait-of-hormuz-iran-yasmin-khan
+
+### 5. ‘Harsh to be under her thumb’: Pitchfork’s Ryan Schreiber on selling to Condé Nast and Anna Wintour [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+He shocked the industry when he ‘sold out’ to corporate media in 2015.
+
+Link: https://www.theguardian.com/books/2026/nov/22/pitchfork-ryan-schreiber-selling-conde-nast-anna-wintour
+
+### 6. I've never known a moment like this in video games [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,25 +87,7 @@ It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch da
 
 Link: https://www.eurogamer.net/gta-6-video-games-biggest-moment
 
-### 2. My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-You clearly love him, but do you love yourself enough to stop letting him get away with this? I’ ve got a very upsetting problem in my marriage: my husband has extremely bad breath.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist
-
-### 3. The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Europe’s future will be fought over at the ballot box and on Ukraine’s frontline.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen
-
-### 4. Google employees protest AI in schools policy [10/10]
+### 7. Google employees protest AI in schools policy [10/10]
 **Source:** NPR Tech  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,61 +96,52 @@ More than 550 Google employees signed a petition to allow schools access to Sear
 
 Link: https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy
 
-### 5. California train burglars carefully executed heists for ‘staggering’ $22m haul [9/10]
+### 8. ‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…
+Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs.
 
-Link: https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists
+Link: https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women
 
-### 6. Two New Jersey women indicted over alleged false claims of violent attack [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…
-
-Link: https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted
-
-### 7. Review: Godzilla Minus Zero joins the list of truly stellar sequels [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes
-
-Link: https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/
-
-### 8. Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Oh I do love an eldritch horror creature, I do, especially one that at first glance may only be slightly different from what I'm used to seeing.
-
-Link: https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do
-
-### 9. LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results [9/10]
+### 9. Opinion: If AI Does the Junior Work, How Will Young People Become Experienced? [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A majority of students are complying with Los Angeles Unified’s cellphone ban and paying more attention in class, at least according to school staff.
+I serve on a local school board and have spent my career in finance and strategy.
 
-Link: https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/
+Link: https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/
 
-### 10. Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever [8/10]
+### 10. Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel…
+Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats’ prime target when…
 
-Link: https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china
 
-### 11. Killer robots: U.N. talks fall short of hopes for legally binding rules [8/10]
+### 11. Your questions about Apple HomeView’s audio, answered [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker.
+
+Link: https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay
+
+### 12. It's Medicare open enrollment time. Here's what you need to know [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.
+
+Link: https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027
+
+### 13. Killer robots: U.N. talks fall short of hopes for legally binding rules [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -131,24 +149,6 @@ Link: https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-cri
 U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.
 
 Link: https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones
-
-### 12. Bayer reaches Roundup settlement that could cost the company billions [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.
-
-Link: https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement
-
-### 13. Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Scientists discovered that eagles hunt large adult baboons in Chad, suggesting that birds of prey attacked human ancestors far more recently than previously known.
-
-Link: https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/
 
 ## YouTube
 
@@ -442,6 +442,15 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
+### locked in on benedict and sophie. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+locked in on benedict and sophie. find the thing you never knew you needed on netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=u6OL25KDyuI
+
 ### 'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28! [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -540,15 +549,6 @@ Link: https://www.youtube.com/watch?v=em2AiE5_cvs
 Four tenacious agents join returning favorites at the Oppenheim Group, where A-list clients come calling — and a new era of office drama begins. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=aUKLfYruB04
-
-### THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=eEEh1EPD1ro
 
 ### Linda Cardellini is Sarah, the mom everyone wants to have. #WayOfTheWarriorKid — November 25 [10/10]
 **Source:** Apple TV  

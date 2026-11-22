@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-22T10:01:00.325361Z",
-  "generatedAtDisplay": "2026-11-22 05:01 AM EST",
+  "generatedAt": "2026-11-22T14:00:02.076770Z",
+  "generatedAtDisplay": "2026-11-22 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I've never known a moment like this in video games, My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri, and The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it, Are you team ‘stuffing’ or ‘dressing’? Why Americans can’t agree on a beloved Thanksgiving side dish, and The life, death and improbable rebirth of LA’s most beloved diner.",
   "mainItems": [
+    {
+      "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+      "published": "2026-11-22T13:19:20+00:00",
+      "summary": "Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Are you team ‘stuffing’ or ‘dressing’? Why Americans can’t agree on a beloved Thanksgiving side dish",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/thanksgiving-stuffing-dressing-food",
+      "published": "2026-11-22T13:00:28+00:00",
+      "summary": "The dish itself is undeniably popular, and the lines between camps and terminology are not always clear Tell us: do you have a special food tradition to ring in the new year? Thanksgiving is a holiday of strong culinary convictions.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The life, death and improbable rebirth of LA’s most beloved diner",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+      "published": "2026-11-22T13:00:27+00:00",
+      "summary": "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back Sometimes, an old-school American diner is just a diner.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The best thing I ever ate? Lunch on the strait of Hormuz",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/food/2026/nov/22/best-thing-i-ever-ate-lunch-strait-of-hormuz-iran-yasmin-khan",
+      "published": "2026-11-22T11:00:25+00:00",
+      "summary": "The idea of any guest being hungry, or there not being enough food, is an unspeakable proposition for an Iranian host When most people think of the strait of Hormuz, the warm, tropical waterway connecting the Persian Gulf and the Gulf of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Harsh to be under her thumb’: Pitchfork’s Ryan Schreiber on selling to Condé Nast and Anna Wintour",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/nov/22/pitchfork-ryan-schreiber-selling-conde-nast-anna-wintour",
+      "published": "2026-11-22T10:00:23+00:00",
+      "summary": "He shocked the industry when he ‘sold out’ to corporate media in 2015.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "I've never known a moment like this in video games",
       "source": "Eurogamer",
@@ -14,26 +64,6 @@
       "published": "2026-11-22T09:00:00+00:00",
       "summary": "It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist",
-      "published": "2026-11-22T06:00:21+00:00",
-      "summary": "You clearly love him, but do you love yourself enough to stop letting him get away with this? I’ ve got a very upsetting problem in my marriage: my husband has extremely bad breath.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen",
-      "published": "2026-11-22T05:00:17+00:00",
-      "summary": "Europe’s future will be fought over at the ballot box and on Ukraine’s frontline.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,63 +77,53 @@
       "score": 10
     },
     {
-      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-      "published": "2026-11-22T00:20:41+00:00",
-      "summary": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+      "published": "2026-11-22T12:00:29+00:00",
+      "summary": "Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
-      "title": "Two New Jersey women indicted over alleged false claims of violent attack",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted",
-      "published": "2026-11-21T23:46:43+00:00",
-      "summary": "Ex-staffer for GOP representative Jeff Van Drew made a false report and paid body scarification artist to injure her Two New Jersey women were indicted for allegedly conspiring and falsely reporting to law enforcement that one of them, a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "published": "2026-11-21T22:12:41+00:00",
-      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
-      "published": "2026-11-21T18:57:00+00:00",
-      "summary": "Oh I do love an eldritch horror creature, I do, especially one that at first glance may only be slightly different from what I'm used to seeing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "LAUSD Spent Over $6 Million on a Phone Ban. Survey Data Show Mixed Results",
+      "title": "Opinion: If AI Does the Junior Work, How Will Young People Become Experienced?",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/lausd-spent-over-6-million-on-a-phone-ban-survey-data-show-mixed-results/",
-      "published": "2026-11-21T11:30:00+00:00",
-      "summary": "A majority of students are complying with Los Angeles Unified’s cellphone ban and paying more attention in class, at least according to school staff.",
+      "url": "https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/",
+      "published": "2026-11-22T11:30:00+00:00",
+      "summary": "I serve on a local school board and have spent my career in finance and strategy.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
+      "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "published": "2026-11-22T09:56:10+00:00",
-      "summary": "A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+      "published": "2026-11-22T11:00:26+00:00",
+      "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China Howard Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump , is emerging as Democrats’ prime target when…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "published": "2026-11-22T13:11:50+00:00",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "It's Medicare open enrollment time. Here's what you need to know",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+      "published": "2026-11-22T13:11:04+00:00",
+      "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -115,26 +135,6 @@
       "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "Bayer reaches Roundup settlement that could cost the company billions",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-      "published": "2026-11-21T20:37:35+00:00",
-      "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
-      "published": "2026-11-21T12:00:00+00:00",
-      "summary": "Scientists discovered that eagles hunt large adult baboons in Chad, suggesting that birds of prey attacked human ancestors far more recently than previously known.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -460,6 +460,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "locked in on benedict and sophie.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=u6OL25KDyuI",
+      "published": "2026-11-22T13:00:00+00:00",
+      "summary": "locked in on benedict and sophie. find the thing you never knew you needed on netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28!",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -578,17 +589,6 @@
       "summary": "Four tenacious agents join returning favorites at the Oppenheim Group, where A-list clients come calling — and a new era of office drama begins. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Get Tickets Now | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=eEEh1EPD1ro",
-      "published": "2026-11-18T13:00:01+00:00",
-      "summary": "CLIFF BOOTH IS BACK IN 8 DAYS. THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH. GET TICKETS NOW. ONLY IN IMAX 26 NOVEMBER. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -738,6 +738,6 @@
     "mainCount": 13,
     "youtubeCount": 18,
     "trailerCount": 26,
-    "sourceCount": 20
+    "sourceCount": 18
   }
 }
