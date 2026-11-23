@@ -1,11 +1,111 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-23T10:00:54.997960Z",
-  "generatedAtDisplay": "2026-11-23 05:00 AM EST",
+  "generatedAt": "2026-11-23T14:00:01.729585Z",
+  "generatedAtDisplay": "2026-11-23 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with, Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you, and Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons, Democrats reveal details for 2028 presidential primary after midterm victories – US politics live, and The Download: AI’s judgment problem and carbon removal’s crop threat.",
   "mainItems": [
+    {
+      "title": "Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/amid-immigration-crackdown-lets-support-school-family-liaisons/",
+      "published": "2026-11-23T13:30:00+00:00",
+      "summary": "On election day, voters sent Democrats into office, up and down the ballot, in typically blue strongholds and in places where it had been hard to imagine Republicans losing power.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "published": "2026-11-23T13:16:02+00:00",
+      "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Donald Trump is scheduled to deliver remarks at the Department of Justice this…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "published": "2026-11-23T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "AI conquered chess. What happened next should give us hope",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "published": "2026-11-23T13:00:31+00:00",
+      "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+      "published": "2026-11-23T12:21:23+00:00",
+      "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how the UN’s climate summits make decisions,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Data Never Had a Job",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/the-data-never-had-a-job/",
+      "published": "2026-11-23T12:00:00+00:00",
+      "summary": "Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "published": "2026-11-23T11:42:51+00:00",
+      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+      "published": "2026-11-23T11:00:57+00:00",
+      "summary": "The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble The sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Queen's Domain review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/queens-domain-review",
+      "published": "2026-11-23T10:04:50+00:00",
+      "summary": "Where to start with Queen's Domain? It's tempting to begin with King's Field; after all, FromSoftware's seminal first-person action-RPG is an explicit inspiration for developer Freshly Baked Games.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘Reminds me of home’: why Coming to America is my feelgood movie",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/nov/23/coming-to-america-feelgood-movie",
+      "published": "2026-11-23T10:00:53+00:00",
+      "summary": "The latest in our series of writers picking their most rewatched comfort films is an ode to Eddie Murphy’s beloved culture-clash comedy “Good morning, my neighbors!” A young Eddie Murphy shouts from the balcony of a shady apartment…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
       "source": "Eurogamer",
@@ -17,124 +117,24 @@
       "score": 10
     },
     {
-      "title": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
-      "published": "2026-11-23T09:27:50+00:00",
-      "summary": "Call of Duty publisher Activision has filed for a new patent allowing it to train NPCs on real-world player voice chat.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "published": "2026-11-23T09:23:27+00:00",
-      "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Zelenskyy also said that “partners”…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nasa, please send me to the moon. Science says I’m the perfect crew member | Helen Pilcher",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/nasa-astronauts-moon-science-crew-member-women",
-      "published": "2026-11-23T07:00:50+00:00",
-      "summary": "Women of my age have been training for this job for years – solving problems, defusing tensions, keeping everyone fed – and we absolutely smash it Nasa is hiring and I’m over the moon.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna",
-      "published": "2026-11-23T05:00:46+00:00",
-      "summary": "For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "published": "2026-11-22T20:23:36+00:00",
-      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The life, death and improbable rebirth of LA’s most beloved diner",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
-      "published": "2026-11-22T13:00:27+00:00",
-      "summary": "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back Sometimes, an old-school American diner is just a diner.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ICJ ruling on duty to prevent genocide places new onus on countries to act",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/law/2026/nov/23/icj-ruling-duty-to-prevent-genocide-international-court-of-justice",
-      "published": "2026-11-23T09:42:33+00:00",
-      "summary": "Experts say ruling closing ‘incoherent gap’ has implications for countries such as UK and Germany over arming Israel Countries could be found in breach of the duty to prevent genocide even if it is ultimately determined that the legal…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
+      "title": "Nvidia stock bounces as Trump pushes for rehiring of Jensen Huang, and tech stocks rebound – business live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london",
-      "published": "2026-11-23T00:01:41+00:00",
-      "summary": "Hayward Gallery, London The photographer finds echoes of Caravaggio and Greek myth in her erotic images, while her disturbing animal montages show that while humans can be beautiful, we are far from innocent It’s the dirty realism of Nan…",
+      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "published": "2026-11-23T13:30:51+00:00",
+      "summary": "Rolling coverage of the latest economic and financial news Next issues cyber-attack warning after ‘benign’ data accessed by hackers Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "published": "2026-11-22T17:25:20+00:00",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-      "published": "2026-11-22T13:19:20+00:00",
-      "summary": "Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-      "published": "2026-11-22T13:11:04+00:00",
-      "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+      "published": "2026-11-22T17:34:20+00:00",
+      "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Opinion: If AI Does the Junior Work, How Will Young People Become Experienced?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/",
-      "published": "2026-11-22T11:30:00+00:00",
-      "summary": "I serve on a local school board and have spent my career in finance and strategy.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -405,6 +405,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "3 Body Problem | Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jtmffkSP_jQ",
+      "published": "2026-11-23T13:00:00+00:00",
+      "summary": "We will help you remember. Relive the events of the first season of 3 Body Problem before new episodes debut. The Emmy-nominated blockbuster 3 Body Problem returns for a second season on January 14th, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Trust | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -534,17 +545,6 @@
       "summary": "Druski and Mike Epps play a money-hungry megachurch pastor and his unpredictable deacon in Collect & Praise, a brand new series premiering Dec 1. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Selling Sunset: Season 10 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aUKLfYruB04",
-      "published": "2026-11-18T17:00:00+00:00",
-      "summary": "Four tenacious agents join returning favorites at the Oppenheim Group, where A-list clients come calling — and a new era of office drama begins. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -683,6 +683,6 @@
     "mainCount": 13,
     "youtubeCount": 14,
     "trailerCount": 25,
-    "sourceCount": 17
+    "sourceCount": 18
   }
 }

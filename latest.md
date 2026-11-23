@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-23T10:00:54.997960Z
+Generated: 2026-11-23T14:00:01.729585Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar "didn't have the resources" to do it to a standard it'd be happy with, Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you, and Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons, Democrats reveal details for 2028 presidential primary after midterm victories – US politics live, and The Download: AI’s judgment problem and carbon removal’s crop threat.
 
 ## Briefing
 
@@ -33,7 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar "didn't have the resources" to do it to a standard it'd be happy with [10/10]
+### 1. Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+On election day, voters sent Democrats into office, up and down the ballot, in typically blue strongholds and in places where it had been hard to imagine Republicans losing power.
+
+Link: https://www.the74million.org/article/amid-immigration-crackdown-lets-support-school-family-liaisons/
+
+### 2. Democrats reveal details for 2028 presidential primary after midterm victories – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Donald Trump is scheduled to deliver remarks at the Department of Justice this…
+
+Link: https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates
+
+### 3. The Download: AI’s judgment problem and carbon removal’s crop threat [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
+
+### 4. AI conquered chess. What happened next should give us hope [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and…
+
+Link: https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai
+
+### 5. Failure of Cop31 prompts calls for urgent reform of UN climate summits [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how the UN’s climate summits make decisions,…
+
+Link: https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits
+
+### 6. The Data Never Had a Job [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .
+
+Link: https://csteachers.org/the-data-never-had-a-job/
+
+### 7. Ukraine confirms it used naval drones to strike two Russian ships off Libya [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on…
+
+Link: https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya
+
+### 8. Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble The sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised…
+
+Link: https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble
+
+### 9. Queen's Domain review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Where to start with Queen's Domain? It's tempting to begin with King's Field; after all, FromSoftware's seminal first-person action-RPG is an explicit inspiration for developer Freshly Baked Games.
+
+Link: https://www.eurogamer.net/queens-domain-review
+
+### 10. ‘Reminds me of home’: why Coming to America is my feelgood movie [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The latest in our series of writers picking their most rewatched comfort films is an ode to Eddie Murphy’s beloved culture-clash comedy “Good morning, my neighbors!” A young Eddie Murphy shouts from the balcony of a shady apartment…
+
+Link: https://www.theguardian.com/film/2026/nov/23/coming-to-america-feelgood-movie
+
+### 11. Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar "didn't have the resources" to do it to a standard it'd be happy with [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,113 +132,23 @@ If you've been a fan of Grand Theft Auto for a while, you might have noticed a s
 
 Link: https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources
 
-### 2. Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Call of Duty publisher Activision has filed for a new patent allowing it to train NPCs on real-world player voice chat.
-
-Link: https://www.eurogamer.net/activision-ai-voice-chat-npc-patent
-
-### 3. Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Zelenskyy also said that “partners”…
-
-Link: https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates
-
-### 4. Nasa, please send me to the moon. Science says I’m the perfect crew member | Helen Pilcher [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Women of my age have been training for this job for years – solving problems, defusing tensions, keeping everyone fed – and we absolutely smash it Nasa is hiring and I’m over the moon.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/23/nasa-astronauts-moon-science-crew-member-women
-
-### 5. ‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got.
-
-Link: https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna
-
-### 6. Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s…
-
-Link: https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy
-
-### 7. The life, death and improbable rebirth of LA’s most beloved diner [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back Sometimes, an old-school American diner is just a diner.
-
-Link: https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles
-
-### 8. ICJ ruling on duty to prevent genocide places new onus on countries to act [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Experts say ruling closing ‘incoherent gap’ has implications for countries such as UK and Germany over arming Israel Countries could be found in breach of the duty to prevent genocide even if it is ultimately determined that the legal…
-
-Link: https://www.theguardian.com/law/2026/nov/23/icj-ruling-duty-to-prevent-genocide-international-court-of-justice
-
-### 9. Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review [9/10]
+### 12. Nvidia stock bounces as Trump pushes for rehiring of Jensen Huang, and tech stocks rebound – business live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Hayward Gallery, London The photographer finds echoes of Caravaggio and Greek myth in her erotic images, while her disturbing animal montages show that while humans can be beautiful, we are far from innocent It’s the dirty realism of Nan…
+Rolling coverage of the latest economic and financial news Next issues cyber-attack warning after ‘benign’ data accessed by hackers Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company…
 
-Link: https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london
+Link: https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates
 
-### 10. Binding of Isaac developer removes AI music from Repentance Plus [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.
-
-Link: https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
-
-### 11. Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more
-
-Link: https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed
-
-### 12. Medicare looks a bit different in 2027, so don't miss open enrollment [8/10]
+### 13. Meet the young authors! A literacy program inspires kids in South Africa [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.
+South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.
 
-Link: https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027
-
-### 13. Opinion: If AI Does the Junior Work, How Will Young People Become Experienced? [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-I serve on a local school board and have spent my career in finance and strategy.
-
-Link: https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/
+Link: https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy
 
 ## YouTube
 
@@ -397,6 +397,15 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
+### 3 Body Problem | Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+We will help you remember. Relive the events of the first season of 3 Body Problem before new episodes debut. The Emmy-nominated blockbuster 3 Body Problem returns for a second season on January 14th, only on Netflix.
+
+Link: https://www.youtube.com/watch?v=jtmffkSP_jQ
+
 ### The Trust | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -504,15 +513,6 @@ Link: https://www.youtube.com/watch?v=oe8kPuRt4ss
 Druski and Mike Epps play a money-hungry megachurch pastor and his unpredictable deacon in Collect & Praise, a brand new series premiering Dec 1. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=em2AiE5_cvs
-
-### Selling Sunset: Season 10 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Four tenacious agents join returning favorites at the Oppenheim Group, where A-list clients come calling — and a new era of office drama begins. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=aUKLfYruB04
 
 ### Linda Cardellini is Sarah, the mom everyone wants to have. #WayOfTheWarriorKid — November 25 [10/10]
 **Source:** Apple TV  
