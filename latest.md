@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-23T05:00:01.503998Z
+Generated: 2026-11-23T10:00:54.997960Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle, Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says, and Binding of Isaac developer removes AI music from Repentance Plus.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar "didn't have the resources" to do it to a standard it'd be happy with, Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you, and Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle [10/10]
+### 1. Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar "didn't have the resources" to do it to a standard it'd be happy with [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 .
+
+Link: https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources
+
+### 2. Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Call of Duty publisher Activision has filed for a new patent allowing it to train NPCs on real-world player voice chat.
+
+Link: https://www.eurogamer.net/activision-ai-voice-chat-npc-patent
+
+### 3. Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’ Protesters marched through the Seattle-Tacoma international airport on Sunday after widely shared footage…
+President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Zelenskyy also said that “partners”…
 
-Link: https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport
+Link: https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates
 
-### 2. Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says [10/10]
+### 4. Nasa, please send me to the moon. Science says I’m the perfect crew member | Helen Pilcher [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Women of my age have been training for this job for years – solving problems, defusing tensions, keeping everyone fed – and we absolutely smash it Nasa is hiring and I’m over the moon.
+
+Link: https://www.theguardian.com/commentisfree/2026/nov/23/nasa-astronauts-moon-science-crew-member-women
+
+### 5. ‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got.
+
+Link: https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna
+
+### 6. Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +87,7 @@ John Kennedy looks to Trump leaders as he asks how China evidently bypassed expo
 
 Link: https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy
 
-### 3. Binding of Isaac developer removes AI music from Repentance Plus [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.
-
-Link: https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
-
-### 4. The life, death and improbable rebirth of LA’s most beloved diner [10/10]
+### 7. The life, death and improbable rebirth of LA’s most beloved diner [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,34 +96,34 @@ For decades, it served pancakes, hash browns and steaks to hungry Angelenos. The
 
 Link: https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles
 
-### 5. Some of our favorite Switch 2 games are cheaper through Black Friday [9/10]
+### 8. ICJ ruling on duty to prevent genocide places new onus on countries to act [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts say ruling closing ‘incoherent gap’ has implications for countries such as UK and Germany over arming Israel Countries could be found in breach of the duty to prevent genocide even if it is ultimately determined that the legal…
+
+Link: https://www.theguardian.com/law/2026/nov/23/icj-ruling-duty-to-prevent-genocide-international-court-of-justice
+
+### 9. Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Hayward Gallery, London The photographer finds echoes of Caravaggio and Greek myth in her erotic images, while her disturbing animal montages show that while humans can be beautiful, we are far from innocent It’s the dirty realism of Nan…
+
+Link: https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london
+
+### 10. Binding of Isaac developer removes AI music from Repentance Plus [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well.
+The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.
 
-Link: https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale
+Link: https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
 
-### 6. I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-What have I learned from my experiment with outsourcing? That I’m easily replaced – and awful I’ve just ventured deeper into my phone’s settings than anybody has ever been before.
-
-Link: https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead
-
-### 7. US releases files on suspected Bigfoot sightings in Montana and Oregon [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again. Well, not Sasquatch directly, but new files about the cryptid.
-
-Link: https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service
-
-### 8. Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it [9/10]
+### 11. Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -105,25 +132,7 @@ Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ a
 
 Link: https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed
 
-### 9. I've never known a moment like this in video games [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock.
-
-Link: https://www.eurogamer.net/gta-6-video-games-biggest-moment
-
-### 10. Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald…
-
-Link: https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name
-
-### 11. Medicare looks a bit different in 2027, so don't miss open enrollment [8/10]
+### 12. Medicare looks a bit different in 2027, so don't miss open enrollment [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-
 Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.
 
 Link: https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027
-
-### 12. ‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause [8/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs.
-
-Link: https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women
 
 ### 13. Opinion: If AI Does the Junior Work, How Will Young People Become Experienced? [8/10]
 **Source:** The 74  
@@ -152,6 +152,15 @@ Link: https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-y
 
 ## YouTube
 
+### Claude AI Solved The Secret Of Black Holes [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.
+
+Link: https://www.youtube.com/watch?v=1jPdehG3Hms
+
 ### Former NASA Scientist Fact Checks Alien Slop [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -161,9 +170,9 @@ AI slop is littering your feed and spreading misinformation, so WIRED’s here t
 
 Link: https://www.youtube.com/watch?v=QUtRLGRSCeM
 
-### Muslims expected to outnumber Christians around globe by 2035 [8/10]
+### Muslims expected to outnumber Christians around globe by 2035 [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Muslims are expected to outnumber Christians by the year 2035. That’s among the findings of a new study on religious trends from Pew Research.⁠ ⁠ Pew projects that by the year 2070, Christians will decline to less than half of the U.S.
@@ -260,9 +269,9 @@ Link: https://www.youtube.com/watch?v=kr3zHBiP0mU
 
 Link: https://www.youtube.com/watch?v=mEU9VvAi4m8
 
-### Hadoukens and Whatnot in Street Fighter 6 | Super Smash Sunday [7/10]
+### Hadoukens and Whatnot in Street Fighter 6 | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -387,6 +396,15 @@ Link: https://www.youtube.com/watch?v=H_uly3CPQa0
 Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
+
+### The Trust | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Sir Idris Elba joins forces with His Majesty King Charles III to mark 50 years of The King’s Trust - exploring how life has changed for young people and how The Trust has helped more than 1.5 million young people around the world.
+
+Link: https://www.youtube.com/watch?v=xVjpzd-fsJU
 
 ### locked in on benedict and sophie. [9/10]
 **Source:** Netflix  
