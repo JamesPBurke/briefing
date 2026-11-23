@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-23T14:00:01.729585Z",
-  "generatedAtDisplay": "2026-11-23 09:00 AM EST",
+  "generatedAt": "2026-11-23T19:00:54.749484Z",
+  "generatedAtDisplay": "2026-11-23 02:00 PM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons, Democrats reveal details for 2028 presidential primary after midterm victories – US politics live, and The Download: AI’s judgment problem and carbon removal’s crop threat.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday, The best Black Friday deals we’ve already found, and A legendary philosopher isn’t buying Anthropic’s consciousness argument.",
   "mainItems": [
+    {
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "published": "2026-11-23T18:37:32+00:00",
+      "summary": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The best Black Friday deals we’ve already found",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "published": "2026-11-23T18:33:07+00:00",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until Friday, November 27th, retailers are already dropping early deals on some of our favorite tech.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "published": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "published": "2026-11-23T16:28:15+00:00",
+      "summary": "Let's say you're Jensen Huang.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "published": "2026-11-23T15:46:18+00:00",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons",
       "source": "The 74",
@@ -13,16 +63,6 @@
       "url": "https://www.the74million.org/article/amid-immigration-crackdown-lets-support-school-family-liaisons/",
       "published": "2026-11-23T13:30:00+00:00",
       "summary": "On election day, voters sent Democrats into office, up and down the ballot, in typically blue strongholds and in places where it had been hard to imagine Republicans losing power.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "published": "2026-11-23T13:16:02+00:00",
-      "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Donald Trump is scheduled to deliver remarks at the Department of Justice this…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,26 +77,6 @@
       "score": 10
     },
     {
-      "title": "AI conquered chess. What happened next should give us hope",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
-      "published": "2026-11-23T13:00:31+00:00",
-      "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-      "published": "2026-11-23T12:21:23+00:00",
-      "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how the UN’s climate summits make decisions,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "The Data Never Had a Job",
       "source": "CSTA",
       "category": "Education / pedagogy",
@@ -67,509 +87,58 @@
       "score": 10
     },
     {
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-      "published": "2026-11-23T11:42:51+00:00",
-      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
-      "published": "2026-11-23T11:00:57+00:00",
-      "summary": "The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble The sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Queen's Domain review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/queens-domain-review",
-      "published": "2026-11-23T10:04:50+00:00",
-      "summary": "Where to start with Queen's Domain? It's tempting to begin with King's Field; after all, FromSoftware's seminal first-person action-RPG is an explicit inspiration for developer Freshly Baked Games.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘Reminds me of home’: why Coming to America is my feelgood movie",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/nov/23/coming-to-america-feelgood-movie",
-      "published": "2026-11-23T10:00:53+00:00",
-      "summary": "The latest in our series of writers picking their most rewatched comfort films is an ode to Eddie Murphy’s beloved culture-clash comedy “Good morning, my neighbors!” A young Eddie Murphy shouts from the balcony of a shady apartment…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
-      "published": "2026-11-23T09:50:30+00:00",
-      "summary": "If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia stock bounces as Trump pushes for rehiring of Jensen Huang, and tech stocks rebound – business live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
-      "published": "2026-11-23T13:30:51+00:00",
-      "summary": "Rolling coverage of the latest economic and financial news Next issues cyber-attack warning after ‘benign’ data accessed by hackers Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record low, after the company…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "published": "2026-11-23T18:26:47+00:00",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+      "published": "2026-11-23T18:17:22+00:00",
+      "summary": "AI generated customized shows featuring customized ads.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "published": "2026-11-23T14:53:41+00:00",
+      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-      "published": "2026-11-22T17:34:20+00:00",
-      "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+      "published": "2026-11-23T16:00:49+00:00",
+      "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "We’re Ready to Love Hot Democrats Again",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/politics/hot-democrats-abdul-el-sayed-jon-ossoff/",
+      "published": "2026-11-23T14:54:54+00:00",
+      "summary": "Mathew Rodriguez Politician-related thirst levels are reaching heights not seen in decades. Why is America's longing for lusty legislators spiking so much? The post We’re Ready to Love Hot Democrats Again appeared first on The Nation .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Claude AI Solved The Secret Of Black Holes",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
-      "published": "2026-11-23T07:37:52+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Former NASA Scientist Fact Checks Alien Slop",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=QUtRLGRSCeM",
-      "published": "2026-11-20T17:02:03+00:00",
-      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join former NASA scientist and Senior Scientist at Planetary Science Institute Dr.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Muslims expected to outnumber Christians around globe by 2035",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=gORnMG9sm48",
-      "published": "2026-11-22T17:30:28+00:00",
-      "summary": "Muslims are expected to outnumber Christians by the year 2035. That’s among the findings of a new study on religious trends from Pew Research.⁠ ⁠ Pew projects that by the year 2070, Christians will decline to less than half of the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Early flu season could hinder holiday travel and Thanksgiving gatherings",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=rvSOpzzYFo4",
-      "published": "2026-11-21T17:00:29+00:00",
-      "summary": "Thanksgiving is almost here, but with an earlier-than-usual flu season, holiday gatherings could spread illness.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Protesters raise alarms after Anthropic’s record-breaking IPO initial public offering",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=otbFTag610Q",
-      "published": "2026-11-20T17:51:57+00:00",
-      "summary": "On the same day the AI giant Anthropic posted the biggest initial public offering on record, ​four people were arrested for blocking an entrance to the company’s San Francisco offices Thursday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Tributes pour in for beloved Cincinnati Zoo hippo, Fiona",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=BV9CVn8UUdc",
-      "published": "2026-11-20T16:10:32+00:00",
-      "summary": "Fiona, the hippo that captured global attention after being born prematurely nearly a decade ago, has died at the Cincinnati Zoo.⁠ ⁠ Fiona won hearts around the world in January 2017 when she was born six weeks premature at 29 pounds.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "London mayor bans traffic on Oxford Street, Britain's busiest shopping thoroughfare",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=e4yS3nRpAck",
-      "published": "2026-11-20T14:30:34+00:00",
-      "summary": "Oxford Street gets half a million visitors a day. It’s the British equivalent of Fifth Avenue. But after the pandemic — and with the growth of online shopping — some flagship stores have left the iconic thoroughfare.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Big Ace Combat Console Retrospective - AC 1-7 + Spin-Offs Revisted!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=StfvxEh5V4c",
-      "published": "2026-11-22T17:00:32+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Grand Theft Auto 6 - PS5/Pro/Xbox Series X|S - How Do They All Compare?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=t-2SRHMBjvs",
-      "published": "2026-11-22T16:00:27+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Will Jensen's Nvidia Exit Impact Nintendo Switch 3?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=tCE84uQSAOU",
-      "published": "2026-11-21T17:00:19+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is 30FPS A Deal Breaker For Grand Theft Auto 6?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Ekf8ek56hYE",
-      "published": "2026-11-21T16:00:39+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Grand Theft Auto 6: Beyond The Tech - Our Gameplay Thoughts",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=kr3zHBiP0mU",
-      "published": "2026-11-20T18:00:31+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Xbox's Big Project Helix Info Reveal - And We Like The Sound Of It",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=mEU9VvAi4m8",
-      "published": "2026-11-20T17:00:35+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Hadoukens and Whatnot in Street Fighter 6 | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4es4kzaFc1k",
-      "published": "2026-11-22T19:38:53+00:00",
-      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Rma1KLKyZWs",
-      "published": "2026-11-06T23:50:45+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Resident Evil 2026 | Roundtable Series",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=-0YLuOYAcGw",
-      "published": "2026-11-06T23:20:32+00:00",
-      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Debut | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
-      "published": "2026-11-10T14:00:15+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
-      "published": "2026-11-18T17:00:10+00:00",
-      "summary": "From Luca Guadagnino comes the story of OpenAI and a two decade artificial intelligence arms race.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Red Snow | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=jtjDrAt270c",
-      "published": "2026-11-18T17:28:46+00:00",
-      "summary": "A 16-year-old emo teen's vampire fantasies take a bloody turn when she encounters Martti, a beer-bellied, balding bloodsucker who dons a Santa suit to terrorize unsuspecting families. RED SNOW premieres December 11 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NEW GROUP | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=dhezj9Mjccw",
-      "published": "2026-11-13T17:02:18+00:00",
-      "summary": "A student appears on the playground, crawling on all fours. Days later, others join, forming a human pyramid. It marks the start of a bizarre phenomenon that spreads across the community. NEW GROUP drops November 6 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tinsman Road | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=wh0bX4gb5rE",
-      "published": "2026-11-13T17:01:58+00:00",
-      "summary": "In the dark backwoods of New Jersey, a young man navigates the serpentine mystery surrounding his long-missing sister and their family home. TINSMAN ROAD premieres November 13 on Shudder. #Shudder #TinsmanRoad Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "New Group Trailer | J-Horror | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ZIz9Q3eACdY",
-      "published": "2026-11-13T17:00:13+00:00",
-      "summary": "A bizarre new obsession is sweeping through a Japanese high school, and participation is quickly becoming non-negotiable. From the director of Best Wishes to All, NEW GROUP is streaming now on Shudder. #Shudder Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Unholy Night | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=H_uly3CPQa0",
-      "published": "2026-11-09T16:01:33+00:00",
-      "summary": "A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Rainmaker S2 | The Bag",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Z23cr_4L340",
-      "published": "2026-11-14T19:00:35+00:00",
-      "summary": "Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "3 Body Problem | Season 1 Recap | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jtmffkSP_jQ",
-      "published": "2026-11-23T13:00:00+00:00",
-      "summary": "We will help you remember. Relive the events of the first season of 3 Body Problem before new episodes debut. The Emmy-nominated blockbuster 3 Body Problem returns for a second season on January 14th, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Trust | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=xVjpzd-fsJU",
-      "published": "2026-11-23T08:00:00+00:00",
-      "summary": "Sir Idris Elba joins forces with His Majesty King Charles III to mark 50 years of The King’s Trust - exploring how life has changed for young people and how The Trust has helped more than 1.5 million young people around the world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "locked in on benedict and sophie.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=u6OL25KDyuI",
-      "published": "2026-11-22T13:00:00+00:00",
-      "summary": "locked in on benedict and sophie. find the thing you never knew you needed on netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PbrI4UaDDE0",
-      "published": "2026-11-22T05:45:00+00:00",
-      "summary": "One week until SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=4sqcMPRhl9M",
-      "published": "2026-11-21T17:00:00+00:00",
-      "summary": "hope you finished your pre-show ramyeon! 🍜 KPop Demon Hunters: The Immersive Experience is now open at Netflix House Philadelphia and Dallas. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PwJAGwfqvPA",
-      "published": "2026-11-20T18:00:00+00:00",
-      "summary": "Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Emei | The Understudy (From “STEPS”) | Lyric Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=88oyRuNlLjE",
-      "published": "2026-11-20T16:00:00+00:00",
-      "summary": "If you want to hear Lilith’s “walk-up song,” hit play on Emei’s, “The Understudy” and check out the official lyric video from the STEPS soundtrack. STEPS is now playing, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Rose Gray | Meet Me on the Dance Floor (From “STEPS”) | Lyric Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VNG8jYuKsvE",
-      "published": "2026-11-20T15:00:00+00:00",
-      "summary": "Princess Priscilla commands you to boogie. Check out the official lyric video for Rose Gray’s “Meet Me on the Dance Floor” from the STEPS soundtrack. STEPS is now playing, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_PZcS8b58U4",
-      "published": "2026-11-19T18:30:16+00:00",
-      "summary": "You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Living The Dream | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=kufMgxRyA9k",
-      "published": "2026-11-19T13:00:00+00:00",
-      "summary": "At a London ecofood corporation, two cash-strapped best friends stumble into wild misadventures as they try to climb the career ladder and find love. Living the Dream, an 8-part series, coming 18 December, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Secrets | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=sp3iPAOs0UQ",
-      "published": "2026-11-19T03:00:00+00:00",
-      "summary": "After leaving behind a dark past, Parni (Sha Ine Febriyanti) must once again face Jamal (Abimana Aryasatya), her ex-husband, who has returned for revenge. Vengeance and dark secrets will come to light.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "She kisses the wrong hot brother. IN A HOLIDAZE is yours in 2 weeks! #InaHolidaze",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oe8kPuRt4ss",
-      "published": "2026-11-18T22:00:00+00:00",
-      "summary": "She kisses the wrong hot brother, and then gets caught in a Christmas time loop to make it right. IN A HOLIDAZE is yours in 2 weeks! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Collect & Praise | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=em2AiE5_cvs",
-      "published": "2026-11-18T18:30:00+00:00",
-      "summary": "Druski and Mike Epps play a money-hungry megachurch pastor and his unpredictable deacon in Collect & Praise, a brand new series premiering Dec 1. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Linda Cardellini is Sarah, the mom everyone wants to have. #WayOfTheWarriorKid — November 25",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=kJ60rntsXbI",
-      "published": "2026-11-20T16:59:56+00:00",
-      "summary": "Every kid needs someone in their corner. Chris Pratt and Jude Hill star in this coming-of-age drama. One summer to train. A new kind of courage. Premieres November 25 on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Presumed Innocent — Season 2 Official Teaser | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=B1cLo1po_8M",
-      "published": "2026-11-20T13:59:55+00:00",
-      "summary": "Season 2 of the crime thriller stars Rachel Brosnahan, Matthew Rhys, Courtney B. Vance, and Fiona Shaw. Streaming February 19 on Apple TV. New season. New case. New lies. Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -681,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
-    "trailerCount": 25,
-    "sourceCount": 18
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 9
   }
 }
