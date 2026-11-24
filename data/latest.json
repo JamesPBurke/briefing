@@ -1,99 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-23T19:00:54.749484Z",
-  "generatedAtDisplay": "2026-11-23 02:00 PM EST",
+  "generatedAt": "2026-11-24T05:00:03.704643Z",
+  "generatedAtDisplay": "2026-11-24 12:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday, The best Black Friday deals we’ve already found, and A legendary philosopher isn’t buying Anthropic’s consciousness argument.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, AI / computing. The strongest items in this run are Google alternative Kagi launches an email service, The hacker behind early GTA VI leaks has been sentenced — and released, and Welcome to elite impunity, Jensen Huang.",
   "mainItems": [
     {
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
+      "title": "Google alternative Kagi launches an email service",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "published": "2026-11-23T18:37:32+00:00",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart.",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "published": "2026-11-24T00:02:52+00:00",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The best Black Friday deals we’ve already found",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "published": "2026-11-23T18:33:07+00:00",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until Friday, November 27th, retailers are already dropping early deals on some of our favorite tech.",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "published": "2026-11-23T23:25:01+00:00",
+      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "source": "MIT Technology Review",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "published": "2026-11-23T22:21:36+00:00",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-23T22:18:13+00:00",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "published": "2026-11-23T14:53:41+00:00",
+      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "published": "2026-11-23T17:36:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "published": "2026-11-23T22:38:09+00:00",
+      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "published": "2026-11-23T16:28:15+00:00",
-      "summary": "Let's say you're Jensen Huang.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "published": "2026-11-23T15:46:18+00:00",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: Amid Immigration Crackdown, Let’s Support School Family Liaisons",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/amid-immigration-crackdown-lets-support-school-family-liaisons/",
-      "published": "2026-11-23T13:30:00+00:00",
-      "summary": "On election day, voters sent Democrats into office, up and down the ballot, in typically blue strongholds and in places where it had been hard to imagine Republicans losing power.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "published": "2026-11-23T13:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The Data Never Had a Job",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/the-data-never-had-a-job/",
-      "published": "2026-11-23T12:00:00+00:00",
-      "summary": "Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "published": "2026-11-23T18:26:47+00:00",
-      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
+      "published": "2026-11-23T19:22:30+00:00",
+      "summary": "Banjo-Kazooie - the iconic Rare platformer starring an absent-minded bear and the sassy red bird he carries in a backpack - has been on hiatus for years, but a new Activision job listing has raised hopes for a new game. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -107,14 +87,24 @@
       "score": 9
     },
     {
-      "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-      "published": "2026-11-23T14:53:41+00:00",
-      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "The Data Never Had a Job",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/the-data-never-had-a-job/",
+      "published": "2026-11-23T12:00:00+00:00",
+      "summary": "Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/missing-characters-final-avengers-doomsday-trailer/",
+      "published": "2026-11-23T21:12:32+00:00",
+      "summary": "Where is our friendly multiverse Spider-Man? The post The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
@@ -127,18 +117,503 @@
       "score": 8
     },
     {
-      "title": "We’re Ready to Love Hot Democrats Again",
+      "title": "The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology",
       "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/politics/hot-democrats-abdul-el-sayed-jon-ossoff/",
-      "published": "2026-11-23T14:54:54+00:00",
-      "summary": "Mathew Rodriguez Politician-related thirst levels are reaching heights not seen in decades. Why is America's longing for lusty legislators spiking so much? The post We’re Ready to Love Hot Democrats Again appeared first on The Nation .",
+      "url": "https://www.thenation.com/article/politics/america-crumbling-infrastructure-doge-federal-cuts/",
+      "published": "2026-11-23T16:13:31+00:00",
+      "summary": "Katrina vanden Heuvel America’s infrastructure crisis can no longer be ignored. The post The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology appeared first on The Nation .",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "53 holiday and Christmas cookies to bake this year: Our best cookie recipes, including new classics and old favorites.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/11/23/christmas-cookies",
+      "published": "2026-11-23T15:00:00+00:00",
+      "summary": "When we first published this list of holiday and Christmas cookies a few years ago, our goal was to put all of our top cookie recipes together in one place.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "published": "2026-11-23T07:37:52+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "DnD: Best Tips For a First-time Dungeon Master",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=UuUmd_npdrQ",
+      "published": "2026-11-23T19:45:01+00:00",
+      "summary": "Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer the internet's burning questions about Dungeons & Dragons.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "'Grand Theft Auto VI' hype leads to arrest in real-life criminal case",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=oZswpPyUad4",
+      "published": "2026-11-23T20:00:27+00:00",
+      "summary": "In Grand Theft Auto VI — the first new game in the series in 13 years that brought in nearly $4 billion in sales worldwide on its first day — players can steal cars and pull off heists. It also gave police in the U.K.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Fewer Americans traveling for Thanksgiving this year",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=cdwcbnybba0",
+      "published": "2026-11-23T17:40:27+00:00",
+      "summary": "For the first time since 2020, Americans are expected to travel a little less for Thanksgiving this year.⁠ ⁠ AAA projects 81.5 million Americans will travel 50 miles or more from home this week — a drop of 0.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Family pulled from Seattle airport by ICE says they are here legally",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=pDcQxatr6BU",
+      "published": "2026-11-23T16:00:30+00:00",
+      "summary": "The lawyer for the father and daughter pulled from a crowded Sea-Tac Airport jetway by ICE agents over the weekend says they were here legally.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Muslims expected to outnumber Christians around globe by 2035",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=gORnMG9sm48",
+      "published": "2026-11-22T17:30:28+00:00",
+      "summary": "Muslims are expected to outnumber Christians by the year 2035. That’s among the findings of a new study on religious trends from Pew Research.⁠ ⁠ Pew projects that by the year 2070, Christians will decline to less than half of the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Early flu season could hinder holiday travel and Thanksgiving gatherings",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=rvSOpzzYFo4",
+      "published": "2026-11-21T17:00:29+00:00",
+      "summary": "Thanksgiving is almost here, but with an earlier-than-usual flu season, holiday gatherings could spread illness.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is A Switch 2 Port of Grand Theft Auto 6 Even Possible?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=M_HjFfiad3g",
+      "published": "2026-11-23T18:00:37+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bbw-nkpqP5s ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Grand Theft Auto 6 - Why This Is The State Of The Art",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Hy02m6cSghA",
+      "published": "2026-11-23T17:00:20+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Big Ace Combat Console Retrospective - AC 1-7 + Spin-Offs Revisted!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=StfvxEh5V4c",
+      "published": "2026-11-22T17:00:32+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Grand Theft Auto 6 - PS5/Pro/Xbox Series X|S - How Do They All Compare?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=t-2SRHMBjvs",
+      "published": "2026-11-22T16:00:27+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Will Jensen's Nvidia Exit Impact Nintendo Switch 3?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=tCE84uQSAOU",
+      "published": "2026-11-21T17:00:19+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is 30FPS A Deal Breaker For Grand Theft Auto 6?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Ekf8ek56hYE",
+      "published": "2026-11-21T16:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Volvy’s Adventure: Reslimed is This Week's Hottest Video Game | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=t6wTIALSZB8",
+      "published": "2026-11-24T02:16:52+00:00",
+      "summary": "This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. -- https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Early Stories From Our Time in Grand Theft Auto VI | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rplBppRNI0g",
+      "published": "2026-11-23T19:09:51+00:00",
+      "summary": "This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Is The Ocarina of Time Remake \"Too Easy\"? | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=_lpRBNiF3JI",
+      "published": "2026-11-23T16:00:21+00:00",
+      "summary": "This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Hadoukens and Whatnot in Street Fighter 6 | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4es4kzaFc1k",
+      "published": "2026-11-22T19:38:53+00:00",
+      "summary": "Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Danny Roa Storybook | Make It Universal",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=tKuKQ9OjBEA",
+      "published": "2026-11-23T20:26:51+00:00",
+      "summary": "Talk about a full circle moment! In this Storybook series, Danny Roa shares how they went from not only falling in love with theme parks but also landing a career that taps into their creative skills!",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Simon Wells Storybook | Make It Universal",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=4LWkjqCIAGQ",
+      "published": "2026-11-23T20:26:45+00:00",
+      "summary": "Simon Wells has been part of DreamWorks Animation's journey since the beginning. In this Storybook series, he shares how he started in animation, the process and what inspired him to get into the business.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Ray Robertson Storybook | Make It Universal",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=_fKzsOkXBdE",
+      "published": "2026-11-23T20:26:35+00:00",
+      "summary": "Ray Robertson: trailer editor, storyteller and most importantly, pathfinder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rma1KLKyZWs",
+      "published": "2026-11-06T23:50:45+00:00",
+      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Resident Evil 2026 | Roundtable Series",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-0YLuOYAcGw",
+      "published": "2026-11-06T23:20:32+00:00",
+      "summary": "Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Debut | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=lF9n06SMDPU",
+      "published": "2026-11-10T14:00:15+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
+      "published": "2026-11-18T17:00:10+00:00",
+      "summary": "From Luca Guadagnino comes the story of OpenAI and a two decade artificial intelligence arms race.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Red Snow | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=jtjDrAt270c",
+      "published": "2026-11-18T17:28:46+00:00",
+      "summary": "A 16-year-old emo teen's vampire fantasies take a bloody turn when she encounters Martti, a beer-bellied, balding bloodsucker who dons a Santa suit to terrorize unsuspecting families. RED SNOW premieres December 11 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NEW GROUP | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dhezj9Mjccw",
+      "published": "2026-11-13T17:02:18+00:00",
+      "summary": "A student appears on the playground, crawling on all fours. Days later, others join, forming a human pyramid. It marks the start of a bizarre phenomenon that spreads across the community. NEW GROUP drops November 6 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tinsman Road | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wh0bX4gb5rE",
+      "published": "2026-11-13T17:01:58+00:00",
+      "summary": "In the dark backwoods of New Jersey, a young man navigates the serpentine mystery surrounding his long-missing sister and their family home. TINSMAN ROAD premieres November 13 on Shudder. #Shudder #TinsmanRoad Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "New Group Trailer | J-Horror | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZIz9Q3eACdY",
+      "published": "2026-11-13T17:00:13+00:00",
+      "summary": "A bizarre new obsession is sweeping through a Japanese high school, and participation is quickly becoming non-negotiable. From the director of Best Wishes to All, NEW GROUP is streaming now on Shudder. #Shudder Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Unholy Night | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=H_uly3CPQa0",
+      "published": "2026-11-09T16:01:33+00:00",
+      "summary": "A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Rainmaker S2 | The Bag",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Z23cr_4L340",
+      "published": "2026-11-14T19:00:35+00:00",
+      "summary": "Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=L8zU_MDfaKw",
+      "published": "2026-11-24T01:00:00+00:00",
+      "summary": "Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "3 Body Problem | Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jtmffkSP_jQ",
+      "published": "2026-11-23T13:00:00+00:00",
+      "summary": "We will help you remember. Relive the events of the first season of 3 Body Problem before new episodes debut. The Emmy-nominated blockbuster 3 Body Problem returns for a second season on January 14th, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Trust | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xVjpzd-fsJU",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Sir Idris Elba joins forces with His Majesty King Charles III to mark 50 years of The King’s Trust - exploring how life has changed for young people and how The Trust has helped more than 1.5 million young people around the world.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "locked in on benedict and sophie.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=u6OL25KDyuI",
+      "published": "2026-11-22T13:00:00+00:00",
+      "summary": "locked in on benedict and sophie. find the thing you never knew you needed on netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PbrI4UaDDE0",
+      "published": "2026-11-22T05:45:00+00:00",
+      "summary": "One week until SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4sqcMPRhl9M",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "hope you finished your pre-show ramyeon! 🍜 KPop Demon Hunters: The Immersive Experience is now open at Netflix House Philadelphia and Dallas. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PwJAGwfqvPA",
+      "published": "2026-11-20T18:00:00+00:00",
+      "summary": "Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Emei | The Understudy (From “STEPS”) | Lyric Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=88oyRuNlLjE",
+      "published": "2026-11-20T16:00:00+00:00",
+      "summary": "If you want to hear Lilith’s “walk-up song,” hit play on Emei’s, “The Understudy” and check out the official lyric video from the STEPS soundtrack. STEPS is now playing, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Rose Gray | Meet Me on the Dance Floor (From “STEPS”) | Lyric Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VNG8jYuKsvE",
+      "published": "2026-11-20T15:00:00+00:00",
+      "summary": "Princess Priscilla commands you to boogie. Check out the official lyric video for Rose Gray’s “Meet Me on the Dance Floor” from the STEPS soundtrack. STEPS is now playing, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_PZcS8b58U4",
+      "published": "2026-11-19T18:30:16+00:00",
+      "summary": "You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Living The Dream | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=kufMgxRyA9k",
+      "published": "2026-11-19T13:00:00+00:00",
+      "summary": "At a London ecofood corporation, two cash-strapped best friends stumble into wild misadventures as they try to climb the career ladder and find love. Living the Dream, an 8-part series, coming 18 December, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Secrets | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=sp3iPAOs0UQ",
+      "published": "2026-11-19T03:00:00+00:00",
+      "summary": "After leaving behind a dark past, Parni (Sha Ine Febriyanti) must once again face Jamal (Abimana Aryasatya), her ex-husband, who has returned for revenge. Vengeance and dark secrets will come to light.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TIMBERLAKE — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=sDMNuKvCXOc",
+      "published": "2026-11-23T13:59:58+00:00",
+      "summary": "After 30 years of unparalleled success and relentless scrutiny, Justin Timberlake looks at his life today and reckons with the drama, the headlines, and the cost of never slowing down. TIMBERLAKE. A four-part documentary event.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 17,
+    "trailerCount": 26,
+    "sourceCount": 22
   }
 }
