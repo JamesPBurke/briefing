@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-24T05:00:03.704643Z",
-  "generatedAtDisplay": "2026-11-24 12:00 AM EST",
+  "generatedAt": "2026-11-24T10:00:46.643161Z",
+  "generatedAtDisplay": "2026-11-24 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, AI / computing. The strongest items in this run are Google alternative Kagi launches an email service, The hacker behind early GTA VI leaks has been sentenced — and released, and Welcome to elite impunity, Jensen Huang.",
@@ -67,23 +67,13 @@
       "score": 9
     },
     {
-      "title": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+      "title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
-      "published": "2026-11-23T19:22:30+00:00",
-      "summary": "Banjo-Kazooie - the iconic Rare platformer starring an absent-minded bear and the sassy red bird he carries in a backpack - has been on hiatus for years, but a new Activision job listing has raised hopes for a new game. Read more",
+      "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+      "published": "2026-11-23T17:06:40+00:00",
+      "summary": "As Dawn of War 4 's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "published": "2026-11-23T18:17:22+00:00",
-      "summary": "AI generated customized shows featuring customized ads.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -97,6 +87,16 @@
       "score": 9
     },
     {
+      "title": "Families of sailors in the Middle East remain concerned about their mental health",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051054/families-of-sailors-in-the-middle-east-remain-concerned-about-their-mental-health",
+      "published": "2026-11-24T09:52:56+00:00",
+      "summary": "Families say U.S. sailors in the Middle East are increasingly showing signs of strain as the U.S. Navy's commitment in the region shows no sign of ending.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -107,12 +107,12 @@
       "score": 8
     },
     {
-      "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-      "published": "2026-11-23T16:00:49+00:00",
-      "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+      "published": "2026-11-23T18:17:22+00:00",
+      "summary": "AI generated customized shows featuring customized ads.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -146,8 +146,8 @@
       "published": "2026-11-23T07:37:52+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "DnD: Best Tips For a First-time Dungeon Master",
@@ -157,8 +157,8 @@
       "published": "2026-11-23T19:45:01+00:00",
       "summary": "Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer the internet's burning questions about Dungeons & Dragons.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "'Grand Theft Auto VI' hype leads to arrest in real-life criminal case",
@@ -179,8 +179,8 @@
       "published": "2026-11-23T17:40:27+00:00",
       "summary": "For the first time since 2020, Americans are expected to travel a little less for Thanksgiving this year.⁠ ⁠ AAA projects 81.5 million Americans will travel 50 miles or more from home this week — a drop of 0.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Family pulled from Seattle airport by ICE says they are here legally",
@@ -300,8 +300,8 @@
       "published": "2026-11-23T19:09:51+00:00",
       "summary": "This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Is The Ocarina of Time Remake \"Too Easy\"? | Design Delve",
@@ -335,8 +335,8 @@
       "published": "2026-11-23T20:26:51+00:00",
       "summary": "Talk about a full circle moment! In this Storybook series, Danny Roa shares how they went from not only falling in love with theme parks but also landing a career that taps into their creative skills!",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
+      "score": 6,
+      "verdict": "Optional"
     },
     {
       "title": "Simon Wells Storybook | Make It Universal",
@@ -346,8 +346,8 @@
       "published": "2026-11-23T20:26:45+00:00",
       "summary": "Simon Wells has been part of DreamWorks Animation's journey since the beginning. In this Storybook series, he shares how he started in animation, the process and what inspired him to get into the business.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
+      "score": 6,
+      "verdict": "Optional"
     },
     {
       "title": "Ray Robertson Storybook | Make It Universal",

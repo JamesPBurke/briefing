@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-11-24T05:00:03.704643Z
+Generated: 2026-11-24T10:00:46.643161Z
 
 Today's sweep leans toward Democracy / press freedom, Science / computing, AI / computing. The strongest items in this run are Google alternative Kagi launches an email service, The hacker behind early GTA VI leaks has been sentenced — and released, and Welcome to elite impunity, Jensen Huang.
 
@@ -87,25 +87,16 @@ Ladybird, an independent web browser with a built-from-scratch engine, is finall
 
 Link: https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
 
-### 7. Activision calls Banjo-Kazooie one of its "iconic gaming franchises," raising hopes for long-awaited new game [9/10]
+### 7. Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Banjo-Kazooie - the iconic Rare platformer starring an absent-minded bear and the sassy red bird he carries in a backpack - has been on hiatus for years, but a new Activision job listing has raised hopes for a new game. Read more
+As Dawn of War 4 's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more
 
-Link: https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise
+Link: https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease
 
-### 8. Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-AI generated customized shows featuring customized ads.
-
-Link: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/
-
-### 9. The Data Never Had a Job [9/10]
+### 8. The Data Never Had a Job [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -113,6 +104,15 @@ Link: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be
 Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .
 
 Link: https://csteachers.org/the-data-never-had-a-job/
+
+### 9. Families of sailors in the Middle East remain concerned about their mental health [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Families say U.S. sailors in the Middle East are increasingly showing signs of strain as the U.S. Navy's commitment in the region shows no sign of ending.
+
+Link: https://www.npr.org/2026/11/24/nx-s1-6051054/families-of-sailors-in-the-middle-east-remain-concerned-about-their-mental-health
 
 ### 10. The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer [8/10]
 **Source:** Reactor  
@@ -123,14 +123,14 @@ Where is our friendly multiverse Spider-Man? The post The Biggest Characters Sti
 
 Link: https://reactormag.com/missing-characters-final-avengers-doomsday-trailer/
 
-### 11. 'Medicare for all' is back on the drawing board. Does it stand a better chance this time? [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+### 11. Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?
+AI generated customized shows featuring customized ads.
 
-Link: https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances
+Link: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/
 
 ### 12. The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology [7/10]
 **Source:** The Nation  
@@ -152,18 +152,18 @@ Link: https://www.kingarthurbaking.com/blog/2026/11/23/christmas-cookies
 
 ## YouTube
 
-### Claude AI Solved The Secret Of Black Holes [8/10]
+### Claude AI Solved The Secret Of Black Holes [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.
 
 Link: https://www.youtube.com/watch?v=1jPdehG3Hms
 
-### DnD: Best Tips For a First-time Dungeon Master [8/10]
+### DnD: Best Tips For a First-time Dungeon Master [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer the internet's burning questions about Dungeons & Dragons.
@@ -179,9 +179,9 @@ In Grand Theft Auto VI — the first new game in the series in 13 years that bro
 
 Link: https://www.youtube.com/watch?v=oZswpPyUad4
 
-### Fewer Americans traveling for Thanksgiving this year [9/10]
+### Fewer Americans traveling for Thanksgiving this year [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 For the first time since 2020, Americans are expected to travel a little less for Thanksgiving this year.⁠ ⁠ AAA projects 81.5 million Americans will travel 50 miles or more from home this week — a drop of 0.
@@ -278,9 +278,9 @@ This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-insp
 
 Link: https://www.youtube.com/watch?v=t6wTIALSZB8
 
-### Early Stories From Our Time in Grand Theft Auto VI | Windbreaker Podcast [8/10]
+### Early Stories From Our Time in Grand Theft Auto VI | Windbreaker Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.
@@ -334,18 +334,18 @@ Link: https://www.youtube.com/watch?v=4es4kzaFc1k
 
 ## Trailers / Previews
 
-### Danny Roa Storybook | Make It Universal [7/10]
+### Danny Roa Storybook | Make It Universal [6/10]
 **Source:** Universal Pictures  
-**Verdict:** Worth a glance  
+**Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Talk about a full circle moment! In this Storybook series, Danny Roa shares how they went from not only falling in love with theme parks but also landing a career that taps into their creative skills!
 
 Link: https://www.youtube.com/watch?v=tKuKQ9OjBEA
 
-### Simon Wells Storybook | Make It Universal [7/10]
+### Simon Wells Storybook | Make It Universal [6/10]
 **Source:** Universal Pictures  
-**Verdict:** Worth a glance  
+**Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Simon Wells has been part of DreamWorks Animation's journey since the beginning. In this Storybook series, he shares how he started in animation, the process and what inspired him to get into the business.
