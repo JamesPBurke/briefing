@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-24T14:00:03.666417Z
+Generated: 2026-11-24T19:00:50.483606Z
 
-Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Google's Customized AI TV Channel, Starring You, The hacker behind early GTA VI leaks has been sentenced — and released, and GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5.
+Today's sweep leans toward AI / computing, Education / pedagogy, Democracy / press freedom. The strongest items in this run are Opinion: To New Blue State Governors: Be an Education Governor, US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia, and Virginia Families Navigate School Closures After Lapses in Child Abuse Screening.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Google's Customized AI TV Channel, Starring You [10/10]
+### 1. Opinion: To New Blue State Governors: Be an Education Governor [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Democrats have a long tradition of expanding opportunity through public education, and with 75% of the nation’s school-aged children in states with Democratic governors as of January, the practical work of improving student learning…
+
+Link: https://www.the74million.org/article/to-new-blue-state-governors-be-an-education-governor/
+
+### 2. US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks.
+
+Link: https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list
+
+### 3. Virginia Families Navigate School Closures After Lapses in Child Abuse Screening [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Under pressure to do well on an exam, University of Virginia graduate student Kara Guyton was home taking a test last Thursday, joined by her three elementary school children, who made forts with blankets while students in other parts of…
+
+Link: https://www.the74million.org/article/virginia-families-navigate-school-closures-after-lapses-in-child-abuse-screening/
+
+### 4. Jensen Huang deepfakes are the hot new AI slop [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.
+
+Link: https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes
+
+### 5. Wyze’s new window feeder records birds from a camera inside your home [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation.
+
+Link: https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification
+
+### 6. Google's Customized AI TV Channel, Starring You [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -42,25 +87,25 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 
 Link: https://www.404media.co/googles-customized-ai-tv-channel-starring-you/
 
-### 2. The hacker behind early GTA VI leaks has been sentenced — and released [10/10]
-**Source:** The Verge  
+### 7. FAA opens probe after Amazon delivery drone clips cable, crashes into garage [9/10]
+**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports.
+Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.
 
-Link: https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released
+Link: https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/
 
-### 3. GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5 [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 8. Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Following the full game list for Awesome Games Done Quick being released a little while ago, GDQ have now published the full schedule for the event running for a week from January 3rd through January 10th in Atlanta (and streamed on Twitch…
+Amazon has hundreds of satellites in storage waiting for rides to space.
 
-Link: https://www.rockpapershotgun.com/gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-featuring-new-runs-like-queens-domain-big-walk-galactic-racer-and-the-incongruously-not-new-yakuza-5
+Link: https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/
 
-### 4. Amazon says hackers' AI agents found and exploited 0-day with little human input [10/10]
+### 9. Amazon says hackers' AI agents found and exploited 0-day with little human input [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -69,43 +114,7 @@ The Cairn AI framework is proving to be a boon for defenders and attackers.
 
 Link: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
 
-### 5. Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of…
-
-Link: https://www.eurogamer.net/xbox-live-helix-killing-paid-membership
-
-### 6. Trump claims credit as Jensen Huang returns to Nvidia [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.
-
-Link: https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump
-
-### 7. The Download: AI’s gas power boom and a consciousness reality check [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
-
-### 8. Some 2M Children Have Lost SNAP Benefits — And Now Millions More Are at Risk [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Staff at Madrona Elementary School in Seattle spent last Friday stocking a brand new food pantry opened on-site to meet the community’s growing demand for help after drastic cuts to federal aid programs.
-
-Link: https://www.the74million.org/article/some-2m-children-have-lost-snap-benefits-and-now-millions-more-are-at-risk/
-
-### 9. At Cornell, Students Are Still Seeking Answers [9/10]
+### 10. At Cornell, Students Are Still Seeking Answers [9/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -114,7 +123,7 @@ Jeannine Chiang Amid faculty votes of no confidence and perceived administrative
 
 Link: https://www.thenation.com/article/society/cornell-kotlikoff-chi-phi-rape-allegations-investigation-accountability-jane-doe/
 
-### 10. Bleeding, birth defects: Congo residents sue over alleged mining pollution [9/10]
+### 11. The human cost of the electric vehicle boom is at the center of a lawsuit in Congo [9/10]
 **Source:** NPR Health  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -123,7 +132,7 @@ A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and 
 
 Link: https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals
 
-### 11. Doctors struggle to save babies after parents refuse vitamin K [8/10]
+### 12. Doctors struggle to save babies after parents refuse vitamin K [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,438 +141,11 @@ Doctors are fighting an uphill battle against disinformation about routine vitam
 
 Link: https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding
 
-### 12. The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 13. For workplace culture champions, Jensen Huang's return is 'unfathomable' [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Where is our friendly multiverse Spider-Man? The post The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer appeared first on Reactor .
+Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.
 
-Link: https://reactormag.com/missing-characters-final-avengers-doomsday-trailer/
-
-### 13. 53 holiday and Christmas cookies to bake this year: Our best cookie recipes, including new classics and old favorites. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-When we first published this list of holiday and Christmas cookies a few years ago, our goal was to put all of our top cookie recipes together in one place.
-
-Link: https://www.kingarthurbaking.com/blog/2026/11/23/christmas-cookies
-
-## YouTube
-
-### Claude AI Solved The Secret Of Black Holes [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.
-
-Link: https://www.youtube.com/watch?v=1jPdehG3Hms
-
-### DnD: Best Tips For a First-time Dungeon Master [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer the internet's burning questions about Dungeons & Dragons.
-
-Link: https://www.youtube.com/watch?v=UuUmd_npdrQ
-
-### 'Grand Theft Auto VI' hype leads to arrest in real-life criminal case [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-In Grand Theft Auto VI — the first new game in the series in 13 years that brought in nearly $4 billion in sales worldwide on its first day — players can steal cars and pull off heists. It also gave police in the U.K.
-
-Link: https://www.youtube.com/watch?v=oZswpPyUad4
-
-### Fewer Americans traveling for Thanksgiving this year [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-For the first time since 2020, Americans are expected to travel a little less for Thanksgiving this year.⁠ ⁠ AAA projects 81.5 million Americans will travel 50 miles or more from home this week — a drop of 0.
-
-Link: https://www.youtube.com/watch?v=cdwcbnybba0
-
-### Family pulled from Seattle airport by ICE says they are here legally [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-The lawyer for the father and daughter pulled from a crowded Sea-Tac Airport jetway by ICE agents over the weekend says they were here legally.
-
-Link: https://www.youtube.com/watch?v=pDcQxatr6BU
-
-### Muslims expected to outnumber Christians around globe by 2035 [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Muslims are expected to outnumber Christians by the year 2035. That’s among the findings of a new study on religious trends from Pew Research.⁠ ⁠ Pew projects that by the year 2070, Christians will decline to less than half of the U.S.
-
-Link: https://www.youtube.com/watch?v=gORnMG9sm48
-
-### Early flu season could hinder holiday travel and Thanksgiving gatherings [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Thanksgiving is almost here, but with an earlier-than-usual flu season, holiday gatherings could spread illness.
-
-Link: https://www.youtube.com/watch?v=rvSOpzzYFo4
-
-### Is A Switch 2 Port of Grand Theft Auto 6 Even Possible? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/bbw-nkpqP5s ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=M_HjFfiad3g
-
-### Grand Theft Auto 6 - Why This Is The State Of The Art [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Hy02m6cSghA
-
-### The Big Ace Combat Console Retrospective - AC 1-7 + Spin-Offs Revisted! [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/j5sfIbuCOqI ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=StfvxEh5V4c
-
-### Grand Theft Auto 6 - PS5/Pro/Xbox Series X|S - How Do They All Compare? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=t-2SRHMBjvs
-
-### Will Jensen's Nvidia Exit Impact Nintendo Switch 3? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/xxntqe0HKso ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=tCE84uQSAOU
-
-### Is 30FPS A Deal Breaker For Grand Theft Auto 6? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Ekf8ek56hYE
-
-### Volvy’s Adventure: Reslimed is This Week's Hottest Video Game | Hot Monday Energy [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. -- https://store.
-
-Link: https://www.youtube.com/watch?v=t6wTIALSZB8
-
-### Early Stories From Our Time in Grand Theft Auto VI | Windbreaker Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.
-
-Link: https://www.youtube.com/watch?v=rplBppRNI0g
-
-### Is The Ocarina of Time Remake "Too Easy"? | Design Delve [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=_lpRBNiF3JI
-
-### Hadoukens and Whatnot in Street Fighter 6 | Super Smash Sunday [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Come and challenge KC and El Cheshire to some Street Fighter 6. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=4es4kzaFc1k
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
-- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
-- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### Danny Roa Storybook | Make It Universal [6/10]
-**Source:** Universal Pictures  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Talk about a full circle moment! In this Storybook series, Danny Roa shares how they went from not only falling in love with theme parks but also landing a career that taps into their creative skills!
-
-Link: https://www.youtube.com/watch?v=tKuKQ9OjBEA
-
-### Simon Wells Storybook | Make It Universal [6/10]
-**Source:** Universal Pictures  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Simon Wells has been part of DreamWorks Animation's journey since the beginning. In this Storybook series, he shares how he started in animation, the process and what inspired him to get into the business.
-
-Link: https://www.youtube.com/watch?v=4LWkjqCIAGQ
-
-### Ray Robertson Storybook | Make It Universal [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Ray Robertson: trailer editor, storyteller and most importantly, pathfinder.
-
-Link: https://www.youtube.com/watch?v=_fKzsOkXBdE
-
-### RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser [6/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
-
-Link: https://www.youtube.com/watch?v=Rma1KLKyZWs
-
-### Resident Evil 2026 | Roundtable Series [6/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
-
-Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
-
-### The Debut | Official Trailer 2 HD | A24 [7/10]
-**Source:** A24  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.
-
-Link: https://www.youtube.com/watch?v=lF9n06SMDPU
-
-### Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From Luca Guadagnino comes the story of OpenAI and a two decade artificial intelligence arms race.
-
-Link: https://www.youtube.com/watch?v=ufeJbTNq-BI
-
-### Red Snow | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A 16-year-old emo teen's vampire fantasies take a bloody turn when she encounters Martti, a beer-bellied, balding bloodsucker who dons a Santa suit to terrorize unsuspecting families. RED SNOW premieres December 11 on Shudder.
-
-Link: https://www.youtube.com/watch?v=jtjDrAt270c
-
-### NEW GROUP | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A student appears on the playground, crawling on all fours. Days later, others join, forming a human pyramid. It marks the start of a bizarre phenomenon that spreads across the community. NEW GROUP drops November 6 on Shudder.
-
-Link: https://www.youtube.com/watch?v=dhezj9Mjccw
-
-### Tinsman Road | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-In the dark backwoods of New Jersey, a young man navigates the serpentine mystery surrounding his long-missing sister and their family home. TINSMAN ROAD premieres November 13 on Shudder. #Shudder #TinsmanRoad Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=wh0bX4gb5rE
-
-### New Group Trailer | J-Horror | Shudder [10/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A bizarre new obsession is sweeping through a Japanese high school, and participation is quickly becoming non-negotiable. From the director of Best Wishes to All, NEW GROUP is streaming now on Shudder. #Shudder Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=ZIz9Q3eACdY
-
-### Unholy Night | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.
-
-Link: https://www.youtube.com/watch?v=H_uly3CPQa0
-
-### The Rainmaker S2 | The Bag [7/10]
-**Source:** Blumhouse  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
-
-Link: https://www.youtube.com/watch?v=Z23cr_4L340
-
-### Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=L8zU_MDfaKw
-
-### 3 Body Problem | Season 1 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-We will help you remember. Relive the events of the first season of 3 Body Problem before new episodes debut. The Emmy-nominated blockbuster 3 Body Problem returns for a second season on January 14th, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=jtmffkSP_jQ
-
-### The Trust | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Sir Idris Elba joins forces with His Majesty King Charles III to mark 50 years of The King’s Trust - exploring how life has changed for young people and how The Trust has helped more than 1.5 million young people around the world.
-
-Link: https://www.youtube.com/watch?v=xVjpzd-fsJU
-
-### locked in on benedict and sophie. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-locked in on benedict and sophie. find the thing you never knew you needed on netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=u6OL25KDyuI
-
-### 'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-One week until SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=PbrI4UaDDE0
-
-### KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-hope you finished your pre-show ramyeon! 🍜 KPop Demon Hunters: The Immersive Experience is now open at Netflix House Philadelphia and Dallas. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=4sqcMPRhl9M
-
-### Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Forget everything you thought you knew about cinderella, meet Lilith! STEPS is now playing! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=PwJAGwfqvPA
-
-### Emei | The Understudy (From “STEPS”) | Lyric Video | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-If you want to hear Lilith’s “walk-up song,” hit play on Emei’s, “The Understudy” and check out the official lyric video from the STEPS soundtrack. STEPS is now playing, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=88oyRuNlLjE
-
-### Rose Gray | Meet Me on the Dance Floor (From “STEPS”) | Lyric Video | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Princess Priscilla commands you to boogie. Check out the official lyric video for Rose Gray’s “Meet Me on the Dance Floor” from the STEPS soundtrack. STEPS is now playing, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=VNG8jYuKsvE
-
-### You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-You know the story. You don’t know this version 👀 STEPS premieres @ midnight PST! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=_PZcS8b58U4
-
-### Living The Dream | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-At a London ecofood corporation, two cash-strapped best friends stumble into wild misadventures as they try to climb the career ladder and find love. Living the Dream, an 8-part series, coming 18 December, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=kufMgxRyA9k
-
-### Secrets | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-After leaving behind a dark past, Parni (Sha Ine Febriyanti) must once again face Jamal (Abimana Aryasatya), her ex-husband, who has returned for revenge. Vengeance and dark secrets will come to light.
-
-Link: https://www.youtube.com/watch?v=sp3iPAOs0UQ
-
-### TIMBERLAKE — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-After 30 years of unparalleled success and relentless scrutiny, Justin Timberlake looks at his life today and reckons with the drama, the headlines, and the cost of never slowing down. TIMBERLAKE. A four-part documentary event.
-
-Link: https://www.youtube.com/watch?v=sDMNuKvCXOc
+Link: https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women
