@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-24T10:00:46.643161Z
+Generated: 2026-11-24T14:00:03.666417Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, AI / computing. The strongest items in this run are Google alternative Kagi launches an email service, The hacker behind early GTA VI leaks has been sentenced — and released, and Welcome to elite impunity, Jensen Huang.
+Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Google's Customized AI TV Channel, Starring You, The hacker behind early GTA VI leaks has been sentenced — and released, and GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Google alternative Kagi launches an email service [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Google's Customized AI TV Channel, Starring You [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail.
+"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist."
 
-Link: https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative
+Link: https://www.404media.co/googles-customized-ai-tv-channel-starring-you/
 
 ### 2. The hacker behind early GTA VI leaks has been sentenced — and released [10/10]
 **Source:** The Verge  
@@ -51,25 +51,34 @@ Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI develo
 
 Link: https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released
 
-### 3. Welcome to elite impunity, Jensen Huang [10/10]
-**Source:** The Verge  
+### 3. GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5 [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Following the full game list for Awesome Games Done Quick being released a little while ago, GDQ have now published the full schedule for the event running for a week from January 3rd through January 10th in Atlanta (and streamed on Twitch…
+
+Link: https://www.rockpapershotgun.com/gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-featuring-new-runs-like-queens-domain-big-walk-galactic-racer-and-the-incongruously-not-new-yakuza-5
+
+### 4. Amazon says hackers' AI agents found and exploited 0-day with little human input [10/10]
+**Source:** Ars Technica  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+The Cairn AI framework is proving to be a boon for defenders and attackers.
+
+Link: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
+
+### 5. Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.
+A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang
+Link: https://www.eurogamer.net/xbox-live-helix-killing-paid-membership
 
-### 4. Nvidia CEO Jensen Huang is back. What happens next? [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
-
-### 5. Trump claims credit as Jensen Huang returns to Nvidia [10/10]
+### 6. Trump claims credit as Jensen Huang returns to Nvidia [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -78,43 +87,52 @@ President Trump endorsed the announcement, calling it essential for the success 
 
 Link: https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump
 
-### 6. Ladybird, the first new browser engine in years, is now available to test [9/10]
-**Source:** The Verge  
+### 7. The Download: AI’s gas power boom and a consciousness reality check [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
+Link: https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
 
-### 7. Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As Dawn of War 4 's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more
-
-Link: https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease
-
-### 8. The Data Never Had a Job [9/10]
-**Source:** CSTA  
+### 8. Some 2M Children Have Lost SNAP Benefits — And Now Millions More Are at Risk [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .
+Staff at Madrona Elementary School in Seattle spent last Friday stocking a brand new food pantry opened on-site to meet the community’s growing demand for help after drastic cuts to federal aid programs.
 
-Link: https://csteachers.org/the-data-never-had-a-job/
+Link: https://www.the74million.org/article/some-2m-children-have-lost-snap-benefits-and-now-millions-more-are-at-risk/
 
-### 9. Families of sailors in the Middle East remain concerned about their mental health [8/10]
+### 9. At Cornell, Students Are Still Seeking Answers [9/10]
+**Source:** The Nation  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Jeannine Chiang Amid faculty votes of no confidence and perceived administrative mishandling of sexual assault allegations, Cornell students are still searching for accountability.
+
+Link: https://www.thenation.com/article/society/cornell-kotlikoff-chi-phi-rape-allegations-investigation-accountability-jane-doe/
+
+### 10. Bleeding, birth defects: Congo residents sue over alleged mining pollution [9/10]
+**Source:** NPR Health  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.
+
+Link: https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals
+
+### 11. Doctors struggle to save babies after parents refuse vitamin K [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Families say U.S. sailors in the Middle East are increasingly showing signs of strain as the U.S. Navy's commitment in the region shows no sign of ending.
+Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.
 
-Link: https://www.npr.org/2026/11/24/nx-s1-6051054/families-of-sailors-in-the-middle-east-remain-concerned-about-their-mental-health
+Link: https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding
 
-### 10. The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer [8/10]
+### 12. The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -122,24 +140,6 @@ Link: https://www.npr.org/2026/11/24/nx-s1-6051054/families-of-sailors-in-the-mi
 Where is our friendly multiverse Spider-Man? The post The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer appeared first on Reactor .
 
 Link: https://reactormag.com/missing-characters-final-avengers-doomsday-trailer/
-
-### 11. Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-AI generated customized shows featuring customized ads.
-
-Link: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/
-
-### 12. The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology [7/10]
-**Source:** The Nation  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Katrina vanden Heuvel America’s infrastructure crisis can no longer be ignored. The post The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology appeared first on The Nation .
-
-Link: https://www.thenation.com/article/politics/america-crumbling-infrastructure-doge-federal-cuts/
 
 ### 13. 53 holiday and Christmas cookies to bake this year: Our best cookie recipes, including new classics and old favorites. [7/10]
 **Source:** King Arthur Baking  
@@ -451,7 +451,7 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
-### Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28! [10/10]
+### Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

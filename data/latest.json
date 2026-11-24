@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-24T10:00:46.643161Z",
-  "generatedAtDisplay": "2026-11-24 05:00 AM EST",
+  "generatedAt": "2026-11-24T14:00:03.666417Z",
+  "generatedAtDisplay": "2026-11-24 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, AI / computing. The strongest items in this run are Google alternative Kagi launches an email service, The hacker behind early GTA VI leaks has been sentenced — and released, and Welcome to elite impunity, Jensen Huang.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Google's Customized AI TV Channel, Starring You, The hacker behind early GTA VI leaks has been sentenced — and released, and GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5.",
   "mainItems": [
     {
-      "title": "Google alternative Kagi launches an email service",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "published": "2026-11-24T00:02:52+00:00",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Google's Customized AI TV Channel, Starring You",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/",
+      "published": "2026-11-24T13:42:30+00:00",
+      "summary": "\"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -21,28 +21,38 @@
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "published": "2026-11-23T23:25:01+00:00",
+      "published": "2026-11-24T13:21:16+00:00",
       "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "published": "2026-11-23T22:21:36+00:00",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-featuring-new-runs-like-queens-domain-big-walk-galactic-racer-and-the-incongruously-not-new-yakuza-5",
+      "published": "2026-11-24T12:30:40+00:00",
+      "summary": "Following the full game list for Awesome Games Done Quick being released a little while ago, GDQ have now published the full schedule for the event running for a week from January 3rd through January 10th in Atlanta (and streamed on Twitch…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "source": "The Verge",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published": "2026-11-24T12:30:05+00:00",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "published": "2026-11-23T22:18:13+00:00",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+      "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+      "published": "2026-11-24T10:02:10+00:00",
+      "summary": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,42 +67,52 @@
       "score": 10
     },
     {
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "source": "The Verge",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "published": "2026-11-23T22:38:09+00:00",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing.",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "published": "2026-11-24T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
-      "published": "2026-11-23T17:06:40+00:00",
-      "summary": "As Dawn of War 4 's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "The Data Never Had a Job",
-      "source": "CSTA",
+      "title": "Some 2M Children Have Lost SNAP Benefits — And Now Millions More Are at Risk",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://csteachers.org/the-data-never-had-a-job/",
-      "published": "2026-11-23T12:00:00+00:00",
-      "summary": "Where It Started My sixth graders were sure the loudest spot at school was the lunch tables, and I didn’t... The post The Data Never Had a Job appeared first on Computer Science Teachers Association .",
+      "url": "https://www.the74million.org/article/some-2m-children-have-lost-snap-benefits-and-now-millions-more-are-at-risk/",
+      "published": "2026-11-24T11:30:00+00:00",
+      "summary": "Staff at Madrona Elementary School in Seattle spent last Friday stocking a brand new food pantry opened on-site to meet the community’s growing demand for help after drastic cuts to federal aid programs.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Families of sailors in the Middle East remain concerned about their mental health",
+      "title": "At Cornell, Students Are Still Seeking Answers",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/society/cornell-kotlikoff-chi-phi-rape-allegations-investigation-accountability-jane-doe/",
+      "published": "2026-11-24T10:00:00+00:00",
+      "summary": "Jeannine Chiang Amid faculty votes of no confidence and perceived administrative mishandling of sexual assault allegations, Cornell students are still searching for accountability.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+      "source": "NPR Health",
+      "category": "AI / privacy",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "published": "2026-11-24T10:00:00+00:00",
+      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051054/families-of-sailors-in-the-middle-east-remain-concerned-about-their-mental-health",
-      "published": "2026-11-24T09:52:56+00:00",
-      "summary": "Families say U.S. sailors in the Middle East are increasingly showing signs of strain as the U.S. Navy's commitment in the region shows no sign of ending.",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+      "published": "2026-11-24T10:00:00+00:00",
+      "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -105,26 +125,6 @@
       "summary": "Where is our friendly multiverse Spider-Man? The post The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "published": "2026-11-23T18:17:22+00:00",
-      "summary": "AI generated customized shows featuring customized ads.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology",
-      "source": "The Nation",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/politics/america-crumbling-infrastructure-doge-federal-cuts/",
-      "published": "2026-11-23T16:13:31+00:00",
-      "summary": "Katrina vanden Heuvel America’s infrastructure crisis can no longer be ignored. The post The Week That Was: A Cavalcade of Catastrophes Across Air Travel and Workplace Technology appeared first on The Nation .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 7
     },
     {
       "title": "53 holiday and Christmas cookies to bake this year: Our best cookie recipes, including new classics and old favorites.",
@@ -478,7 +478,7 @@
       "published": "2026-11-24T01:00:00+00:00",
       "summary": "Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -727,6 +727,6 @@
     "mainCount": 13,
     "youtubeCount": 17,
     "trailerCount": 26,
-    "sourceCount": 22
+    "sourceCount": 25
   }
 }
