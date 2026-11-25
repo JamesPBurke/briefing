@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-25T10:00:45.891911Z",
-  "generatedAtDisplay": "2026-11-25 05:00 AM EST",
+  "generatedAt": "2026-11-25T14:00:01.898116Z",
+  "generatedAtDisplay": "2026-11-25 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, AI / computing, Democracy / press freedom. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year, and Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Tech / media. The strongest items in this run are Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus, Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms, and Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack.",
   "mainItems": [
+    {
+      "title": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
+      "source": "Rock Paper Shotgun",
+      "category": "CS education / AI policy",
+      "url": "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
+      "published": "2026-11-25T13:00:20+00:00",
+      "summary": "At first the kids jostle to get to the games that they know. \"Welcome to the Retro Reset Bus,\" says Luke Stoner as the students push to get to the screen that’s caught their eye.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
+      "published": "2026-11-25T12:30:00+00:00",
+      "summary": "Exoprimal , Capcom's 2023 team shooter pitting exosuited fighters against T-rexes, is the latest game to be handed an expiration date.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
+      "published": "2026-11-25T12:05:53+00:00",
+      "summary": "While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "The Prompt Is the Easy Part: Making Responsible AI Practical",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/the-prompt-is-the-easy-part-making-responsible-ai-practical/",
+      "published": "2026-11-25T12:00:00+00:00",
+      "summary": "By Bradley Ditto, Dr. Cecelia Gillam, and Dr. Amanda McBride A few years ago, I applied for a technology coordinator...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "74 Interview: Karega Rausch Wants to Make All Indianapolis Schools Better",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/74-interview-karega-rausch-wants-to-make-all-indianapolis-schools-better/",
+      "published": "2026-11-25T11:30:00+00:00",
+      "summary": "Indianapolis has an aggressive new plan for how district and charter schools are governed, funded and held accountable, and is turning to someone with a long history with city charter schools to guide the shift.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
       "source": "The Verge",
@@ -17,53 +67,13 @@
       "score": 10
     },
     {
-      "title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
-      "published": "2026-11-25T09:44:40+00:00",
-      "summary": "Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it downloaded. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
-      "published": "2026-11-25T09:15:10+00:00",
-      "summary": "If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
+      "title": "\"More than just war and peace\": Total War: Medieval 3's diplomacy system will build on Three Kingdoms' backstabbing, with rulers who aren't just focused on you",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
-      "published": "2026-11-24T22:51:40+00:00",
-      "summary": "There are many different kinds of smarts, and the kind of smarts I am are absolutely zero help when it comes to games like Astario, a spaceship and space station building factory sim reminiscent of Factorio that just launched into early…",
+      "url": "https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you",
+      "published": "2026-11-25T12:08:50+00:00",
+      "summary": "Creative Assembly's Total War: Medieval 3 is going to do a lot more with diplomacy, the developers promise. Diplomacy! The soul of any Total War game.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "published": "2026-11-24T22:00:24+00:00",
-      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: To New Blue State Governors: Be an Education Governor",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/to-new-blue-state-governors-be-an-education-governor/",
-      "published": "2026-11-24T17:30:00+00:00",
-      "summary": "Democrats have a long tradition of expanding opportunity through public education, and with 75% of the nation’s school-aged children in states with Democratic governors as of January, the practical work of improving student learning…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -77,24 +87,14 @@
       "score": 9
     },
     {
-      "title": "Google's Customized AI TV Channel, Starring You",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/",
-      "published": "2026-11-24T13:42:30+00:00",
-      "summary": "\"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist.\"",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "published": "2026-11-24T12:30:05+00:00",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "published": "2026-11-25T13:51:56+00:00",
+      "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "8 of our employee-owners’ favorite family recipes for the holidays : Celebrate the season with us.",
@@ -107,14 +107,14 @@
       "score": 8
     },
     {
-      "title": "How high technology is changing cargo crime",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
-      "published": "2026-11-24T22:49:10+00:00",
-      "summary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "title": "As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits",
+      "published": "2026-11-24T14:38:30+00:00",
+      "summary": "World of Warcraft: Forever is in the grip of a gold-farming bonanza, as Blizzard's attempts to curb them are met with a seemingly endless wave of alternative money-making methods. Read more",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "published": "2026-11-25T09:54:23+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Claude AI Solved The Secret Of Black Holes",
       "source": "Two Minute Papers",
@@ -352,11 +363,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=BCBK8sySSSE",
-      "published": "2026-11-24T17:03:40+00:00",
+      "published": "2026-11-25T11:14:12+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "My 13-Year-Old Asked to Play GTA 6",
@@ -813,7 +824,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 27,
     "trailerCount": 25,
     "sourceCount": 25
   }

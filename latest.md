@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-25T10:00:45.891911Z
+Generated: 2026-11-25T14:00:01.898116Z
 
-Today's sweep leans toward Games / criticism, AI / computing, Democracy / press freedom. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year, and Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Tech / media. The strongest items in this run are Inside Retro Reset, the "really inspirational" father and son project teaching kids about classic games hardware from aboard a converted bus, Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms, and Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US financial crimes bureau discloses ‘cybersecurity incident’ [10/10]
+### 1. Inside Retro Reset, the "really inspirational" father and son project teaching kids about classic games hardware from aboard a converted bus [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+At first the kids jostle to get to the games that they know. "Welcome to the Retro Reset Bus," says Luke Stoner as the students push to get to the screen that’s caught their eye.
+
+Link: https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus
+
+### 2. Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Exoprimal , Capcom's 2023 team shooter pitting exosuited fighters against T-rexes, is the latest game to be handed an expiration date.
+
+Link: https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms
+
+### 3. Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'
+
+Link: https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/
+
+### 4. The Prompt Is the Easy Part: Making Responsible AI Practical [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+By Bradley Ditto, Dr. Cecelia Gillam, and Dr. Amanda McBride A few years ago, I applied for a technology coordinator...
+
+Link: https://csteachers.org/the-prompt-is-the-easy-part-making-responsible-ai-practical/
+
+### 5. 74 Interview: Karega Rausch Wants to Make All Indianapolis Schools Better [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Indianapolis has an aggressive new plan for how district and charter schools are governed, funded and held accountable, and is turning to someone with a long history with city charter schools to guide the shift.
+
+Link: https://www.the74million.org/article/74-interview-karega-rausch-wants-to-make-all-indianapolis-schools-better/
+
+### 6. US financial crimes bureau discloses ‘cybersecurity incident’ [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,52 +87,16 @@ The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's
 
 Link: https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident
 
-### 2. Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it downloaded. Read more
-
-Link: https://www.eurogamer.net/exo-primal-shutting-down-2027
-
-### 3. Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5 [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X.
-
-Link: https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5
-
-### 4. I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be [9/10]
+### 7. "More than just war and peace": Total War: Medieval 3's diplomacy system will build on Three Kingdoms' backstabbing, with rulers who aren't just focused on you [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-There are many different kinds of smarts, and the kind of smarts I am are absolutely zero help when it comes to games like Astario, a spaceship and space station building factory sim reminiscent of Factorio that just launched into early…
+Creative Assembly's Total War: Medieval 3 is going to do a lot more with diplomacy, the developers promise. Diplomacy! The soul of any Total War game.
 
-Link: https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be
+Link: https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you
 
-### 5. GTA VI PC recompilation project shut down by Take-Two [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today.
-
-Link: https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two
-
-### 6. Opinion: To New Blue State Governors: Be an Education Governor [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Democrats have a long tradition of expanding opportunity through public education, and with 75% of the nation’s school-aged children in states with Democratic governors as of January, the practical work of improving student learning…
-
-Link: https://www.the74million.org/article/to-new-blue-state-governors-be-an-education-governor/
-
-### 7. “Grand Theft Auto” Is the “Mona Lisa” of Video Games [9/10]
+### 8. “Grand Theft Auto” Is the “Mona Lisa” of Video Games [9/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -96,23 +105,14 @@ Elie Mystal It is technically perfect in its rendition of imperfection, evocativ
 
 Link: https://www.thenation.com/article/society/grand-theft-auto-explainer-art-video-games/
 
-### 8. Google's Customized AI TV Channel, Starring You [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 9. What to know before using AI agents for Black Friday shopping [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist."
+59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation
 
-Link: https://www.404media.co/googles-customized-ai-tv-channel-starring-you/
-
-### 9. Amazon says hackers' AI agents found and exploited 0-day with little human input [9/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The Cairn AI framework is proving to be a boon for defenders and attackers.
-
-Link: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
+Link: https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping
 
 ### 10. 8 of our employee-owners’ favorite family recipes for the holidays : Celebrate the season with us. [8/10]
 **Source:** King Arthur Baking  
@@ -123,14 +123,14 @@ The holidays are always a big deal here at King Arthur, and this year we’re ce
 
 Link: https://www.kingarthurbaking.com/blog/2026/11/24/holiday-recipes
 
-### 11. How high technology is changing cargo crime [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 11. As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up [8/10]
+**Source:** Eurogamer  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.
+World of Warcraft: Forever is in the grip of a gold-farming bonanza, as Blizzard's attempts to curb them are met with a seemingly endless wave of alternative money-making methods. Read more
 
-Link: https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime
+Link: https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits
 
 ### 12. The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches [7/10]
 **Source:** Reactor  
@@ -151,6 +151,15 @@ Seamstresses in Ohio and other states are making zippered shirts for cancer pati
 Link: https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients
 
 ## YouTube
+
+### Claude AI’s Biggest Math Breakthrough Has A Problem. [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.
+
+Link: https://www.youtube.com/watch?v=hwWlEuI359w
 
 ### Claude AI Solved The Secret Of Black Holes [7/10]
 **Creator:** Two Minute Papers  
@@ -323,9 +332,9 @@ Link: https://www.youtube.com/watch?v=StfvxEh5V4c
 
 Link: https://www.youtube.com/watch?v=t-2SRHMBjvs
 
-### Doing the Thing in Elden Ring w/ Jack and Jenna [6/10]
+### Doing the Thing in Elden Ring w/ Jack and Jenna [7/10]
 **Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
