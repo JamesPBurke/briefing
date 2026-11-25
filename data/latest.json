@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-25T05:00:02.628476Z",
-  "generatedAtDisplay": "2026-11-25 12:00 AM EST",
+  "generatedAt": "2026-11-25T10:00:45.891911Z",
+  "generatedAtDisplay": "2026-11-25 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, New Tax Credit Program Sparks Questions Over Special Education Services, and I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be.",
+  "summary": "Today's sweep leans toward Games / criticism, AI / computing, Democracy / press freedom. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year, and Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5.",
   "mainItems": [
     {
       "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
@@ -17,14 +17,24 @@
       "score": 10
     },
     {
-      "title": "New Tax Credit Program Sparks Questions Over Special Education Services",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/new-tax-credit-program-sparks-questions-over-special-education-services/",
-      "published": "2026-11-24T19:30:00+00:00",
-      "summary": "As the mother of a son with autism, Angie Pannuti knows what it’s like to negotiate with a school district for special education services.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
+      "published": "2026-11-25T09:44:40+00:00",
+      "summary": "Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it downloaded. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+      "published": "2026-11-25T09:15:10+00:00",
+      "summary": "If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
@@ -87,26 +97,6 @@
       "score": 9
     },
     {
-      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "source": "NPR Health",
-      "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-      "published": "2026-11-24T10:00:00+00:00",
-      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-marvel-comics-explain-iavengers-doomsday-latverian-witches/",
-      "published": "2026-11-24T21:53:12+00:00",
-      "summary": "The history of the mysterious characters is rooted in the books The post The Marvel Comics That May Help Explain Avengers: Doomsday ’s Latverian Witches appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
       "title": "8 of our employee-owners’ favorite family recipes for the holidays : Celebrate the season with us.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
@@ -117,16 +107,6 @@
       "score": 8
     },
     {
-      "title": "Doctors struggle to save babies after parents refuse vitamin K",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
-      "published": "2026-11-24T10:00:00+00:00",
-      "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "How high technology is changing cargo crime",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -134,6 +114,26 @@
       "published": "2026-11-24T22:49:10+00:00",
       "summary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
+    },
+    {
+      "title": "The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-marvel-comics-explain-iavengers-doomsday-latverian-witches/",
+      "published": "2026-11-24T21:53:12+00:00",
+      "summary": "The history of the mysterious characters is rooted in the books The post The Marvel Comics That May Help Explain Avengers: Doomsday ’s Latverian Witches appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
+    },
+    {
+      "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
+      "published": "2026-11-24T21:19:27+00:00",
+      "summary": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -157,8 +157,8 @@
       "published": "2026-11-24T19:07:58+00:00",
       "summary": "Another week, another exploit has Dr Steve Bagley urging people to \"Patch, Patch, Patch!\" Exploit discovered by: https://calif.io/java4shell Computerphile is supported by Jane Street.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Why Do We Eat Turkey on Thanksgiving?",
@@ -168,8 +168,8 @@
       "published": "2026-11-25T00:00:01+00:00",
       "summary": "Food historian Ken Albala joins WIRED to answer the internet’s burning questions about the history of food.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Food Historian Answers Food History Questions",
@@ -201,8 +201,8 @@
       "published": "2026-11-24T21:00:13+00:00",
       "summary": "Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Army plans to detonate tons of lead-based explosives in Iowa on Wednesday",
@@ -212,8 +212,8 @@
       "published": "2026-11-24T19:45:34+00:00",
       "summary": "After a federal appeals court cleared the way for the Army to detonate lead-based explosives at an Iowa facility, the Army says the detonation will happen Wednesday morning — the day before Thanksgiving.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump celebrates Huang’s return as Nvidia’s CEO",
@@ -355,8 +355,8 @@
       "published": "2026-11-24T17:03:40+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "My 13-Year-Old Asked to Play GTA 6",
@@ -815,6 +815,6 @@
     "mainCount": 13,
     "youtubeCount": 26,
     "trailerCount": 25,
-    "sourceCount": 24
+    "sourceCount": 25
   }
 }

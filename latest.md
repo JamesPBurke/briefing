@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-25T05:00:02.628476Z
+Generated: 2026-11-25T10:00:45.891911Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, New Tax Credit Program Sparks Questions Over Special Education Services, and I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be.
+Today's sweep leans toward Games / criticism, AI / computing, Democracy / press freedom. The strongest items in this run are US financial crimes bureau discloses ‘cybersecurity incident’, Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year, and Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5.
 
 ## Briefing
 
@@ -42,16 +42,25 @@ The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's
 
 Link: https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident
 
-### 2. New Tax Credit Program Sparks Questions Over Special Education Services [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 2. Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-As the mother of a son with autism, Angie Pannuti knows what it’s like to negotiate with a school district for special education services.
+Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it downloaded. Read more
 
-Link: https://www.the74million.org/article/new-tax-credit-program-sparks-questions-over-special-education-services/
+Link: https://www.eurogamer.net/exo-primal-shutting-down-2027
 
-### 3. I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be [9/10]
+### 3. Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5 [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X.
+
+Link: https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5
+
+### 4. I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -60,7 +69,7 @@ There are many different kinds of smarts, and the kind of smarts I am are absolu
 
 Link: https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be
 
-### 4. GTA VI PC recompilation project shut down by Take-Two [9/10]
+### 5. GTA VI PC recompilation project shut down by Take-Two [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ Game modding communities are racing to get Grand Theft Auto VI running on PC, bu
 
 Link: https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two
 
-### 5. Opinion: To New Blue State Governors: Be an Education Governor [9/10]
+### 6. Opinion: To New Blue State Governors: Be an Education Governor [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,7 +87,7 @@ Democrats have a long tradition of expanding opportunity through public educatio
 
 Link: https://www.the74million.org/article/to-new-blue-state-governors-be-an-education-governor/
 
-### 6. “Grand Theft Auto” Is the “Mona Lisa” of Video Games [9/10]
+### 7. “Grand Theft Auto” Is the “Mona Lisa” of Video Games [9/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -87,7 +96,7 @@ Elie Mystal It is technically perfect in its rendition of imperfection, evocativ
 
 Link: https://www.thenation.com/article/society/grand-theft-auto-explainer-art-video-games/
 
-### 7. Google's Customized AI TV Channel, Starring You [9/10]
+### 8. Google's Customized AI TV Channel, Starring You [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -96,7 +105,7 @@ Link: https://www.thenation.com/article/society/grand-theft-auto-explainer-art-v
 
 Link: https://www.404media.co/googles-customized-ai-tv-channel-starring-you/
 
-### 8. Amazon says hackers' AI agents found and exploited 0-day with little human input [9/10]
+### 9. Amazon says hackers' AI agents found and exploited 0-day with little human input [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,25 +114,7 @@ The Cairn AI framework is proving to be a boon for defenders and attackers.
 
 Link: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
 
-### 9. The human cost of the electric vehicle boom is at the center of a lawsuit in Congo [9/10]
-**Source:** NPR Health  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.
-
-Link: https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals
-
-### 10. The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The history of the mysterious characters is rooted in the books The post The Marvel Comics That May Help Explain Avengers: Doomsday ’s Latverian Witches appeared first on Reactor .
-
-Link: https://reactormag.com/the-marvel-comics-explain-iavengers-doomsday-latverian-witches/
-
-### 11. 8 of our employee-owners’ favorite family recipes for the holidays : Celebrate the season with us. [8/10]
+### 10. 8 of our employee-owners’ favorite family recipes for the holidays : Celebrate the season with us. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -132,16 +123,7 @@ The holidays are always a big deal here at King Arthur, and this year we’re ce
 
 Link: https://www.kingarthurbaking.com/blog/2026/11/24/holiday-recipes
 
-### 12. Doctors struggle to save babies after parents refuse vitamin K [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.
-
-Link: https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding
-
-### 13. How high technology is changing cargo crime [7/10]
+### 11. How high technology is changing cargo crime [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -149,6 +131,24 @@ Link: https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-
 Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.
 
 Link: https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime
+
+### 12. The Marvel Comics That May Help Explain Avengers: Doomsday’s Latverian Witches [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The history of the mysterious characters is rooted in the books The post The Marvel Comics That May Help Explain Avengers: Doomsday ’s Latverian Witches appeared first on Reactor .
+
+Link: https://reactormag.com/the-marvel-comics-explain-iavengers-doomsday-latverian-witches/
+
+### 13. This group of seamstresses mends shirts to make chemo easier for cancer patients [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.
+
+Link: https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients
 
 ## YouTube
 
@@ -161,18 +161,18 @@ Link: https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changi
 
 Link: https://www.youtube.com/watch?v=1jPdehG3Hms
 
-### Java4Shell Exploit - Computerphile [8/10]
+### Java4Shell Exploit - Computerphile [7/10]
 **Creator:** Computerphile  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 Another week, another exploit has Dr Steve Bagley urging people to "Patch, Patch, Patch!" Exploit discovered by: https://calif.io/java4shell Computerphile is supported by Jane Street.
 
 Link: https://www.youtube.com/watch?v=4nFA4zntF7I
 
-### Why Do We Eat Turkey on Thanksgiving? [9/10]
+### Why Do We Eat Turkey on Thanksgiving? [8/10]
 **Creator:** WIRED  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Food historian Ken Albala joins WIRED to answer the internet’s burning questions about the history of food.
@@ -197,18 +197,18 @@ Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer
 
 Link: https://www.youtube.com/watch?v=UuUmd_npdrQ
 
-### Bob Woodward’s memoir offers insights into his extraordinary career [8/10]
+### Bob Woodward’s memoir offers insights into his extraordinary career [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.
 
 Link: https://www.youtube.com/watch?v=bLY0S3tWWKk
 
-### Army plans to detonate tons of lead-based explosives in Iowa on Wednesday [8/10]
+### Army plans to detonate tons of lead-based explosives in Iowa on Wednesday [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 After a federal appeals court cleared the way for the Army to detonate lead-based explosives at an Iowa facility, the Army says the detonation will happen Wednesday morning — the day before Thanksgiving.
@@ -323,9 +323,9 @@ Link: https://www.youtube.com/watch?v=StfvxEh5V4c
 
 Link: https://www.youtube.com/watch?v=t-2SRHMBjvs
 
-### Doing the Thing in Elden Ring w/ Jack and Jenna [7/10]
+### Doing the Thing in Elden Ring w/ Jack and Jenna [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
