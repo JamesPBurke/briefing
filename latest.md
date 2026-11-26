@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-26T05:00:02.028502Z
+Generated: 2026-11-26T14:00:03.556265Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Amazon loses its latest attempt to get out of handling more recall notices, Google search alternative Kagi launches Gmail rival, and Here are our PS Plus monthly games for December 2026.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline, Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead, and From minimalist to maximalist: Ars staffers show off their home offices.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Amazon loses its latest attempt to get out of handling more recall notices [10/10]
-**Source:** The Verge  
+### 1. Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+An AI clone of Umamusume: Pretty Derby has been stuck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames. Read more
+
+Link: https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports
+
+### 2. Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Yesterday, a new Steam event went live that claims all games featured in it have avoided AI entirely during development.
+
+Link: https://www.eurogamer.net/games-without-ai-steam-event
+
+### 3. From minimalist to maximalist: Ars staffers show off their home offices [10/10]
+**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC).
+Our home offices range from tasteful to "please explain yourself."
 
-Link: https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc
+Link: https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/
 
-### 2. Google search alternative Kagi launches Gmail rival [10/10]
+### 4. A Proven Way to Keep Teachers in Needy Schools is Losing Ground [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creating constant churn that hurts students from low-income families.
+
+Link: https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/
+
+### 5. Google search alternative Kagi launches Gmail rival [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -51,41 +78,14 @@ The pitch is an unusual combination of privacy promises and AI features.
 
 Link: https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/
 
-### 3. Here are our PS Plus monthly games for December 2026 [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming.
-
-Link: https://www.eurogamer.net/playstation-plus-monthly-games-december-2026
-
-### 4. Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After waiting three years for Relic to expand Company of Heroes 3 's singleplayer, watching DLC after DLC focused on expanding the roster of units available in multiplayer matches, Operation Torch looks like a welcome addition.
-
-Link: https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review
-
-### 5. Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too [9/10]
-**Source:** The Verge  
+### 6. The Download: Better bionic hands and AI’s natural-gas boom [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras
-
-### 6. Opinion: Anger Then Action: From Classroom Teacher to Investigative Reporter [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This essay first appeared on Alexander Russo’s The Grade When I walked into The 74’s newsroom on my first day in January of 2024, I couldn’t have known that an idea my editor would share with me would launch me on the hardest and most…
-
-Link: https://www.the74million.org/article/anger-then-action-from-classroom-teacher-to-investigative-reporter/
+Link: https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/
 
 ### 7. Opinion: 4 Approaches to Keep Students from Offloading Their Thinking to AI [9/10]
 **Source:** The 74  
@@ -96,25 +96,34 @@ One in 10 American teenagers say they complete all or most of their schoolwork w
 
 Link: https://www.the74million.org/article/4-approaches-to-keep-students-from-offloading-their-thinking-to-ai/
 
-### 8. Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack [9/10]
+### 8. Pass the Controller: How Single Console Households Split 'GTA VI' [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'
+While a loud minority declares the year's biggest game a "cuck simulator," real-life couples find sharing play time brings them closer.
 
-Link: https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/
+Link: https://www.404media.co/gta-vi-sharing-playstation-console-accounts/
 
-### 9. How to talk AI around the Thanksgiving table [8/10]
+### 9. Public health specialist discusses the aftermath of the munitions detonation in Iowa [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.
+
+Link: https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa
+
+### 10. FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?
+The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.
 
-Link: https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table
+Link: https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space
 
-### 10. In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is "mostly Fool-centric", with an absolute rain of nerfs [8/10]
+### 11. In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is "mostly Fool-centric", with an absolute rain of nerfs [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -123,23 +132,14 @@ No! I am not the Ironclad, nor was meant to be; am an attendant lord, one that w
 
 Link: https://www.rockpapershotgun.com/in-good-news-for-certain-slay-the-spire-2-bosses-mega-crits-latest-beta-patch-is-mostly-fool-centric-with-an-absolute-rain-of-nerfs
 
-### 11. How American Thanksgiving took root -- and evolved -- in Liberia [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
-
-Link: https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer
-
-### 12. Fence [7/10]
+### 12. FDR’s Thanksgiving Proclamations Made the Moral Case for Taming Capitalism [7/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-McClain Moore Defense. The post Fence appeared first on The Nation .
+John Nichols When Abdul El-Sayed attacks the “corporate capture of our politics,” he recalls Roosevelt’s rejections of “greed and selfishness and striving for undue riches.
 
-Link: https://www.thenation.com/article/politics/fence/
+Link: https://www.thenation.com/article/politics/fdr-thanksgiving-capitalism-abdul-el-sayed/
 
 ### 13. The Rings of Power Season 3 Finale Is a Set Up to Something Much Bigger [6/10]
 **Source:** Reactor  
@@ -161,15 +161,6 @@ Link: https://reactormag.com/the-rings-of-power-season-3-finale-is-a-set-up-to-s
 
 Link: https://www.youtube.com/watch?v=hwWlEuI359w
 
-### Claude AI Solved The Secret Of Black Holes [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.
-
-Link: https://www.youtube.com/watch?v=1jPdehG3Hms
-
 ### Java4Shell Exploit - Computerphile [7/10]
 **Creator:** Computerphile  
 **Verdict:** Probably worth watching  
@@ -178,6 +169,15 @@ Link: https://www.youtube.com/watch?v=1jPdehG3Hms
 Another week, another exploit has Dr Steve Bagley urging people to "Patch, Patch, Patch!" Exploit discovered by: https://calif.io/java4shell Computerphile is supported by Jane Street.
 
 Link: https://www.youtube.com/watch?v=4nFA4zntF7I
+
+### Gordon Ramsay Saves Your Cooking [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Gordon Ramsay uses the power of Twitter to answer some common cooking questions. Does cheese go bad? Is British food as awful as they say? Gordon offers his advice on these queries and a host of others.
+
+Link: https://www.youtube.com/watch?v=QnuDn1-ff2k
 
 ### Ben Stiller & Robert De Niro Answer The Web’s Most Searched Questions [8/10]
 **Creator:** WIRED  
@@ -215,27 +215,36 @@ Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer
 
 Link: https://www.youtube.com/watch?v=UuUmd_npdrQ
 
-### NPR’s Steve Inskeep asks Bob Woodward why he became a reporter [8/10]
+### The French celebrate the annual release of the Beaujolais Nouveau [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The French celebrate the annual release of the Beaujolais Nouveau, a fruity, young red wine. Once famous for tasting marvelously — well — mediocre, a new generation of winemakers is giving the wine a new boost.
+
+Link: https://www.youtube.com/watch?v=1dzFTgj35dQ
+
+### NPR’s Steve Inskeep asks Bob Woodward why he became a reporter [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.
 
 Link: https://www.youtube.com/watch?v=GuIyiEVd0Pw
 
-### Kilmar Abrego Garcia self-deports to Spain [9/10]
+### Kilmar Abrego Garcia self-deports to Spain [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Kilmar Abrego Garcia has self-deported to Spain. The Salvadoran immigrant became a symbol of the Trump administration’s immigration crackdown after he was wrongfully deported and then brought back to the U.S. last year.
 
 Link: https://www.youtube.com/watch?v=V_IRp_699VI
 
-### Trump pardons turkeys Freedom and Feathers, touts White House construction projects [8/10]
+### Trump pardons turkeys Freedom and Feathers, touts White House construction projects [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Ahead of the Thanksgiving holiday, President Trump pardoned two turkeys from West Virginia — Freedom and Feathers — at the White House this week. The president said the two large white birds, both born in July, weighed a combined 82 pounds.
@@ -277,15 +286,6 @@ Link: https://www.youtube.com/watch?v=JJ7PD38CepY
 President Trump is celebrating Jensen Huang’s reinstatement as Nvidia’s CEO — as well as his part in that decision. The two have been close allies, with Huang advising the president and also donating to Trump’s White House ballroom project.
 
 Link: https://www.youtube.com/watch?v=uk_ptSQQc4Y
-
-### Bob Woodward reveals some of the anonymous sources behind his reporting in new memoir | NPR [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-NPR's Steve Inskeep speaks with Bob Woodward about his new book, "Secrets: A Reporter's Memoir," in which he details his reporting on the White House, Supreme Court, CIA operations and the Pentagon.
-
-Link: https://www.youtube.com/watch?v=yxDtajSY_fg
 
 ### Grand Theft Auto 6: Is FSR 4.1 Achievable On Xbox? FPS Unlock Glitch Data [7/10]
 **Creator:** Digital Foundry  
@@ -341,9 +341,9 @@ Link: https://www.youtube.com/watch?v=M_HjFfiad3g
 
 Link: https://www.youtube.com/watch?v=Hy02m6cSghA
 
-### Yahtzee Tries... Probably Stolen and Trees Hate You [8/10]
+### Yahtzee Tries... Probably Stolen and Trees Hate You [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.
@@ -469,7 +469,7 @@ Ray Robertson: trailer editor, storyteller and most importantly, pathfinder.
 
 Link: https://www.youtube.com/watch?v=_fKzsOkXBdE
 
-### JUMANJI: OPEN WORLD - One Last Adventure [9/10]
+### JUMANJI: OPEN WORLD - One Last Adventure [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -613,7 +613,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=jCAylhPsXqk
 
-### Oz Pearlman: Magic of the Mind | Official Trailer | Netflix [10/10]
+### Oz Pearlman: Magic of the Mind | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -639,15 +639,6 @@ Link: https://www.youtube.com/watch?v=138cPELAMRU
 Every love story begins before it starts. Across three generations and three countries, six couples discover how love, and the wounds it leaves behind, pass from one generation to the next.
 
 Link: https://www.youtube.com/watch?v=HGY8x0qy0aI
-
-### Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=L8zU_MDfaKw
 
 ### TIMBERLAKE — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  

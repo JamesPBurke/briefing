@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-26T05:00:02.028502Z",
-  "generatedAtDisplay": "2026-11-26 12:00 AM EST",
+  "generatedAt": "2026-11-26T14:00:03.556265Z",
+  "generatedAtDisplay": "2026-11-26 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Amazon loses its latest attempt to get out of handling more recall notices, Google search alternative Kagi launches Gmail rival, and Here are our PS Plus monthly games for December 2026.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline, Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead, and From minimalist to maximalist: Ars staffers show off their home offices.",
   "mainItems": [
     {
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "source": "The Verge",
+      "title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+      "published": "2026-11-26T13:15:00+00:00",
+      "summary": "An AI clone of Umamusume: Pretty Derby has been stuck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/games-without-ai-steam-event",
+      "published": "2026-11-26T12:22:30+00:00",
+      "summary": "Yesterday, a new Steam event went live that claims all games featured in it have avoided AI entirely during development.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "published": "2026-11-26T02:53:40+00:00",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC).",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "published": "2026-11-26T12:00:14+00:00",
+      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A Proven Way to Keep Teachers in Needy Schools is Losing Ground",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/",
+      "published": "2026-11-26T11:30:00+00:00",
+      "summary": "States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creating constant churn that hurts students from low-income families.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -27,43 +57,13 @@
       "score": 10
     },
     {
-      "title": "Here are our PS Plus monthly games for December 2026",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026",
-      "published": "2026-11-25T17:14:40+00:00",
-      "summary": "There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review",
-      "published": "2026-11-25T17:00:50+00:00",
-      "summary": "After waiting three years for Relic to expand Company of Heroes 3 's singleplayer, watching DLC after DLC focused on expanding the roster of units available in multiplayer matches, Operation Torch looks like a welcome addition.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "source": "The Verge",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "published": "2026-11-26T00:04:34+00:00",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature.",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "published": "2026-11-26T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Anger Then Action: From Classroom Teacher to Investigative Reporter",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/anger-then-action-from-classroom-teacher-to-investigative-reporter/",
-      "published": "2026-11-25T17:30:00+00:00",
-      "summary": "This essay first appeared on Alexander Russo’s The Grade When I walked into The 74’s newsroom on my first day in January of 2024, I couldn’t have known that an idea my editor would share with me would launch me on the hardest and most…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -77,22 +77,32 @@
       "score": 9
     },
     {
-      "title": "Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack",
+      "title": "Pass the Controller: How Single Console Households Split 'GTA VI'",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
-      "published": "2026-11-25T12:05:53+00:00",
-      "summary": "While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'",
+      "url": "https://www.404media.co/gta-vi-sharing-playstation-console-accounts/",
+      "published": "2026-11-26T12:00:00+00:00",
+      "summary": "While a loud minority declares the year's biggest game a \"cuck simulator,\" real-life couples find sharing play time brings them closer.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "How to talk AI around the Thanksgiving table",
+      "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
+      "published": "2026-11-26T09:42:38+00:00",
+      "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
-      "published": "2026-11-25T21:33:59+00:00",
-      "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+      "published": "2026-11-26T06:53:09+00:00",
+      "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
@@ -107,22 +117,12 @@
       "score": 8
     },
     {
-      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-      "published": "2026-11-25T14:14:34+00:00",
-      "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Fence",
+      "title": "FDR’s Thanksgiving Proclamations Made the Moral Case for Taming Capitalism",
       "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/politics/fence/",
-      "published": "2026-11-25T13:30:43+00:00",
-      "summary": "McClain Moore Defense. The post Fence appeared first on The Nation .",
+      "url": "https://www.thenation.com/article/politics/fdr-thanksgiving-capitalism-abdul-el-sayed/",
+      "published": "2026-11-26T10:00:00+00:00",
+      "summary": "John Nichols When Abdul El-Sayed attacks the “corporate capture of our politics,” he recalls Roosevelt’s rejections of “greed and selfishness and striving for undue riches.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 7
     },
@@ -150,17 +150,6 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Claude AI Solved The Secret Of Black Holes",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
-      "published": "2026-11-23T07:37:52+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Java4Shell Exploit - Computerphile",
       "source": "Computerphile",
       "category": "Science / computing",
@@ -170,6 +159,17 @@
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gordon Ramsay Saves Your Cooking",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=QnuDn1-ff2k",
+      "published": "2026-11-26T13:00:11+00:00",
+      "summary": "Gordon Ramsay uses the power of Twitter to answer some common cooking questions. Does cheese go bad? Is British food as awful as they say? Gordon offers his advice on these queries and a host of others.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Ben Stiller & Robert De Niro Answer The Web’s Most Searched Questions",
@@ -216,6 +216,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "The French celebrate the annual release of the Beaujolais Nouveau",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1dzFTgj35dQ",
+      "published": "2026-11-26T13:00:36+00:00",
+      "summary": "The French celebrate the annual release of the Beaujolais Nouveau, a fruity, young red wine. Once famous for tasting marvelously — well — mediocre, a new generation of winemakers is giving the wine a new boost.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "NPR’s Steve Inskeep asks Bob Woodward why he became a reporter",
       "source": "NPR",
       "category": "News / analysis",
@@ -223,8 +234,8 @@
       "published": "2026-11-25T21:30:09+00:00",
       "summary": "Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Kilmar Abrego Garcia self-deports to Spain",
@@ -234,8 +245,8 @@
       "published": "2026-11-25T20:10:38+00:00",
       "summary": "Kilmar Abrego Garcia has self-deported to Spain. The Salvadoran immigrant became a symbol of the Trump administration’s immigration crackdown after he was wrongfully deported and then brought back to the U.S. last year.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump pardons turkeys Freedom and Feathers, touts White House construction projects",
@@ -245,8 +256,8 @@
       "published": "2026-11-25T17:30:33+00:00",
       "summary": "Ahead of the Thanksgiving holiday, President Trump pardoned two turkeys from West Virginia — Freedom and Feathers — at the White House this week. The president said the two large white birds, both born in July, weighed a combined 82 pounds.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Experts offer tips to keeping your holiday spread safe to eat",
@@ -291,17 +302,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Bob Woodward reveals some of the anonymous sources behind his reporting in new memoir | NPR",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=yxDtajSY_fg",
-      "published": "2026-11-24T15:55:09+00:00",
-      "summary": "NPR's Steve Inskeep speaks with Bob Woodward about his new book, \"Secrets: A Reporter's Memoir,\" in which he details his reporting on the White House, Supreme Court, CIA operations and the Pentagon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Grand Theft Auto 6: Is FSR 4.1 Achievable On Xbox? FPS Unlock Glitch Data",
@@ -377,8 +377,8 @@
       "published": "2026-11-25T23:10:52+00:00",
       "summary": "This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Queen's Domain | Fully Ramblomatic",
@@ -500,7 +500,7 @@
       "published": "2026-11-25T20:02:07+00:00",
       "summary": "The band is back together for one last adventure. The final countdown begins. #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -676,7 +676,7 @@
       "published": "2026-11-25T18:00:00+00:00",
       "summary": "As the world's preeminent mentalist, Oz has captivated the biggest names with his ability to seemingly read minds.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -697,17 +697,6 @@
       "url": "https://www.youtube.com/watch?v=HGY8x0qy0aI",
       "published": "2026-11-24T15:30:00+00:00",
       "summary": "Every love story begins before it starts. Across three generations and three countries, six couples discover how love, and the wounds it leaves behind, pass from one generation to the next.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=L8zU_MDfaKw",
-      "published": "2026-11-24T01:00:00+00:00",
-      "summary": "Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -836,7 +825,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 29,
-    "trailerCount": 24,
+    "trailerCount": 23,
     "sourceCount": 24
   }
 }
