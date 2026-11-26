@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-25T19:01:02.805338Z
+Generated: 2026-11-26T05:00:02.028502Z
 
-Today's sweep leans toward AI / computing, Education / pedagogy, Democracy / press freedom. The strongest items in this run are Opinion: 4 Approaches to Keep Students from Offloading Their Thinking to AI, Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack, and The Prompt Is the Easy Part: Making Responsible AI Practical.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Amazon loses its latest attempt to get out of handling more recall notices, Google search alternative Kagi launches Gmail rival, and Here are our PS Plus monthly games for December 2026.
 
 ## Briefing
 
@@ -33,79 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Opinion: 4 Approaches to Keep Students from Offloading Their Thinking to AI [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-One in 10 American teenagers say they complete all or most of their schoolwork with the help of artificial intelligence chatbots. These are the findings of a recent survey by the Pew Research Center among students aged 13–17.
-
-Link: https://www.the74million.org/article/4-approaches-to-keep-students-from-offloading-their-thinking-to-ai/
-
-### 2. Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'
-
-Link: https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/
-
-### 3. The Prompt Is the Easy Part: Making Responsible AI Practical [10/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-By Bradley Ditto, Dr. Cecelia Gillam, and Dr. Amanda McBride A few years ago, I applied for a technology coordinator...
-
-Link: https://csteachers.org/the-prompt-is-the-easy-part-making-responsible-ai-practical/
-
-### 4. 74 Interview: Karega Rausch Wants to Make All Indianapolis Schools Better [10/10]
-**Source:** The 74  
+### 1. Amazon loses its latest attempt to get out of handling more recall notices [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Indianapolis has an aggressive new plan for how district and charter schools are governed, funded and held accountable, and is turning to someone with a long history with city charter schools to guide the shift.
+Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC).
 
-Link: https://www.the74million.org/article/74-interview-karega-rausch-wants-to-make-all-indianapolis-schools-better/
+Link: https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc
 
-### 5. AI is straining America’s open records systems [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.
-
-Link: https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/
-
-### 6. Backblaze explains why it's sharing customer information with advertisers [9/10]
+### 2. Google search alternative Kagi launches Gmail rival [10/10]
 **Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Backblaze tells Ars it won't share users' backup, storage files with advertisers.
+The pitch is an unusual combination of privacy promises and AI features.
 
-Link: https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/
+Link: https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/
 
-### 7. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space [9/10]
+### 3. Here are our PS Plus monthly games for December 2026 [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming.
+
+Link: https://www.eurogamer.net/playstation-plus-monthly-games-december-2026
+
+### 4. Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After waiting three years for Relic to expand Company of Heroes 3 's singleplayer, watching DLC after DLC focused on expanding the roster of units available in multiplayer matches, Operation Torch looks like a welcome addition.
+
+Link: https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review
+
+### 5. Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative.
+A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature.
 
-Link: https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers
+Link: https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras
 
-### 8. Ladybird browser's first downloadable alpha is surprisingly capable [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-An independent browser engine arrives on Linux and macOS, and we've tried it.
-
-Link: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/
-
-### 9. Opinion: Anger Then Action: From Classroom Teacher to Investigative Reporter [9/10]
+### 6. Opinion: Anger Then Action: From Classroom Teacher to Investigative Reporter [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,25 +87,52 @@ This essay first appeared on Alexander Russo’s The Grade When I walked into Th
 
 Link: https://www.the74million.org/article/anger-then-action-from-classroom-teacher-to-investigative-reporter/
 
-### 10. Etsy clarifies AI terms after seller backlash [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 7. Opinion: 4 Approaches to Keep Students from Offloading Their Thinking to AI [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-One veteran illustrator dismisses revisions as "sugar coating."
+One in 10 American teenagers say they complete all or most of their schoolwork with the help of artificial intelligence chatbots. These are the findings of a recent survey by the Pew Research Center among students aged 13–17.
 
-Link: https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/
+Link: https://www.the74million.org/article/4-approaches-to-keep-students-from-offloading-their-thinking-to-ai/
 
-### 11. What to know before using AI agents for Black Friday shopping [8/10]
+### 8. Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'
+
+Link: https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/
+
+### 9. How to talk AI around the Thanksgiving table [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation
+You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?
 
-Link: https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping
+Link: https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table
 
-### 12. Fence [8/10]
+### 10. In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is "mostly Fool-centric", with an absolute rain of nerfs [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+No! I am not the Ironclad, nor was meant to be; am an attendant lord, one that will do to bind a necro, Exhaust a scene or two, advise the Regent; no doubt, an easy tool, Defective, glad to be of use, Politic, Silent, and Impervious; full…
+
+Link: https://www.rockpapershotgun.com/in-good-news-for-certain-slay-the-spire-2-bosses-mega-crits-latest-beta-patch-is-mostly-fool-centric-with-an-absolute-rain-of-nerfs
+
+### 11. How American Thanksgiving took root -- and evolved -- in Liberia [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
+
+Link: https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer
+
+### 12. Fence [7/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -141,11 +141,519 @@ McClain Moore Defense. The post Fence appeared first on The Nation .
 
 Link: https://www.thenation.com/article/politics/fence/
 
-### 13. How American Thanksgiving took root -- and evolved -- in Liberia [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+### 13. The Rings of Power Season 3 Finale Is a Set Up to Something Much Bigger [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The Fall of where, you say? The post The Rings of Power Season 3 Finale Is a Set Up to Something Much Bigger appeared first on Reactor .
+
+Link: https://reactormag.com/the-rings-of-power-season-3-finale-is-a-set-up-to-something-much-bigger/
+
+## YouTube
+
+### Claude AI’s Biggest Math Breakthrough Has A Problem. [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.
 
-Link: https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer
+Link: https://www.youtube.com/watch?v=hwWlEuI359w
+
+### Claude AI Solved The Secret Of Black Holes [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.
+
+Link: https://www.youtube.com/watch?v=1jPdehG3Hms
+
+### Java4Shell Exploit - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Another week, another exploit has Dr Steve Bagley urging people to "Patch, Patch, Patch!" Exploit discovered by: https://calif.io/java4shell Computerphile is supported by Jane Street.
+
+Link: https://www.youtube.com/watch?v=4nFA4zntF7I
+
+### Ben Stiller & Robert De Niro Answer The Web’s Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+_Focker-In-Law_ co-stars Ben Stiller and Robert De Niro visit WIRED to answer their most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=QAtTC0DFP74
+
+### Why Do We Eat Turkey on Thanksgiving? [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Food historian Ken Albala joins WIRED to answer the internet’s burning questions about the history of food.
+
+Link: https://www.youtube.com/watch?v=fBtxQYXVLB4
+
+### Food Historian Answers Food History Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Food historian Ken Albala joins WIRED to answer the internet’s burning questions about the history of food.
+
+Link: https://www.youtube.com/watch?v=68ugtO_shm8
+
+### DnD: Best Tips For a First-time Dungeon Master [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Dungeon Master and Dimension 20 host Brennan Lee Mulligan visits WIRED to answer the internet's burning questions about Dungeons & Dragons.
+
+Link: https://www.youtube.com/watch?v=UuUmd_npdrQ
+
+### NPR’s Steve Inskeep asks Bob Woodward why he became a reporter [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.
+
+Link: https://www.youtube.com/watch?v=GuIyiEVd0Pw
+
+### Kilmar Abrego Garcia self-deports to Spain [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Kilmar Abrego Garcia has self-deported to Spain. The Salvadoran immigrant became a symbol of the Trump administration’s immigration crackdown after he was wrongfully deported and then brought back to the U.S. last year.
+
+Link: https://www.youtube.com/watch?v=V_IRp_699VI
+
+### Trump pardons turkeys Freedom and Feathers, touts White House construction projects [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Ahead of the Thanksgiving holiday, President Trump pardoned two turkeys from West Virginia — Freedom and Feathers — at the White House this week. The president said the two large white birds, both born in July, weighed a combined 82 pounds.
+
+Link: https://www.youtube.com/watch?v=UAgb7tE7iGE
+
+### Experts offer tips to keeping your holiday spread safe to eat [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+As Americans gather to celebrate Thanksgiving, experts recommend following a few key food-safety tips to keep foodborne illness away from your holiday table.⁠ ⁠ First, keep a clean kitchen. Wash your hands before preparing food.
+
+Link: https://www.youtube.com/watch?v=ZeDGLptavvo
+
+### Bob Woodward’s memoir offers insights into his extraordinary career [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Bob Woodward’s memoir, “Secrets: A Reporter’s Memoir,” offers insights into his upbringing, extraordinary career and reveals some of his high-profile unnamed sources.
+
+Link: https://www.youtube.com/watch?v=bLY0S3tWWKk
+
+### Army plans to detonate tons of lead-based explosives in Iowa on Wednesday [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+After a federal appeals court cleared the way for the Army to detonate lead-based explosives at an Iowa facility, the Army says the detonation will happen Wednesday morning — the day before Thanksgiving.
+
+Link: https://www.youtube.com/watch?v=JJ7PD38CepY
+
+### Trump celebrates Huang’s return as Nvidia’s CEO [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump is celebrating Jensen Huang’s reinstatement as Nvidia’s CEO — as well as his part in that decision. The two have been close allies, with Huang advising the president and also donating to Trump’s White House ballroom project.
+
+Link: https://www.youtube.com/watch?v=uk_ptSQQc4Y
+
+### Bob Woodward reveals some of the anonymous sources behind his reporting in new memoir | NPR [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+NPR's Steve Inskeep speaks with Bob Woodward about his new book, "Secrets: A Reporter's Memoir," in which he details his reporting on the White House, Supreme Court, CIA operations and the Pentagon.
+
+Link: https://www.youtube.com/watch?v=yxDtajSY_fg
+
+### Grand Theft Auto 6: Is FSR 4.1 Achievable On Xbox? FPS Unlock Glitch Data [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/VzKA9ayxZMY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=9g65DJePqCg
+
+### Should GTA 6 Get An Unlocked Frame-Rate Patch? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bbw-nkpqP5s ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=vAdekcNwjwk
+
+### GTA 6 Xbox Unlocked FPS Glitch: How Fast Can Series X|S REALLY Run? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/VzKA9ayxZMY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=iNzqWN2FQjM
+
+### What PC Specs Will Be Required To Play Grand Theft Auto 6? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bbw-nkpqP5s ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=WXFtocKQnoQ
+
+### Is A Switch 2 Port of Grand Theft Auto 6 Even Possible? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/bbw-nkpqP5s ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=M_HjFfiad3g
+
+### Grand Theft Auto 6 - Why This Is The State Of The Art [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/hJfw1Dm0u84 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Hy02m6cSghA
+
+### Yahtzee Tries... Probably Stolen and Trees Hate You [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.
+
+Link: https://www.youtube.com/watch?v=kWXLLIp23bE
+
+### Queen's Domain | Fully Ramblomatic [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Displate. Use code SECONDWIND at displate.com to get up to 42% off until November 30th -- https://displate.com/l/secondwind Not applicable on Limited Editions and Shards.
+
+Link: https://www.youtube.com/watch?v=UoN-tQ-oJvg
+
+### Doing the Thing in Elden Ring w/ Jack and Jenna [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=BCBK8sySSSE
+
+### My 13-Year-Old Asked to Play GTA 6 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC's son asked him to buy him GTA 6, and as a parent with a background in video games... that posed an interesting question. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=EYt0hxBH07U
+
+### The Rings of Power is the Last Survivor of the Streaming Wars | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Much like the One Ring, The Rings of Power is a relic of the streamer wars. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=ZiHkkBVoXgU
+
+### Volvy’s Adventure: Reslimed is This Week's Hottest Video Game | Hot Monday Energy [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. -- https://store.
+
+Link: https://www.youtube.com/watch?v=t6wTIALSZB8
+
+### Early Stories From Our Time in Grand Theft Auto VI | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by 13Z: The Zodiac Trials, a fast-paced, anime-inspired action roguelike. Go solo or team up with up to three friends to conquer mythological trials and claim the title of the 13th Zodiac. – https://store.
+
+Link: https://www.youtube.com/watch?v=rplBppRNI0g
+
+### Is The Ocarina of Time Remake "Too Easy"? | Design Delve [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Kumitantei: Old-School Slaughter, an episodic murder-mystery ADV card-battler inspired by retro anime. Play the first two episodes now on Steam. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=_lpRBNiF3JI
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### Danny Roa Storybook | Make It Universal [6/10]
+**Source:** Universal Pictures  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Talk about a full circle moment! In this Storybook series, Danny Roa shares how they went from not only falling in love with theme parks but also landing a career that taps into their creative skills!
+
+Link: https://www.youtube.com/watch?v=tKuKQ9OjBEA
+
+### Simon Wells Storybook | Make It Universal [6/10]
+**Source:** Universal Pictures  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Simon Wells has been part of DreamWorks Animation's journey since the beginning. In this Storybook series, he shares how he started in animation, the process and what inspired him to get into the business.
+
+Link: https://www.youtube.com/watch?v=4LWkjqCIAGQ
+
+### Ray Robertson Storybook | Make It Universal [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Ray Robertson: trailer editor, storyteller and most importantly, pathfinder.
+
+Link: https://www.youtube.com/watch?v=_fKzsOkXBdE
+
+### JUMANJI: OPEN WORLD - One Last Adventure [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The band is back together for one last adventure. The final countdown begins. #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=5BH9EGBpx9c
+
+### RESIDENT EVIL Creator Deep Dive With Filmmakers - Teaser [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=Rma1KLKyZWs
+
+### Resident Evil 2026 | Roundtable Series [6/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your delivery is HERE for a spoiler filled discussion with Zach Cregger, Austin Abrams, and the talented heads of department, covering everything you want to know and MORE.
+
+Link: https://www.youtube.com/watch?v=-0YLuOYAcGw
+
+### The Debut | Official Trailer 2 HD | A24 [7/10]
+**Source:** A24  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – In theaters this December.
+
+Link: https://www.youtube.com/watch?v=lF9n06SMDPU
+
+### Paper Tiger - Final Trailer - Now Playing In Theaters [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
+
+Link: https://www.youtube.com/watch?v=dUxQ3ltEEwU
+
+### Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From Luca Guadagnino comes the story of OpenAI and a two decade artificial intelligence arms race.
+
+Link: https://www.youtube.com/watch?v=ufeJbTNq-BI
+
+### Red Snow | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A 16-year-old emo teen's vampire fantasies take a bloody turn when she encounters Martti, a beer-bellied, balding bloodsucker who dons a Santa suit to terrorize unsuspecting families. RED SNOW premieres December 11 on Shudder.
+
+Link: https://www.youtube.com/watch?v=jtjDrAt270c
+
+### NEW GROUP | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A student appears on the playground, crawling on all fours. Days later, others join, forming a human pyramid. It marks the start of a bizarre phenomenon that spreads across the community. NEW GROUP drops November 6 on Shudder.
+
+Link: https://www.youtube.com/watch?v=dhezj9Mjccw
+
+### Tinsman Road | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the dark backwoods of New Jersey, a young man navigates the serpentine mystery surrounding his long-missing sister and their family home. TINSMAN ROAD premieres November 13 on Shudder. #Shudder #TinsmanRoad Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=wh0bX4gb5rE
+
+### New Group Trailer | J-Horror | Shudder [10/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A bizarre new obsession is sweeping through a Japanese high school, and participation is quickly becoming non-negotiable. From the director of Best Wishes to All, NEW GROUP is streaming now on Shudder. #Shudder Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=ZIz9Q3eACdY
+
+### Unholy Night | Official Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A family's Christmas Eve dinner becomes a nightmare as Gino must protect his loved ones from his reanimated grandmother who crashes the celebration with murderous intent. Unholy Night premieres December 4 on Shudder.
+
+Link: https://www.youtube.com/watch?v=H_uly3CPQa0
+
+### The Rainmaker S2 | The Bag [7/10]
+**Source:** Blumhouse  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Do not store your purse with organic material. Watch Bruiser take on her heaviest case yet in The Rainmaker Season 2, Fridays at 10 pm ET on @usanetwork
+
+Link: https://www.youtube.com/watch?v=Z23cr_4L340
+
+### Full. Body. Chills. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
+
+Link: https://www.youtube.com/watch?v=pWj4_aYZlHo
+
+### WHERE THE STREETS HAVE NO NAME! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
+
+Link: https://www.youtube.com/watch?v=6f2hlImqx5U
+
+### Dolly Forever. U2 pays tribute to Dolly Parton with “Torn” during their halftime performance [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
+
+Link: https://www.youtube.com/watch?v=Lv9dpnWjpwk
+
+### Gobble gobble. Packers vs. Rams -- LIVE now on Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
+
+Link: https://www.youtube.com/watch?v=jCAylhPsXqk
+
+### Oz Pearlman: Magic of the Mind | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+As the world's preeminent mentalist, Oz has captivated the biggest names with his ability to seemingly read minds.
+
+Link: https://www.youtube.com/watch?v=ck3tVfxhQSE
+
+### The KShop | Megan Thee Stallion Has Gifts In Store | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Welcome to The KShop, your official one-stop shop for every KPop Demon Hunters drop.
+
+Link: https://www.youtube.com/watch?v=138cPELAMRU
+
+### Jo Bachay Hain Sang Samait Lo | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Every love story begins before it starts. Across three generations and three countries, six couples discover how love, and the wounds it leaves behind, pass from one generation to the next.
+
+Link: https://www.youtube.com/watch?v=HGY8x0qy0aI
+
+### Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Salish and her friends share their favorite memories from filming Salish's 12 Games of Christmas. Coming Nov. 28 to Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=L8zU_MDfaKw
+
+### TIMBERLAKE — Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+After 30 years of unparalleled success and relentless scrutiny, Justin Timberlake looks at his life today and reckons with the drama, the headlines, and the cost of never slowing down. TIMBERLAKE. A four-part documentary event.
+
+Link: https://www.youtube.com/watch?v=sDMNuKvCXOc
