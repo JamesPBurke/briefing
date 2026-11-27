@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-27T10:00:38.545756Z
+Generated: 2026-11-27T14:00:02.278228Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The absolute best Black Friday deals we’ve found (so far), Android app developers will soon have to share their address publicly, and The MacBook Neo is receiving a rare $100 discount for Black Friday.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are At last, I've finally played Faraway, an enigma I've been waiting 16 years to see, Intel faced a choice: Give Trump 10% or face the consequences, and Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's "most complex" class yet, alongside a pet system and the promise of "assassin cats".
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The absolute best Black Friday deals we’ve found (so far) [10/10]
+### 1. At last, I've finally played Faraway, an enigma I've been waiting 16 years to see [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+For 16 years I've been watching the skies. It was 16 years ago, back in the first giddy rush of smartphone gaming, that I saw a 30-second trailer for a game set in space. It was a game about a comet, hurtling through the unknown.
+
+Link: https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here
+
+### 2. Intel faced a choice: Give Trump 10% or face the consequences [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.
+
+Link: https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/
+
+### 3. Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's "most complex" class yet, alongside a pet system and the promise of "assassin cats" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+How dare you accuse me of being a friendless loser! I have loads of friends! Their names are R2-D2 and Clippy and Arnold and Rosie the Maid.
+
+Link: https://www.rockpapershotgun.com/drone-pilots-have-come-to-cyber-knights-flashpoint-the-stealth-tactics-games-most-complex-class-yet-alongside-a-pet-system-and-the-promise-of-assassin-cats
+
+### 4. The absolute best Black Friday deals we’ve found (so far) [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +69,34 @@ This year’s Black Friday deals have launched in waves over the past several we
 
 Link: https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas
 
-### 2. Android app developers will soon have to share their address publicly [10/10]
+### 5. Opinion: Behind the Teacher Recruitment and Retention Problem Is a Crisis of Mattering [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Across the country, schools struggle to recruit and retain talented teachers. These challenges are often described as a staffing problem.
+
+Link: https://www.the74million.org/article/behind-the-teacher-recruitment-and-retention-problem-is-a-crisis-of-mattering/
+
+### 6. "Does changing where games run cross a legal line?" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+'Yay, GTA 6 is out on consoles and lots of people are playing it' is a fairly harmless thing to say.
+
+Link: https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator
+
+### 7. Our favorite headphones and earbuds are cheaper than ever for Black Friday [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models…
+
+Link: https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026
+
+### 8. Android app developers will soon have to share their address publicly [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -51,7 +105,7 @@ Independent Android app developers are worried about their privacy after Google 
 
 Link: https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu
 
-### 3. The MacBook Neo is receiving a rare $100 discount for Black Friday [10/10]
+### 9. The MacBook Neo is receiving a rare $100 discount for Black Friday [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,95 +114,41 @@ If you’re looking for a new laptop or a gift for the student in your life, you
 
 Link: https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale
 
-### 4. Federal judge blocks the FCC from reviewing ABC’s licenses early [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit.
-
-Link: https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block
-
-### 5. Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Maths is not my strong suit, I make no secret of this, so when I come face to face with something like sudoku I will admit to recoiling in fear at having to confront this issue.
-
-Link: https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game
-
-### 6. Netflix’s coziest show has made a very quiet return [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The bigger Netflix gets, the easier it is to miss stuff.
-
-Link: https://www.theverge.com/entertainment/1043489/midnight-diner-season3
-
-### 7. EA removes some live service fluff from Skate and ends seasonal structure "in favour of regular, agile content updates" [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern.
-
-Link: https://www.eurogamer.net/ea-removes-live-service-skate-seasons
-
-### 8. The best Black Friday deals we’ve already found [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech.
-
-Link: https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
-
-### 9. HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my wishlist.
-
-Link: https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches
-
-### 10. GTA VI developers vote against unionization [9/10]
-**Source:** The Verge  
+### 10. The Download: Innovators Under 35 nominations are open, and a bionic window into the mind [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb
+Link: https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/
 
-### 11. A Proven Way to Keep Teachers in Needy Schools is Losing Ground [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creating constant churn that hurts students from low-income families.
-
-Link: https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/
-
-### 12. Grand Thanksgiving Autumn [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-What you can learn about a person from how they share GTA VI.
-
-Link: https://www.404media.co/grand-thanksgiving-autumn/
-
-### 13. Trump’s Sinking Ship [6/10]
+### 11. Scotland’s Wealthiest University Is in Crisis [9/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dario Castillejos Dragging his party down with him. The post Trump’s Sinking Ship appeared first on The Nation .
+Henry Fernandez The University of Edinburgh’s £140 million cuts threaten the institution’s intellectual life and Scottish identity. Students and staff are fighting back.
 
-Link: https://www.thenation.com/article/politics/trumps-sinking-ship/
+Link: https://www.thenation.com/article/world/scotland-edinburgh-university-austerity-celtic-scottish-studies-strike/
+
+### 12. 12 strategies to cut your risk of dementia. Take this quiz to start [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.
+
+Link: https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn
+
+### 13. Screen free tweens try their hand at Dungeons & Dragons [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.
+
+Link: https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons
 
 ## YouTube
 

@@ -1,18 +1,78 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-27T10:00:38.545756Z",
-  "generatedAtDisplay": "2026-11-27 05:00 AM EST",
+  "generatedAt": "2026-11-27T14:00:02.278228Z",
+  "generatedAtDisplay": "2026-11-27 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The absolute best Black Friday deals we’ve found (so far), Android app developers will soon have to share their address publicly, and The MacBook Neo is receiving a rare $100 discount for Black Friday.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are At last, I've finally played Faraway, an enigma I've been waiting 16 years to see, Intel faced a choice: Give Trump 10% or face the consequences, and Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's \"most complex\" class yet, alongside a pet system and the promise of \"assassin cats\".",
   "mainItems": [
+    {
+      "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
+      "published": "2026-11-27T12:33:00+00:00",
+      "summary": "For 16 years I've been watching the skies. It was 16 years ago, back in the first giddy rush of smartphone gaming, that I saw a 30-second trailer for a game set in space. It was a game about a comet, hurtling through the unknown.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's \"most complex\" class yet, alongside a pet system and the promise of \"assassin cats\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/drone-pilots-have-come-to-cyber-knights-flashpoint-the-stealth-tactics-games-most-complex-class-yet-alongside-a-pet-system-and-the-promise-of-assassin-cats",
+      "published": "2026-11-27T12:00:00+00:00",
+      "summary": "How dare you accuse me of being a friendless loser! I have loads of friends! Their names are R2-D2 and Clippy and Arnold and Rosie the Maid.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "The absolute best Black Friday deals we’ve found (so far)",
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "published": "2026-11-27T09:35:30+00:00",
+      "published": "2026-11-27T11:52:34+00:00",
       "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Behind the Teacher Recruitment and Retention Problem Is a Crisis of Mattering",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/behind-the-teacher-recruitment-and-retention-problem-is-a-crisis-of-mattering/",
+      "published": "2026-11-27T11:30:00+00:00",
+      "summary": "Across the country, schools struggle to recruit and retain talented teachers. These challenges are often described as a staffing problem.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator",
+      "published": "2026-11-27T11:27:40+00:00",
+      "summary": "'Yay, GTA 6 is out on consoles and lots of people are playing it' is a fairly harmless thing to say.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+      "published": "2026-11-27T11:02:59+00:00",
+      "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,104 +97,44 @@
       "score": 10
     },
     {
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "published": "2026-11-26T16:38:00+00:00",
-      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game",
-      "published": "2026-11-26T22:50:40+00:00",
-      "summary": "Maths is not my strong suit, I make no secret of this, so when I come face to face with something like sudoku I will admit to recoiling in fear at having to confront this issue.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "published": "2026-11-26T20:50:57+00:00",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
-      "published": "2026-11-26T20:35:20+00:00",
-      "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The best Black Friday deals we’ve already found",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "published": "2026-11-26T19:20:49+00:00",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
-      "published": "2026-11-26T18:53:30+00:00",
-      "summary": "I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my wishlist.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "GTA VI developers vote against unionization",
-      "source": "The Verge",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "published": "2026-11-26T15:55:24+00:00",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization.",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "published": "2026-11-27T13:00:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "A Proven Way to Keep Teachers in Needy Schools is Losing Ground",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/",
-      "published": "2026-11-26T11:30:00+00:00",
-      "summary": "States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creating constant churn that hurts students from low-income families.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Scotland’s Wealthiest University Is in Crisis",
+      "source": "The Nation",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.thenation.com/article/world/scotland-edinburgh-university-austerity-celtic-scottish-studies-strike/",
+      "published": "2026-11-27T10:00:00+00:00",
+      "summary": "Henry Fernandez The University of Edinburgh’s £140 million cuts threaten the institution’s intellectual life and Scottish identity. Students and staff are fighting back.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Grand Thanksgiving Autumn",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/grand-thanksgiving-autumn/",
-      "published": "2026-11-26T13:00:00+00:00",
-      "summary": "What you can learn about a person from how they share GTA VI.",
+      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+      "published": "2026-11-27T10:00:00+00:00",
+      "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
-      "title": "Trump’s Sinking Ship",
-      "source": "The Nation",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/politics/trumps-sinking-ship/",
-      "published": "2026-11-26T13:30:17+00:00",
-      "summary": "Dario Castillejos Dragging his party down with him. The post Trump’s Sinking Ship appeared first on The Nation .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 6
+      "title": "Screen free tweens try their hand at Dungeons & Dragons",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+      "published": "2026-11-27T10:00:00+00:00",
+      "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -804,6 +804,6 @@
     "mainCount": 13,
     "youtubeCount": 27,
     "trailerCount": 23,
-    "sourceCount": 19
+    "sourceCount": 22
   }
 }
