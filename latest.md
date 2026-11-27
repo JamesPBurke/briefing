@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-27T05:00:02.844807Z
+Generated: 2026-11-27T10:00:38.545756Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Netflix’s coziest show has made a very quiet return, Android app developers will soon have to share their address publicly, and Nioh and Ninja Gaiden studio is using AI for QA, but argues "that a game becomes fun when crafted by human hands".
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The absolute best Black Friday deals we’ve found (so far), Android app developers will soon have to share their address publicly, and The MacBook Neo is receiving a rare $100 discount for Black Friday.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Netflix’s coziest show has made a very quiet return [10/10]
+### 1. The absolute best Black Friday deals we’ve found (so far) [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The bigger Netflix gets, the easier it is to miss stuff.
+This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened.
 
-Link: https://www.theverge.com/entertainment/1043489/midnight-diner-season3
+Link: https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas
 
 ### 2. Android app developers will soon have to share their address publicly [10/10]
 **Source:** The Verge  
@@ -51,16 +51,7 @@ Independent Android app developers are worried about their privacy after Google 
 
 Link: https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu
 
-### 3. Nioh and Ninja Gaiden studio is using AI for QA, but argues "that a game becomes fun when crafted by human hands" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be "crafted by human hands." Read more
-
-Link: https://www.eurogamer.net/nioh-ai-qa-game-human-hands
-
-### 4. The MacBook Neo is receiving a rare $100 discount for Black Friday [10/10]
+### 3. The MacBook Neo is receiving a rare $100 discount for Black Friday [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,7 +60,7 @@ If you’re looking for a new laptop or a gift for the student in your life, you
 
 Link: https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale
 
-### 5. Federal judge blocks the FCC from reviewing ABC’s licenses early [10/10]
+### 4. Federal judge blocks the FCC from reviewing ABC’s licenses early [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,7 +69,7 @@ US District Judge Loren AliKhan has blocked the Federal Communications Commissio
 
 Link: https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block
 
-### 6. Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game [9/10]
+### 5. Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -86,6 +77,15 @@ Link: https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-
 Maths is not my strong suit, I make no secret of this, so when I come face to face with something like sudoku I will admit to recoiling in fear at having to confront this issue.
 
 Link: https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game
+
+### 6. Netflix’s coziest show has made a very quiet return [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The bigger Netflix gets, the easier it is to miss stuff.
+
+Link: https://www.theverge.com/entertainment/1043489/midnight-diner-season3
 
 ### 7. EA removes some live service fluff from Skate and ends seasonal structure "in favour of regular, agile content updates" [9/10]
 **Source:** Eurogamer  
@@ -96,7 +96,25 @@ EA is ditching seasonal updates and shaving some of the live service fluff off S
 
 Link: https://www.eurogamer.net/ea-removes-live-service-skate-seasons
 
-### 8. GTA VI developers vote against unionization [9/10]
+### 8. The best Black Friday deals we’ve already found [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech.
+
+Link: https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
+
+### 9. HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my wishlist.
+
+Link: https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches
+
+### 10. GTA VI developers vote against unionization [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,7 +123,7 @@ Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after th
 
 Link: https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb
 
-### 9. A Proven Way to Keep Teachers in Needy Schools is Losing Ground [9/10]
+### 11. A Proven Way to Keep Teachers in Needy Schools is Losing Ground [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -113,24 +131,6 @@ Link: https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb
 States and school districts all across the country face the same problem: Teachers are far more likely to leave high-poverty schools, creating constant churn that hurts students from low-income families.
 
 Link: https://www.the74million.org/article/a-proven-way-to-keep-teachers-in-needy-schools-is-losing-ground/
-
-### 10. Public health specialist discusses the aftermath of the munitions detonation in Iowa [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.
-
-Link: https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa
-
-### 11. FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.
-
-Link: https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space
 
 ### 12. Grand Thanksgiving Autumn [7/10]
 **Source:** 404 Media  
@@ -151,6 +151,15 @@ Dario Castillejos Dragging his party down with him. The post Trump’s Sinking S
 Link: https://www.thenation.com/article/politics/trumps-sinking-ship/
 
 ## YouTube
+
+### DeepMind’s New AI Just Changed The AI Race [10/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.
+
+Link: https://www.youtube.com/watch?v=u6UYsl-KEoc
 
 ### Claude AI’s Biggest Math Breakthrough Has A Problem. [8/10]
 **Creator:** Two Minute Papers  
@@ -215,9 +224,9 @@ Food historian Ken Albala joins WIRED to answer the internet’s burning questio
 
 Link: https://www.youtube.com/watch?v=68ugtO_shm8
 
-### Towns light up for Route 66's 100 anniversary celebration [7/10]
+### Towns light up for Route 66's 100 anniversary celebration [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Towns from Illinois to California are celebrating 100 years since the old Route 66, which stretches across 2,400 miles, was officially commissioned, back in November 1926. Officials in Tulsa, Okla.

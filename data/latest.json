@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-27T05:00:02.844807Z",
-  "generatedAtDisplay": "2026-11-27 12:00 AM EST",
+  "generatedAt": "2026-11-27T10:00:38.545756Z",
+  "generatedAtDisplay": "2026-11-27 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Netflix’s coziest show has made a very quiet return, Android app developers will soon have to share their address publicly, and Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The absolute best Black Friday deals we’ve found (so far), Android app developers will soon have to share their address publicly, and The MacBook Neo is receiving a rare $100 discount for Black Friday.",
   "mainItems": [
     {
-      "title": "Netflix’s coziest show has made a very quiet return",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "published": "2026-11-26T20:50:57+00:00",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff.",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "published": "2026-11-27T09:35:30+00:00",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -24,16 +24,6 @@
       "published": "2026-11-26T18:19:32+00:00",
       "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
-      "published": "2026-11-26T18:14:30+00:00",
-      "summary": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be \"crafted by human hands.\" Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -67,6 +57,16 @@
       "score": 9
     },
     {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "published": "2026-11-26T20:50:57+00:00",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
       "source": "Eurogamer",
       "category": "Democracy / press freedom",
@@ -74,6 +74,26 @@
       "published": "2026-11-26T20:35:20+00:00",
       "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "The best Black Friday deals we’ve already found",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "published": "2026-11-26T19:20:49+00:00",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+      "published": "2026-11-26T18:53:30+00:00",
+      "summary": "I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my wishlist.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,26 +117,6 @@
       "score": 9
     },
     {
-      "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
-      "published": "2026-11-26T09:42:38+00:00",
-      "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-      "published": "2026-11-26T06:53:09+00:00",
-      "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
       "title": "Grand Thanksgiving Autumn",
       "source": "404 Media",
       "category": "Tech / media",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "published": "2026-11-27T08:42:30+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
     {
       "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
       "source": "Two Minute Papers",
@@ -223,8 +234,8 @@
       "published": "2026-11-26T19:00:51+00:00",
       "summary": "Towns from Illinois to California are celebrating 100 years since the old Route 66, which stretches across 2,400 miles, was officially commissioned, back in November 1926. Officials in Tulsa, Okla.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The French celebrate the annual release of the Beaujolais Nouveau",
@@ -791,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 27,
     "trailerCount": 23,
-    "sourceCount": 21
+    "sourceCount": 19
   }
 }
