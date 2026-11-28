@@ -1,38 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-28T05:00:01.714796Z",
-  "generatedAtDisplay": "2026-11-28 12:00 AM EST",
+  "generatedAt": "2026-11-28T10:00:53.700727Z",
+  "generatedAtDisplay": "2026-11-28 05:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The absolute best Black Friday deals you can still get, The M5 MacBook Air just got its biggest discount since Apple raised the price, and The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\", and The absolute best Black Friday deals you can still get.",
   "mainItems": [
+    {
+      "title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/all-will-rise-speculative-agency-preview",
+      "published": "2026-11-28T10:00:00+00:00",
+      "summary": "I'm a big fan of the moment when, years into a gaming subgenre's existence, people start rethinking what those games are capable of.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 10
+    },
+    {
+      "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+      "published": "2026-11-28T08:00:00+00:00",
+      "summary": "It's nearly December. In fact, it will be next week. How do you feel about that? I'm undecided and I also have cold feet.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "The absolute best Black Friday deals you can still get",
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "published": "2026-11-28T04:48:49+00:00",
+      "published": "2026-11-28T05:01:05+00:00",
       "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
-      "published": "2026-11-28T02:16:43+00:00",
-      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-      "published": "2026-11-28T01:50:28+00:00",
-      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,14 +47,24 @@
       "score": 10
     },
     {
-      "title": "New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/",
-      "published": "2026-11-27T17:30:00+00:00",
-      "summary": "New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-410",
+      "published": "2026-11-28T10:00:00+00:00",
+      "summary": "RPS' regular ritual of sharing the games we’re playing this weekend has taken a slightly unsettling turn, now that this year’s Advent Calendar Guessing Game is up and running and victory-hungry game taste estimators – you know who you are!…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "published": "2026-11-28T02:16:43+00:00",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
@@ -67,23 +77,23 @@
       "score": 9
     },
     {
-      "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
-      "published": "2026-11-27T20:27:30+00:00",
-      "summary": "EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "published": "2026-11-28T01:50:28+00:00",
+      "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "The new iPad Mini is getting its first major discount for Black Friday",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
-      "published": "2026-11-27T20:07:31+00:00",
-      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/",
+      "published": "2026-11-27T17:30:00+00:00",
+      "summary": "New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -107,34 +117,24 @@
       "score": 9
     },
     {
-      "title": "Scotland’s Wealthiest University Is in Crisis",
+      "title": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before",
+      "published": "2026-11-27T15:58:10+00:00",
+      "summary": "Honest to goodness news for Hollow Knight: Silksong expansion Sea of Sorrow ? That I didn’t invent in a dream ? Scarcely believable, yet entirely true.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Bathtime for Elon",
       "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/world/scotland-edinburgh-university-austerity-celtic-scottish-studies-strike/",
-      "published": "2026-11-27T10:00:00+00:00",
-      "summary": "Henry Fernandez The University of Edinburgh’s £140 million cuts threaten the institution’s intellectual life and Scottish identity. Students and staff are fighting back.",
+      "url": "https://www.thenation.com/article/politics/bathtime-for-elon/",
+      "published": "2026-11-27T16:56:17+00:00",
+      "summary": "Steve Brodner Pocket pals. The post Bathtime for Elon appeared first on The Nation .",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
-      "published": "2026-11-27T10:00:00+00:00",
-      "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-      "published": "2026-11-27T10:00:00+00:00",
-      "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "score": 6
     }
   ],
   "youtube": [
@@ -145,17 +145,6 @@
       "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
       "published": "2026-11-27T08:42:30+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
-      "published": "2026-11-25T09:54:23+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -544,7 +533,7 @@
       "published": "2026-11-27T20:00:00+00:00",
       "summary": "everyone seems suspicious 👀 SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix in 12 hours! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -736,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
+    "youtubeCount": 22,
     "trailerCount": 21,
-    "sourceCount": 19
+    "sourceCount": 17
   }
 }

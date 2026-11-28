@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-28T05:00:01.714796Z
+Generated: 2026-11-28T10:00:53.700727Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The absolute best Black Friday deals you can still get, The M5 MacBook Air just got its biggest discount since Apple raised the price, and The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan", and The absolute best Black Friday deals you can still get.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The absolute best Black Friday deals you can still get [10/10]
+### 1. A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective [10/10]
+**Source:** Eurogamer  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+I'm a big fan of the moment when, years into a gaming subgenre's existence, people start rethinking what those games are capable of.
+
+Link: https://www.eurogamer.net/all-will-rise-speculative-agency-preview
+
+### 2. What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's nearly December. In fact, it will be next week. How do you feel about that? I'm undecided and I also have cold feet.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus
+
+### 3. The absolute best Black Friday deals you can still get [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -41,24 +59,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more.
 
 Link: https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas
-
-### 2. The M5 MacBook Air just got its biggest discount since Apple raised the price [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck.
-
-Link: https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale
-
-### 3. The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.
-
-Link: https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026
 
 ### 4. Yooka-Laylee’s free upgrade is skipping Xbox [10/10]
 **Source:** The Verge  
@@ -69,16 +69,25 @@ Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair
 
 Link: https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox
 
-### 5. New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 5. What are we all playing this weekend? [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit.
+RPS' regular ritual of sharing the games we’re playing this weekend has taken a slightly unsettling turn, now that this year’s Advent Calendar Guessing Game is up and running and victory-hungry game taste estimators – you know who you are!…
 
-Link: https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-410
 
-### 6. Sony’s 1000XM4C headphones are a Black Friday bargain at $198 [9/10]
+### 6. The M5 MacBook Air just got its biggest discount since Apple raised the price [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck.
+
+Link: https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale
+
+### 7. Sony’s 1000XM4C headphones are a Black Friday bargain at $198 [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,25 +96,25 @@ Instead of purely looking forward with its headphone designs, Sony went back to 
 
 Link: https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale
 
-### 7. Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry.
-
-Link: https://www.eurogamer.net/iron-man-game-awards-ea-motive
-
-### 8. The new iPad Mini is getting its first major discount for Black Friday [9/10]
+### 8. The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday.
+Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.
 
-Link: https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026
+Link: https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026
 
-### 9. Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled [9/10]
+### 9. New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit.
+
+Link: https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/
+
+### 10. Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -114,7 +123,7 @@ Earlier this year, New Radical Games rocked up on the scene .
 
 Link: https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled
 
-### 10. Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield [9/10]
+### 11. Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -123,52 +132,34 @@ In the grim darkness of the week before the release of Warhammer 40,000: Dawn of
 
 Link: https://www.rockpapershotgun.com/warhammer-40000-dawn-of-war-4-gets-a-model-painter-demo-so-you-can-make-a-mess-of-your-orks-necrons-space-marines-and-admech-before-they-even-hit-the-battlefield
 
-### 11. Scotland’s Wealthiest University Is in Crisis [8/10]
+### 12. Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is "unlike anything we’ve done before" [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Honest to goodness news for Hollow Knight: Silksong expansion Sea of Sorrow ? That I didn’t invent in a dream ? Scarcely believable, yet entirely true.
+
+Link: https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before
+
+### 13. Bathtime for Elon [6/10]
 **Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Henry Fernandez The University of Edinburgh’s £140 million cuts threaten the institution’s intellectual life and Scottish identity. Students and staff are fighting back.
+Steve Brodner Pocket pals. The post Bathtime for Elon appeared first on The Nation .
 
-Link: https://www.thenation.com/article/world/scotland-edinburgh-university-austerity-celtic-scottish-studies-strike/
-
-### 12. 12 strategies to cut your risk of dementia. Take this quiz to start [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.
-
-Link: https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn
-
-### 13. Screen-free tweens try their hand at Dungeons & Dragons [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.
-
-Link: https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons
+Link: https://www.thenation.com/article/politics/bathtime-for-elon/
 
 ## YouTube
 
-### DeepMind’s New AI Just Changed The AI Race [9/10]
+### DeepMind’s New AI Just Changed The AI Race [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.
 
 Link: https://www.youtube.com/watch?v=u6UYsl-KEoc
-
-### Claude AI’s Biggest Math Breakthrough Has A Problem. [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.
-
-Link: https://www.youtube.com/watch?v=hwWlEuI359w
 
 ### Gordon Ramsay's S-tier Cooking Advice [8/10]
 **Creator:** WIRED  
@@ -505,7 +496,7 @@ Do not store your purse with organic material. Watch Bruiser take on her heavies
 
 Link: https://www.youtube.com/watch?v=Z23cr_4L340
 
-### 🎄 who is the imposter? SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix in 12 hours! [10/10]
+### 🎄 who is the imposter? SALISH'S 12 GAMES OF CHRISTMAS arrives on Netflix in 12 hours! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
