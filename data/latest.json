@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-28T10:00:53.700727Z",
-  "generatedAtDisplay": "2026-11-28 05:00 AM EST",
+  "generatedAt": "2026-11-28T14:00:03.136680Z",
+  "generatedAtDisplay": "2026-11-28 09:00 AM EST",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\", and The absolute best Black Friday deals you can still get.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Games / design. The strongest items in this run are ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales, A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, and What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\".",
   "mainItems": [
+    {
+      "title": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure",
+      "published": "2026-11-28T10:44:50+00:00",
+      "summary": "XL Games, the South Korean studio behind ArcheAge Chronicles, is planning a major restructuring and has not ruled out closing altogether after the game failed to meet sales expectations. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
       "source": "Eurogamer",
@@ -27,24 +37,14 @@
       "score": 10
     },
     {
-      "title": "The absolute best Black Friday deals you can still get",
-      "source": "The Verge",
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "published": "2026-11-28T05:01:05+00:00",
-      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more.",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "published": "2026-11-28T12:00:20+00:00",
+      "summary": "Kindles are getting costlier faster than they're getting better.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
-      "published": "2026-11-27T23:30:32+00:00",
-      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "What are we all playing this weekend?",
@@ -67,16 +67,6 @@
       "score": 9
     },
     {
-      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
-      "published": "2026-11-28T01:54:12+00:00",
-      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
       "source": "The Verge",
       "category": "Democracy / press freedom",
@@ -84,6 +74,16 @@
       "published": "2026-11-28T01:50:28+00:00",
       "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "published": "2026-11-27T23:30:32+00:00",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -107,24 +107,24 @@
       "score": 9
     },
     {
-      "title": "Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/warhammer-40000-dawn-of-war-4-gets-a-model-painter-demo-so-you-can-make-a-mess-of-your-orks-necrons-space-marines-and-admech-before-they-even-hit-the-battlefield",
-      "published": "2026-11-27T16:31:00+00:00",
-      "summary": "In the grim darkness of the week before the release of Warhammer 40,000: Dawn of War 4 , developers King Art and publishers Deep Silver have released a demo model painter.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "Back as Nvidia CEO, Jensen Huang heads to Washington for tough questions",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6055695/back-as-nvidia-ceo-jensen-huang-heads-to-washington-for-tough-questions",
+      "published": "2026-11-28T12:39:37+00:00",
+      "summary": "Jensen Huang, NVIDIA's newly reinstated CEO, will be in Washington, D.C., next week facing tough questions from lawmakers.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
-      "title": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\"",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before",
-      "published": "2026-11-27T15:58:10+00:00",
-      "summary": "Honest to goodness news for Hollow Knight: Silksong expansion Sea of Sorrow ? That I didn’t invent in a dream ? Scarcely believable, yet entirely true.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "Scientists Discovered a Mysterious Lost Human Species",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-discovered-a-mysterious-lost-human-species/",
+      "published": "2026-11-28T13:00:00+00:00",
+      "summary": "Move over, Neanderthals and Denisovans. Human teeth unearthed from caves in southern China hint that multiple human lineages inhabited this region 100,000 years ago, including a new “unresolved” member of our family tree.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
       "title": "Bathtime for Elon",
@@ -190,8 +190,8 @@
       "published": "2026-11-27T23:00:33+00:00",
       "summary": "More than half a dozen Colorado ski areas are set to open this holiday week, with several delaying their first day of operation due to warm weather.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Video games, trading cards, back-to-school shopping drive huge growth in sales at Best Buy",
@@ -368,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Doing the Thing in Elden Ring w/ Jack and Jenna",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=BCBK8sySSSE",
-      "published": "2026-11-25T11:14:12+00:00",
-      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -725,8 +714,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 21,
     "trailerCount": 21,
-    "sourceCount": 17
+    "sourceCount": 20
   }
 }

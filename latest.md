@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-11-28T10:00:53.700727Z
+Generated: 2026-11-28T14:00:03.136680Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan", and The absolute best Black Friday deals you can still get.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, Games / design. The strongest items in this run are ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales, A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective, and What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan".
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective [10/10]
+### 1. ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+XL Games, the South Korean studio behind ArcheAge Chronicles, is planning a major restructuring and has not ruled out closing altogether after the game failed to meet sales expectations. Read more
+
+Link: https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure
+
+### 2. A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective [10/10]
 **Source:** Eurogamer  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -42,7 +51,7 @@ I'm a big fan of the moment when, years into a gaming subgenre's existence, peop
 
 Link: https://www.eurogamer.net/all-will-rise-speculative-agency-preview
 
-### 2. What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan" [10/10]
+### 3. What we've been playing - "It is 2014 and a woman on a bus calls me disgusting and a charlatan" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,23 +60,14 @@ It's nearly December. In fact, it will be next week. How do you feel about that?
 
 Link: https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus
 
-### 3. The absolute best Black Friday deals you can still get [10/10]
-**Source:** The Verge  
+### 4. 2026 Kindle Paperwhite review: Page-turn buttons are back, for a price [9/10]
+**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more.
+Kindles are getting costlier faster than they're getting better.
 
-Link: https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas
-
-### 4. Yooka-Laylee’s free upgrade is skipping Xbox [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th.
-
-Link: https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox
+Link: https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/
 
 ### 5. What are we all playing this weekend? [9/10]
 **Source:** Rock Paper Shotgun  
@@ -87,16 +87,7 @@ If you’ve been holding off on buying a new MacBook Air since Apple raised pric
 
 Link: https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale
 
-### 7. Sony’s 1000XM4C headphones are a Black Friday bargain at $198 [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better.
-
-Link: https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale
-
-### 8. The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear [9/10]
+### 7. The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -104,6 +95,15 @@ Link: https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-h
 Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close.
 
 Link: https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026
+
+### 8. Yooka-Laylee’s free upgrade is skipping Xbox [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th.
+
+Link: https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox
 
 ### 9. New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit [9/10]
 **Source:** The 74  
@@ -123,23 +123,23 @@ Earlier this year, New Radical Games rocked up on the scene .
 
 Link: https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled
 
-### 11. Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Back as Nvidia CEO, Jensen Huang heads to Washington for tough questions [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-In the grim darkness of the week before the release of Warhammer 40,000: Dawn of War 4 , developers King Art and publishers Deep Silver have released a demo model painter.
+Jensen Huang, NVIDIA's newly reinstated CEO, will be in Washington, D.C., next week facing tough questions from lawmakers.
 
-Link: https://www.rockpapershotgun.com/warhammer-40000-dawn-of-war-4-gets-a-model-painter-demo-so-you-can-make-a-mess-of-your-orks-necrons-space-marines-and-admech-before-they-even-hit-the-battlefield
+Link: https://www.npr.org/2026/11/28/nx-s1-6055695/back-as-nvidia-ceo-jensen-huang-heads-to-washington-for-tough-questions
 
-### 12. Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is "unlike anything we’ve done before" [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 12. Scientists Discovered a Mysterious Lost Human Species [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Honest to goodness news for Hollow Knight: Silksong expansion Sea of Sorrow ? That I didn’t invent in a dream ? Scarcely believable, yet entirely true.
+Move over, Neanderthals and Denisovans. Human teeth unearthed from caves in southern China hint that multiple human lineages inhabited this region 100,000 years ago, including a new “unresolved” member of our family tree.
 
-Link: https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before
+Link: https://www.404media.co/scientists-discovered-a-mysterious-lost-human-species/
 
 ### 13. Bathtime for Elon [6/10]
 **Source:** The Nation  
@@ -188,9 +188,9 @@ _Focker-In-Law_ co-stars Ben Stiller and Robert De Niro visit WIRED to answer th
 
 Link: https://www.youtube.com/watch?v=QAtTC0DFP74
 
-### Despite snowfall, warm temperatures force Colorado ski areas to delay openings [7/10]
+### Despite snowfall, warm temperatures force Colorado ski areas to delay openings [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 More than half a dozen Colorado ski areas are set to open this holiday week, with several delaying their first day of operation due to warm weather.
@@ -340,15 +340,6 @@ Link: https://www.youtube.com/watch?v=kWXLLIp23bE
 This video is brought to you by Displate. Use code SECONDWIND at displate.com to get up to 42% off until November 30th -- https://displate.com/l/secondwind Not applicable on Limited Editions and Shards.
 
 Link: https://www.youtube.com/watch?v=UoN-tQ-oJvg
-
-### Doing the Thing in Elden Ring w/ Jack and Jenna [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=BCBK8sySSSE
 
 ## Entertainment Recommendations
 
